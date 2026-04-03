@@ -1,0 +1,36 @@
+name: Update ranked RSS feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r app/requirements.txt
+
+      - name: Run feed builder
+        run: python app/ranked_rss_builder.py
+
+      - name: Commit updated feed and history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ranked_f1_feed.xml data/used_urls.json
+          git diff --staged --quiet || git commit -m "Update ranked RSS feed"
+          git push

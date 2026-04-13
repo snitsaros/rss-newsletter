@@ -1,10 +1,24 @@
 [
   {
     "position": 1,
-    "title": "What ‘surprised’ an F1 race winner about Max Verstappen journalist spat",
-    "link": "https://www.crash.net/f1/news/1092957/1/what-surprised-f1-race-winner-about-max-verstappen-journalist-spat",
-    "pub_date": "2026-04-11T13:00:00+00:00",
-    "image_url": "https://cdn.crash.net/2026-04/xpb_1399194_hires.jpg?width=1200",
+    "title": "Martin Brundle sends George Russell warning amid Mercedes F1 title fight",
+    "link": "https://www.crash.net/f1/news/1092959/1/martin-brundle-sends-george-russell-warning-amid-mercedes-f1-title-fight",
+    "pub_date": "2026-04-12T10:30:00+00:00",
+    "image_url": "https://cdn.crash.net/2026-04/xpb_1404075_hires.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "Former Ferrari F1 boss Jean Todt reveals biggest misconception about Michael Schumacher",
+    "link": "https://www.crash.net/f1/news/1092963/1/former-ferrari-f1-boss-jean-todt-reveals-biggest-misconception-about-michael",
+    "pub_date": "2026-04-12T13:00:00+00:00",
+    "image_url": "https://cdn.crash.net/2026-04/xpb_48328_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -14,29 +28,16 @@
     ]
   },
   {
-    "position": 2,
-    "title": "What is ADUO and why is it so important? F1’s engine balancing system explained",
-    "link": "https://www.crash.net/f1/news/1092945/1/what-aduo-and-why-it-so-important-f1s-engine-balancing-system-explained",
-    "pub_date": "2026-04-11T08:00:00+00:00",
-    "image_url": "https://cdn.crash.net/2026-04/a260630_medium.jpg?width=1200",
-    "score": -11,
-    "score_reasons": [
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 3,
-    "title": "Martin Brundle claims F1 drivers are ‘fourth in line’ amid safety concerns",
-    "link": "https://www.crash.net/f1/news/1092954/1/martin-brundle-claims-f1-drivers-are-fourth-line-amid-safety-concerns",
-    "pub_date": "2026-04-11T10:30:00+00:00",
-    "image_url": "https://cdn.crash.net/2026-04/xpb_1404538_hires.jpg?width=1200",
-    "score": -14,
+    "title": "Red Bull in “full attack mode” after ‘paying the price’ over key F1 2025 decision",
+    "link": "https://www.crash.net/f1/news/1092955/1/red-bull-full-attack-mode-after-paying-price-over-key-f1-2025-decision",
+    "pub_date": "2026-04-12T08:00:00+00:00",
+    "image_url": "https://cdn.crash.net/2026-04/si202603290580.jpg?width=1200",
+    "score": -82,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "older than 24h (-100)",
       "good title length (+2)"
     ]
   },
@@ -209,37 +210,6 @@
   },
   {
     "position": 15,
-    "title": "McLaren seeing “the strongest Oscar Piastri since he’s been in F1” after early setbacks",
-    "link": "https://www.crash.net/f1/news/1092847/1/mclaren-seeing-strongest-oscar-piastri-hes-been-f1-after-early-setbacks",
-    "pub_date": "2026-04-03T11:00:00+00:00",
-    "image_url": "https://cdn.crash.net/2026-04/xpb_1404653_hires.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 16,
-    "title": "Red Bull wants F1 rule changes to focus on 2027 ‘while there’s time’",
-    "link": "https://www.crash.net/f1/news/1092862/1/red-bull-wants-f1-rule-changes-focus-2027-while-theres-time",
-    "pub_date": "2026-04-04T08:10:00+00:00",
-    "image_url": "https://cdn.crash.net/2026-03/si202603270376.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 17,
     "title": "Ferrari back in F1 test action at Fiorano",
     "link": "https://www.crash.net/f1/news/1092931/1/ferrari-back-f1-test-action-fiorano",
     "pub_date": "2026-04-09T09:04:00+00:00",
@@ -255,7 +225,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 16,
     "title": "McLaren hands F2 champion Silverstone F1 test",
     "link": "https://www.crash.net/f1/news/1092910/1/mclaren-hands-f2-champion-silverstone-f1-test",
     "pub_date": "2026-04-08T08:36:00+00:00",
@@ -271,7 +241,22 @@
     ]
   },
   {
-    "position": 19,
+    "position": 17,
+    "title": "What ‘surprised’ an F1 race winner about Max Verstappen journalist spat",
+    "link": "https://www.crash.net/f1/news/1092957/1/what-surprised-f1-race-winner-about-max-verstappen-journalist-spat",
+    "pub_date": "2026-04-11T13:00:00+00:00",
+    "image_url": "https://cdn.crash.net/2026-04/xpb_1399194_hires.jpg?width=1200",
+    "score": -182,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 18,
     "title": "Why Max Verstappen is not racing in NLS3 this weekend",
     "link": "https://www.crash.net/f1/news/1092944/1/why-max-verstappen-not-racing-nls3-weekend",
     "pub_date": "2026-04-10T10:43:50+00:00",
@@ -286,11 +271,26 @@
     ]
   },
   {
-    "position": 20,
+    "position": 19,
     "title": "Williams poach ex-Mercedes technical figure to aid F1 recovery",
     "link": "https://www.crash.net/f1/news/1092942/1/williams-poach-ex-mercedes-technical-figure-aid-f1-recovery",
     "pub_date": "2026-04-09T13:25:00+00:00",
     "image_url": "https://cdn.crash.net/2026-04/xpb_1404106_hires.jpg?width=1200",
+    "score": -182,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "Max Verstappen's 'secret trick' GT rivals \"would never have thought of\" teased",
+    "link": "https://www.crash.net/f1/news/1092937/1/max-verstappens-secret-trick-rivals-would-never-have-thought-teased",
+    "pub_date": "2026-04-09T12:07:00+00:00",
+    "image_url": "https://cdn.crash.net/2026-03/si202603260165.jpg?width=1200",
     "score": -182,
     "score_reasons": [
       "top-tier keywords x1 (+12)",

@@ -1,26 +1,29 @@
 [
   {
     "position": 1,
-    "title": "Lando Norris reveals Mercedes strength that has twice denied McLaren F1 victories",
-    "link": "https://www.crash.net/f1/news/1094653/1/lando-norris-reveals-mercedes-strength-has-twice-denied-mclaren-f1-victories",
-    "pub_date": "2026-05-09T10:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408804_hires.jpg?width=1200",
-    "score": 22,
+    "title": "Lewis Hamilton issues ‘work with us’ plea to FIA over F1 changes",
+    "link": "https://www.crash.net/f1/news/1094892/1/lewis-hamilton-issues-work-us-plea-fia-over-f1-changes",
+    "pub_date": "2026-05-11T08:28:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408313_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 2,
-    "title": "Kimi Antonelli’s F1 Miami victory a flashback for Toto Wolff",
-    "link": "https://www.crash.net/f1/news/1094656/1/kimi-antonellis-f1-miami-victory-flashback-toto-wolff",
-    "pub_date": "2026-05-10T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408994_hires.jpg?width=1200",
-    "score": 21,
+    "title": "Former F1 driver tips Max Verstappen for WEC success after Ford links",
+    "link": "https://www.crash.net/f1/news/1094895/1/former-f1-driver-tips-max-verstappen-wec-success-after-ford-links",
+    "pub_date": "2026-05-11T09:27:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408162_hires.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -29,10 +32,10 @@
   },
   {
     "position": 3,
-    "title": "Carlos Sainz concedes startling timeframe for Williams F1 recovery",
-    "link": "https://www.crash.net/f1/news/1094658/1/carlos-sainz-concedes-startling-timeframe-williams-f1-recovery",
-    "pub_date": "2026-05-09T12:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1407724_hires_0.jpg?width=1200",
+    "title": "Cadillac wary of ‘being left behind’ in F1 development battle",
+    "link": "https://www.crash.net/f1/news/1094659/1/cadillac-wary-being-left-behind-f1-development-battle",
+    "pub_date": "2026-05-10T12:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408880_hires.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -42,6 +45,34 @@
   },
   {
     "position": 4,
+    "title": "\"Never say never\": Daniel Ricciardo teases racing return",
+    "link": "https://www.crash.net/f1/news/1094589/1/never-say-never-daniel-ricciardo-teases-racing-return",
+    "pub_date": "2026-05-10T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1306455_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Lando Norris reveals Mercedes strength that has twice denied McLaren F1 victories",
+    "link": "https://www.crash.net/f1/news/1094653/1/lando-norris-reveals-mercedes-strength-has-twice-denied-mclaren-f1-victories",
+    "pub_date": "2026-05-09T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408804_hires.jpg?width=1200",
+    "score": -158,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 6,
     "title": "Oscar Piastri issues verdict on McLaren upgrades in Mercedes F1 battle",
     "link": "https://www.crash.net/f1/news/1094491/1/oscar-piastri-issues-verdict-mclaren-upgrades-mercedes-f1-battle",
     "pub_date": "2026-05-05T09:33:00+00:00",
@@ -56,7 +87,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 7,
     "title": "McLaren singles out ‘very interesting’ and ‘smart’ Red Bull F1 innovation",
     "link": "https://www.crash.net/f1/news/1094530/1/mclaren-singles-out-very-interesting-and-smart-red-bull-f1-innovation",
     "pub_date": "2026-05-07T12:42:06+00:00",
@@ -71,7 +102,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 8,
     "title": "Charles Leclerc demands answers after Ferrari Miami F1 drop-off",
     "link": "https://www.crash.net/f1/news/1094521/1/charles-leclerc-demands-answers-after-ferrari-miami-f1-drop",
     "pub_date": "2026-05-07T09:28:29+00:00",
@@ -86,7 +117,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 9,
     "title": "David Croft pinpoints when ‘alarm bells’ will start ringing for George Russell in F1 title battle",
     "link": "https://www.crash.net/f1/news/1094515/1/david-croft-pinpoints-when-alarm-bells-will-start-ringing-george-russell-f1-title",
     "pub_date": "2026-05-06T15:56:49+00:00",
@@ -101,7 +132,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 10,
     "title": "Why Lewis Hamilton is ditching Ferrari F1 simulator after worrying claim",
     "link": "https://www.crash.net/f1/news/1094501/1/why-lewis-hamilton-ditching-ferrari-f1-simulator-after-worrying-claim",
     "pub_date": "2026-05-06T08:27:48+00:00",
@@ -116,7 +147,7 @@
     ]
   },
   {
-    "position": 9,
+    "position": 11,
     "title": "Red Bull and McLaren’s F1 Miami GP meeting about Gianpiero Lambiase explained",
     "link": "https://www.crash.net/f1/news/1094492/1/red-bull-and-mclarens-f1-miami-gp-meeting-about-gianpiero-lambiase-explained",
     "pub_date": "2026-05-05T10:12:51+00:00",
@@ -131,7 +162,7 @@
     ]
   },
   {
-    "position": 10,
+    "position": 12,
     "title": "Mercedes boss Toto Wolff warns Kimi Antonelli about 'killer' F1 rival George Russell",
     "link": "https://www.crash.net/f1/news/1094489/1/mercedes-boss-toto-wolff-warns-kimi-antonelli-about-killer-f1-rival-george",
     "pub_date": "2026-05-05T08:14:14+00:00",
@@ -146,7 +177,7 @@
     ]
   },
   {
-    "position": 11,
+    "position": 13,
     "title": "Could Lando Norris have won the F1 Miami Grand Prix?",
     "link": "https://www.crash.net/f1/news/1094470/1/could-lando-norris-have-won-f1-miami-grand-prix",
     "pub_date": "2026-05-04T11:37:46+00:00",
@@ -161,7 +192,7 @@
     ]
   },
   {
-    "position": 12,
+    "position": 14,
     "title": "McLaren unveils Hypercar for 2027 top class Le Mans return with touching tribute",
     "link": "https://www.crash.net/le-mans/news/1094467/1/mclaren-unveils-hypercar-2027-top-class-le-mans-return-touching-tribute",
     "pub_date": "2026-05-04T10:13:07+00:00",
@@ -177,7 +208,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 15,
     "title": "Max Verstappen on Miami F1 spin: \"I thought I was going to crash, so I floored it”",
     "link": "https://www.crash.net/f1/news/1094457/1/max-verstappen-miami-f1-spin-i-thought-i-was-going-crash-so-i-floored-it",
     "pub_date": "2026-05-03T20:27:10+00:00",
@@ -193,7 +224,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 16,
     "title": "Bleak verdict cast on Ferrari’s underwhelming Miami F1 upgrades",
     "link": "https://www.crash.net/f1/news/1094535/1/bleak-verdict-cast-ferraris-underwhelming-miami-f1-upgrades",
     "pub_date": "2026-05-07T14:07:03+00:00",
@@ -209,7 +240,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 17,
     "title": "Charles Leclerc doubles down on “outlier” F1 overtaking stance",
     "link": "https://www.crash.net/f1/news/1094594/1/charles-leclerc-doubles-down-outlier-f1-overtaking-stance",
     "pub_date": "2026-05-09T08:00:00+00:00",
@@ -224,7 +255,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 18,
     "title": "F1 champion Max Verstappen dominates \"insane\" Super GT challenge",
     "link": "https://www.crash.net/f1/news/1094595/1/f1-champion-max-verstappen-dominates-insane-super-gt-challenge",
     "pub_date": "2026-05-08T12:15:00+00:00",
@@ -239,7 +270,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 19,
     "title": "George Russell in “uncomfortable” spot in F1 2026 title race as Kimi Antonelli comes of age",
     "link": "https://www.crash.net/f1/news/1094538/1/george-russell-uncomfortable-spot-f1-2026-title-race-kimi-antonelli-comes-age",
     "pub_date": "2026-05-07T15:58:07+00:00",
@@ -254,41 +285,11 @@
     ]
   },
   {
-    "position": 18,
+    "position": 20,
     "title": "Unwanted Mercedes streak continues amid “not acceptable” F1 weakness",
     "link": "https://www.crash.net/f1/news/1094525/1/unwanted-mercedes-streak-continues-amid-not-acceptable-f1-weakness",
     "pub_date": "2026-05-07T10:29:49+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408025_hires.jpg?width=1200",
-    "score": -182,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Should Isack Hadjar’s Miami F1 nightmare concern Red Bull?",
-    "link": "https://www.crash.net/f1/news/1094518/1/should-isack-hadjars-miami-f1-nightmare-concern-red-bull",
-    "pub_date": "2026-05-07T08:22:06+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408350_hires_0.jpg?width=1200",
-    "score": -182,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "Mercedes boss Toto Wolff tells F1 critics to “hide” after Miami thriller",
-    "link": "https://www.crash.net/f1/news/1094511/1/mercedes-boss-toto-wolff-tells-f1-critics-hide-after-miami-thriller",
-    "pub_date": "2026-05-06T12:57:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/m582107_australian_grand_prix-saturday-sam_bloxham.jpg?width=1200",
     "score": -182,
     "score_reasons": [
       "top-tier keywords x1 (+12)",

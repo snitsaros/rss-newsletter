@@ -1,25 +1,10 @@
 [
   {
     "position": 1,
-    "title": "What Max Verstappen's rival's post-qualifying comments reveal about his Nurburgring 24 approach",
-    "link": "https://www.crash.net/f1/news/1095137/1/max-verstappen-rivals-praise-preparation-expectation-management-nurburgring-24",
-    "pub_date": "2026-05-15T15:05:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605120794_hires_jpeg_24bit_rgb.jpg?width=1200",
-    "score": 35,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Nurburgring 24 Hours Race Day: Watch live as Max Verstappen debuts in the iconic event",
-    "link": "https://www.crash.net/f1/news/1095164/1/nurburgring-24-hours-race-day-watch-live-max-verstappen-debuts-iconic-event",
-    "pub_date": "2026-05-16T07:59:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/24h-177740114969f0fd3d-045e11_0.jpg?width=1200",
+    "title": "Nurburgring 24 Hours: Max Verstappen leads as daylight breaks after 18 hours",
+    "link": "https://www.crash.net/f1/news/1095375/1/nurburgring-24-hours-max-verstappen-leads-daylight-breaks-after-18-hours",
+    "pub_date": "2026-05-17T07:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605160837_hires_jpeg_24bit_rgb.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -30,11 +15,26 @@
     ]
   },
   {
+    "position": 2,
+    "title": "Ex-F1 driver disqualified, loses licence, after Nuburgring 24 Hours penalty",
+    "link": "https://www.crash.net/f1/news/1095378/1/ex-f1-driver-disqualified-loses-licence-after-nuburgring-24-hours-penalty",
+    "pub_date": "2026-05-17T08:23:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/24hnbr26_051413151405130ml_ml.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 3,
-    "title": "Ranked: Max Verstappen's 10 best F1 race wins",
-    "link": "https://www.crash.net/f1/feature/1095132/1/ranked-max-verstappens-10-best-f1-race-wins",
-    "pub_date": "2026-05-15T14:24:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1205200_hires.jpg?width=1200",
+    "title": "Nurburgring 24 Hours: Max Verstappen car leads as rain falls in hour six",
+    "link": "https://www.crash.net/f1/news/1095374/1/nurburgring-24-hours-max-verstappen-car-leads-rain-falls-hour-six",
+    "pub_date": "2026-05-16T19:08:13+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605150206.jpg?width=1200",
     "score": 28,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -45,25 +45,38 @@
   },
   {
     "position": 4,
-    "title": "Zak Brown presses FIA to outlaw F1 multi-team ownership",
-    "link": "https://www.crash.net/f1/news/1095048/1/zak-brown-presses-fia-outlaw-f1-multi-team-ownership",
-    "pub_date": "2026-05-15T09:59:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1406163_hires.jpg?width=1200",
-    "score": 5,
+    "title": "Nurburgring 24 Hours: Max Verstappen survives early scare to lead after three hours",
+    "link": "https://www.crash.net/f1/news/1095353/1/nurburgring-24-hours-max-verstappen-survives-early-scare-lead-after-three-hours",
+    "pub_date": "2026-05-16T16:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/joerg_mitter_20260331_nuerburgring_0434_1.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Mercedes \"never seen anything like\" Max Verstappen's Nurburgring 24 adaptation",
+    "link": "https://www.crash.net/f1/news/1095309/1/mercedes-never-seen-anything-max-verstappens-nurburgring-24-adaptation",
+    "pub_date": "2026-05-16T13:10:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605150224_hires_jpeg_24bit_rgb.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 5,
-    "title": "Where Max Verstappen qualified for his Nurburgring 24 Hours debut",
-    "link": "https://www.crash.net/f1/news/1095063/1/where-max-verstappen-qualified-his-nurburgring-24-hours-debut",
-    "pub_date": "2026-05-15T12:54:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605120788.jpg?width=1200",
+    "position": 6,
+    "title": "Nurburgring 24 Hours: Max Verstappen car in third after first hour of racing",
+    "link": "https://www.crash.net/f1/news/1095345/1/nurburgring-24-hours-max-verstappen-car-third-after-first-hour-racing",
+    "pub_date": "2026-05-16T14:01:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605150200_hires_jpeg_24bit_rgb.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -73,25 +86,39 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Alpine sign ex-FIA aero boss in F1 technical shake-up",
-    "link": "https://www.crash.net/f1/news/1095081/1/alpine-sign-ex-fia-aero-boss-f1-technical-skake",
-    "pub_date": "2026-05-15T13:17:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/twjb-alpf1-9.jpg?width=1200",
-    "score": -7,
+    "position": 7,
+    "title": "F1 champion reveals \"insecurity\" that links Lewis Hamilton, Roger Federer, and MotoGP stars",
+    "link": "https://www.crash.net/motogp/news/1095238/1/f1-champion-reveals-insecurity-links-lewis-hamilton-roger-federer-and-motogp",
+    "pub_date": "2026-05-16T09:57:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1407219_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 7,
-    "title": "Allan McNish warns against premature Audi F1 judgements",
-    "link": "https://www.crash.net/f1/news/1095049/1/allan-mcnish-warns-against-premature-audi-f1-judgements",
-    "pub_date": "2026-05-15T10:55:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1338991_hires-1.jpg?width=1200",
+    "position": 8,
+    "title": "George Russell slated over 'entitled' F1 championship claim",
+    "link": "https://www.crash.net/f1/news/1095183/1/george-russell-slated-over-entitled-f1-championship-claim",
+    "pub_date": "2026-05-16T08:51:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1407088_hires_0.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "Carlos Sainz verdict after first lap of F1 Madring circuit",
+    "link": "https://www.crash.net/f1/news/1095286/1/carlos-sainz-verdict-after-first-lap-f1-madring-circuit",
+    "pub_date": "2026-05-16T12:45:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/whatsapp-image-2026-05-16-at-12.55.38-1_0.jpeg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -100,7 +127,23 @@
     ]
   },
   {
-    "position": 8,
+    "position": 10,
+    "title": "Nurburgring 24 Hours Race Day: Watch live as Max Verstappen leads final hours",
+    "link": "https://www.crash.net/f1/news/1095164/1/nurburgring-24-hours-race-day-watch-live-max-verstappen-debuts-iconic-event",
+    "pub_date": "2026-05-17T08:25:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/24h-177740114969f0fd3d-045e11_0.jpg?width=1200",
+    "score": -67,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 11,
     "title": "Oscar Piastri warned about McLaren F1 exit amid rumours over potential Red Bull move",
     "link": "https://www.crash.net/f1/news/1094943/1/oscar-piastri-warned-about-mclaren-f1-exit-rumours-over-potential-red-bull-move",
     "pub_date": "2026-05-14T09:06:06+00:00",
@@ -115,7 +158,7 @@
     ]
   },
   {
-    "position": 9,
+    "position": 12,
     "title": "Lando Norris reveals Mercedes strength that has twice denied McLaren F1 victories",
     "link": "https://www.crash.net/f1/news/1094653/1/lando-norris-reveals-mercedes-strength-has-twice-denied-mclaren-f1-victories",
     "pub_date": "2026-05-09T10:00:00+00:00",
@@ -130,7 +173,7 @@
     ]
   },
   {
-    "position": 10,
+    "position": 13,
     "title": "McLaren pinpoints where Mercedes’ F1 car is faster than its upgraded MCL40",
     "link": "https://www.crash.net/f1/news/1094941/1/mclaren-pinpoints-where-mercedes-f1-car-faster-its-upgraded-mcl40",
     "pub_date": "2026-05-13T16:25:54+00:00",
@@ -145,7 +188,7 @@
     ]
   },
   {
-    "position": 11,
+    "position": 14,
     "title": "The reasons F1 title favourite George Russell is on the back foot - and why he must respond",
     "link": "https://www.crash.net/f1/feature/1094938/1/reasons-f1-title-favourite-george-russell-back-foot-and-why-he-must-respond",
     "pub_date": "2026-05-13T14:35:53+00:00",
@@ -160,7 +203,7 @@
     ]
   },
   {
-    "position": 12,
+    "position": 15,
     "title": "Lewis Hamilton and Fernando Alonso bluntly told ‘its time’ to retire from F1",
     "link": "https://www.crash.net/f1/news/1094934/1/lewis-hamilton-and-fernando-alonso-bluntly-told-its-time-retire-f1",
     "pub_date": "2026-05-13T10:54:23+00:00",
@@ -175,7 +218,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 16,
     "title": "Lewis Hamilton suspects F1 rivals are gaining from a trick Ferrari has missed",
     "link": "https://www.crash.net/f1/news/1094923/1/lewis-hamilton-suspects-f1-rivals-are-gaining-trick-ferrari-has-missed",
     "pub_date": "2026-05-12T13:44:46+00:00",
@@ -190,7 +233,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 17,
     "title": "The Michael Schumacher Ferrari F1 record Charles Leclerc can beat",
     "link": "https://www.crash.net/f1/news/1094915/1/michael-schumacher-ferrari-f1-record-charles-leclerc-can-beat",
     "pub_date": "2026-05-12T09:23:31+00:00",
@@ -205,7 +248,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 18,
     "title": "Red Bull hail \"definitive step\" after closing on Mercedes with F1 updates",
     "link": "https://www.crash.net/f1/news/1094904/1/red-bull-hail-definitive-step-after-closing-mercedes-f1-updates",
     "pub_date": "2026-05-11T13:17:00+00:00",
@@ -220,58 +263,11 @@
     ]
   },
   {
-    "position": 16,
-    "title": "Charles Leclerc demands answers after Ferrari Miami F1 drop-off",
-    "link": "https://www.crash.net/f1/news/1094521/1/charles-leclerc-demands-answers-after-ferrari-miami-f1-drop",
-    "pub_date": "2026-05-07T09:28:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408150_hires.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 17,
-    "title": "Nurburgring 24 Hours Day 2: Watch live as Max Verstappen takes on Top Qualifying",
-    "link": "https://www.crash.net/f1/news/1094977/1/nurburgring-24-hours-day-2-watch-live-max-verstappen-takes-top-qualifying",
-    "pub_date": "2026-05-15T08:15:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605120750_hires_jpeg_24bit_rgb.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 18,
-    "title": "Revealed: Where Max Verstappen ended up in first qualifying for Nurburgring 24 Hours",
-    "link": "https://www.crash.net/f1/news/1094955/1/revealed-where-max-verstappen-ended-first-qualifying-nurburgring-24-hours",
-    "pub_date": "2026-05-14T14:22:22+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/24h-177740114969f0fd3d-045e11_0.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
     "position": 19,
-    "title": "'Rewarded for going slowly': Fernando Alonso's grim assessment of F1 qualifying tweaks",
-    "link": "https://www.crash.net/f1/news/1094902/1/rewarded-going-slowly-fernando-alonsos-grim-assessment-f1-qualifying-tweaks",
-    "pub_date": "2026-05-11T11:20:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408257_hires.jpg?width=1200",
+    "title": "What Max Verstappen's rival's post-qualifying comments reveal about his Nurburgring 24 approach",
+    "link": "https://www.crash.net/f1/news/1095137/1/max-verstappen-rivals-praise-preparation-expectation-management-nurburgring-24",
+    "pub_date": "2026-05-15T15:05:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605120794_hires_jpeg_24bit_rgb.jpg?width=1200",
     "score": -175,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -284,10 +280,10 @@
   },
   {
     "position": 20,
-    "title": "Lewis Hamilton issues ‘work with us’ plea to FIA over F1 changes",
-    "link": "https://www.crash.net/f1/news/1094892/1/lewis-hamilton-issues-work-us-plea-fia-over-f1-changes",
-    "pub_date": "2026-05-11T08:28:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1408313_hires.jpg?width=1200",
+    "title": "Zak Brown presses FIA to outlaw F1 multi-team ownership",
+    "link": "https://www.crash.net/f1/news/1095048/1/zak-brown-presses-fia-outlaw-f1-multi-team-ownership",
+    "pub_date": "2026-05-15T09:59:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1406163_hires.jpg?width=1200",
     "score": -175,
     "score_reasons": [
       "top-tier keywords x1 (+12)",

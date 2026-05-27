@@ -1,13 +1,14 @@
 [
   {
     "position": 1,
-    "title": "Lewis Hamilton wants to bring “lucky charm” mother to more races after best F1 result for Ferrari",
-    "link": "https://www.crash.net/f1/news/1096226/1/lewis-hamilton-wants-bring-lucky-charm-mother-more-races-after-best-f1-result",
-    "pub_date": "2026-05-26T07:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1401786_hires.jpg?width=1200",
-    "score": 45,
+    "title": "Max Verstappen teases McLaren over its strategy blunder at the F1 Canadian GP",
+    "link": "https://www.crash.net/f1/news/1096248/1/max-verstappen-teases-mclaren-over-its-strategy-blunder-f1-canadian-gp",
+    "pub_date": "2026-05-27T08:23:26+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411732_hires.jpg?width=1200",
+    "score": 51,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "low-tier keywords x2 (+6)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -16,42 +17,45 @@
   },
   {
     "position": 2,
-    "title": "Canadian GP battle \"only possible\" with current power unit - George Russell questions why F1 would ditch current spec",
-    "link": "https://www.crash.net/f1/news/1096232/1/only-possible-current-power-unit-george-russell-questions-why-f1-would-ditch",
-    "pub_date": "2026-05-26T09:07:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410933_hires.jpg?width=1200",
-    "score": 29,
+    "title": "Oscar Piastri apologises to Alex Albon as he reveals F1 Canadian GP crash cause",
+    "link": "https://www.crash.net/f1/news/1096250/1/oscar-piastri-apologises-alex-albon-he-reveals-f1-canadian-gp-crash-cause",
+    "pub_date": "2026-05-27T09:14:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411513_hires.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "\"On the edge\" - Kimi Antonelli's verdict on frantic F1 battle with George Russell",
+    "link": "https://www.crash.net/f1/news/1096251/1/edge-kimi-antonellis-verdict-frantic-f1-battle-george-russell",
+    "pub_date": "2026-05-27T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411411_hires.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
-      "awkward title length (-2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Lando Norris jets in for Indy 500 celebrations with Daniel Ricciardo after brutal F1 Canadian GP",
-    "link": "https://www.crash.net/f1/news/1096222/1/lando-norris-jets-indy-500-celebrations-daniel-ricciardo-after-brutal-f1-canadian",
-    "pub_date": "2026-05-25T15:12:10+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411594_hires.jpg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 4,
-    "title": "Fernando Alonso retired from F1 Canada to “stop the pain” from seat issue",
-    "link": "https://www.crash.net/f1/news/1096223/1/fernando-alonso-retired-f1-canada-stop-pain-seat-issue",
-    "pub_date": "2026-05-25T15:08:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411404_hires.jpg?width=1200",
-    "score": -2,
+    "title": "\"Motorsport is not built to be inclusive\" - Lewis Hamilton hails brother Nicolas' BTCC podium breakthrough",
+    "link": "https://www.crash.net/f1/news/1096244/1/motorsport-not-built-be-inclusive-lewis-hamilton-hails-brother-nicolas-btcc",
+    "pub_date": "2026-05-26T15:20:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_912777_hires.jpg?width=1200",
+    "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -59,10 +63,25 @@
   },
   {
     "position": 5,
-    "title": "Max Verstappen reveals the “minimum” he needs to avoid quitting F1 after doubling down on threat",
-    "link": "https://www.crash.net/f1/news/1096213/1/max-verstappen-reveals-minimum-he-needs-avoid-quitting-f1-after-doubling-down",
-    "pub_date": "2026-05-25T11:18:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411774_hires.jpg?width=1200",
+    "title": "Isack Hadjar apologises to Charles Leclerc as he admits Canadian GP penalties were fair",
+    "link": "https://www.crash.net/f1/news/1096243/1/isack-hadjar-apologises-charles-leclerc-he-admits-canadian-gp-penalties-were-fair",
+    "pub_date": "2026-05-26T14:15:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1409985_hires.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Lewis Hamilton takes swipe at F1 champion Jacques Villeneuve at Canadian GP",
+    "link": "https://www.crash.net/f1/news/1096240/1/lewis-hamilton-takes-swipe-f1-champion-jacques-villeneuve-canadian-gp",
+    "pub_date": "2026-05-26T12:04:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411776_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -72,11 +91,11 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Kimi Antonelli takes control in tense F1 title fight, but flaws exposed",
-    "link": "https://www.crash.net/f1/feature/1096219/1/kimi-antonelli-takes-control-tense-f1-title-fight-flaws-exposed",
-    "pub_date": "2026-05-25T14:29:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411789_hires.jpg?width=1200",
+    "position": 7,
+    "title": "Jacques Villeneuve warns Kimi Antonelli against 'believing his own hype' in F1 title bid",
+    "link": "https://www.crash.net/f1/news/1096245/1/jacques-villeneuve-warns-kimi-antonelli-against-believing-his-own-hype-f1-title",
+    "pub_date": "2026-05-26T16:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411804_hires.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -85,108 +104,20 @@
     ]
   },
   {
-    "position": 7,
-    "title": "Red Bull boss reacts after Toto Wolff and Jos Verstappen spotted in deep discussion in Canada F1 paddock",
-    "link": "https://www.crash.net/f1/news/1095805/1/red-bull-boss-reacts-after-toto-wolff-and-jos-verstappen-spotted-deep-discussion",
-    "pub_date": "2026-05-22T19:34:33+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1409840_hires.jpg?width=1200",
-    "score": -70,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 8,
-    "title": "Why an F1 rookie was “a little bit sad” after season-best-matching qualifying result",
-    "link": "https://www.crash.net/f1/news/1096012/1/why-f1-rookie-was-little-bit-sad-after-season-best-matching-qualifying-result",
-    "pub_date": "2026-05-24T09:03:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411167_hires.jpg?width=1200",
-    "score": -84,
+    "title": "Sergio Perez explains bizarre Cadillac F1 failure in Canadian GP",
+    "link": "https://www.crash.net/f1/news/1096238/1/sergio-perez-explains-bizarre-cadillac-f1-failure-canadian-gp",
+    "pub_date": "2026-05-26T11:09:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411498_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 9,
-    "title": "The Canada F1 qualifying quirk Kimi Antonelli ‘will remember for a long time’",
-    "link": "https://www.crash.net/f1/news/1096014/1/canada-f1-qualifying-quirk-kimi-antonelli-will-remember-long-time",
-    "pub_date": "2026-05-24T09:52:37+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411217_hires.jpg?width=1200",
-    "score": -87,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "One F1 team's major Canada upgrade package has left it \"chasing our tails\"",
-    "link": "https://www.crash.net/f1/news/1096013/1/one-f1-teams-major-canada-upgrade-package-has-left-it-chasing-our-tails",
-    "pub_date": "2026-05-24T10:30:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410537_hires.jpg?width=1200",
-    "score": -91,
-    "score_reasons": [
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "2026 F1 Canadian Grand Prix: Full sprint results",
-    "link": "https://www.crash.net/f1/results/1095924/1/2026-f1-canadian-grand-prix-full-sprint-results",
-    "pub_date": "2026-05-23T16:45:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410781_hires.jpg?width=1200",
-    "score": -94,
-    "score_reasons": [
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "George Russell apologises to marshals for ‘embarrassing’ unsafe act at F1 Canadian GP",
-    "link": "https://www.crash.net/f1/news/1096210/1/george-russell-apologises-marshals-embarrassing-unsafe-act-f1-canadian-gp",
-    "pub_date": "2026-05-25T10:31:42+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411766_hires.jpg?width=1200",
-    "score": -102,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 13,
-    "title": "George Russell pips Kimi Antonelli to Canada F1 sprint pole as Fernando Alonso crashes out",
-    "link": "https://www.crash.net/f1/news/1095867/1/george-russell-pips-kimi-antonelli-canada-f1-sprint-pole-fernando-alonso-crashes",
-    "pub_date": "2026-05-22T21:39:41+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410567_hires.jpg?width=1200",
-    "score": -151,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 14,
     "title": "Lewis Hamilton sounds alarm with Ferrari “at mercy of lack of power” at F1 Canadian GP",
     "link": "https://www.crash.net/f1/news/1096007/1/lewis-hamilton-sounds-alarm-ferrari-mercy-lack-power",
     "pub_date": "2026-05-23T22:23:25+00:00",
@@ -201,7 +132,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 10,
     "title": "Max Verstappen reveals Red Bull ignored his set-up preferences in F1 Canadian GP qualifying",
     "link": "https://www.crash.net/f1/news/1096019/1/max-verstappen-reveals-red-bull-ignored-his-set-preferences-f1-canadian-gp",
     "pub_date": "2026-05-24T16:52:44+00:00",
@@ -217,7 +148,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 11,
     "title": "George Russell ends Kimi Antonelli’s pole streak at F1 Canadian GP",
     "link": "https://www.crash.net/f1/news/1095997/1/george-russell-ends-kimi-antonellis-pole-streak-f1-canadian-gp",
     "pub_date": "2026-05-23T21:10:19+00:00",
@@ -233,7 +164,22 @@
     ]
   },
   {
-    "position": 17,
+    "position": 12,
+    "title": "Lewis Hamilton wants to bring “lucky charm” mother to more races after best F1 result for Ferrari",
+    "link": "https://www.crash.net/f1/news/1096226/1/lewis-hamilton-wants-bring-lucky-charm-mother-more-races-after-best-f1-result",
+    "pub_date": "2026-05-26T07:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1401786_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 13,
     "title": "Lewis Hamilton validated after key decision leads to Ferrari breakthrough at F1 Canadian GP",
     "link": "https://www.crash.net/f1/news/1096208/1/lewis-hamilton-validated-after-key-decision-leads-ferrari-breakthrough-f1",
     "pub_date": "2026-05-25T09:49:56+00:00",
@@ -248,7 +194,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 14,
     "title": "Toto Wolff warns he could “put handbrake on” Antonelli/Russell F1 battling",
     "link": "https://www.crash.net/f1/news/1096204/1/toto-wolff-warns-he-could-put-handbrake-antonellirussell-f1-battling",
     "pub_date": "2026-05-25T09:09:36+00:00",
@@ -263,7 +209,7 @@
     ]
   },
   {
-    "position": 19,
+    "position": 15,
     "title": "Red Bull always ready to \"take risks\" and override Max Verstappen on F1 car set-up",
     "link": "https://www.crash.net/f1/news/1096203/1/red-bull-always-ready-take-risks-and-override-max-verstappen-f1-car-set",
     "pub_date": "2026-05-25T08:40:13+00:00",
@@ -278,11 +224,71 @@
     ]
   },
   {
-    "position": 20,
+    "position": 16,
     "title": "Toto Wolff reveals cause of George Russell’s heartbreaking F1 Canadian GP failure",
     "link": "https://www.crash.net/f1/news/1096201/1/toto-wolff-reveals-cause-george-russells-heartbreaking-f1-canadian-gp-failure",
     "pub_date": "2026-05-24T22:56:59+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411562_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 17,
+    "title": "Lewis Hamilton and Max Verstappen dissect epic Canada battle in F1 cooldown room",
+    "link": "https://www.crash.net/f1/news/1096200/1/lewis-hamilton-and-max-verstappen-dissect-epic-canada-battle-f1-cooldown-room",
+    "pub_date": "2026-05-24T22:24:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411640_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 18,
+    "title": "Kimi Antonelli wins breathless F1 Canadian GP ahead of Lewis Hamilton as George Russell suffers title blow",
+    "link": "https://www.crash.net/f1/race-report/1096193/1/kimi-antonelli-wins-breathless-f1-canadian-gp-george-russell-suffers-title",
+    "pub_date": "2026-05-24T21:39:32+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411625_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 19,
+    "title": "Martin Brundle has say on edgy George Russell-Kimi Antonelli F1 Canadian GP sprint battle",
+    "link": "https://www.crash.net/f1/news/1096018/1/martin-brundle-has-say-edgy-george-russell-kimi-antonelli-f1-canadian-gp-sprint",
+    "pub_date": "2026-05-24T15:42:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410773_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "Max Verstappen 'at the heart of the F1 project' - Red Bull dismisses exit fears",
+    "link": "https://www.crash.net/f1/news/1095881/1/max-verstappen-heart-f1-project-red-bull-dismiss-exit-fears",
+    "pub_date": "2026-05-24T11:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410059_hires.jpg?width=1200",
     "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",

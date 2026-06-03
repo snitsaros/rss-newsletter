@@ -1,13 +1,14 @@
 [
   {
     "position": 1,
-    "title": "Nico Rosberg casts damning verdict about Lewis Hamilton’s F1 title chances",
-    "link": "https://www.crash.net/f1/news/1096718/1/nico-rosberg-casts-damning-verdict-about-lewis-hamiltons-f1-title-chances",
-    "pub_date": "2026-06-02T08:56:11+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1411776_hires.jpg?width=1200",
-    "score": 45,
+    "title": "Charles Leclerc ends speculation over F1 future by signing \"multi-year\" Ferrari contract extension",
+    "link": "https://www.crash.net/f1/news/1096764/1/charles-leclerc-ends-speculation-over-f1-future-signing-multi-year-ferrari",
+    "pub_date": "2026-06-03T07:05:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1403787_hires.jpg?width=1200",
+    "score": 48,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -16,10 +17,10 @@
   },
   {
     "position": 2,
-    "title": "Ferrari reveals special Charles Leclerc F1 race suit for Monaco GP",
-    "link": "https://www.crash.net/f1/news/1096716/1/ferrari-reveals-special-charles-leclerc-f1-race-suit-monaco-gp",
-    "pub_date": "2026-06-02T08:27:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1409950_hires.jpg?width=1200",
+    "title": "EXCLUSIVE: Max Verstappen’s quit threat is real but F1 could survive without him, says ex-Red Bull chief",
+    "link": "https://www.crash.net/f1/news/1096750/1/exclusive-max-verstappens-quit-threat-real-f1-could-survive-without-him-says-ex",
+    "pub_date": "2026-06-03T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/si202605240780.jpg?width=1200",
     "score": 45,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -31,13 +32,26 @@
   },
   {
     "position": 3,
-    "title": "What’s going on with McLaren’s new F1 front wing it abandoned in Canada?",
-    "link": "https://www.crash.net/f1/news/1096719/1/whats-going-mclarens-new-f1-front-wing-it-abandoned-canada",
-    "pub_date": "2026-06-02T09:22:43+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1410013_hires.jpg?width=1200",
-    "score": 33,
+    "title": "Lando Norris and McLaren make bold Ferrari prediction for F1 Monaco GP",
+    "link": "https://www.crash.net/f1/news/1096730/1/lando-norris-and-mclaren-make-bold-ferrari-prediction-f1-monaco-gp",
+    "pub_date": "2026-06-02T13:58:13+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1411293_hires.jpg?width=1200",
+    "score": 22,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Does the Monaco GP still deserve its place on the F1 calendar? A case for and against",
+    "link": "https://www.crash.net/f1/feature/1096721/1/does-monaco-gp-still-deserve-its-place-f1-calendar-case-and-against",
+    "pub_date": "2026-06-03T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1349961_hires.jpg?width=1200",
+    "score": 21,
+    "score_reasons": [
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -45,53 +59,39 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Lewis Hamilton praises new race engineer after Ferrari F1 breakthrough",
-    "link": "https://www.crash.net/f1/news/1096700/1/lewis-hamilton-praises-new-race-engineer-after-ferrari-f1-breakthrough",
-    "pub_date": "2026-06-01T14:07:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1411693_hires.jpg?width=1200",
-    "score": 10,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 5,
-    "title": "Who is Lando Norris’s girlfriend? Everything to know about Magui Corceiro",
-    "link": "https://www.crash.net/f1/news/1096709/1/who-lando-norriss-girlfriend-everything-know-about-magui-corceiro",
-    "pub_date": "2026-06-01T15:59:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1391732_hires.jpg?width=1200",
-    "score": -2,
+    "title": "Aston Martin unveil striking two-tone special livery for Monaco Grand Prix",
+    "link": "https://www.crash.net/f1/news/1096767/1/aston-martin-unveil-striking-two-tone-special-livery-monaco-grand-prix",
+    "pub_date": "2026-06-03T09:33:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/untitled-design-9.png?width=1200",
+    "score": 21,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 6,
-    "title": "McLaren reveals special Monaco GP livery to celebrate major F1 milestone",
-    "link": "https://www.crash.net/f1/news/1096706/1/mclaren-reveals-special-monaco-gp-livery-celebrate-major-f1-milestone",
-    "pub_date": "2026-06-01T15:20:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/mcl40_1000_livery_hero_1.jpg?width=1200",
-    "score": -2,
+    "title": "F1 2027 grid: Every team’s confirmed driver line-up",
+    "link": "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line",
+    "pub_date": "2026-06-03T07:26:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-01/si202510270014.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 7,
-    "title": "Who is Max Verstappen's girlfriend? Everything to know about Kelly Piquet",
-    "link": "https://www.crash.net/f1/news/1096702/1/who-max-verstappen-girlfriend-everything-know-about-kelly-piquet",
-    "pub_date": "2026-06-01T14:50:43+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/si202311260418.jpg?width=1200",
+    "title": "EXCLUSIVE: Christian Horner’s “only way” back to F1 pinpointed by ex-Red Bull colleague",
+    "link": "https://www.crash.net/f1/news/1096744/1/christian-horners-only-way-back-f1-pinpointed-former-red-bull-colleague",
+    "pub_date": "2026-06-02T14:48:28+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/si202502260249.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -102,13 +102,12 @@
   },
   {
     "position": 8,
-    "title": "Kimi Antonelli responds to Ferrari F1 rumours after winning prestigious trophy",
-    "link": "https://www.crash.net/f1/news/1096697/1/kimi-antonelli-responds-ferrari-f1-rumours-after-winning-prestigious-trophy",
-    "pub_date": "2026-06-01T13:33:33+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1411792_hires.jpg?width=1200",
-    "score": -2,
+    "title": "What was agreed at the second F1 Commission meeting of 2026?",
+    "link": "https://www.crash.net/f1/news/1096751/1/what-was-agreed-second-f1-commission-meeting-2026",
+    "pub_date": "2026-06-02T16:15:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1410953_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -116,36 +115,19 @@
   },
   {
     "position": 9,
-    "title": "Who is Charles Leclerc’s wife? Everything to know about Alexandra Leclerc",
-    "link": "https://www.crash.net/f1/news/1096694/1/who-charles-leclercs-wife-everything-know-about-alexandra-leclerc",
-    "pub_date": "2026-06-01T11:10:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1409961_hires.jpg?width=1200",
-    "score": -102,
+    "title": "Williams F1 team hires AI and data expert to take on new senior leadership role",
+    "link": "https://www.crash.net/f1/news/1096726/1/williams-f1-team-hires-ai-and-data-expert-take-new-senior-leadership-role",
+    "pub_date": "2026-06-02T13:25:55+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1410606_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "good title length (+2)"
     ]
   },
   {
     "position": 10,
-    "title": "What is ADUO? F1’s new engine rule that could define 2026 explained",
-    "link": "https://www.crash.net/f1/news/1092945/1/what-aduo-and-why-it-so-important-f1s-engine-balancing-system-explained",
-    "pub_date": "2026-06-01T13:13:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1399927_hires.jpg?width=1200",
-    "score": -111,
-    "score_reasons": [
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 11,
     "title": "‘Massively down’ - Lewis Hamilton details worrying Ferrari power deficit to F1 benchmark Mercedes",
     "link": "https://www.crash.net/f1/news/1096310/1/massively-down-lewis-hamilton-details-worrying-ferrari-power-deficit-f1-benchmark",
     "pub_date": "2026-05-29T08:56:34+00:00",
@@ -160,15 +142,29 @@
     ]
   },
   {
-    "position": 12,
-    "title": "Max Verstappen teases McLaren over its strategy blunder at the F1 Canadian GP",
-    "link": "https://www.crash.net/f1/news/1096248/1/max-verstappen-teases-mclaren-over-its-strategy-blunder-f1-canadian-gp",
-    "pub_date": "2026-05-27T08:23:26+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411732_hires.jpg?width=1200",
-    "score": -164,
+    "position": 11,
+    "title": "Nico Rosberg casts damning verdict about Lewis Hamilton’s F1 title chances",
+    "link": "https://www.crash.net/f1/news/1096718/1/nico-rosberg-casts-damning-verdict-about-lewis-hamiltons-f1-title-chances",
+    "pub_date": "2026-06-02T08:56:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1411776_hires.jpg?width=1200",
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
-      "low-tier keywords x2 (+6)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Ferrari reveals special Charles Leclerc F1 race suit for Monaco GP",
+    "link": "https://www.crash.net/f1/news/1096716/1/ferrari-reveals-special-charles-leclerc-f1-race-suit-monaco-gp",
+    "pub_date": "2026-06-02T08:27:05+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1409950_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",
@@ -177,6 +173,21 @@
   },
   {
     "position": 13,
+    "title": "Lewis Hamilton praises new race engineer after Ferrari F1 breakthrough",
+    "link": "https://www.crash.net/f1/news/1096700/1/lewis-hamilton-praises-new-race-engineer-after-ferrari-f1-breakthrough",
+    "pub_date": "2026-06-01T14:07:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1411693_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 14,
     "title": "Toto Wolff sends George Russell clear message after cruel F1 setback at Canadian GP",
     "link": "https://www.crash.net/f1/news/1096284/1/toto-wolff-sends-george-russell-clear-message-after-cruel-f1-setback-canadian-gp",
     "pub_date": "2026-05-31T08:00:00+00:00",
@@ -191,7 +202,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 15,
     "title": "Lewis Hamilton loved hunting down ‘one of the greats’ in throwback Max Verstappen F1 duel",
     "link": "https://www.crash.net/f1/news/1096290/1/lewis-hamilton-loved-hunting-down-one-greats-throwback-max-verstappen-duel",
     "pub_date": "2026-05-30T11:00:00+00:00",
@@ -206,7 +217,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 16,
     "title": "Mercedes told “don’t intervene” in feisty Kimi Antonelli-George Russell F1 title battle",
     "link": "https://www.crash.net/f1/news/1096281/1/mercedes-told-dont-intervene-feisty-antonelli-russell-f1-title-battle",
     "pub_date": "2026-05-30T08:00:00+00:00",
@@ -221,7 +232,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 17,
     "title": "Revealed: What George Russell and Kimi Antonelli told Mercedes during meeting after F1 Canadian GP clash",
     "link": "https://www.crash.net/f1/news/1096372/1/revealed-what-george-russell-and-kimi-antonelli-told-mercedes-during-meeting",
     "pub_date": "2026-05-29T15:38:57+00:00",
@@ -236,7 +247,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 18,
     "title": "Oscar Piastri receives unique honour after new wasp species named after McLaren F1 driver",
     "link": "https://www.crash.net/f1/news/1096285/1/oscar-piastri-receives-unique-honour-after-new-wasp-species-named-after-mclaren",
     "pub_date": "2026-05-28T14:30:46+00:00",
@@ -251,7 +262,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 19,
     "title": "‘These guys are nuts’ - F1 winner Oscar Piastri makes Isle of Man TT visit",
     "link": "https://www.crash.net/rr/news/1096270/1/these-guys-are-nuts-f1-winner-oscar-piastri-makes-isle-man-tt-visit",
     "pub_date": "2026-05-28T08:52:41+00:00",
@@ -266,7 +277,7 @@
     ]
   },
   {
-    "position": 19,
+    "position": 20,
     "title": "Mercedes uncovers details of George Russell’s “catastrophic failure” at F1 Canadian GP",
     "link": "https://www.crash.net/f1/news/1096268/1/mercedes-uncovers-details-george-russells-catastrophic-failure-f1-canadian-gp",
     "pub_date": "2026-05-28T08:23:30+00:00",
@@ -274,22 +285,6 @@
     "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "Oscar Piastri apologises to Alex Albon as he reveals F1 Canadian GP crash cause",
-    "link": "https://www.crash.net/f1/news/1096250/1/oscar-piastri-apologises-alex-albon-he-reveals-f1-canadian-gp-crash-cause",
-    "pub_date": "2026-05-27T09:14:36+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1411513_hires.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

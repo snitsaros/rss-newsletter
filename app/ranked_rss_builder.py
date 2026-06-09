@@ -111,7 +111,7 @@ LOWER_SUMMARY_WORDS = 14
 # ============================================================
 
 ENABLE_BUTTONDOWN_DRAFT = os.getenv("ENABLE_BUTTONDOWN_DRAFT", "false").lower() == "true"
-BUTTONDOWN_API_KEY = os.getenv("c64e18d0-94d1-41d3-a72c-5d9b12b8390d", "").strip()
+BUTTONDOWN_API_KEY = os.getenv("BUTTONDOWN_API_KEY", "").strip()
 BUTTONDOWN_API_URL = "https://api.buttondown.com/v1/emails"
 
 # Draft subject options
@@ -850,7 +850,6 @@ def main():
     if WRITE_DEBUG_JSON:
         print(f"Wrote debug JSON to: {DEBUG_JSON_FILE}")
 
-    print("Top selected stories:")
     for i, item in enumerate(ranked_items[:10], start=1):
         age_text = "unknown age"
         if item["pub_date"]:

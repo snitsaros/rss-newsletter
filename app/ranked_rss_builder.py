@@ -841,6 +841,7 @@ def main():
                 })
             with open(DEBUG_JSON_FILE, "w", encoding="utf-8") as f:
                 json.dump(debug_payload, f, indent=2, ensure_ascii=False)
+            print(f"Debug JSON saved to: {os.path.abspath(DEBUG_JSON_FILE)}")
         except Exception as e:
             print(f"WARNING: Could not write debug JSON: {e}")
 

@@ -1,13 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Red Bull boss shares update on Max Verstappen's F1 future amid McLaren whispers",
-    "link": "https://www.crash.net/f1/news/1099458/1/red-bull-boss-shares-update-max-verstappens-f1-future-amid-mclaren-rumours",
-    "pub_date": "2026-06-26T14:55:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419337_hires.jpg?width=1200",
-    "score": 52,
+    "title": "Hamilton outlines Ferrari's best chance of beating Mercedes to Austrian GP victory",
+    "link": "https://www.crash.net/f1/news/1099736/1/hamilton-outlines-ferraris-best-chance-beating-mercedes-austrian-gp-victory",
+    "pub_date": "2026-06-27T17:27:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420963_hires.jpg?width=1200",
+    "score": 64,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x4 (+48)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -15,58 +15,13 @@
   },
   {
     "position": 2,
-    "title": "Kimi Antonelli heads Mercedes 1-2 as Red Bull, Lando Norris hit trouble in F1 Austrian GP first practice",
-    "link": "https://www.crash.net/f1/news/1099399/1/kimi-antonelli-heads-mercedes-1-2-red-bull-lando-norris-hit-trouble-f1-austrian",
-    "pub_date": "2026-06-26T12:35:48+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419368_hires.jpg?width=1200",
-    "score": 41,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Ferrari-pioneered innovation banned for F1 2027 after FIA clampdown",
-    "link": "https://www.crash.net/f1/news/1099521/1/ferrari-pioneered-innovation-banned-f1-2027-after-fia-clampdown",
-    "pub_date": "2026-06-27T07:43:16+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419581_hires.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "Which F1 rival is worrying George Russell and Mercedes in Austria",
-    "link": "https://www.crash.net/f1/news/1099504/1/which-f1-rival-worrying-george-russell-and-mercedes-austria",
-    "pub_date": "2026-06-26T17:25:20+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419652_hires.jpg?width=1200",
-    "score": 40,
+    "title": "Max Verstappen issues verdict on Red Bull F1 upgrades",
+    "link": "https://www.crash.net/f1/news/1099743/1/max-verstappen-issues-verdict-red-bull-f1-upgrades",
+    "pub_date": "2026-06-28T07:45:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419685_hires.jpg?width=1200",
+    "score": 48,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "Ferrari boss reveals 'risk' behind ADUO power unit upgrade",
-    "link": "https://www.crash.net/f1/news/1099513/1/ferrari-boss-reveals-risk-behind-aduo-power-unit-upgrade",
-    "pub_date": "2026-06-27T08:15:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419877_hires.jpg?width=1200",
-    "score": 36,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
@@ -75,11 +30,57 @@
     ]
   },
   {
+    "position": 3,
+    "title": "Mercedes rival hails Russell quick thinking in yellow flag confusion",
+    "link": "https://www.crash.net/f1/news/1099741/1/mercedes-rival-hails-russell-quick-thinking-yellow-flag-confusion",
+    "pub_date": "2026-06-27T18:09:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420974_hires.jpg?width=1200",
+    "score": 47,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "\"Crazy\" - Max Verstappen expresses yellow flag surprise after heavy Austria F1 crash",
+    "link": "https://www.crash.net/f1/news/1099729/1/crazy-max-verstappen-expresses-yellow-flag-surprise-after-heavy-austria-f1-crash",
+    "pub_date": "2026-06-27T16:40:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420394_hires.jpg?width=1200",
+    "score": 42,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "What was Toto Wolff’s “just drive” radio message to George Russell about?",
+    "link": "https://www.crash.net/f1/news/1099745/1/what-was-toto-wolffs-just-drive-radio-message-george-russell-about",
+    "pub_date": "2026-06-28T08:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419903_hires.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 6,
-    "title": "Why McLaren abandoned its experimental rear wing trial at the F1 Austrian GP",
-    "link": "https://www.crash.net/f1/news/1099506/1/why-mclaren-abandoned-its-experimental-rear-wing-trial-austria",
-    "pub_date": "2026-06-26T17:43:12+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419226_hires.jpg?width=1200",
+    "title": "Explained: Why George Russell’s F1 Austrian GP pole lap was allowed to stand",
+    "link": "https://www.crash.net/f1/news/1099734/1/explained-why-george-russells-f1-austrian-gp-pole-lap-was-allowed-stand",
+    "pub_date": "2026-06-27T17:17:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420590_hires.jpg?width=1200",
     "score": 35,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -91,54 +92,13 @@
   },
   {
     "position": 7,
-    "title": "Lewis Hamilton hails Neymar for echoing ‘powerful message’ in World Cup post",
-    "link": "https://www.crash.net/f1/news/1099503/1/lewis-hamilton-hails-neymar-echoing-powerful-message-world-cup-post",
-    "pub_date": "2026-06-26T17:10:38+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419090_hires.jpg?width=1200",
-    "score": 28,
+    "title": "\"I did everything right\" - George Russell defends disputed Austrian pole lap",
+    "link": "https://www.crash.net/f1/news/1099720/1/i-did-everything-right-george-russell-defends-disputed-austrian-pole-lap",
+    "pub_date": "2026-06-27T15:53:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420855_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "Max Verstappen urges F1 calendar shuffle so he can take part in iconic race",
-    "link": "https://www.crash.net/f1/news/1099500/1/max-verstappen-urges-f1-calendar-shuffle-so-he-can-take-part-iconic-race",
-    "pub_date": "2026-06-26T17:02:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/si202605170115_hires_jpeg_24bit_rgb-1.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Why Williams broke curfew at the F1 Austrian Grand Prix",
-    "link": "https://www.crash.net/f1/news/1099485/1/why-williams-broke-curfew-f1-austrian-grand-prix",
-    "pub_date": "2026-06-26T15:48:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419578_hires_0.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "2026 F1 Austrian Grand Prix - Friday Practice Results",
-    "link": "https://www.crash.net/f1/results/1099404/1/2026-f1-austrian-grand-prix-friday-practice-results",
-    "pub_date": "2026-06-26T16:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419451_hires.jpg?width=1200",
-    "score": 23,
-    "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
@@ -146,11 +106,56 @@
     ]
   },
   {
+    "position": 8,
+    "title": "Suspicious Kimi Antonelli fires ‘sandbagging’ accusation at Ferrari after F1 Austrian GP turnaround",
+    "link": "https://www.crash.net/f1/news/1099742/1/suspicious-kimi-antonelli-fires-sandbagging-accusation-ferrari-after-f1-austrian",
+    "pub_date": "2026-06-28T07:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420822_hires.jpg?width=1200",
+    "score": 33,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "George Russell takes controversial pole position at F1 Austrian GP after Max Verstappen crash",
+    "link": "https://www.crash.net/f1/news/1099709/1/george-russell-takes-controversial-austria-f1-pole-after-max-verstappen-crash",
+    "pub_date": "2026-06-27T15:08:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420827_hires.jpg?width=1200",
+    "score": 31,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "George Russell bounces back as Ferrari close up in tight final practice at F1 Austrian GP",
+    "link": "https://www.crash.net/f1/news/1099607/1/george-russell-bounces-back-ferrari-close-tight-final-practice-f1-austrian-gp",
+    "pub_date": "2026-06-27T11:40:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419652_hires_0.jpg?width=1200",
+    "score": 29,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 11,
-    "title": "Impressive Kimi Antonelli leads McLarens as Cadillac catches fire in second F1 Austrian GP practice",
-    "link": "https://www.crash.net/f1/news/1099488/1/impressive-kimi-antonelli-leads-mclarens-cadillac-catches-fire-second-f1-austrian",
-    "pub_date": "2026-06-26T16:08:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419471_hires.jpg?width=1200",
+    "title": "Kimi Antonelli owns up to critical yellow flag error that cost him front row at F1 Austrian GP",
+    "link": "https://www.crash.net/f1/news/1099728/1/kimi-antonelli-owns-critical-yellow-flag-error-cost-him-front-row-f1-austrian-gp",
+    "pub_date": "2026-06-27T16:28:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419904_hires.jpg?width=1200",
     "score": 23,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -161,23 +166,52 @@
   },
   {
     "position": 12,
-    "title": "Martin Brundle and David Croft send messages as Sky Sports F1 presenter quits",
-    "link": "https://www.crash.net/f1/news/1099495/1/martin-brundle-and-david-croft-send-messages-sky-sports-f1-presenter-quits",
-    "pub_date": "2026-06-26T16:31:26+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410753_hires.jpg?width=1200",
-    "score": 16,
+    "title": "Toto Wolff confirms George Russell to remain at Mercedes with Max Verstappen 'off the radar'",
+    "link": "https://www.crash.net/f1/news/1099613/1/toto-wolff-confirms-george-russell-remain-mercedes-max-verstappen-radar",
+    "pub_date": "2026-06-27T12:04:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1407659_hires.jpg?width=1200",
+    "score": 22,
     "score_reasons": [
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
-      "within 18h (+10)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 13,
-    "title": "Is Max Verstappen about to lose another key figure at Red Bull F1 team?",
-    "link": "https://www.crash.net/f1/news/1099454/1/red-bull-f1-team-addresses-rumours-max-verstappen-could-lose-another-key-figure",
-    "pub_date": "2026-06-26T14:40:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/si202603070184.jpg?width=1200",
+    "title": "Secret McLaren talks emerge as Max Verstappen evaluates F1 options",
+    "link": "https://www.crash.net/f1/news/1099612/1/secret-mclaren-talks-emerge-max-verstappen-evaluates-f1-options",
+    "pub_date": "2026-06-27T11:58:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420418_hires.jpg?width=1200",
+    "score": 22,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "F1 2026 Austrian Grand Prix: Full starting grid after late Q3 drama",
+    "link": "https://www.crash.net/f1/news/1099718/1/f1-2026-austrian-grand-prix-full-starting-grid-after-late-q3-drama",
+    "pub_date": "2026-06-28T07:43:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420844_hires.jpg?width=1200",
+    "score": 21,
+    "score_reasons": [
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Lewis Hamilton 'overwhelmed' by fan reaction to his first Ferrari F1 win",
+    "link": "https://www.crash.net/f1/news/1099569/1/lewis-hamilton-overwhelmed-fan-reaction-his-first-ferrari-f1-win",
+    "pub_date": "2026-06-27T13:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1418654_hires.jpg?width=1200",
     "score": 10,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -187,39 +221,54 @@
     ]
   },
   {
-    "position": 14,
-    "title": "FIRST LOOK: McLaren’s ‘experimental’ rear wing breaks cover at F1 Austrian GP",
-    "link": "https://www.crash.net/f1/news/1099351/1/first-look-mclarens-experimental-rear-wing-breaks-cover-f1-austrian-gp",
-    "pub_date": "2026-06-26T10:45:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/whatsapp-image-2026-06-26-at-11.05.10-1.jpeg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "Mercedes forced to alter controversial diffuser after rival F1 team scrutiny",
-    "link": "https://www.crash.net/f1/news/1099343/1/mercedes-forced-alter-controversial-diffuser-after-rival-f1-team-scrutiny",
-    "pub_date": "2026-06-26T09:58:23+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/whatsapp-image-2026-06-26-at-11.07.55-1.jpeg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 16,
-    "title": "F1 Austrian GP Friday practice as it happened",
-    "link": "https://www.crash.net/f1/live/1044255/f1-austrian-gp-live-friday-practice-updates",
-    "pub_date": "2026-06-26T14:40:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419583_hires.jpg?width=1200",
+    "title": "Red Bull boss fears “large implications” if FIA doesn’t change ADUO stance",
+    "link": "https://www.crash.net/f1/news/1099519/1/red-bull-boss-fears-large-implications-if-fia-doesnt-change-aduo-stance",
+    "pub_date": "2026-06-27T09:45:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419637_hires.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 17,
+    "title": "F1 Austrian GP Saturday practice and qualifying as it happened",
+    "link": "https://www.crash.net/f1/live/1044255/f1-austria-gp-live-saturday-practice-and-qualifying-updates",
+    "pub_date": "2026-06-27T13:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419893_hires.jpg?width=1200",
+    "score": 0,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 18,
+    "title": "Ex-F1 boss Bernie Ecclestone makes wild claim that Ferrari has “too many Italians”",
+    "link": "https://www.crash.net/f1/news/1099664/1/ex-f1-boss-bernie-ecclestone-makes-wild-claim-ferrari-has-too-many-italians",
+    "pub_date": "2026-06-27T14:08:28+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420708_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 19,
+    "title": "2026 F1 Austrian Grand Prix: Full qualifying results",
+    "link": "https://www.crash.net/f1/results/1099710/1/2026-f1-austrian-grand-prix-full-qualifying-results",
+    "pub_date": "2026-06-27T15:15:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420828_hires.jpg?width=1200",
     "score": -7,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -229,64 +278,17 @@
     ]
   },
   {
-    "position": 17,
-    "title": "Racing Bulls responds to claim it has signed F2 star for 2027 F1 seat",
-    "link": "https://www.crash.net/f1/news/1099414/1/racing-bulls-responds-claim-it-has-signed-f2-star-2027-f1-seat",
-    "pub_date": "2026-06-26T13:16:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419498_hires.jpg?width=1200",
-    "score": -14,
+    "position": 20,
+    "title": "2026 F1 Austrian Grand Prix - Final Practice Results",
+    "link": "https://www.crash.net/f1/results/1099608/1/2026-f1-austrian-grand-prix-final-practice-results",
+    "pub_date": "2026-06-27T11:34:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420439_hires.jpg?width=1200",
+    "score": -7,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
-    ]
-  },
-  {
-    "position": 18,
-    "title": "F1 2026 Austrian Grand Prix final practice and qualifying today: Start times, how to watch and full schedule",
-    "link": "https://www.crash.net/f1/news/1099245/1/f1-2026-austrian-grand-prix-start-times-how-watch-and-full-schedule",
-    "pub_date": "2026-06-27T08:00:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1356905_hires.jpg?width=1200",
-    "score": -53,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Why Charles Leclerc is \"not too stressed\" about deficit to Ferrari F1 team-mate Lewis Hamilton",
-    "link": "https://www.crash.net/f1/news/1099321/1/why-charles-leclerc-not-too-stressed-about-deficit-ferrari-f1-team-mate-lewis",
-    "pub_date": "2026-06-26T09:15:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1418895_hires.jpg?width=1200",
-    "score": -78,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "Red Bull reveals seven-part upgrade for crucial home F1 race at Austrian GP",
-    "link": "https://www.crash.net/f1/news/1099336/1/red-bull-reveals-seven-part-upgrade-crucial-home-austria-f1-race",
-    "pub_date": "2026-06-26T09:23:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/whatsapp-image-2026-06-26-at-11.03.13-1.jpeg?width=1200",
-    "score": -99,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
     ]
   }
 ]

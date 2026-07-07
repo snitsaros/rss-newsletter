@@ -2,6 +2,7 @@ import os
 import re
 import json
 import html
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime, format_datetime
 
@@ -10,41 +11,39 @@ import feedparser
 
 
 # ============================================================
-# PATHS / CONFIG
+# PATHS
 # ============================================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
+DOCS_DIR = os.path.join(PROJECT_ROOT, "docs")
+DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 
-SOURCE_RSS_URL = "https://www.crash.net/rss/f1"
-OUTPUT_RSS_FILE = os.path.join(PROJECT_ROOT, "docs", "ranked_f1_feed.xml")
-USED_URLS_FILE = os.path.join(PROJECT_ROOT, "data", "used_urls.json")
+# ============================================================
+# GLOBAL DEFAULTS
+#
+# Any feed can override these via FeedConfig fields.
+# ============================================================
 
-# Optional debug output
-WRITE_DEBUG_JSON = True
-DEBUG_JSON_FILE = os.path.join(PROJECT_ROOT, "data", "ranked_items_debug.json")
+DEFAULT_MAX_ITEMS = 20
+DEFAULT_TOP_IMAGE_ITEMS = 5  # top N are image-led in RSS
 
-# Max number of items in the RSS output
-MAX_ITEMS = 20
+DEFAULT_FRESH_HOURS = 18
+DEFAULT_STALE_HOURS = 24
+DEFAULT_BETWEEN_FRESH_AND_STALE_PENALTY = 20
+DEFAULT_OLDER_THAN_STALE_PENALTY = 100
 
-# Top 5 are image-led in RSS
-TOP_IMAGE_ITEMS = 5
+DEFAULT_USED_URL_PENALTY = 100
 
-# Freshness rules
-FRESH_HOURS = 18
-STALE_HOURS = 24
-BETWEEN_18_AND_24H_PENALTY = 20
-OLDER_THAN_24H_PENALTY = 100
+DEFAULT_TITLE_SIMILARITY_THRESHOLD = 0.72
+DEFAULT_DUPLICATE_TOPIC_PENALTY = 15
 
-# Previously used URL handling
-USED_URL_PENALTY = 100
+DEFAULT_CHANNEL_LANGUAGE = "en-gb"
 
-# Duplicate suppression
-TITLE_SIMILARITY_THRESHOLD = 0.72
-DUPLICATE_TOPIC_PENALTY = 15
+DEFAULT_TOP_SUMMARY_WORDS = 32
+DEFAULT_LOWER_SUMMARY_WORDS = 14
 
-# Ranking weights
-WEIGHTS = {
+DEFAULT_WEIGHTS = {
     "top_tier_keyword": 12,
     "mid_tier_keyword": 7,
     "low_tier_keyword": 3,
@@ -55,81 +54,164 @@ WEIGHTS = {
     "title_length_bad": -2,
 }
 
-# F1 keyword buckets
-TOP_TIER_KEYWORDS = [
-    "verstappen",
-    "hamilton",
-    "leclerc",
-    "norris",
-    "piastri",
-    "russell",
-    "alonso",
-    "ferrari",
-    "red bull",
-    "mercedes",
-    "mclaren",
-]
-
-MID_TIER_KEYWORDS = [
-    "suzuka",
-    "japanese gp",
-    "fia",
-    "qualifying",
-    "grid penalty",
-    "crash",
-    "pole",
-    "podium",
-    "practice",
-    "team principal",
-    "stewards",
-    "disqualified",
-]
-
-LOW_TIER_KEYWORDS = [
-    "rookie",
-    "reserve",
-    "test",
-    "tyre",
-    "strategy",
-    "upgrade",
-    "contract",
-    "rumour",
-]
-
-# RSS channel metadata
-CHANNEL_TITLE = "Crash F1 Ranked Feed"
-CHANNEL_LINK = "https://www.crash.net/"
-CHANNEL_DESCRIPTION = "Editorially ranked F1 RSS feed for newsletter consumption"
-CHANNEL_LANGUAGE = "en-gb"
-
-# Summary trimming
-TOP_SUMMARY_WORDS = 32
-LOWER_SUMMARY_WORDS = 14
 
 # ============================================================
-# BUTTONDOWN API CONFIG (OPTIONAL)
+# FEED CONFIG
 # ============================================================
 
-ENABLE_BUTTONDOWN_DRAFT = os.getenv("ENABLE_BUTTONDOWN_DRAFT", "false").lower() == "true"
-BUTTONDOWN_API_KEY = os.getenv("BUTTONDOWN_API_KEY", "").strip()
-BUTTONDOWN_API_URL = "https://api.buttondown.com/v1/emails"
+@dataclass
+class FeedConfig:
+    id: str
+    source_url: str
 
-# Draft subject options
-BUTTONDOWN_SUBJECT_PREFIX = "Crash F1 Briefing"
-BUTTONDOWN_INCLUDE_DATE_IN_SUBJECT = True
+    # Filenames only. Joined with docs/ and data/ at runtime.
+    output_rss_file: str
+    used_urls_file: str
+    debug_json_file: str
 
-# Draft metadata / archive behaviour
-BUTTONDOWN_EMAIL_TYPE = "public"
-BUTTONDOWN_ARCHIVAL_MODE = "enabled"
-BUTTONDOWN_COMMENTING_MODE = "disabled"
-BUTTONDOWN_REVIEW_MODE = "disabled"
+    channel_title: str
+    channel_link: str
+    channel_description: str
 
-# If true, only create the draft if at least this many ranked items exist
-BUTTONDOWN_MIN_ITEMS = 5
+    top_tier_keywords: list
+    mid_tier_keywords: list
+    low_tier_keywords: list
 
-# Buttondown body uses HTML ("fancy" mode)
-BUTTONDOWN_INTRO_TEXT = "Here are the key F1 stories from the latest ranking run."
-BUTTONDOWN_FOOTER_TEXT = "You're receiving this briefing because you're subscribed to our motorsport updates."
+    channel_language: str = DEFAULT_CHANNEL_LANGUAGE
+
+    max_items: int = DEFAULT_MAX_ITEMS
+    top_image_items: int = DEFAULT_TOP_IMAGE_ITEMS
+
+    fresh_hours: int = DEFAULT_FRESH_HOURS
+    stale_hours: int = DEFAULT_STALE_HOURS
+    between_fresh_and_stale_penalty: int = DEFAULT_BETWEEN_FRESH_AND_STALE_PENALTY
+    older_than_stale_penalty: int = DEFAULT_OLDER_THAN_STALE_PENALTY
+
+    used_url_penalty: int = DEFAULT_USED_URL_PENALTY
+
+    title_similarity_threshold: float = DEFAULT_TITLE_SIMILARITY_THRESHOLD
+    duplicate_topic_penalty: int = DEFAULT_DUPLICATE_TOPIC_PENALTY
+
+    top_summary_words: int = DEFAULT_TOP_SUMMARY_WORDS
+    lower_summary_words: int = DEFAULT_LOWER_SUMMARY_WORDS
+
+    weights: dict = field(default_factory=lambda: dict(DEFAULT_WEIGHTS))
+
+    write_debug_json: bool = True
+
+    @property
+    def output_rss_path(self):
+        return os.path.join(DOCS_DIR, self.output_rss_file)
+
+    @property
+    def used_urls_path(self):
+        return os.path.join(DATA_DIR, self.used_urls_file)
+
+    @property
+    def debug_json_path(self):
+        return os.path.join(DATA_DIR, self.debug_json_file)
+
+
+# ============================================================
+# FEEDS
+#
+# Add, remove, or edit feeds freely -- the builder loops over
+# however many feeds are configured here. Each feed gets its
+# own output RSS file, used-URL history, and debug JSON, so
+# newsletters never suppress each other's stories.
+# ============================================================
+
+FEEDS = [
+    FeedConfig(
+        id="f1",
+        source_url="https://www.crash.net/rss/f1",
+        output_rss_file="ranked_f1_feed.xml",
+        used_urls_file="used_urls_f1.json",
+        debug_json_file="ranked_f1_debug.json",
+        channel_title="Crash F1 Ranked Feed",
+        channel_link="https://www.crash.net/",
+        channel_description="Editorially ranked F1 RSS feed for newsletter consumption",
+        top_tier_keywords=[
+            "verstappen",
+            "hamilton",
+            "leclerc",
+            "norris",
+            "piastri",
+            "russell",
+            "alonso",
+            "ferrari",
+            "red bull",
+            "mercedes",
+            "mclaren",
+        ],
+        mid_tier_keywords=[
+            "suzuka",
+            "japanese gp",
+            "fia",
+            "qualifying",
+            "grid penalty",
+            "crash",
+            "pole",
+            "podium",
+            "practice",
+            "team principal",
+            "stewards",
+            "disqualified",
+        ],
+        low_tier_keywords=[
+            "rookie",
+            "reserve",
+            "test",
+            "tyre",
+            "strategy",
+            "upgrade",
+            "contract",
+            "rumour",
+        ],
+    ),
+
+    # ------------------------------------------------------------
+    # PLACEHOLDER EXAMPLE -- replace source_url and keyword buckets
+    # with confirmed values before enabling. This shows the shape a
+    # second feed config should take; add more entries the same way
+    # for each additional newsletter (six, seven, or more).
+    # ------------------------------------------------------------
+    # FeedConfig(
+    #     id="motogp",
+    #     source_url="https://www.crash.net/rss/motogp",  # PLACEHOLDER -- confirm real feed URL
+    #     output_rss_file="ranked_motogp_feed.xml",
+    #     used_urls_file="used_urls_motogp.json",
+    #     debug_json_file="ranked_motogp_debug.json",
+    #     channel_title="Crash MotoGP Ranked Feed",
+    #     channel_link="https://www.crash.net/",
+    #     channel_description="Editorially ranked MotoGP RSS feed for newsletter consumption",
+    #     top_tier_keywords=[
+    #         "marquez",
+    #         "bagnaia",
+    #         "quartararo",
+    #         "martin",
+    #         "ducati",
+    #         "yamaha",
+    #         "honda",
+    #     ],  # PLACEHOLDER -- confirm final rider/team list
+    #     mid_tier_keywords=[
+    #         "qualifying",
+    #         "sprint",
+    #         "pole",
+    #         "podium",
+    #         "crash",
+    #         "penalty",
+    #     ],  # PLACEHOLDER
+    #     low_tier_keywords=[
+    #         "rookie",
+    #         "test",
+    #         "tyre",
+    #         "contract",
+    #         "rumour",
+    #     ],  # PLACEHOLDER
+    # ),
+]
+
 
 # ============================================================
 # HELPERS
@@ -196,8 +278,8 @@ def parse_pub_date(entry):
             except Exception:
                 pass
 
-    for field in ("published", "updated", "created"):
-        value = entry.get(field)
+    for field_name in ("published", "updated", "created"):
+        value = entry.get(field_name)
         if value:
             try:
                 dt = parsedate_to_datetime(value)
@@ -286,8 +368,8 @@ def extract_best_image(entry):
 
     possible_html_fields = []
 
-    for field in ("summary", "description"):
-        value = entry.get(field)
+    for field_name in ("summary", "description"):
+        value = entry.get(field_name)
         if value:
             possible_html_fields.append(value)
 
@@ -305,8 +387,8 @@ def extract_best_image(entry):
 
 
 def get_description_text(entry):
-    for field in ("summary", "description"):
-        value = entry.get(field)
+    for field_name in ("summary", "description"):
+        value = entry.get(field_name)
         if value:
             return strip_html(value)
 
@@ -339,76 +421,86 @@ def count_keyword_hits(text, keywords):
     return hits
 
 
-def score_item(item, now_utc, used_urls):
+# ============================================================
+# RANKING ENGINE (shared across all feeds)
+# ============================================================
+
+def score_item(item, now_utc, used_urls, config: FeedConfig):
     score = 0
     reasons = []
+    weights = config.weights
 
     combined_text = f"{item['title']} {item['description']}".strip().lower()
 
-    top_hits = count_keyword_hits(combined_text, TOP_TIER_KEYWORDS)
-    mid_hits = count_keyword_hits(combined_text, MID_TIER_KEYWORDS)
-    low_hits = count_keyword_hits(combined_text, LOW_TIER_KEYWORDS)
+    top_hits = count_keyword_hits(combined_text, config.top_tier_keywords)
+    mid_hits = count_keyword_hits(combined_text, config.mid_tier_keywords)
+    low_hits = count_keyword_hits(combined_text, config.low_tier_keywords)
 
     if top_hits:
-        added = top_hits * WEIGHTS["top_tier_keyword"]
+        added = top_hits * weights["top_tier_keyword"]
         score += added
         reasons.append(f"top-tier keywords x{top_hits} (+{added})")
 
     if mid_hits:
-        added = mid_hits * WEIGHTS["mid_tier_keyword"]
+        added = mid_hits * weights["mid_tier_keyword"]
         score += added
         reasons.append(f"mid-tier keywords x{mid_hits} (+{added})")
 
     if low_hits:
-        added = low_hits * WEIGHTS["low_tier_keyword"]
+        added = low_hits * weights["low_tier_keyword"]
         score += added
         reasons.append(f"low-tier keywords x{low_hits} (+{added})")
 
     if item["image_url"]:
-        score += WEIGHTS["has_image"]
-        reasons.append(f"has image (+{WEIGHTS['has_image']})")
+        score += weights["has_image"]
+        reasons.append(f"has image (+{weights['has_image']})")
 
     if item["pub_date"]:
         age = now_utc - item["pub_date"]
         age_hours = age.total_seconds() / 3600
 
-        if age_hours <= FRESH_HOURS:
-            score += WEIGHTS["recent_bonus"]
-            reasons.append(f"within {FRESH_HOURS}h (+{WEIGHTS['recent_bonus']})")
+        if age_hours <= config.fresh_hours:
+            score += weights["recent_bonus"]
+            reasons.append(f"within {config.fresh_hours}h (+{weights['recent_bonus']})")
 
             if age_hours <= 6:
-                score += WEIGHTS["very_recent_bonus"]
-                reasons.append(f"within 6h (+{WEIGHTS['very_recent_bonus']})")
+                score += weights["very_recent_bonus"]
+                reasons.append(f"within 6h (+{weights['very_recent_bonus']})")
 
-        elif FRESH_HOURS < age_hours <= STALE_HOURS:
-            score -= BETWEEN_18_AND_24H_PENALTY
-            reasons.append(f"between {FRESH_HOURS}-{STALE_HOURS}h (-{BETWEEN_18_AND_24H_PENALTY})")
+        elif config.fresh_hours < age_hours <= config.stale_hours:
+            score -= config.between_fresh_and_stale_penalty
+            reasons.append(
+                f"between {config.fresh_hours}-{config.stale_hours}h "
+                f"(-{config.between_fresh_and_stale_penalty})"
+            )
         else:
-            score -= OLDER_THAN_24H_PENALTY
-            reasons.append(f"older than {STALE_HOURS}h (-{OLDER_THAN_24H_PENALTY})")
+            score -= config.older_than_stale_penalty
+            reasons.append(f"older than {config.stale_hours}h (-{config.older_than_stale_penalty})")
     else:
         score -= 10
         reasons.append("missing pub date (-10)")
 
     title_len = len(item["title"])
     if 30 <= title_len <= 110:
-        score += WEIGHTS["title_length_good"]
-        reasons.append(f"good title length (+{WEIGHTS['title_length_good']})")
+        score += weights["title_length_good"]
+        reasons.append(f"good title length (+{weights['title_length_good']})")
     else:
-        score += WEIGHTS["title_length_bad"]
-        reasons.append(f"awkward title length ({WEIGHTS['title_length_bad']})")
+        score += weights["title_length_bad"]
+        reasons.append(f"awkward title length ({weights['title_length_bad']})")
 
     if item["link"] in used_urls:
-        score -= USED_URL_PENALTY
-        reasons.append(f"previously used URL (-{USED_URL_PENALTY})")
+        score -= config.used_url_penalty
+        reasons.append(f"previously used URL (-{config.used_url_penalty})")
 
     return score, reasons
 
 
-def deduplicate_and_rank(items, now_utc, used_urls, max_items):
+def deduplicate_and_rank(items, now_utc, used_urls, config: FeedConfig):
+    max_items = config.max_items
+
     scored = []
     for item in items:
-        score, reasons = score_item(item, now_utc, used_urls)
+        score, reasons = score_item(item, now_utc, used_urls, config)
         item["score"] = score
         item["score_reasons"] = reasons
         scored.append(item)
@@ -432,14 +524,15 @@ def deduplicate_and_rank(items, now_utc, used_urls, max_items):
         for existing_tokens in selected_title_tokens:
             sim = jaccard_similarity(tokens, existing_tokens)
             highest_similarity = max(highest_similarity, sim)
-            if sim >= TITLE_SIMILARITY_THRESHOLD:
+            if sim >= config.title_similarity_threshold:
                 similar_found = True
                 break
 
         if similar_found:
-            item["score"] -= DUPLICATE_TOPIC_PENALTY
+            item["score"] -= config.duplicate_topic_penalty
             item["score_reasons"].append(
-                f"duplicate-topic suppression ({highest_similarity:.2f}) (-{DUPLICATE_TOPIC_PENALTY})"
+                f"duplicate-topic suppression ({highest_similarity:.2f}) "
+                f"(-{config.duplicate_topic_penalty})"
             )
             if len(selected) < max_items // 2 and item["score"] > -900:
                 selected.append(item)
@@ -518,12 +611,12 @@ def build_description_html(item, include_images, summary_word_limit):
     return safe_summary
 
 
-def build_item_xml(item, include_images):
+def build_item_xml(item, include_images, config: FeedConfig):
     title = xml_escape(item["title"])
     link = xml_escape(item["link"])
     pub_date = xml_escape(format_rss_date(item["pub_date"]))
 
-    summary_word_limit = TOP_SUMMARY_WORDS if include_images else LOWER_SUMMARY_WORDS
+    summary_word_limit = config.top_summary_words if include_images else config.lower_summary_words
     description_html = build_description_html(item, include_images, summary_word_limit)
 
     parts = []
@@ -546,22 +639,22 @@ def build_item_xml(item, include_images):
     return "\n".join(parts)
 
 
-def build_rss_xml(channel_title, channel_link, channel_description, items):
+def build_rss_xml(config: FeedConfig, items):
     now_utc = datetime.now(timezone.utc)
 
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
     lines.append('<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">')
     lines.append("  <channel>")
-    lines.append(f"    <title>{xml_escape(channel_title)}</title>")
-    lines.append(f"    <link>{xml_escape(channel_link)}</link>")
-    lines.append(f"    <description>{xml_escape(channel_description)}</description>")
-    lines.append(f"    <language>{xml_escape(CHANNEL_LANGUAGE)}</language>")
+    lines.append(f"    <title>{xml_escape(config.channel_title)}</title>")
+    lines.append(f"    <link>{xml_escape(config.channel_link)}</link>")
+    lines.append(f"    <description>{xml_escape(config.channel_description)}</description>")
+    lines.append(f"    <language>{xml_escape(config.channel_language)}</language>")
     lines.append(f"    <lastBuildDate>{xml_escape(format_rss_date(now_utc))}</lastBuildDate>")
 
     for index, item in enumerate(items, start=1):
-        include_images = index <= TOP_IMAGE_ITEMS
-        lines.append(build_item_xml(item, include_images))
+        include_images = index <= config.top_image_items
+        lines.append(build_item_xml(item, include_images, config))
 
     lines.append("  </channel>")
     lines.append("</rss>")
@@ -570,230 +663,34 @@ def build_rss_xml(channel_title, channel_link, channel_description, items):
 
 
 # ============================================================
-# BUTTONDOWN DRAFT HTML
+# PER-FEED RUN
 # ============================================================
 
-def build_buttondown_subject():
-    if BUTTONDOWN_INCLUDE_DATE_IN_SUBJECT:
-        date_str = datetime.now().strftime("%d %b %Y")
-        return f"{BUTTONDOWN_SUBJECT_PREFIX} | {date_str}"
-    return BUTTONDOWN_SUBJECT_PREFIX
+def run_feed(config: FeedConfig):
+    print(f"\n=== Feed: {config.id} ===")
+    print(f"Fetching feed: {config.source_url}")
 
+    os.makedirs(os.path.dirname(config.output_rss_path), exist_ok=True)
+    os.makedirs(os.path.dirname(config.used_urls_path), exist_ok=True)
+    if config.write_debug_json:
+        os.makedirs(os.path.dirname(config.debug_json_path), exist_ok=True)
 
-def build_buttondown_email_html(items):
-    """
-    Generates safe-ish one-column HTML for email.
-    Top 5 are image-led.
-    6+ are text-led.
-    """
-    pieces = []
-    pieces.append("<!-- buttondown-editor-mode: fancy -->")
-    pieces.append('<div style="margin:0; padding:0; background:#f4f4f4;">')
-    pieces.append('<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100%; border-collapse:collapse; background:#f4f4f4;">')
-    pieces.append("<tr><td align=\"center\" style=\"padding:24px 12px;\">")
-
-    pieces.append('<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="max-width:600px; width:100%; border-collapse:collapse; background:#ffffff;">')
-
-    # Header
-    pieces.append("<tr>")
-    pieces.append('<td style="padding:24px 24px 12px 24px; font-family:Arial, Helvetica, sans-serif; font-size:28px; line-height:32px; font-weight:700; color:#111111;">')
-    pieces.append("Crash F1 Briefing")
-    pieces.append("</td>")
-    pieces.append("</tr>")
-
-    pieces.append("<tr>")
-    pieces.append('<td style="padding:0 24px 24px 24px; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; color:#555555;">')
-    pieces.append(html.escape(BUTTONDOWN_INTRO_TEXT))
-    pieces.append("</td>")
-    pieces.append("</tr>")
-
-    # Top 5
-    top_items = items[:TOP_IMAGE_ITEMS]
-    lower_items = items[TOP_IMAGE_ITEMS:]
-
-    if top_items:
-        pieces.append("<tr>")
-        pieces.append('<td style="padding:0 24px 12px 24px; font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:13px; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:#c8102e;">')
-        pieces.append("Top stories")
-        pieces.append("</td>")
-        pieces.append("</tr>")
-
-    for idx, item in enumerate(top_items, start=1):
-        title = html.escape(item["title"])
-        link = html.escape(item["link"])
-        summary = html.escape(trim_words(item.get("description", ""), TOP_SUMMARY_WORDS))
-        image_url = item.get("image_url")
-
-        pieces.append("<tr>")
-        pieces.append('<td style="padding:0 24px 24px 24px;">')
-
-        if image_url:
-            image_url_escaped = html.escape(image_url)
-            pieces.append(
-                f'<a href="{link}" style="text-decoration:none;">'
-                f'<img src="{image_url_escaped}" alt="" style="display:block; width:100%; height:auto; border:0; margin:0 0 14px 0;" />'
-                f'</a>'
-            )
-
-        pieces.append(
-            f'<div style="font-family:Arial, Helvetica, sans-serif; font-size:24px; line-height:30px; font-weight:700; color:#111111; margin:0 0 10px 0;">'
-            f'<a href="{link}" style="color:#111111; text-decoration:none;">{title}</a>'
-            f'</div>'
-        )
-
-        if summary:
-            pieces.append(
-                f'<div style="font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; color:#444444; margin:0 0 12px 0;">'
-                f'{summary}'
-                f'</div>'
-            )
-
-        pieces.append(
-            f'<div style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; font-weight:700;">'
-            f'<a href="{link}" style="color:#c8102e; text-decoration:none;">Read more</a>'
-            f'</div>'
-        )
-
-        pieces.append("</td>")
-        pieces.append("</tr>")
-
-        if idx < len(top_items):
-            pieces.append("<tr>")
-            pieces.append('<td style="padding:0 24px 24px 24px;">')
-            pieces.append('<div style="border-top:1px solid #e5e5e5; line-height:1px; font-size:1px;">&nbsp;</div>')
-            pieces.append("</td>")
-            pieces.append("</tr>")
-
-    # More news
-    if lower_items:
-        pieces.append("<tr>")
-        pieces.append('<td style="padding:8px 24px 12px 24px; font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:13px; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:#c8102e;">')
-        pieces.append("More news")
-        pieces.append("</td>")
-        pieces.append("</tr>")
-
-    for item in lower_items:
-        title = html.escape(item["title"])
-        link = html.escape(item["link"])
-        summary = html.escape(trim_words(item.get("description", ""), LOWER_SUMMARY_WORDS))
-
-        pieces.append("<tr>")
-        pieces.append('<td style="padding:0 24px 16px 24px;">')
-        pieces.append(
-            f'<div style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:24px; font-weight:700; color:#111111; margin:0 0 6px 0;">'
-            f'<a href="{link}" style="color:#111111; text-decoration:none;">{title}</a>'
-            f'</div>'
-        )
-
-        if summary:
-            pieces.append(
-                f'<div style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; color:#555555; margin:0;">'
-                f'{summary}'
-                f'</div>'
-            )
-
-        pieces.append("</td>")
-        pieces.append("</tr>")
-        pieces.append("<tr>")
-        pieces.append('<td style="padding:0 24px 16px 24px;">')
-        pieces.append('<div style="border-top:1px solid #eeeeee; line-height:1px; font-size:1px;">&nbsp;</div>')
-        pieces.append("</td>")
-        pieces.append("</tr>")
-
-    # Footer
-    pieces.append("<tr>")
-    pieces.append('<td style="padding:12px 24px 24px 24px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#777777;">')
-    pieces.append(html.escape(BUTTONDOWN_FOOTER_TEXT))
-    pieces.append("</td>")
-    pieces.append("</tr>")
-
-    pieces.append("</table>")
-    pieces.append("</td></tr></table>")
-    pieces.append("</div>")
-
-    return "".join(pieces)
-
-
-def create_buttondown_draft(items):
-    api_key = BUTTONDOWN_API_KEY or os.getenv("BUTTONDOWN_API_KEY", "").strip()
-
-    if not api_key:
-        print("Buttondown draft skipped: no API key configured.")
-        return None
-
-    if len(items) < BUTTONDOWN_MIN_ITEMS:
-        print(f"Buttondown draft skipped: only {len(items)} ranked items, minimum is {BUTTONDOWN_MIN_ITEMS}.")
-        return None
-
-    subject = build_buttondown_subject()
-    body_html = build_buttondown_email_html(items)
-
-    first_image = ""
-    for item in items[:TOP_IMAGE_ITEMS]:
-        if item.get("image_url"):
-            first_image = item["image_url"]
-            break
-
-    payload = {
-        "subject": subject,
-        "body": body_html,
-        "description": "Automated draft generated from ranked RSS items.",
-        "email_type": BUTTONDOWN_EMAIL_TYPE,
-        "archival_mode": BUTTONDOWN_ARCHIVAL_MODE,
-        "commenting_mode": BUTTONDOWN_COMMENTING_MODE,
-        "review_mode": BUTTONDOWN_REVIEW_MODE,
-        "image": first_image,
-        "metadata": {
-            "source_feed": SOURCE_RSS_URL,
-            "generated_at_utc": datetime.now(timezone.utc).isoformat(),
-            "item_count": len(items),
-            "generator": "ranked_rss_builder.py"
-        },
-        # Draft-only: do not set publish_date, do not send
-        "status": "draft",
-    }
-
-    headers = {
-        "Authorization": f"Token {api_key}",
-        "Content-Type": "application/json",
-    }
-
-    response = requests.post(BUTTONDOWN_API_URL, headers=headers, json=payload, timeout=30)
-
-    if response.status_code not in (200, 201):
-        raise RuntimeError(
-            f"Buttondown draft creation failed. Status {response.status_code}. Response: {response.text}"
-        )
-
-    return response.json()
-
-
-# ============================================================
-# MAIN
-# ============================================================
-
-def main():
-    os.makedirs(os.path.dirname(OUTPUT_RSS_FILE), exist_ok=True)
-    os.makedirs(os.path.dirname(USED_URLS_FILE), exist_ok=True)
-    if WRITE_DEBUG_JSON:
-        os.makedirs(os.path.dirname(DEBUG_JSON_FILE), exist_ok=True)
-
-    print(f"Fetching feed: {SOURCE_RSS_URL}")
-    used_urls = load_used_urls(USED_URLS_FILE)
+    used_urls = load_used_urls(config.used_urls_path)
 
     try:
-        parsed_feed = fetch_and_parse_feed(SOURCE_RSS_URL)
+        parsed_feed = fetch_and_parse_feed(config.source_url)
     except requests.RequestException as e:
-        print(f"ERROR: Could not fetch source feed: {e}")
+        print(f"ERROR [{config.id}]: Could not fetch source feed: {e}")
         return
     except Exception as e:
-        print(f"ERROR: Could not parse source feed: {e}")
+        print(f"ERROR [{config.id}]: Could not parse source feed: {e}")
         return
 
     items = convert_entries_to_items(parsed_feed)
+    usable_item_count = len(items)
 
     if not items:
-        print("ERROR: No usable items found in the source feed.")
+        print(f"ERROR [{config.id}]: No usable items found in the source feed.")
         return
 
     now_utc = datetime.now(timezone.utc)
@@ -801,32 +698,27 @@ def main():
         items=items,
         now_utc=now_utc,
         used_urls=used_urls,
-        max_items=MAX_ITEMS,
+        config=config,
     )
 
-    rss_xml = build_rss_xml(
-        channel_title=CHANNEL_TITLE,
-        channel_link=CHANNEL_LINK,
-        channel_description=CHANNEL_DESCRIPTION,
-        items=ranked_items,
-    )
+    rss_xml = build_rss_xml(config=config, items=ranked_items)
 
     try:
-        with open(OUTPUT_RSS_FILE, "w", encoding="utf-8", newline="\n") as f:
+        with open(config.output_rss_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(rss_xml)
     except Exception as e:
-        print(f"ERROR: Could not write RSS file: {e}")
+        print(f"ERROR [{config.id}]: Could not write RSS file: {e}")
         return
 
     selected_urls = [item["link"] for item in ranked_items]
     merged_used_urls = set(used_urls).union(selected_urls)
 
     try:
-        save_used_urls(USED_URLS_FILE, merged_used_urls)
+        save_used_urls(config.used_urls_path, merged_used_urls)
     except Exception as e:
-        print(f"WARNING: RSS written, but could not save used URLs file: {e}")
+        print(f"WARNING [{config.id}]: RSS written, but could not save used URLs file: {e}")
 
-    if WRITE_DEBUG_JSON:
+    if config.write_debug_json:
         try:
             debug_payload = []
             for idx, item in enumerate(ranked_items, start=1):
@@ -839,18 +731,21 @@ def main():
                     "score": item.get("score"),
                     "score_reasons": item.get("score_reasons", []),
                 })
-            with open(DEBUG_JSON_FILE, "w", encoding="utf-8") as f:
+            with open(config.debug_json_path, "w", encoding="utf-8") as f:
                 json.dump(debug_payload, f, indent=2, ensure_ascii=False)
-            print(f"Debug JSON saved to: {os.path.abspath(DEBUG_JSON_FILE)}")
         except Exception as e:
-            print(f"WARNING: Could not write debug JSON: {e}")
+            print(f"WARNING [{config.id}]: Could not write debug JSON: {e}")
 
-    print(f"Done. Wrote ranked RSS to: {OUTPUT_RSS_FILE}")
-    print(f"Stored used URLs in: {USED_URLS_FILE}")
+    print(f"Feed:   {config.id}")
+    print(f"Source: {config.source_url}")
+    print(f"Output: {config.output_rss_path}")
+    print(f"Usable source items: {usable_item_count}")
+    print(f"Ranked output items:  {len(ranked_items)}")
+    if config.write_debug_json:
+        print(f"Debug JSON: {config.debug_json_path}")
+    print(f"Used URLs file: {config.used_urls_path}")
 
-    if WRITE_DEBUG_JSON:
-        print(f"Wrote debug JSON to: {DEBUG_JSON_FILE}")
-
+    print("\nTop ranked items:")
     for i, item in enumerate(ranked_items[:10], start=1):
         age_text = "unknown age"
         if item["pub_date"]:
@@ -865,20 +760,18 @@ def main():
         print(f"   Reasons: {', '.join(item.get('score_reasons', []))}")
         print()
 
-    if ENABLE_BUTTONDOWN_DRAFT:
-        try:
-            result = create_buttondown_draft(ranked_items)
-            if result:
-                print("Buttondown draft created successfully.")
-                print(f"Buttondown email ID: {result.get('id')}")
-                print(f"Buttondown status: {result.get('status')}")
-                print(f"Buttondown subject: {result.get('subject')}")
-                if result.get("absolute_url"):
-                    print(f"Buttondown URL: {result.get('absolute_url')}")
-        except Exception as e:
-            print(f"WARNING: RSS succeeded, but Buttondown draft creation failed: {e}")
-    else:
-        print("Buttondown draft creation is disabled.")
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main():
+    if not FEEDS:
+        print("No feeds configured. Add at least one FeedConfig to FEEDS.")
+        return
+
+    for config in FEEDS:
+        run_feed(config)
 
 
 if __name__ == "__main__":

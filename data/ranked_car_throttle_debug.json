@@ -1,6 +1,47 @@
 [
   {
     "position": 1,
+    "title": "How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry",
+    "link": "https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations",
+    "pub_date": "2026-07-10T14:24:50+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/671442.jpg?width=1200",
+    "score": 35,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "Five Reasons to Head to the 2026 Hagerty Festival of the Unexceptional",
+    "link": "https://www.carthrottle.com/news/five-reasons-head-2026-hagerty-festival-unexceptional",
+    "pub_date": "2026-07-10T11:28:41+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/dji_fly_20240727_143932_731_1722087621685_photo_optimized-scaled.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "All the Big Reveals at the 2026 Goodwood Festival of Speed",
+    "link": "https://www.carthrottle.com/news/all-big-reveals-2026-goodwood-festival-speed",
+    "pub_date": "2026-07-10T10:57:51+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/18153-ns-mclaren-788hs-coupe-01-final.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
     "title": "The Clarke CTT130 Tool & Parts Trolley is your New Workshop Best Friend",
     "link": "https://www.carthrottle.com/news/clarke-ctt130-tool-parts-trolley-your-new-workshop-best-friend",
     "pub_date": "2026-07-07T15:54:27+00:00",
@@ -14,7 +55,7 @@
     ]
   },
   {
-    "position": 2,
+    "position": 5,
     "title": "The Clarke Monza Portable Air Compressor is Perfect for Getting you Pumped",
     "link": "https://www.carthrottle.com/news/clarke-monza-portable-air-compressor-perfect-getting-you-pumped",
     "pub_date": "2026-07-07T15:50:13+00:00",
@@ -28,35 +69,7 @@
     ]
   },
   {
-    "position": 3,
-    "title": "The Finished McMurtry Spéirling Pure Fan Car is Here with 1,000bhp",
-    "link": "https://www.carthrottle.com/news/finished-mcmurtry-speirling-pure-fan-car-here-1000bhp",
-    "pub_date": "2026-07-02T12:49:21+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/6-mcmurtry-speirling-track-hero-2_0.jpg?width=1200",
-    "score": -4,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "10 Fast Used SUVs You can Buy for Under £10,000",
-    "link": "https://www.carthrottle.com/news/10-fast-used-suvs-you-can-buy-under-ps10000",
-    "pub_date": "2026-07-02T11:37:43+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/the_audi_sq5_tdi.jpg?width=1200",
-    "score": -4,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 5,
+    "position": 6,
     "title": "Neuroscientist Says Driving a Manual Contributes to Brain Health",
     "link": "https://www.carthrottle.com/news/neuroscientist-says-driving-manual-contributes-brain-health",
     "pub_date": "2026-06-30T11:34:10+00:00",
@@ -71,7 +84,35 @@
     ]
   },
   {
-    "position": 6,
+    "position": 7,
+    "title": "The Finished McMurtry Spéirling Pure Fan Car is Here with 1,000bhp",
+    "link": "https://www.carthrottle.com/news/finished-mcmurtry-speirling-pure-fan-car-here-1000bhp",
+    "pub_date": "2026-07-02T12:49:21+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/6-mcmurtry-speirling-track-hero-2_0.jpg?width=1200",
+    "score": -34,
+    "score_reasons": [
+      "has image (+4)",
+      "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "10 Fast Used SUVs You can Buy for Under £10,000",
+    "link": "https://www.carthrottle.com/news/10-fast-used-suvs-you-can-buy-under-ps10000",
+    "pub_date": "2026-07-02T11:37:43+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/the_audi_sq5_tdi.jpg?width=1200",
+    "score": -34,
+    "score_reasons": [
+      "has image (+4)",
+      "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 9,
     "title": "Cars, Food and the Best Midweek Vibes Await at the Next Hagerty Hangout",
     "link": "https://www.carthrottle.com/news/cars-food-and-best-midweek-vibes-await-next-hagerty-hangout",
     "pub_date": "2026-06-30T15:17:15+00:00",
@@ -85,7 +126,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 10,
     "title": "Don’t Fuel Around: The Clarke CHT713 Makes Fuel Pressure Testing Easy",
     "link": "https://www.carthrottle.com/news/dont-fuel-around-clarke-cht713-makes-fuel-pressure-testing-easy",
     "pub_date": "2026-06-30T13:08:47+00:00",
@@ -99,7 +140,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 11,
     "title": "Soften Things Up with Clarke’s AFF-1 Anti Fatigue Foam Floor Tiles",
     "link": "https://www.carthrottle.com/news/soften-things-clarkes-aff-1-anti-fatigue-foam-floor-tiles",
     "pub_date": "2026-06-30T13:04:06+00:00",
@@ -113,53 +154,11 @@
     ]
   },
   {
-    "position": 9,
+    "position": 12,
     "title": "Everything to Look Out for at the 2026 Goodwood Festival of Speed",
     "link": "https://www.carthrottle.com/news/everything-look-out-2026-goodwood-festival-speed",
     "pub_date": "2026-06-30T09:50:56+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/sf90-xx-spider-2025_fos_lq_fri-1282-2.jpg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "The Best Used Hot Hatches to Suit Every Budget",
-    "link": "https://www.carthrottle.com/news/best-used-hot-hatches-suit-every-budget",
-    "pub_date": "2026-06-25T11:15:03+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/focus_rs-rhd_.jpg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Production Version of Unhinged 1,000bhp McMurtry Spéirling Teased",
-    "link": "https://www.carthrottle.com/news/production-version-unhinged-1000bhp-mcmurtry-speirling-teased",
-    "pub_date": "2026-06-25T08:20:42+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/landscape-speirling-production-car-teaser.jpeg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "We’ll Finally See the Internet-Breaking Jaguar Type 01 in October",
-    "link": "https://www.carthrottle.com/news/well-finally-see-internet-breaking-jaguar-type-01-october",
-    "pub_date": "2026-06-24T14:49:44+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/type01_side_roller_16x9-2.jpg?width=1200",
     "score": -34,
     "score_reasons": [
       "has image (+4)",
@@ -186,58 +185,6 @@
   },
   {
     "position": 14,
-    "title": "Nürburgring 24 Hours: Everything You Need To Know",
-    "link": "https://www.carthrottle.com/news/nurburgring-24-hours-everything-you-need-know",
-    "pub_date": "2026-05-14T11:50:00+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-05/2-biggest-grid-n24-qualifiers-2026-2.JPG?width=1200",
-    "score": -94,
-    "score_reasons": [
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "VW Built a Polo R in 2012, and You’ve Probably Never Heard of it",
-    "link": "https://www.carthrottle.com/news/vw-built-polo-r-2012-and-youve-probably-never-heard-it",
-    "pub_date": "2026-05-12T10:23:47+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-05/volkswagen-polo-r-wrc-street-front.jpg?width=1200",
-    "score": -94,
-    "score_reasons": [
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 16,
-    "title": "10 Cool Hot Hatches that Were Never Sold in the UK",
-    "link": "https://www.carthrottle.com/news/10-cool-hot-hatches-were-never-sold-uk",
-    "pub_date": "2026-05-05T11:05:47+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-05/honda-civic-type-r-ek9-front.jpg?width=1200",
-    "score": -94,
-    "score_reasons": [
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 17,
-    "title": "Cadillac F1 Team Unveils a One-Off Special Livery for the Miami GP",
-    "link": "https://www.carthrottle.com/news/cadillac-f1-team-unveil-one-special-livery-miami-gp",
-    "pub_date": "2026-04-28T19:36:12+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-04/cadillacf1team_6592_hires-copy.jpg?width=1200",
-    "score": -94,
-    "score_reasons": [
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 18,
     "title": "The Sanrivatti Hypercar Will Seat its Driver Like a Motorbike",
     "link": "https://www.carthrottle.com/news/sanrivatti-hypercar-will-seat-its-driver-motorbike",
     "pub_date": "2026-06-24T08:10:19+00:00",
@@ -253,7 +200,7 @@
     ]
   },
   {
-    "position": 19,
+    "position": 15,
     "title": "Alfa Romeo Once Built a Bizarre MotoGP-Inspired Diesel Hot Hatch",
     "link": "https://www.carthrottle.com/news/alfa-romeo-once-built-bizarre-motogp-inspired-diesel-hot-hatch",
     "pub_date": "2026-05-27T15:30:48+00:00",
@@ -269,7 +216,7 @@
     ]
   },
   {
-    "position": 20,
+    "position": 16,
     "title": "Alfa Romeo is Getting Back into the Hatchback Market",
     "link": "https://www.carthrottle.com/news/alfa-romeo-getting-back-hatchback-market",
     "pub_date": "2026-05-27T11:54:52+00:00",
@@ -278,6 +225,67 @@
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 336h (-100)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 17,
+    "title": "The Three-Pedal, RWD BMW M3 CS Handschalter is Sweet Forbidden Fruit",
+    "link": "https://www.carthrottle.com/news/three-pedal-rwd-bmw-m3-cs-handschalter-sweet-forbidden-fruit",
+    "pub_date": "2026-05-19T08:37:59+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-05/p90641062_highres_the-bmw-m3-cs-handsc.jpg?width=1200",
+    "score": -95,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 336h (-100)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 18,
+    "title": "Aston Martin DB12 S Review: How Much Difference does One Letter Make?",
+    "link": "https://www.carthrottle.com/reviews/aston-martin/aston-martin-db12-s-review-how-much-difference-does-one-letter-make",
+    "pub_date": "2026-05-05T23:01:00+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-05/astonmartindb12s-c-photomaxearey-0832-2.jpg?width=1200",
+    "score": -95,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 336h (-100)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 19,
+    "title": "The 10 Coolest Kei Cars Ever",
+    "link": "https://www.carthrottle.com/news/10-coolest-kei-cars-ever",
+    "pub_date": "2026-05-14T10:35:46+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-03/honda-beat.jpg?width=1200",
+    "score": -98,
+    "score_reasons": [
+      "has image (+4)",
+      "older than 336h (-100)",
+      "awkward title length (-2)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "Theon’s Latest Porsche 911 Restomod is a Carbon-Bodied Masterpiece",
+    "link": "https://www.carthrottle.com/news/theons-latest-porsche-911-restomod-carbon-bodied-masterpiece",
+    "pub_date": "2026-06-04T13:10:51+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/theon1.jpg?width=1200",
+    "score": -99,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "older than 336h (-100)",
       "good title length (+2)",

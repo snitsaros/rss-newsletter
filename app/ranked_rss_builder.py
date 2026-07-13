@@ -123,6 +123,38 @@ class FeedConfig:
 
 FEEDS = [
     FeedConfig(
+        id="car_throttle",
+        source_url="https://www.carthrottle.com/rss",
+        output_rss_file="ranked_car_throttle_feed.xml",
+        used_urls_file="used_urls_car_throttle.json",
+        debug_json_file="ranked_car_throttle_debug.json",
+        channel_title="Car Throttle Ranked Feed",
+        channel_link="https://www.carthrottle.com/",
+        channel_description="Editorially ranked Car Throttle RSS feed for newsletter consumption",
+        fresh_hours=168,
+        stale_hours=336,
+        used_url_penalty=20,
+        top_tier_keywords=[
+            "bmw", "mercedes", "mercedes-amg", "audi", "porsche", "volkswagen",
+            "ford", "toyota", "honda", "tesla", "ferrari", "lamborghini",
+            "mclaren", "aston martin", "alfa romeo", "hyundai", "kia",
+            "mazda", "renault", "peugeot", "citroen", "skoda", "seat",
+            "cupra", "volvo", "polestar", "lotus",
+        ],
+        mid_tier_keywords=[
+            "review", "new car", "electric car", "ev", "hybrid", "hot hatch",
+            "supercar", "hypercar", "sports car", "suv", "estate",
+            "hatchback", "saloon", "coupe", "manual", "turbo",
+            "v8", "v6", "inline-six", "track test", "road test",
+        ],
+        low_tier_keywords=[
+            "used car", "buying guide", "cheap", "reliable", "modified",
+            "project car", "classic", "barn find", "auction", "restomod",
+            "drift", "mot", "insurance", "recall", "concept", "spy shots",
+        ],
+    ),
+
+    FeedConfig(
         id="f1",
         source_url="https://www.crash.net/rss/f1",
         output_rss_file="ranked_f1_feed.xml",
@@ -131,85 +163,154 @@ FEEDS = [
         channel_title="Crash F1 Ranked Feed",
         channel_link="https://www.crash.net/",
         channel_description="Editorially ranked F1 RSS feed for newsletter consumption",
+        fresh_hours=18,
+        stale_hours=24,
         top_tier_keywords=[
-            "verstappen",
-            "hamilton",
-            "leclerc",
-            "norris",
-            "piastri",
-            "russell",
-            "alonso",
-            "ferrari",
-            "red bull",
-            "mercedes",
-            "mclaren",
+            "verstappen", "hamilton", "leclerc", "norris", "piastri",
+            "russell", "alonso", "antonelli", "ferrari", "red bull",
+            "mercedes", "mclaren",
         ],
         mid_tier_keywords=[
-            "suzuka",
-            "japanese gp",
-            "fia",
-            "qualifying",
-            "grid penalty",
-            "crash",
-            "pole",
-            "podium",
-            "practice",
-            "team principal",
-            "stewards",
-            "disqualified",
+            "fia", "qualifying", "pole", "podium", "sprint", "grand prix",
+            "grid penalty", "penalty", "stewards", "crash", "practice",
+            "team principal", "driver market", "contract", "protest",
+            "disqualified", "appeal", "investigation",
         ],
         low_tier_keywords=[
-            "rookie",
-            "reserve",
-            "test",
-            "tyre",
-            "strategy",
-            "upgrade",
-            "contract",
-            "rumour",
+            "rookie", "reserve", "test", "tyre", "tire", "strategy",
+            "upgrade", "rumour", "rumor", "simulator", "wind tunnel",
+            "floor", "aero", "power unit",
         ],
     ),
 
-    # ------------------------------------------------------------
-    # PLACEHOLDER EXAMPLE -- replace source_url and keyword buckets
-    # with confirmed values before enabling. This shows the shape a
-    # second feed config should take; add more entries the same way
-    # for each additional newsletter (six, seven, or more).
-    # ------------------------------------------------------------
-    # FeedConfig(
-    #     id="motogp",
-    #     source_url="https://www.crash.net/rss/motogp",  # PLACEHOLDER -- confirm real feed URL
-    #     output_rss_file="ranked_motogp_feed.xml",
-    #     used_urls_file="used_urls_motogp.json",
-    #     debug_json_file="ranked_motogp_debug.json",
-    #     channel_title="Crash MotoGP Ranked Feed",
-    #     channel_link="https://www.crash.net/",
-    #     channel_description="Editorially ranked MotoGP RSS feed for newsletter consumption",
-    #     top_tier_keywords=[
-    #         "marquez",
-    #         "bagnaia",
-    #         "quartararo",
-    #         "martin",
-    #         "ducati",
-    #         "yamaha",
-    #         "honda",
-    #     ],  # PLACEHOLDER -- confirm final rider/team list
-    #     mid_tier_keywords=[
-    #         "qualifying",
-    #         "sprint",
-    #         "pole",
-    #         "podium",
-    #         "crash",
-    #         "penalty",
-    #     ],  # PLACEHOLDER
-    #     low_tier_keywords=[
-    #         "rookie",
-    #         "test",
-    #         "tyre",
-    #         "contract",
-    #         "rumour",
-    #     ],  # PLACEHOLDER
-    # ),
+    FeedConfig(
+        id="motogp",
+        source_url="https://www.crash.net/rss/motogp",
+        output_rss_file="ranked_motogp_feed.xml",
+        used_urls_file="used_urls_motogp.json",
+        debug_json_file="ranked_motogp_debug.json",
+        channel_title="Crash MotoGP Ranked Feed",
+        channel_link="https://www.crash.net/",
+        channel_description="Editorially ranked MotoGP RSS feed for newsletter consumption",
+        fresh_hours=18,
+        stale_hours=24,
+        top_tier_keywords=[
+            "marc marquez", "alex marquez", "bagnaia", "francesco bagnaia",
+            "jorge martin", "martin", "acosta", "pedro acosta",
+            "quartararo", "fabio quartararo", "ducati", "yamaha",
+            "honda", "ktm", "aprilia",
+        ],
+        mid_tier_keywords=[
+            "qualifying", "pole", "podium", "sprint", "grand prix",
+            "crash", "injury", "penalty", "stewards", "testing",
+            "contract", "factory", "satellite", "ride", "seat",
+            "tyre", "michelin", "concessions",
+        ],
+        low_tier_keywords=[
+            "rookie", "moto2", "moto3", "wildcard", "wild-card",
+            "reserve", "aero", "chassis", "setup", "engine",
+            "rumour", "rumor", "testing",
+        ],
+    ),
+
+    FeedConfig(
+        id="golfmagic_news",
+        source_url="https://www.golfmagic.com/rss/article",
+        output_rss_file="ranked_golfmagic_news_feed.xml",
+        used_urls_file="used_urls_golfmagic_news.json",
+        debug_json_file="ranked_golfmagic_news_debug.json",
+        channel_title="GolfMagic News Ranked Feed",
+        channel_link="https://www.golfmagic.com/",
+        channel_description="Editorially ranked GolfMagic news RSS feed for newsletter consumption",
+        fresh_hours=48,
+        stale_hours=96,
+        top_tier_keywords=[
+            "rory mcilroy", "scottie scheffler", "tiger woods",
+            "bryson dechambeau", "jon rahm", "brooks koepka",
+            "xander schauffele", "collin morikawa", "viktor hovland",
+            "ludvig aberg", "tommy fleetwood", "justin rose",
+            "shane lowry", "tyrrell hatton", "matt fitzpatrick",
+            "liv golf", "pga tour", "dp world tour", "masters",
+            "the open", "open championship", "us open", "pga championship",
+            "ryder cup", "presidents cup",
+        ],
+        mid_tier_keywords=[
+            "the players", "fedex cup", "fedexcup", "race to dubai",
+            "genesis scottish open", "arnold palmer invitational",
+            "memorial tournament", "tour championship", "bmw championship",
+            "leaderboard", "playoff", "winner", "major", "world ranking",
+            "official world golf ranking", "prize money", "cut", "withdraws",
+            "injury", "rules", "controversy", "ban", "fine",
+        ],
+        low_tier_keywords=[
+            "tee times", "caddie", "swing", "course", "handicap",
+            "golf tips", "qualifying", "amateur", "challenge tour",
+            "solheim cup", "women's open", "lpga", "let",
+        ],
+    ),
+
+    FeedConfig(
+        id="golfmagic_reviews",
+        source_url="https://www.golfmagic.com/rss/equipment_review",
+        output_rss_file="ranked_golfmagic_reviews_feed.xml",
+        used_urls_file="used_urls_golfmagic_reviews.json",
+        debug_json_file="ranked_golfmagic_reviews_debug.json",
+        channel_title="GolfMagic Reviews Ranked Feed",
+        channel_link="https://www.golfmagic.com/",
+        channel_description="Editorially ranked GolfMagic equipment review RSS feed for newsletter consumption",
+        fresh_hours=168,
+        stale_hours=336,
+        top_tier_keywords=[
+            "taylormade", "titleist", "callaway", "ping", "mizuno",
+            "cobra", "srixon", "cleveland", "wilson", "pxg",
+            "odyssey", "scotty cameron", "footjoy", "galvin green",
+            "motocaddy", "powakaddy", "garmin", "bushnell", "shot scope",
+            "skytrak", "arccos",
+        ],
+        mid_tier_keywords=[
+            "driver", "fairway wood", "hybrid", "irons", "wedges",
+            "putter", "golf balls", "rangefinder", "gps watch",
+            "launch monitor", "electric trolley", "trolley", "golf shoes",
+            "golf bag", "waterproofs", "waterproof jacket",
+        ],
+        low_tier_keywords=[
+            "forgiving", "distance", "spin", "shaft", "fitting",
+            "comparison", "premium", "budget", "deal", "best",
+            "tested", "new", "launch", "apparel", "glove",
+            "training aid", "accessories",
+        ],
+    ),
+
+    FeedConfig(
+        id="visordown",
+        source_url="https://www.visordown.com/rss",
+        output_rss_file="ranked_visordown_feed.xml",
+        used_urls_file="used_urls_visordown.json",
+        debug_json_file="ranked_visordown_debug.json",
+        channel_title="Visordown Ranked Feed",
+        channel_link="https://www.visordown.com/",
+        channel_description="Editorially ranked Visordown RSS feed for newsletter consumption",
+        fresh_hours=72,
+        stale_hours=168,
+        top_tier_keywords=[
+            "honda", "yamaha", "kawasaki", "suzuki", "ducati",
+            "bmw", "triumph", "ktm", "aprilia", "harley-davidson",
+            "harley davidson", "royal enfield", "indian", "moto guzzi",
+            "norton", "cfmoto", "benelli", "benda", "piaggio", "vespa",
+        ],
+        mid_tier_keywords=[
+            "review", "new motorcycle", "motorcycle", "bike", "superbike",
+            "sportsbike", "adventure bike", "touring", "naked bike",
+            "retro", "scooter", "electric motorcycle", "a2 licence",
+            "licence", "price", "specs", "launched", "revealed",
+            "spy shots", "concept", "patent",
+        ],
+        low_tier_keywords=[
+            "helmet", "jacket", "gloves", "boots", "luggage",
+            "accessories", "insurance", "recall", "custom", "moped",
+            "commuter", "learner", "125cc", "eicma", "intermot",
+        ],
+    ),
 ]
 
 
@@ -221,6 +322,34 @@ def normalise_whitespace(text):
     if not text:
         return ""
     return re.sub(r"\s+", " ", text).strip()
+
+
+# RSS feeds occasionally arrive with mojibake: UTF-8 bytes that were
+# decoded once as Latin-1/cp1252 before being re-encoded as UTF-8.
+# A curly apostrophe (U+2019, bytes 0xE2 0x80 0x99) corrupted this way
+# turns into three separate codepoints: U+00E2, U+0080, U+0099.
+_MOJIBAKE_PATTERN = re.compile(r"[ÂÃ][-¿]")
+
+
+def clean_text(text):
+    if not text:
+        return text
+
+    if _MOJIBAKE_PATTERN.search(text):
+        try:
+            repaired = text.encode("latin-1").decode("utf-8")
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            repaired = None
+        if repaired and not _MOJIBAKE_PATTERN.search(repaired):
+            text = repaired
+
+    # Bytes that were already unrecoverable show up as the Unicode
+    # replacement character (U+FFFD). In these feeds that is almost
+    # always a lost apostrophe, so fill it back in rather than
+    # leaving a gap.
+    text = text.replace("�", "'")
+
+    return text
 
 
 def strip_html(text):
@@ -575,14 +704,14 @@ def convert_entries_to_items(parsed_feed):
     items = []
 
     for entry in parsed_feed.entries:
-        title = normalise_whitespace(entry.get("title", "")).strip()
+        title = clean_text(normalise_whitespace(entry.get("title", "")).strip())
         link = normalise_whitespace(entry.get("link", "")).strip()
 
         if not title or not link:
             continue
 
         pub_date = parse_pub_date(entry)
-        description = get_description_text(entry)
+        description = clean_text(get_description_text(entry))
         image_url = extract_best_image(entry)
 
         items.append({

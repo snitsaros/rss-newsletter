@@ -5,6 +5,7 @@
     <link>https://www.crash.net/</link>
     <description>Editorially ranked F1 RSS feed for newsletter consumption</description>
     <language>en-gb</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 13 Jul 2026 09:46:25 +0000</lastBuildDate>
     <item>
       <title>Ex-F1 driver secures first WEC win as BMW triumphs at 6 Hours of Sao Paulo</title>
@@ -43,6 +44,10 @@
       <media:content url="https://www.crash.net/sites/default/files/2026-04/xpb_1394122_hires.jpg?width=1200" medium="image" type="image/jpeg" />
     </item>
     <item>
+=======
+    <lastBuildDate>Wed, 08 Jul 2026 09:34:44 +0000</lastBuildDate>
+    <item>
+>>>>>>> 54ea04a (Add ranked RSS configs for newsletter feeds)
       <title>Red Bull and Ferrari ‘Macarena’ F1 wings face FIA scrutiny after Max Verstappen crashes</title>
       <link>https://www.crash.net/f1/news/1100416/1/red-bull-and-ferrari-macarena-f1-wings-face-fia-scrutiny-after-max-verstappen</link>
       <guid isPermaLink="true">https://www.crash.net/f1/news/1100416/1/red-bull-and-ferrari-macarena-f1-wings-face-fia-scrutiny-after-max-verstappen</guid>
@@ -50,6 +55,7 @@
       <description><![CDATA[<img src="https://www.crash.net/sites/default/files/2026-07/xpb_1424479_hires.jpg?width=1200" alt="" /><p>The FIA is in discussions with Red Bull and Ferrari over their rotating rear wing solutions following Max Verstappen crashes.</p>]]></description>
       <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1424479_hires.jpg?width=1200" type="image/jpeg" />
       <media:content url="https://www.crash.net/sites/default/files/2026-07/xpb_1424479_hires.jpg?width=1200" medium="image" type="image/jpeg" />
+<<<<<<< HEAD
     </item>
     <item>
       <title>Mercedes reveal F1 upgrade plan to combat Ferrari threat</title>
@@ -134,6 +140,35 @@
       <guid isPermaLink="true">https://www.crash.net/f1/news/1100423/1/red-bull-provides-update-f1-engine-ranking-talks-fia</guid>
       <pubDate>Wed, 08 Jul 2026 13:18:00 +0000</pubDate>
       <description><![CDATA[Red Bull has further talks planned with the FIA after the team&#x27;s power unit…]]></description>
+=======
+    </item>
+    <item>
+      <title>Adrian Newey-designed £5 million Red Bull hypercar to debut at Goodwood Festival of Speed</title>
+      <link>https://www.crash.net/f1/news/1100414/1/adrian-newey-designed-ps5-million-red-bull-hypercar-debut-goodwood-festival-speed</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100414/1/adrian-newey-designed-ps5-million-red-bull-hypercar-debut-goodwood-festival-speed</guid>
+      <pubDate>Wed, 08 Jul 2026 09:04:00 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.crash.net/sites/default/files/2026-07/red-bull-large.jpg?width=1200" alt="" /><p>Red Bull will debut its RB17 hypercar at the Goodwood Festival of Speed</p>]]></description>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-07/red-bull-large.jpg?width=1200" type="image/jpeg" />
+      <media:content url="https://www.crash.net/sites/default/files/2026-07/red-bull-large.jpg?width=1200" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Max Verstappen told to be ‘ruthless and selfish&#x27; with F1 future by fellow world champion</title>
+      <link>https://www.crash.net/f1/news/1100412/1/max-verstappen-told-be-ruthless-and-selfish-f1-future-fellow-champion-jenson</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100412/1/max-verstappen-told-be-ruthless-and-selfish-f1-future-fellow-champion-jenson</guid>
+      <pubDate>Wed, 08 Jul 2026 08:39:29 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.crash.net/sites/default/files/2026-07/si202607030371.jpg?width=1200" alt="" /><p>Jenson Button offers fellow F1 world champion Max Verstappen advice regarding his future.</p>]]></description>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-07/si202607030371.jpg?width=1200" type="image/jpeg" />
+      <media:content url="https://www.crash.net/sites/default/files/2026-07/si202607030371.jpg?width=1200" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>&#x27;Concerning and frustrating&#x27; Carlos Sainz judges Williams&#x27; &#x27;bad trend&#x27; evidenced at Silverstone</title>
+      <link>https://www.crash.net/f1/news/1100411/1/concerning-and-frustrating-carlos-sainz-judges-williams-bad-trend-evidenced</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100411/1/concerning-and-frustrating-carlos-sainz-judges-williams-bad-trend-evidenced</guid>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.crash.net/sites/default/files/2026-07/xpb_1423084_hires.jpg?width=1200" alt="" /><p>Carlos Sainz has major concerns that Williams is failing to bring performance to the track with its Formula 1 upgrades</p>]]></description>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1423084_hires.jpg?width=1200" type="image/jpeg" />
+      <media:content url="https://www.crash.net/sites/default/files/2026-07/xpb_1423084_hires.jpg?width=1200" medium="image" type="image/jpeg" />
+>>>>>>> 54ea04a (Add ranked RSS configs for newsletter feeds)
     </item>
     <item>
       <title>&#x27;It cannot be the last step&#x27; - Fernando Alonso demands Aston Martin progress beyond Hungary upgrade</title>
@@ -143,6 +178,7 @@
       <description><![CDATA[Aston Martin will bring it&#x27;s long-awaited Formula 1 upgrade to the Hungarian Grand Prix…]]></description>
     </item>
     <item>
+<<<<<<< HEAD
       <title>McLaren reserve driver &#x27;asks to be fired from F1&#x27; after 2027 seat confirmed</title>
       <link>https://www.crash.net/indycar/news/1100431/1/mclaren-reserve-driver-asks-be-fired-f1-after-2027-seat-confirmed</link>
       <guid isPermaLink="true">https://www.crash.net/indycar/news/1100431/1/mclaren-reserve-driver-asks-be-fired-f1-after-2027-seat-confirmed</guid>
@@ -155,6 +191,111 @@
       <guid isPermaLink="true">https://www.crash.net/f1/news/1100663/1/maybe-few-years-lando-norris-wants-le-mans-chance-valentino-rossi</guid>
       <pubDate>Sat, 11 Jul 2026 08:32:46 +0000</pubDate>
       <description><![CDATA[F1 champion Lando Norris wants to team up with MotoGP legend Valentino Rossi at…]]></description>
+=======
+      <title>Red Bull boss defends decision to ignore Max Verstappen&#x27;s British GP demand</title>
+      <link>https://www.crash.net/f1/news/1100406/1/red-bull-boss-defends-decision-ignore-max-verstappens-british-gp-demand</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100406/1/red-bull-boss-defends-decision-ignore-max-verstappens-british-gp-demand</guid>
+      <pubDate>Tue, 07 Jul 2026 13:50:00 +0000</pubDate>
+      <description><![CDATA[Max Verstappen wanted to start Sunday&#x27;s British Grand Prix from the pit lane in…]]></description>
+    </item>
+    <item>
+      <title>How one brand is using its Formula 1 partnership to change children&#x27;s lives</title>
+      <link>https://www.crash.net/f1/feature/1100410/1/how-one-brand-using-its-formula-1-partnership-change-childrens-lives</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/feature/1100410/1/how-one-brand-using-its-formula-1-partnership-change-childrens-lives</guid>
+      <pubDate>Tue, 07 Jul 2026 15:47:56 +0000</pubDate>
+      <description><![CDATA[Multi-national gaming entertainment company Allwyn is using its partnership with Formula 1 to help…]]></description>
+    </item>
+    <item>
+      <title>&#x27;No talent needed&#x27; - Fernando Alonso&#x27;s verdict on British GP sparks debate</title>
+      <link>https://www.crash.net/f1/news/1100404/1/no-talent-needed-fernando-alonsos-verdict-british-gp-sparks-debate</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100404/1/no-talent-needed-fernando-alonsos-verdict-british-gp-sparks-debate</guid>
+      <pubDate>Tue, 07 Jul 2026 11:26:00 +0000</pubDate>
+      <description><![CDATA[Fernando Alonso has launched another attack at the Formula 1 regulations after another tough…]]></description>
+    </item>
+    <item>
+      <title>Ferrari to gain advantage from maiden Madrid F1 filming day this week</title>
+      <link>https://www.crash.net/f1/news/1100407/1/ferrari-gain-advantage-maiden-madrid-f1-filming-day-week</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100407/1/ferrari-gain-advantage-maiden-madrid-f1-filming-day-week</guid>
+      <pubDate>Tue, 07 Jul 2026 14:16:26 +0000</pubDate>
+      <description><![CDATA[Ferrari will drive the new Madrid circuit for the first time this week in…]]></description>
+    </item>
+    <item>
+      <title>&#x27;Huge&#x27; F1 announcement tease revealed to be Scott Dixon&#x27;s McLaren IndyCar move</title>
+      <link>https://www.crash.net/indycar/news/1100400/1/huge-f1-announcement-tease-revealed-be-scott-dixons-mclaren-indycar-move</link>
+      <guid isPermaLink="true">https://www.crash.net/indycar/news/1100400/1/huge-f1-announcement-tease-revealed-be-scott-dixons-mclaren-indycar-move</guid>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[Formula 1 fans were sent into a frenzy, only for it to turn out…]]></description>
+    </item>
+    <item>
+      <title>Martin Brundle suggests how F1 can avoid damp squib Silverstone safety car repeat</title>
+      <link>https://www.crash.net/f1/news/1100405/1/martin-brundle-suggests-how-f1-can-avoid-damp-squib-silverstone-safety-car-repeat</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100405/1/martin-brundle-suggests-how-f1-can-avoid-damp-squib-silverstone-safety-car-repeat</guid>
+      <pubDate>Tue, 07 Jul 2026 12:47:00 +0000</pubDate>
+      <description><![CDATA[Martin Brundle, like fans, was left frustrated by how the British Grand Prix came…]]></description>
+    </item>
+    <item>
+      <title>F1 Silverstone LIVE: Leclerc wins as Russell jumps Hamilton in safety car chaos at the British GP</title>
+      <link>https://www.crash.net/f1/live/1044258/f1-silverstone-live-british-grand-prix-updates</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/live/1044258/f1-silverstone-live-british-grand-prix-updates</guid>
+      <pubDate>Sun, 05 Jul 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[Live coverage of Sunday at the F1 British Grand Prix]]></description>
+    </item>
+    <item>
+      <title>Max Verstappen can now trigger F1 Red Bull exit clause following British Grand Prix crash</title>
+      <link>https://www.crash.net/f1/news/1100398/1/max-verstappen-can-now-trigger-f1-red-bull-exit-clause-following-british-grand</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100398/1/max-verstappen-can-now-trigger-f1-red-bull-exit-clause-following-british-grand</guid>
+      <pubDate>Tue, 07 Jul 2026 09:16:00 +0000</pubDate>
+      <description><![CDATA[Alarm bells will be ringing as Max Verstappen&#x27;s Red Bull exit clause could be…]]></description>
+    </item>
+    <item>
+      <title>Kimi Antonelli admits Mercedes team call made him &#x27;stressed&#x27; before snatching Silverstone pole</title>
+      <link>https://www.crash.net/f1/news/1100246/1/kimi-antonelli-admits-mercedes-team-call-made-him-stressed-snatching-silverstone</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100246/1/kimi-antonelli-admits-mercedes-team-call-made-him-stressed-snatching-silverstone</guid>
+      <pubDate>Sat, 04 Jul 2026 17:58:10 +0000</pubDate>
+      <description><![CDATA[Kimi Antonelli has explained why he was &quot;stressed&quot; on his lap that secured pole…]]></description>
+    </item>
+    <item>
+      <title>Lewis Hamilton reveals cost of Ferrari car problem in Silverstone qualifying at F1 British GP</title>
+      <link>https://www.crash.net/f1/news/1100243/1/lewis-hamilton-reveals-cost-ferrari-car-problem-silverstone-qualifying-f1-british</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100243/1/lewis-hamilton-reveals-cost-ferrari-car-problem-silverstone-qualifying-f1-british</guid>
+      <pubDate>Sat, 04 Jul 2026 17:25:59 +0000</pubDate>
+      <description><![CDATA[Lewis Hamilton reveals a problem with his Ferrari cost him in British Grand Prix…]]></description>
+    </item>
+    <item>
+      <title>“No excuses” Norris delivers damning verdict on McLaren as he admits car is &#x27;not good enough&#x27;</title>
+      <link>https://www.crash.net/f1/news/1100245/1/no-excuses-norris-delivers-damning-verdict-mclaren-he-admits-car-not-good-enough</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100245/1/no-excuses-norris-delivers-damning-verdict-mclaren-he-admits-car-not-good-enough</guid>
+      <pubDate>Sat, 04 Jul 2026 17:24:35 +0000</pubDate>
+      <description><![CDATA[Lando Norris has said his own performance in the sprint race impressed him more…]]></description>
+    </item>
+    <item>
+      <title>Where George Russell is suffering compared to Kimi Antonelli at Silverstone</title>
+      <link>https://www.crash.net/f1/news/1100247/1/where-george-russell-suffering-compared-kimi-antonelli-silverstone</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100247/1/where-george-russell-suffering-compared-kimi-antonelli-silverstone</guid>
+      <pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[George Russell has been unable to match Mercedes team-mate Kimi Antonelli at Silverstone this…]]></description>
+>>>>>>> 54ea04a (Add ranked RSS configs for newsletter feeds)
+    </item>
+    <item>
+      <title>Kimi Antonelli issues defiant reaction after disastrous end to Silverstone race</title>
+      <link>https://www.crash.net/f1/news/1100377/1/kimi-antonelli-issues-defiant-reaction-after-disastrous-end-silverstone-race</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100377/1/kimi-antonelli-issues-defiant-reaction-after-disastrous-end-silverstone-race</guid>
+      <pubDate>Mon, 06 Jul 2026 08:59:05 +0000</pubDate>
+      <description><![CDATA[Despite winning the sprint race and scoring pole position Kimi Antonelli walked away from…]]></description>
+    </item>
+    <item>
+      <title>Why Lewis Hamilton kept F1 British Grand Prix podium after infringement he expected to get penalty for</title>
+      <link>https://www.crash.net/f1/news/1100363/1/why-lewis-hamilton-kept-f1-british-grand-prix-podium-after-infringement-he</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100363/1/why-lewis-hamilton-kept-f1-british-grand-prix-podium-after-infringement-he</guid>
+      <pubDate>Sun, 05 Jul 2026 18:25:19 +0000</pubDate>
+      <description><![CDATA[This is why Lewis Hamilton avoided a penalty despite a yellow flag infringement at…]]></description>
+    </item>
+    <item>
+      <title>Red Bull to investigate &quot;super dangerous&quot; wing issue that led to Max Verstappen crash</title>
+      <link>https://www.crash.net/f1/news/1100365/1/red-bull-investigate-super-dangerous-wing-issue-led-max-verstappen-crash</link>
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1100365/1/red-bull-investigate-super-dangerous-wing-issue-led-max-verstappen-crash</guid>
+      <pubDate>Sun, 05 Jul 2026 19:00:00 +0000</pubDate>
+      <description><![CDATA[Laurent Mekies has vowed to &quot;leave no stone unturned&quot; as Red Bull look to…]]></description>
     </item>
   </channel>
 </rss>

@@ -1,93 +1,92 @@
 [
   {
     "position": 1,
-    "title": "The Yamaha “motivation” Fabio Quartararo needs for his Honda MotoGP move",
-    "link": "https://www.crash.net/motogp/news/1101015/1/yamaha-motivation-fabio-quartararo-needs-his-honda-motogp-move",
-    "pub_date": "2026-07-13T14:03:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333308_hires.jpg?width=1200",
-    "score": 69,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
     "title": "Podcast: What Aprilia's response to growing Marc Marquez threat must be",
     "link": "https://www.crash.net/motogp/news/1101021/1/podcast-what-aprilias-response-growing-marc-marquez-threat-must-be",
     "pub_date": "2026-07-13T15:59:50+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331579_hires_1600x900.jpg?width=1200",
-    "score": 59,
+    "score": -46,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
-    "position": 3,
+    "position": 2,
     "title": "“Beat the best rider in history” - Jorge Martin on MotoGP title battle with Marc Marquez",
     "link": "https://www.crash.net/motogp/news/1101017/1/beat-best-rider-history-jorge-martin-motogp-title-battle-marc-marquez",
     "pub_date": "2026-07-13T15:03:52+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1299082_hires_1600x900.jpg?width=1200",
-    "score": 57,
+    "score": -48,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
       "has image (+4)",
       "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "The Yamaha “motivation” Fabio Quartararo needs for his Honda MotoGP move",
+    "link": "https://www.crash.net/motogp/news/1101015/1/yamaha-motivation-fabio-quartararo-needs-his-honda-motogp-move",
+    "pub_date": "2026-07-13T14:03:53+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333308_hires.jpg?width=1200",
+    "score": -66,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 4,
-    "title": "“Really surprised” - Toprak Razgatlioglu compares Yamaha and Honda at Sachsenring MotoGP",
-    "link": "https://www.crash.net/motogp/news/1101009/1/really-surprised-toprak-razgatlioglu-compares-yamaha-and-honda-sachsenring",
-    "pub_date": "2026-07-13T11:20:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334685_hires_1600x900.jpg?width=1200",
-    "score": 45,
+    "title": "‘Karma doesn’t exist’ - Marc Marquez hits back at Marco Bezzecchi injury trolls",
+    "link": "https://www.crash.net/motogp/news/1100804/1/karma-doesnt-exist-marc-marquez-hits-back-marco-bezzecchi-injury-trolls",
+    "pub_date": "2026-07-11T14:32:54+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333089_hires.jpg?width=1200",
+    "score": -68,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
+      "older than 24h (-100)",
       "good title length (+2)"
     ]
   },
   {
     "position": 5,
-    "title": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-    "link": "https://www.crash.net/motogp/news/1101008/1/pecco-bagnaia-admits-ducati-hasnt-solved-unwelcome-motogp-issue-all-season",
-    "pub_date": "2026-07-13T10:57:01+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333878_hires.jpg?width=1200",
-    "score": 45,
+    "title": "Marc Marquez takes historic sprint victory at the German MotoGP",
+    "link": "https://www.crash.net/motogp/news/1100790/1/marc-marquez-takes-historic-sprint-victory-german-motogp",
+    "pub_date": "2026-07-11T13:33:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332882_hires.jpg?width=1200",
+    "score": -68,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
+      "older than 24h (-100)",
       "good title length (+2)"
     ]
   },
   {
     "position": 6,
-    "title": "Brad Binder’s “Sunday cruise” ends in “biggest drop ever” at Sachsenring MotoGP",
-    "link": "https://www.crash.net/motogp/news/1101016/1/brad-binders-sunday-cruise-ends-biggest-drop-ever-sachsenring-motogp",
-    "pub_date": "2026-07-13T14:12:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334292_hires_1600x900.jpg?width=1200",
-    "score": 40,
+    "title": "Marc Marquez explains “surprise” strategy behind Sachsenring MotoGP pole",
+    "link": "https://www.crash.net/motogp/news/1100734/1/marc-marquez-explains-surprise-strategy-behind-sachsenring-motogp-pole",
+    "pub_date": "2026-07-11T11:08:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332947_hires_1600x900.jpg?width=1200",
+    "score": -68,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
+      "older than 24h (-100)",
       "good title length (+2)"
     ]
   },
@@ -97,126 +96,23 @@
     "link": "https://www.crash.net/motogp/news/1101019/1/its-why-we-cant-race-motogp-tyre-pressure-rule-labelled-joke-after-german-gp",
     "pub_date": "2026-07-13T15:34:10+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332720_hires.jpg?width=1200",
-    "score": 35,
+    "score": -70,
     "score_reasons": [
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 8,
-    "title": "“Like he had a problem” - Luca Marini on Jack Miller’s dramatic MotoGP slowdown",
-    "link": "https://www.crash.net/motogp/news/1101013/1/it-looked-he-had-problem-luca-marini-jack-millers-dramatic-motogp-slowdown",
-    "pub_date": "2026-07-13T13:22:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334698_hires_1600x900.jpg?width=1200",
-    "score": 31,
+    "title": "Marco Bezzecchi out of Germany MotoGP, needs surgery after big crash",
+    "link": "https://www.crash.net/motogp/news/1100726/1/marco-bezzecchi-out-germany-motogp-needs-surgery-after-big-crash",
+    "pub_date": "2026-07-11T10:22:55+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331465_hires_1600x900.jpg?width=1200",
+    "score": -73,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "KTM admits “there is something wrong inside our MotoGP engines”",
-    "link": "https://www.crash.net/motogp/news/1101002/1/ktm-admits-there-something-wrong-inside-our-motogp-engines",
-    "pub_date": "2026-07-13T08:25:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1329489_hires_1600x900.jpg?width=1200",
-    "score": 31,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "It's clear who the 2026 MotoGP title favourite is now",
-    "link": "https://www.crash.net/motogp/feature/1101003/1/its-clear-who-2026-motogp-title-favourite-now",
-    "pub_date": "2026-07-13T08:10:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334546_hires.jpg?width=1200",
-    "score": 23,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "VR46 rider “wasn’t performing” at German MotoGP, “has to change many things”",
-    "link": "https://www.crash.net/motogp/news/1101020/1/vr46-rider-wasnt-performing-german-motogp-has-change-many-things",
-    "pub_date": "2026-07-13T15:50:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331592_hires.jpg?width=1200",
-    "score": 21,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Marc Marquez claims pole for Germany MotoGP, Marco Bezzecchi has heavy crash",
-    "link": "https://www.crash.net/motogp/news/1100713/1/marc-marquez-claims-pole-germany-motogp-marco-bezzecchi-has-heavy-crash",
-    "pub_date": "2026-07-11T09:41:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332707_hires.jpg?width=1200",
-    "score": -54,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x4 (+28)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 13,
-    "title": "Jorge Martin explains why he’s stopped winning on Aprilia MotoGP bike",
-    "link": "https://www.crash.net/motogp/news/1100992/1/jorge-martin-explains-why-hes-stopped-winning-aprilia-motogp-bike",
-    "pub_date": "2026-07-12T15:58:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334672_hires.jpg?width=1200",
-    "score": -58,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 14,
-    "title": "Jorge Martin “always late to Sunday” as Germany MotoGP race work “useless”",
-    "link": "https://www.crash.net/motogp/news/1100824/1/jorge-martin-always-late-sunday-germany-motogp-race-work-useless",
-    "pub_date": "2026-07-11T15:51:15+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333314_hires.jpg?width=1200",
-    "score": -58,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "MotoGP Germany LIVE: Sprint reaction after Marc Marquez wins",
-    "link": "https://www.crash.net/motogp/live/1044228/motogp-germany-live-qualifying-updates-sachsenring",
-    "pub_date": "2026-07-11T12:14:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332892_hires.jpg?width=1200",
-    "score": -61,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "mid-tier keywords x3 (+21)",
       "has image (+4)",
       "older than 24h (-100)",
@@ -224,15 +120,116 @@
     ]
   },
   {
-    "position": 16,
-    "title": "‘The last 10 laps are a disaster’ - Pedro Acosta critical of Germany MotoGP race",
-    "link": "https://www.crash.net/motogp/news/1100980/1/last-10-laps-are-disaster-pedro-acosta-critical-germany-motogp-race",
-    "pub_date": "2026-07-12T14:49:43+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333555_hires.jpg?width=1200",
-    "score": -63,
+    "position": 9,
+    "title": "Marc Marquez eases to Germany MotoGP victory to boost his title hopes",
+    "link": "https://www.crash.net/motogp/news/1100953/1/marc-marquez-eases-germany-motogp-victory-boost-his-title-hopes",
+    "pub_date": "2026-07-12T12:55:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333295_hires.jpg?width=1200",
+    "score": -75,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "MotoGP Germany LIVE: Reaction as Marc Marquez wins in Germany",
+    "link": "https://www.crash.net/motogp/live/1044228/motogp-germany-live-race-updates-marc-marquez-looks-10th-sachsenring-win",
+    "pub_date": "2026-07-12T11:00:26+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333050_hires_1600x900.jpg?width=1200",
+    "score": -75,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "\"Always emotional\" - Valentino Rossi makes Yamaha MotoGP return at Goodwood",
+    "link": "https://www.crash.net/motogp/news/1100844/1/always-emotional-valentino-rossi-makes-yamaha-motogp-return-goodwood",
+    "pub_date": "2026-07-12T09:10:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/rossi-burnout_1600x900.jpg?width=1200",
+    "score": -75,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Alex Marquez’s theory on Marco Bezzecchi’s Sachsenring MotoGP crash",
+    "link": "https://www.crash.net/motogp/news/1100826/1/alex-marquezs-theory-marco-bezzecchis-sachsenring-motogp-crash",
+    "pub_date": "2026-07-11T16:04:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332745_hires_1600x900.jpg?width=1200",
+    "score": -75,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 13,
+    "title": "Cal Crutchlow reveals he nearly had “massive” Germany MotoGP crash “like Bezzecchi”",
+    "link": "https://www.crash.net/motogp/news/1100828/1/cal-crutchlow-reveals-he-nearly-had-massive-germany-motogp-crash-bezzecchi",
+    "pub_date": "2026-07-11T16:34:02+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332699_hires.jpg?width=1200",
+    "score": -80,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "2026 German MotoGP, Sachsenring - Sprint Race Results",
+    "link": "https://www.crash.net/motogp/results/1100546/1/2026-german-motogp-sachsenring-sprint-race-results",
+    "pub_date": "2026-07-11T13:22:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333008_hires_1600x900.jpg?width=1200",
+    "score": -80,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "“I don’t understand” - Marc Marquez reacts to current MotoGP title battle",
+    "link": "https://www.crash.net/motogp/news/1100961/1/i-dont-understand-marc-marquez-reacts-current-motogp-title-battle",
+    "pub_date": "2026-07-12T14:12:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334563_hires.jpg?width=1200",
+    "score": -82,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 16,
+    "title": "Marco Bezzecchi undergoes surgery, Silverstone MotoGP “hope”",
+    "link": "https://www.crash.net/motogp/news/1100870/1/marco-bezzecchi-undergoes-surgery-silverstone-motogp-hope",
+    "pub_date": "2026-07-12T11:18:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331450_hires_1600x900.jpg?width=1200",
+    "score": -82,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)"
@@ -240,14 +237,13 @@
   },
   {
     "position": 17,
-    "title": "Alex Marquez “upset, sad” after costly Sachsenring MotoGP crash",
-    "link": "https://www.crash.net/motogp/news/1100967/1/alex-marquez-upset-sad-after-costly-sachsenring-motogp-crash",
-    "pub_date": "2026-07-12T14:31:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334348_hires_1600x900.jpg?width=1200",
-    "score": -63,
+    "title": "KTM secures new Red Bull deal for 850cc MotoGP era",
+    "link": "https://www.crash.net/motogp/news/1100643/1/ktm-secures-new-red-bull-deal-850cc-motogp-era",
+    "pub_date": "2026-07-10T18:30:05+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332541_hires_1600x900.jpg?width=1200",
+    "score": -82,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)"
@@ -255,28 +251,26 @@
   },
   {
     "position": 18,
-    "title": "Pecco Bagnaia eager to “understand what Alex Marquez is doing” after tough MotoGP Sprint",
-    "link": "https://www.crash.net/motogp/news/1100831/1/pecco-bagnaia-eager-understand-what-alex-marquez-doing-after-tough-motogp",
-    "pub_date": "2026-07-11T17:55:18+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332866_hires_1600x900.jpg?width=1200",
-    "score": -63,
+    "title": "VR46 rider “wasn’t performing” at German MotoGP, “has to change many things”",
+    "link": "https://www.crash.net/motogp/news/1101020/1/vr46-rider-wasnt-performing-german-motogp-has-change-many-things",
+    "pub_date": "2026-07-13T15:50:52+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331592_hires.jpg?width=1200",
+    "score": -84,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 19,
-    "title": "Pedro Acosta suggests MotoGP Sprint race change after 'boring' Sachsenring",
-    "link": "https://www.crash.net/motogp/news/1100816/1/pedro-acosta-suggests-motogp-sprint-race-change-after-boring-sachsenring",
-    "pub_date": "2026-07-11T15:00:18+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333022_hires_1600x900.jpg?width=1200",
-    "score": -63,
+    "title": "“Almost done” - Raul Fernandez says MotoGP future clarity helped podium run",
+    "link": "https://www.crash.net/motogp/news/1100990/1/almost-done-raul-fernandez-says-motogp-future-clarity-helped-podium-run",
+    "pub_date": "2026-07-12T15:48:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334464_hires_1600x900.jpg?width=1200",
+    "score": -87,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
@@ -285,14 +279,13 @@
   },
   {
     "position": 20,
-    "title": "“Lucky” Sprint issue helps Ai Ogura secure Sachsenring MotoGP podium",
-    "link": "https://www.crash.net/motogp/news/1100993/1/lucky-sprint-issue-helps-ai-ogura-secure-sachsenring-motogp-podium",
-    "pub_date": "2026-07-12T16:33:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334556_hires_1600x900.jpg?width=1200",
-    "score": -68,
+    "title": "“A photocopy” - Fabio di Giannantonio puzzled by Sachsenring MotoGP crash",
+    "link": "https://www.crash.net/motogp/news/1100983/1/photocopy-fabio-di-giannantonio-puzzled-sachsenring-motogp-crash",
+    "pub_date": "2026-07-12T15:00:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333899_hires_1600x900.jpg?width=1200",
+    "score": -87,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)"

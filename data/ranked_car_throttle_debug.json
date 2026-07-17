@@ -1,21 +1,71 @@
 [
   {
     "position": 1,
-    "title": "The Morgan Supersport is Heading to the US, But It’s Missing Two Important Things",
-    "link": "https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things",
-    "pub_date": "2026-07-16T08:21:38+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/morgan_supersport_location_us_004.jpeg?width=1200",
-    "score": 28,
+    "title": "Let it Snow with Clarke’s SFHD5 Heavy Duty Snow Foam",
+    "link": "https://www.carthrottle.com/news/let-it-snow-clarkes-sfhd5-heavy-duty-snow-foam",
+    "pub_date": "2026-07-16T11:55:12+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkesnowfoam.jpg?width=1200",
+    "score": 16,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 168h (+10)",
-      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 2,
+    "title": "Never Get Caught Out With the Clarke CSJ1500 1.5 Tonne Scissor Jack",
+    "link": "https://www.carthrottle.com/news/never-get-caught-out-clarke-csj1500-15-tonne-scissor-jack",
+    "pub_date": "2026-07-16T11:52:46+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkescissorjack.jpeg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "12 Exciting New Cars Still to Come in 2026",
+    "link": "https://www.carthrottle.com/news/12-exciting-new-cars-still-come-2026",
+    "pub_date": "2026-07-16T11:14:27+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/original-50117-jpg03503_0.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Last Ever Bugatti Mistral Brings the W16 Era to an End",
+    "link": "https://www.carthrottle.com/news/last-ever-bugatti-mistral-brings-w16-era-end",
+    "pub_date": "2026-07-16T09:33:31+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/02-2606-bugatti-w16-mistral-end-of-production-1-2.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "The All-New Jensen Interceptor GTX Will Be a Track-Only Special",
+    "link": "https://www.carthrottle.com/news/all-new-jensen-interceptor-gtx-will-be-track-only-special",
+    "pub_date": "2026-07-16T08:57:24+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/jensen-interceptor-r-gtx_1.png?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
     "title": "How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry",
     "link": "https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations",
     "pub_date": "2026-07-10T14:24:50+00:00",
@@ -31,7 +81,7 @@
     ]
   },
   {
-    "position": 3,
+    "position": 7,
     "title": "More Kei Cars Coming to Britain as Suzuki Readies Honda Super-N Rival",
     "link": "https://www.carthrottle.com/news/more-kei-cars-coming-britain-suzuki-readies-honda-super-n-rival",
     "pub_date": "2026-07-14T12:45:50+00:00",
@@ -46,7 +96,22 @@
     ]
   },
   {
-    "position": 4,
+    "position": 8,
+    "title": "The Morgan Supersport is Heading to the US, But It’s Missing Two Important Things",
+    "link": "https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things",
+    "pub_date": "2026-07-16T08:21:38+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/morgan_supersport_location_us_004.jpeg?width=1200",
+    "score": 3,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 9,
     "title": "The Best Used Sports Cars to Suit Every Budget",
     "link": "https://www.carthrottle.com/news/best-used-sports-cars-suit-every-budget",
     "pub_date": "2026-07-14T11:59:33+00:00",
@@ -61,7 +126,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 10,
     "title": "Five Reasons to Head to the 2026 Hagerty Festival of the Unexceptional",
     "link": "https://www.carthrottle.com/news/five-reasons-head-2026-hagerty-festival-unexceptional",
     "pub_date": "2026-07-10T11:28:41+00:00",
@@ -75,7 +140,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 11,
     "title": "All the Big Reveals at the 2026 Goodwood Festival of Speed",
     "link": "https://www.carthrottle.com/news/all-big-reveals-2026-goodwood-festival-speed",
     "pub_date": "2026-07-10T10:57:51+00:00",
@@ -89,7 +154,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 12,
     "title": "The Clarke CTT130 Tool & Parts Trolley is your New Workshop Best Friend",
     "link": "https://www.carthrottle.com/news/clarke-ctt130-tool-parts-trolley-your-new-workshop-best-friend",
     "pub_date": "2026-07-07T15:54:27+00:00",
@@ -103,7 +168,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 13,
     "title": "The Clarke Monza Portable Air Compressor is Perfect for Getting you Pumped",
     "link": "https://www.carthrottle.com/news/clarke-monza-portable-air-compressor-perfect-getting-you-pumped",
     "pub_date": "2026-07-07T15:50:13+00:00",
@@ -117,51 +182,7 @@
     ]
   },
   {
-    "position": 9,
-    "title": "The Finished McMurtry Spéirling Pure Fan Car is Here with 1,000bhp",
-    "link": "https://www.carthrottle.com/news/finished-mcmurtry-speirling-pure-fan-car-here-1000bhp",
-    "pub_date": "2026-07-02T12:49:21+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/6-mcmurtry-speirling-track-hero-2_0.jpg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "10 Fast Used SUVs You can Buy for Under £10,000",
-    "link": "https://www.carthrottle.com/news/10-fast-used-suvs-you-can-buy-under-ps10000",
-    "pub_date": "2026-07-02T11:37:43+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/the_audi_sq5_tdi.jpg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Stop What You’re Doing: Lotus is Building a New 1,000bhp V8 Supercar",
-    "link": "https://www.carthrottle.com/news/stop-what-youre-doing-lotus-building-new-1000bhp-v8-supercar",
-    "pub_date": "2026-05-12T08:29:41+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-05/lotus_type_135_teaser_16x9.jpg?width=1200",
-    "score": -74,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x4 (+28)",
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 12,
+    "position": 14,
     "title": "The Sanrivatti Hypercar Will Seat its Driver Like a Motorbike",
     "link": "https://www.carthrottle.com/news/sanrivatti-hypercar-will-seat-its-driver-motorbike",
     "pub_date": "2026-06-24T08:10:19+00:00",
@@ -177,7 +198,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 15,
     "title": "Alfa Romeo Once Built a Bizarre MotoGP-Inspired Diesel Hot Hatch",
     "link": "https://www.carthrottle.com/news/alfa-romeo-once-built-bizarre-motogp-inspired-diesel-hot-hatch",
     "pub_date": "2026-05-27T15:30:48+00:00",
@@ -193,7 +214,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 16,
     "title": "Alfa Romeo is Getting Back into the Hatchback Market",
     "link": "https://www.carthrottle.com/news/alfa-romeo-getting-back-hatchback-market",
     "pub_date": "2026-05-27T11:54:52+00:00",
@@ -209,7 +230,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 17,
     "title": "The Three-Pedal, RWD BMW M3 CS Handschalter is Sweet Forbidden Fruit",
     "link": "https://www.carthrottle.com/news/three-pedal-rwd-bmw-m3-cs-handschalter-sweet-forbidden-fruit",
     "pub_date": "2026-05-19T08:37:59+00:00",
@@ -225,7 +246,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 18,
     "title": "Theon’s Latest Porsche 911 Restomod is a Carbon-Bodied Masterpiece",
     "link": "https://www.carthrottle.com/news/theons-latest-porsche-911-restomod-carbon-bodied-masterpiece",
     "pub_date": "2026-06-04T13:10:51+00:00",
@@ -241,7 +262,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 19,
     "title": "The 10 Greatest BMW Concept Cars Ever",
     "link": "https://www.carthrottle.com/news/10-greatest-bmw-concept-cars-ever",
     "pub_date": "2026-05-27T11:02:08+00:00",
@@ -257,41 +278,11 @@
     ]
   },
   {
-    "position": 18,
+    "position": 20,
     "title": "Special Edition Porsche 911 GT3 Marks 75 Years of the Brand in Britain",
     "link": "https://www.carthrottle.com/news/special-edition-porsche-911-gt3-marks-75-years-brand-britain",
     "pub_date": "2026-06-17T11:22:14+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/porsche-911-gt3-earls-court-51-front.jpg?width=1200",
-    "score": -102,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "A Guide To The Complicated Porsche 911 Range: Every Version And Generation",
-    "link": "https://www.carthrottle.com/features/porsche-911-guide",
-    "pub_date": "2026-06-04T08:29:00+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/tkp01494_1024x683_a4_rgb-2.jpg?width=1200",
-    "score": -102,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "This Tiny Honda Has Something in Common with a Bugatti Veyron",
-    "link": "https://www.carthrottle.com/news/tiny-honda-has-something-common-bugatti-veyron",
-    "pub_date": "2026-06-02T09:52:17+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/honda-z-front.jpg?width=1200",
     "score": -102,
     "score_reasons": [
       "top-tier keywords x1 (+12)",

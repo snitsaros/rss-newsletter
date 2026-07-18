@@ -1,87 +1,6 @@
 [
   {
     "position": 1,
-    "title": "Let it Snow with Clarke’s SFHD5 Heavy Duty Snow Foam",
-    "link": "https://www.carthrottle.com/news/let-it-snow-clarkes-sfhd5-heavy-duty-snow-foam",
-    "pub_date": "2026-07-16T11:55:12+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkesnowfoam.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Never Get Caught Out With the Clarke CSJ1500 1.5 Tonne Scissor Jack",
-    "link": "https://www.carthrottle.com/news/never-get-caught-out-clarke-csj1500-15-tonne-scissor-jack",
-    "pub_date": "2026-07-16T11:52:46+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkescissorjack.jpeg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "12 Exciting New Cars Still to Come in 2026",
-    "link": "https://www.carthrottle.com/news/12-exciting-new-cars-still-come-2026",
-    "pub_date": "2026-07-16T11:14:27+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/original-50117-jpg03503_0.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "Last Ever Bugatti Mistral Brings the W16 Era to an End",
-    "link": "https://www.carthrottle.com/news/last-ever-bugatti-mistral-brings-w16-era-end",
-    "pub_date": "2026-07-16T09:33:31+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/02-2606-bugatti-w16-mistral-end-of-production-1-2.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "The All-New Jensen Interceptor GTX Will Be a Track-Only Special",
-    "link": "https://www.carthrottle.com/news/all-new-jensen-interceptor-gtx-will-be-track-only-special",
-    "pub_date": "2026-07-16T08:57:24+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/jensen-interceptor-r-gtx_1.png?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 6,
-    "title": "How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry",
-    "link": "https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations",
-    "pub_date": "2026-07-10T14:24:50+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/671442.jpg?width=1200",
-    "score": 15,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 7,
     "title": "More Kei Cars Coming to Britain as Suzuki Readies Honda Super-N Rival",
     "link": "https://www.carthrottle.com/news/more-kei-cars-coming-britain-suzuki-readies-honda-super-n-rival",
     "pub_date": "2026-07-14T12:45:50+00:00",
@@ -96,7 +15,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 2,
     "title": "The Morgan Supersport is Heading to the US, But It’s Missing Two Important Things",
     "link": "https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things",
     "pub_date": "2026-07-16T08:21:38+00:00",
@@ -111,7 +30,7 @@
     ]
   },
   {
-    "position": 9,
+    "position": 3,
     "title": "The Best Used Sports Cars to Suit Every Budget",
     "link": "https://www.carthrottle.com/news/best-used-sports-cars-suit-every-budget",
     "pub_date": "2026-07-14T11:59:33+00:00",
@@ -126,15 +45,101 @@
     ]
   },
   {
+    "position": 4,
+    "title": "Let it Snow with Clarke’s SFHD5 Heavy Duty Snow Foam",
+    "link": "https://www.carthrottle.com/news/let-it-snow-clarkes-sfhd5-heavy-duty-snow-foam",
+    "pub_date": "2026-07-16T11:55:12+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkesnowfoam.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Never Get Caught Out With the Clarke CSJ1500 1.5 Tonne Scissor Jack",
+    "link": "https://www.carthrottle.com/news/never-get-caught-out-clarke-csj1500-15-tonne-scissor-jack",
+    "pub_date": "2026-07-16T11:52:46+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkescissorjack.jpeg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "12 Exciting New Cars Still to Come in 2026",
+    "link": "https://www.carthrottle.com/news/12-exciting-new-cars-still-come-2026",
+    "pub_date": "2026-07-16T11:14:27+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/original-50117-jpg03503_0.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "Last Ever Bugatti Mistral Brings the W16 Era to an End",
+    "link": "https://www.carthrottle.com/news/last-ever-bugatti-mistral-brings-w16-era-end",
+    "pub_date": "2026-07-16T09:33:31+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/02-2606-bugatti-w16-mistral-end-of-production-1-2.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "The All-New Jensen Interceptor GTX Will Be a Track-Only Special",
+    "link": "https://www.carthrottle.com/news/all-new-jensen-interceptor-gtx-will-be-track-only-special",
+    "pub_date": "2026-07-16T08:57:24+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/jensen-interceptor-r-gtx_1.png?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry",
+    "link": "https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations",
+    "pub_date": "2026-07-10T14:24:50+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/671442.jpg?width=1200",
+    "score": -15,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
     "position": 10,
     "title": "Five Reasons to Head to the 2026 Hagerty Festival of the Unexceptional",
     "link": "https://www.carthrottle.com/news/five-reasons-head-2026-hagerty-festival-unexceptional",
     "pub_date": "2026-07-10T11:28:41+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/dji_fly_20240727_143932_731_1722087621685_photo_optimized-scaled.jpg?width=1200",
-    "score": -4,
+    "score": -34,
     "score_reasons": [
       "has image (+4)",
-      "within 168h (+10)",
+      "between 168-336h (-20)",
       "good title length (+2)",
       "previously used URL (-20)"
     ]
@@ -145,10 +150,10 @@
     "link": "https://www.carthrottle.com/news/all-big-reveals-2026-goodwood-festival-speed",
     "pub_date": "2026-07-10T10:57:51+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/18153-ns-mclaren-788hs-coupe-01-final.jpg?width=1200",
-    "score": -4,
+    "score": -34,
     "score_reasons": [
       "has image (+4)",
-      "within 168h (+10)",
+      "between 168-336h (-20)",
       "good title length (+2)",
       "previously used URL (-20)"
     ]

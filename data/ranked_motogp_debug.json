@@ -1,40 +1,10 @@
 [
   {
     "position": 1,
-    "title": "Fabio Quartararo using final Yamaha races to prepare for Honda MotoGP move",
-    "link": "https://www.crash.net/motogp/news/1101091/1/fabio-quartararo-using-final-yamaha-races-prepare-honda-motogp-move",
-    "pub_date": "2026-07-18T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/quartararo-1.jpg?width=1200",
-    "score": 69,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Why Marc Marquez thinks former team-mate will excel thanks to 2027 MotoGP move",
-    "link": "https://www.crash.net/motogp/news/1101080/1/why-marc-marquez-thinks-former-team-mate-will-excel-thanks-2027-motogp-move",
-    "pub_date": "2026-07-18T07:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333961_hires.jpg?width=1200",
-    "score": 45,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "“A risk I wanted to take” - Joan Mir explains Gresini Ducati MotoGP move",
-    "link": "https://www.crash.net/motogp/news/1101090/1/risk-i-wanted-take-joan-mir-explains-gresini-ducati-motogp-move",
-    "pub_date": "2026-07-17T09:30:14+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/mir-1.jpg?width=1200",
+    "title": "“Let's see in Silverstone” - Diogo Moreira on factory Honda MotoGP chance",
+    "link": "https://www.crash.net/motogp/news/1101093/1/lets-see-silverstone-diogo-moreira-factory-honda-motogp-chance",
+    "pub_date": "2026-07-18T11:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/moreira-1.jpg?width=1200",
     "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -45,11 +15,39 @@
     ]
   },
   {
+    "position": 2,
+    "title": "Jorge Lorenzo details Marc Marquez strength rivals “don’t have” in MotoGP title fight",
+    "link": "https://www.crash.net/motogp/news/1101272/1/jorge-lorenzo-details-marc-marquez-strength-rivals-dont-have-motogp-title",
+    "pub_date": "2026-07-18T10:56:06+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1294789_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Yamaha MotoGP rider admits “we just need to survive” as last 1,000cc races near",
+    "link": "https://www.crash.net/motogp/news/1101238/1/yamaha-motogp-rider-admits-we-just-need-survive-last-1000cc-races-near",
+    "pub_date": "2026-07-18T09:53:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333916_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 4,
-    "title": "Marco Bezzecchi backed by Aprilia after nightmare MotoGP run: “Remember Mugello”",
-    "link": "https://www.crash.net/motogp/news/1101088/1/marco-bezzecchi-backed-aprilia-after-nightmare-motogp-run-remember-mugello",
-    "pub_date": "2026-07-17T10:30:58+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/bezzecchi-1.jpg?width=1200",
+    "title": "Marc Marquez ”never stops refining his mastery”, MotoGP title “wide open”",
+    "link": "https://www.crash.net/motogp/news/1101229/1/marc-marquez-never-stops-refining-his-mastery-motogp-title-wide-open",
+    "pub_date": "2026-07-18T09:22:59+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334573_hires_1600x900.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -60,10 +58,38 @@
   },
   {
     "position": 5,
-    "title": "\"Interesting until the end\" - How the MotoGP title fight has changed in 2026",
-    "link": "https://www.crash.net/motogp/feature/1101082/1/2025-vs-2026-how-the-motogp-title-fight-has-changed",
-    "pub_date": "2026-07-17T11:00:06+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1330785_hires_1600x900_1600x900.jpg?width=1200",
+    "title": "Lack of stability “not the problem” for KTM at German MotoGP",
+    "link": "https://www.crash.net/motogp/news/1101084/1/lack-stability-not-problem-ktm-german-motogp",
+    "pub_date": "2026-07-18T09:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334005_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Marco Bezzecchi undergoes “routine procedure” after German MotoGP crash",
+    "link": "https://www.crash.net/motogp/news/1101292/1/marco-bezzecchi-undergoes-routine-procedure-after-german-motogp-crash",
+    "pub_date": "2026-07-18T12:32:20+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331450_hires_1600x900.jpg?width=1200",
+    "score": -7,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "Why MotoGP legend Valentino Rossi is backing Kimi Antonelli over Ferrari in F1 2026",
+    "link": "https://www.crash.net/f1/news/1101232/1/why-motogp-legend-valentino-rossi-backing-kimi-antonelli-over-ferrari-f1-2026",
+    "pub_date": "2026-07-18T09:42:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/gng_1316186_hires_1600x900.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -72,7 +98,22 @@
     ]
   },
   {
-    "position": 6,
+    "position": 8,
+    "title": "Fabio Quartararo using final Yamaha races to prepare for Honda MotoGP move",
+    "link": "https://www.crash.net/motogp/news/1101091/1/fabio-quartararo-using-final-yamaha-races-prepare-honda-motogp-move",
+    "pub_date": "2026-07-18T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/quartararo-1.jpg?width=1200",
+    "score": -146,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 9,
     "title": "The Yamaha “motivation” Fabio Quartararo needs for his Honda MotoGP move",
     "link": "https://www.crash.net/motogp/news/1101015/1/yamaha-motivation-fabio-quartararo-needs-his-honda-motogp-move",
     "pub_date": "2026-07-13T14:03:53+00:00",
@@ -87,7 +128,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 10,
     "title": "Fabio Quartararo explains Yamaha MotoGP qualifying speed, race struggles",
     "link": "https://www.crash.net/motogp/news/1101075/1/fabio-quartararo-explains-yamaha-motogp-qualifying-speed-race-struggles",
     "pub_date": "2026-07-16T14:01:06+00:00",
@@ -103,7 +144,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 11,
     "title": "“Life goes on” - KTM “never planned” for MotoGP without Pedro Acosta",
     "link": "https://www.crash.net/motogp/news/1101071/1/ktm-never-planned-motogp-without-pedro-acosta",
     "pub_date": "2026-07-16T11:35:06+00:00",
@@ -119,7 +160,7 @@
     ]
   },
   {
-    "position": 9,
+    "position": 12,
     "title": "“Fully focused on 850” - Fabio Quartararo “not expecting” Yamaha MotoGP upgrades",
     "link": "https://www.crash.net/motogp/news/1101059/1/fully-focused-850-fabio-quartararo-not-expecting-yamaha-motogp-upgrades",
     "pub_date": "2026-07-15T15:42:39+00:00",
@@ -135,7 +176,7 @@
     ]
   },
   {
-    "position": 10,
+    "position": 13,
     "title": "Podcast: What Aprilia's response to growing Marc Marquez threat must be",
     "link": "https://www.crash.net/motogp/news/1101021/1/podcast-what-aprilias-response-growing-marc-marquez-threat-must-be",
     "pub_date": "2026-07-13T15:59:50+00:00",
@@ -151,7 +192,7 @@
     ]
   },
   {
-    "position": 11,
+    "position": 14,
     "title": "Explained: Ducati, Aprilia, Honda set for MotoGP concession changes after summer break",
     "link": "https://www.crash.net/motogp/feature/1101049/1/explained-ducati-aprilia-honda-set-motogp-concession-changes-after-summer",
     "pub_date": "2026-07-15T09:50:39+00:00",
@@ -166,7 +207,7 @@
     ]
   },
   {
-    "position": 12,
+    "position": 15,
     "title": "“Beat the best rider in history” - Jorge Martin on MotoGP title battle with Marc Marquez",
     "link": "https://www.crash.net/motogp/news/1101017/1/beat-best-rider-history-jorge-martin-motogp-title-battle-marc-marquez",
     "pub_date": "2026-07-13T15:03:52+00:00",
@@ -181,7 +222,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 16,
     "title": "Jorge Martin explains why he’s stopped winning on Aprilia MotoGP bike",
     "link": "https://www.crash.net/motogp/news/1100992/1/jorge-martin-explains-why-hes-stopped-winning-aprilia-motogp-bike",
     "pub_date": "2026-07-12T15:58:40+00:00",
@@ -196,39 +237,7 @@
     ]
   },
   {
-    "position": 14,
-    "title": "‘The last 10 laps are a disaster’ - Pedro Acosta critical of Germany MotoGP race",
-    "link": "https://www.crash.net/motogp/news/1100980/1/last-10-laps-are-disaster-pedro-acosta-critical-germany-motogp-race",
-    "pub_date": "2026-07-12T14:49:43+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333555_hires.jpg?width=1200",
-    "score": -163,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "Alex Marquez “upset, sad” after costly Sachsenring MotoGP crash",
-    "link": "https://www.crash.net/motogp/news/1100967/1/alex-marquez-upset-sad-after-costly-sachsenring-motogp-crash",
-    "pub_date": "2026-07-12T14:31:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334348_hires_1600x900.jpg?width=1200",
-    "score": -163,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 16,
+    "position": 17,
     "title": "Will MotoGP’s most strained relationship survive 2026 - and should it?",
     "link": "https://www.crash.net/motogp/feature/1101072/1/will-motogps-most-strained-relationship-survive-2026-and-should-it",
     "pub_date": "2026-07-16T11:48:30+00:00",
@@ -244,15 +253,14 @@
     ]
   },
   {
-    "position": 17,
-    "title": "“Lucky” Sprint issue helps Ai Ogura secure Sachsenring MotoGP podium",
-    "link": "https://www.crash.net/motogp/news/1100993/1/lucky-sprint-issue-helps-ai-ogura-secure-sachsenring-motogp-podium",
-    "pub_date": "2026-07-12T16:33:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334556_hires_1600x900.jpg?width=1200",
-    "score": -168,
+    "position": 18,
+    "title": "Why Marc Marquez thinks former team-mate will excel thanks to 2027 MotoGP move",
+    "link": "https://www.crash.net/motogp/news/1101080/1/why-marc-marquez-thinks-former-team-mate-will-excel-thanks-2027-motogp-move",
+    "pub_date": "2026-07-18T07:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333961_hires.jpg?width=1200",
+    "score": -170,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",
@@ -260,7 +268,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 19,
     "title": "How Alex and Marc Marquez helped shape each other's MotoGP future",
     "link": "https://www.crash.net/motogp/news/1101077/1/how-alex-and-marc-marquez-helped-shape-each-others-motogp-future",
     "pub_date": "2026-07-16T14:28:39+00:00",
@@ -275,26 +283,11 @@
     ]
   },
   {
-    "position": 19,
+    "position": 20,
     "title": "A new “first time” for Pedro Acosta in MotoGP after complicated first half of 2026",
     "link": "https://www.crash.net/motogp/news/1101031/1/new-first-time-pedro-acosta-motogp-after-complicated-first-half-2026",
     "pub_date": "2026-07-14T11:00:06+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334303_hires.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "“Really surprised” - Toprak Razgatlioglu compares Yamaha and Honda at Sachsenring MotoGP",
-    "link": "https://www.crash.net/motogp/news/1101009/1/really-surprised-toprak-razgatlioglu-compares-yamaha-and-honda-sachsenring",
-    "pub_date": "2026-07-13T11:20:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334685_hires_1600x900.jpg?width=1200",
     "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",

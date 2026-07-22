@@ -1,27 +1,14 @@
 [
   {
     "position": 1,
-    "title": "Marc Marquez admits he was “not 100% happy” with dominant Germany MotoGP win",
-    "link": "https://www.crash.net/motogp/news/1101520/1/marc-marquez-admits-he-was-not-100-happy-dominant-germany-motogp-win",
-    "pub_date": "2026-07-20T15:13:56+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334349_hires.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Honda confirms David Alonso’s 2027 MotoGP signing, but key detail still missing",
-    "link": "https://www.crash.net/motogp/news/1101524/1/honda-confirms-david-alonsos-2027-motogp-signing-key-detail-still-missing",
-    "pub_date": "2026-07-21T08:15:36+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334133_hires.jpg?width=1200",
-    "score": 33,
+    "title": "Takaaki Nakagami set for potential era-ending Japanese MotoGP wildcard",
+    "link": "https://www.crash.net/motogp/news/1101538/1/takaaki-nakagami-set-potential-era-ending-japanese-motogp-wildcard",
+    "pub_date": "2026-07-22T08:26:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1268645_hires.jpg?width=1200",
+    "score": 36,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -29,21 +16,92 @@
     ]
   },
   {
-    "position": 3,
-    "title": "British world champion bike racer has “bizarre” MotoGP crash desire",
-    "link": "https://www.crash.net/motogp/news/1101522/1/british-world-champion-bike-racer-has-bizarre-motogp-crash-desire",
-    "pub_date": "2026-07-20T16:32:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1129567_hires.jpg?width=1200",
-    "score": 23,
+    "position": 2,
+    "title": "Fabio Quartararo set for crew chief change in 2027 Honda MotoGP move",
+    "link": "https://www.crash.net/motogp/news/1101533/1/fabio-quartararo-set-crew-chief-change-2027-honda-motogp-move",
+    "pub_date": "2026-07-21T13:08:22+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1203219_hires.jpg?width=1200",
+    "score": 22,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
-      "within 18h (+10)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Official: Fabio Quartararo joins Honda for MotoGP 2027",
+    "link": "https://www.crash.net/motogp/news/1101526/1/official-fabio-quartararo-joins-honda-motogp-2027",
+    "pub_date": "2026-07-21T09:02:17+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1330198_hires.jpg?width=1200",
+    "score": 22,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 4,
+    "title": "‘People forget you in a day’ - MotoGP team boss on Maverick Vinales/KTM fallout",
+    "link": "https://www.crash.net/motogp/news/1101531/1/people-forget-you-day-motogp-team-boss-maverick-vinalesktm-fallout",
+    "pub_date": "2026-07-21T10:54:54+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332480_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Marc Marquez reveals detail he would change on 2027 MotoGP bikes",
+    "link": "https://www.crash.net/motogp/news/1101529/1/marc-marquez-reveals-detail-he-would-change-2027-motogp-bikes",
+    "pub_date": "2026-07-21T10:00:16+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333962_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "“My greatest satisfaction” - Valentino Rossi reveals MotoGP career highlight",
+    "link": "https://www.crash.net/motogp/news/1101534/1/my-greatest-satisfaction-valentino-rossi-reveals-motogp-career-highlight",
+    "pub_date": "2026-07-21T14:12:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_856257_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "The 2027 MotoGP rider line-up so far",
+    "link": "https://www.crash.net/motogp/feature/1084011/1/2027-motogp-rider-line-and-rumours-so-far",
+    "pub_date": "2026-07-21T09:10:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1330785_hires_1600x900_1600x900.jpg?width=1200",
+    "score": -95,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 8,
     "title": "Fabio Quartararo using final Yamaha races to prepare for Honda MotoGP move",
     "link": "https://www.crash.net/motogp/news/1101091/1/fabio-quartararo-using-final-yamaha-races-prepare-honda-motogp-move",
     "pub_date": "2026-07-18T08:00:00+00:00",
@@ -58,22 +116,7 @@
     ]
   },
   {
-    "position": 5,
-    "title": "The Yamaha “motivation” Fabio Quartararo needs for his Honda MotoGP move",
-    "link": "https://www.crash.net/motogp/news/1101015/1/yamaha-motivation-fabio-quartararo-needs-his-honda-motogp-move",
-    "pub_date": "2026-07-13T14:03:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333308_hires.jpg?width=1200",
-    "score": -146,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 6,
+    "position": 9,
     "title": "Fabio Quartararo explains Yamaha MotoGP qualifying speed, race struggles",
     "link": "https://www.crash.net/motogp/news/1101075/1/fabio-quartararo-explains-yamaha-motogp-qualifying-speed-race-struggles",
     "pub_date": "2026-07-16T14:01:06+00:00",
@@ -89,7 +132,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 10,
     "title": "“Life goes on” - KTM “never planned” for MotoGP without Pedro Acosta",
     "link": "https://www.crash.net/motogp/news/1101071/1/ktm-never-planned-motogp-without-pedro-acosta",
     "pub_date": "2026-07-16T11:35:06+00:00",
@@ -105,7 +148,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 11,
     "title": "“Fully focused on 850” - Fabio Quartararo “not expecting” Yamaha MotoGP upgrades",
     "link": "https://www.crash.net/motogp/news/1101059/1/fully-focused-850-fabio-quartararo-not-expecting-yamaha-motogp-upgrades",
     "pub_date": "2026-07-15T15:42:39+00:00",
@@ -121,23 +164,7 @@
     ]
   },
   {
-    "position": 9,
-    "title": "Podcast: What Aprilia's response to growing Marc Marquez threat must be",
-    "link": "https://www.crash.net/motogp/news/1101021/1/podcast-what-aprilias-response-growing-marc-marquez-threat-must-be",
-    "pub_date": "2026-07-13T15:59:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331579_hires_1600x900.jpg?width=1200",
-    "score": -156,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 10,
+    "position": 12,
     "title": "Explained: Ducati, Aprilia, Honda set for MotoGP concession changes after summer break",
     "link": "https://www.crash.net/motogp/feature/1101049/1/explained-ducati-aprilia-honda-set-motogp-concession-changes-after-summer",
     "pub_date": "2026-07-15T09:50:39+00:00",
@@ -152,7 +179,7 @@
     ]
   },
   {
-    "position": 11,
+    "position": 13,
     "title": "“Beat the best rider in history” - Jorge Martin on MotoGP title battle with Marc Marquez",
     "link": "https://www.crash.net/motogp/news/1101017/1/beat-best-rider-history-jorge-martin-motogp-title-battle-marc-marquez",
     "pub_date": "2026-07-13T15:03:52+00:00",
@@ -167,7 +194,7 @@
     ]
   },
   {
-    "position": 12,
+    "position": 14,
     "title": "Will MotoGP’s most strained relationship survive 2026 - and should it?",
     "link": "https://www.crash.net/motogp/feature/1101072/1/will-motogps-most-strained-relationship-survive-2026-and-should-it",
     "pub_date": "2026-07-16T11:48:30+00:00",
@@ -183,7 +210,22 @@
     ]
   },
   {
-    "position": 13,
+    "position": 15,
+    "title": "Marc Marquez admits he was “not 100% happy” with dominant Germany MotoGP win",
+    "link": "https://www.crash.net/motogp/news/1101520/1/marc-marquez-admits-he-was-not-100-happy-dominant-germany-motogp-win",
+    "pub_date": "2026-07-20T15:13:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334349_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 16,
     "title": "“Riders will make the difference” - Ducati, Aprilia “equal” in MotoGP title fight",
     "link": "https://www.crash.net/motogp/news/1101092/1/riders-will-make-difference-ducati-aprilia-equal-motogp-title-fight",
     "pub_date": "2026-07-19T10:00:00+00:00",
@@ -198,7 +240,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 17,
     "title": "Why Marc Marquez thinks former team-mate will excel thanks to 2027 MotoGP move",
     "link": "https://www.crash.net/motogp/news/1101080/1/why-marc-marquez-thinks-former-team-mate-will-excel-thanks-2027-motogp-move",
     "pub_date": "2026-07-18T07:00:00+00:00",
@@ -213,7 +255,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 18,
     "title": "How Alex and Marc Marquez helped shape each other's MotoGP future",
     "link": "https://www.crash.net/motogp/news/1101077/1/how-alex-and-marc-marquez-helped-shape-each-others-motogp-future",
     "pub_date": "2026-07-16T14:28:39+00:00",
@@ -228,7 +270,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 19,
     "title": "A new “first time” for Pedro Acosta in MotoGP after complicated first half of 2026",
     "link": "https://www.crash.net/motogp/news/1101031/1/new-first-time-pedro-acosta-motogp-after-complicated-first-half-2026",
     "pub_date": "2026-07-14T11:00:06+00:00",
@@ -243,7 +285,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 20,
     "title": "“Really surprised” - Toprak Razgatlioglu compares Yamaha and Honda at Sachsenring MotoGP",
     "link": "https://www.crash.net/motogp/news/1101009/1/really-surprised-toprak-razgatlioglu-compares-yamaha-and-honda-sachsenring",
     "pub_date": "2026-07-13T11:20:52+00:00",
@@ -251,55 +293,6 @@
     "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 18,
-    "title": "Pecco Bagnaia admits Ducati hasn’t solved unwelcome MotoGP issue all season",
-    "link": "https://www.crash.net/motogp/news/1101008/1/pecco-bagnaia-admits-ducati-hasnt-solved-unwelcome-motogp-issue-all-season",
-    "pub_date": "2026-07-13T10:57:01+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333878_hires.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Tech3's Guenther Steiner confirms “key” 850cc KTM MotoGP bike spec",
-    "link": "https://www.crash.net/motogp/news/1101079/1/guenther-steiner-confirms-key-850cc-ktm-motogp-bike-spec",
-    "pub_date": "2026-07-16T15:02:06+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334445_hires_1600x900.jpg?width=1200",
-    "score": -172,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "Marc Marquez protege earns Moto2 ride for 2027 season",
-    "link": "https://www.crash.net/moto2/news/1101062/1/marc-marquez-protege-earns-moto2-ride-2027-season",
-    "pub_date": "2026-07-16T08:43:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1334860_hires.jpg?width=1200",
-    "score": -172,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

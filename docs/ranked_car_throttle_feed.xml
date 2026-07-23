@@ -5,7 +5,16 @@
     <link>https://www.carthrottle.com/</link>
     <description>Editorially ranked Car Throttle RSS feed for newsletter consumption</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:43:17 +0000</lastBuildDate>
+    <item>
+      <title>Lotus Emira 420 Sport Review: Four-Pot Emira Goes Feral</title>
+      <link>https://www.carthrottle.com/reviews/lotus/lotus-emira-420-sport-review-four-pot-emira-goes-feral</link>
+      <guid isPermaLink="true">https://www.carthrottle.com/reviews/lotus/lotus-emira-420-sport-review-four-pot-emira-goes-feral</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/_dsc9966.jpg?width=1200" alt="" /><p>The 420 Sport is the hardest, lightest, fastest version of the Emira yet, but it won&#x27;t be for everyone</p>]]></description>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/_dsc9966.jpg?width=1200" type="image/jpeg" />
+      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/_dsc9966.jpg?width=1200" medium="image" type="image/jpeg" />
+    </item>
     <item>
       <title>The Greatest Factory Alloy Wheels Ever Fitted To Production Cars</title>
       <link>https://www.carthrottle.com/news/greatest-factory-alloy-wheels-ever-fitted-production-cars</link>
@@ -47,9 +56,7 @@
       <link>https://www.carthrottle.com/news/nick-masons-mclaren-f1-gtr-could-be-ps26-million-star-monterey-car-week</link>
       <guid isPermaLink="true">https://www.carthrottle.com/news/nick-masons-mclaren-f1-gtr-could-be-ps26-million-star-monterey-car-week</guid>
       <pubDate>Tue, 21 Jul 2026 15:19:22 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/1996-mclaren-f1-gtr_1464774-2.jpg?width=1200" alt="" /><p>One of the most famous McLaren F1s of all will go under the hammer during Car Week next month</p>]]></description>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/1996-mclaren-f1-gtr_1464774-2.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/1996-mclaren-f1-gtr_1464774-2.jpg?width=1200" medium="image" type="image/jpeg" />
+      <description><![CDATA[One of the most famous McLaren F1s of all will go under the hammer…]]></description>
     </item>
     <item>
       <title>The Tiny Smart Fortwo Successor Is Nearly Ready</title>
@@ -57,13 +64,6 @@
       <guid isPermaLink="true">https://www.carthrottle.com/news/tiny-smart-fortwo-successor-nearly-ready</guid>
       <pubDate>Tue, 21 Jul 2026 08:00:55 +0000</pubDate>
       <description><![CDATA[The all-electric Smart #2 is being subjected to potholes, kerb strikes and emergency lane…]]></description>
-    </item>
-    <item>
-      <title>The Morgan Supersport is Heading to the US, But It’s Missing Two Important Things</title>
-      <link>https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things</link>
-      <guid isPermaLink="true">https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things</guid>
-      <pubDate>Thu, 16 Jul 2026 08:21:38 +0000</pubDate>
-      <description><![CDATA[Cylinders, specifically: in a reversal of the usual trend, Morgan’s latest and greatest sports…]]></description>
     </item>
     <item>
       <title>Let it Snow with Clarke’s SFHD5 Heavy Duty Snow Foam</title>
@@ -115,6 +115,13 @@
       <description><![CDATA[The Honda Super-N has won our hearts, and now it looks likely to get…]]></description>
     </item>
     <item>
+      <title>The Morgan Supersport is Heading to the US, But It’s Missing Two Important Things</title>
+      <link>https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things</link>
+      <guid isPermaLink="true">https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things</guid>
+      <pubDate>Thu, 16 Jul 2026 08:21:38 +0000</pubDate>
+      <description><![CDATA[Cylinders, specifically: in a reversal of the usual trend, Morgan’s latest and greatest sports…]]></description>
+    </item>
+    <item>
       <title>The Best Used Sports Cars to Suit Every Budget</title>
       <link>https://www.carthrottle.com/news/best-used-sports-cars-suit-every-budget</link>
       <guid isPermaLink="true">https://www.carthrottle.com/news/best-used-sports-cars-suit-every-budget</guid>
@@ -148,13 +155,6 @@
       <guid isPermaLink="true">https://www.carthrottle.com/news/alfa-romeo-once-built-bizarre-motogp-inspired-diesel-hot-hatch</guid>
       <pubDate>Wed, 27 May 2026 15:30:48 +0000</pubDate>
       <description><![CDATA[The 147 Ducati Corse was one of Alfa’s stranger attempts at a performance car]]></description>
-    </item>
-    <item>
-      <title>Alfa Romeo is Getting Back into the Hatchback Market</title>
-      <link>https://www.carthrottle.com/news/alfa-romeo-getting-back-hatchback-market</link>
-      <guid isPermaLink="true">https://www.carthrottle.com/news/alfa-romeo-getting-back-hatchback-market</guid>
-      <pubDate>Wed, 27 May 2026 11:54:52 +0000</pubDate>
-      <description><![CDATA[The 147 and Giulietta will get a successor, but the future of Giulia and…]]></description>
     </item>
   </channel>
 </rss>

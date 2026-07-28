@@ -1,58 +1,14 @@
 [
   {
     "position": 1,
-    "title": "'We have certain rules' - Lando Norris vents frustration over McLaren team-mate battle",
-    "link": "https://www.crash.net/f1/news/1101939/1/we-have-certain-rules-lando-norris-vents-frustration-over-mclaren-team-mate",
-    "pub_date": "2026-07-26T16:58:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429430_hires.jpg?width=1200",
+    "title": "Ferrari explains “succession of mistakes” that led to latest Lewis Hamilton F1 penalty",
+    "link": "https://www.crash.net/f1/news/1101965/1/ferrari-explains-succession-mistakes-led-latest-lewis-hamilton-f1-penalty",
+    "pub_date": "2026-07-28T08:23:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428286_hires.jpg?width=1200",
     "score": 52,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "“I would never have stopped” - Lewis Hamilton critical of Ferrari’s Hungary strategy",
-    "link": "https://www.crash.net/f1/news/1101944/1/i-would-never-have-stopped-lewis-hamilton-critical-ferraris-hungary-strategy",
-    "pub_date": "2026-07-26T18:24:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428957_hires_0.jpg?width=1200",
-    "score": 50,
-    "score_reasons": [
       "top-tier keywords x2 (+24)",
       "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Max Verstappen makes blunt admission after Red Bull Hungary podium surprise",
-    "link": "https://www.crash.net/f1/news/1101942/1/max-verstappen-makes-blunt-admission-after-red-bull-hungary-podium-surprise",
-    "pub_date": "2026-07-26T17:39:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429454_hires.jpg?width=1200",
-    "score": 47,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "Max Verstappen scolds Racing Bulls drivers as “morons” in angry F1 radio rant",
-    "link": "https://www.crash.net/f1/news/1101945/1/max-verstappen-scolds-racing-bulls-drivers-morons-angry-f1-radio-rant",
-    "pub_date": "2026-07-27T07:56:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429457_hires.jpg?width=1200",
-    "score": 45,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -60,11 +16,11 @@
     ]
   },
   {
-    "position": 5,
-    "title": "George Russell’s latest F1 woes explained after “too many” Mercedes mistakes",
-    "link": "https://www.crash.net/f1/news/1101943/1/george-russells-latest-f1-woes-explained-after-too-many-mercedes-mistakes",
-    "pub_date": "2026-07-26T18:19:58+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428440_hires.jpg?width=1200",
+    "position": 2,
+    "title": "Mercedes not sure if George Russell’s ‘cracked’ F1 engine can be repaired",
+    "link": "https://www.crash.net/f1/news/1101961/1/mercedes-not-sure-george-russells-cracked-f1-engine-can-be-repaired",
+    "pub_date": "2026-07-27T15:00:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/m619004_f1_hungarian_grand_prix_2026-2.jpg?width=1200",
     "score": 40,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -74,111 +30,84 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Lewis Hamilton F1 pit lane speeding penalty Martin Brundle dubbed as ‘harsh’ questioned",
-    "link": "https://www.crash.net/f1/news/1101937/1/lewis-hamilton-f1-penalty-martin-brundle-dubbed-harsh-questioned",
-    "pub_date": "2026-07-26T16:21:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428575_hires_0.jpg?width=1200",
-    "score": 35,
+    "position": 3,
+    "title": "McLaren defends Hungary F1 strategy after Oscar Piastri and Lando Norris fume over radio",
+    "link": "https://www.crash.net/f1/news/1101960/1/mclaren-defends-hungary-f1-strategy-after-oscar-piastri-and-lando-norris-fume",
+    "pub_date": "2026-07-27T14:22:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/2287717868.jpg?width=1200",
+    "score": 32,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x3 (+36)",
       "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 7,
-    "title": "Hungary F1 onboard contradicts Carlos Sainz’s blue flags claim",
-    "link": "https://www.crash.net/f1/news/1101948/1/hungary-f1-onboard-contradicts-carlos-sainzs-blue-flags-claim",
-    "pub_date": "2026-07-27T09:38:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428690_hires.jpg?width=1200",
-    "score": 33,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "Oscar Piastri blasts Carlos Sainz for 'complete lack of awareness' in Hungary F1 tangle",
-    "link": "https://www.crash.net/f1/news/1101938/1/oscar-piastri-blasts-carlos-sainz-complete-lack-awareness-hungary-f1-tangle",
-    "pub_date": "2026-07-26T16:53:44+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429175_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Lawrence Stroll gives snap verdict on Aston Martin F1 upgrades",
-    "link": "https://www.crash.net/f1/news/1101947/1/lawrence-stroll-gives-snap-verdict-aston-martin-f1-upgrades",
-    "pub_date": "2026-07-27T08:41:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1399711_hires.jpg?width=1200",
-    "score": 24,
-    "score_reasons": [
       "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Honda reveals when new F1 engine will run before race debut",
-    "link": "https://www.crash.net/f1/news/1101941/1/honda-reveals-when-new-f1-engine-will-run-race-debut",
-    "pub_date": "2026-07-26T17:27:20+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/2287598267.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Toto Wolff rages at “Teletubbies” engineers over Hungary F1 blue flags",
-    "link": "https://www.crash.net/f1/news/1101940/1/toto-wolff-rages-teletubbies-engineers-over-hungary-f1-blue-flags",
-    "pub_date": "2026-07-26T17:07:46+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1423754_hires_1.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Lewis Hamilton suffers more F1 penalty pain with fourth punishment in three races at Hungarian Grand Prix",
-    "link": "https://www.crash.net/f1/news/1101935/1/lewis-hamilton-suffers-more-f1-penalty-pain-fourth-punishment-three-races",
-    "pub_date": "2026-07-26T15:29:55+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428818_hires.jpg?width=1200",
-    "score": 12,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 13,
-    "title": "F1 Hungary LIVE: Reaction after Norris wins eventful race",
-    "link": "https://www.crash.net/f1/live/1044261/f1-hungary-live-race-updates-norris-starts-pole",
-    "pub_date": "2026-07-26T11:51:51+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429013_hires.jpg?width=1200",
+    "position": 4,
+    "title": "Aston Martin’s ‘phase one’ upgrade looks ominous for the F1 midfield",
+    "link": "https://www.crash.net/f1/news/1101963/1/aston-martins-phase-one-upgrade-looks-ominous-f1-midfield",
+    "pub_date": "2026-07-27T15:37:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428786_hires.jpg?width=1200",
+    "score": 26,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Red Bull poaches Mercedes F1 driver scout as Helmut Marko’s successor",
+    "link": "https://www.crash.net/f1/news/1101957/1/red-bull-poaches-mercedes-f1-driver-scout-helmut-markos-successor",
+    "pub_date": "2026-07-27T12:38:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/unnamed.png?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Lando Norris says he was \"better in every sense\" than Oscar Piastri after first win as F1 champion",
+    "link": "https://www.crash.net/f1/news/1101952/1/lando-norris-says-he-was-better-every-sense-oscar-piastri-after-first-win-f1",
+    "pub_date": "2026-07-27T10:58:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429426_hires.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "How wasteful Ferrari threw away an F1 race it should have won",
+    "link": "https://www.crash.net/f1/news/1101950/1/how-wasteful-ferrari-threw-away-f1-race-it-should-have-won",
+    "pub_date": "2026-07-27T10:20:05+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/11-hungary-gp-2026-race_19f04d42-3e8c-42a7-9eda-0f44fad7a94f_0.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "Racing Bulls pair explain blue flag troubles after Max Verstappen's 'moron' criticism",
+    "link": "https://www.crash.net/f1/news/1101956/1/racing-bulls-pair-explain-blue-flag-troubles-after-max-verstappens-moron",
+    "pub_date": "2026-07-27T12:16:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1420214_hires.jpg?width=1200",
     "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -189,101 +118,180 @@
     ]
   },
   {
-    "position": 14,
-    "title": "\"Impossible to avoid\" - Carlos Sainz reveals cause of Oscar Piastri clash in Hungary GP",
-    "link": "https://www.crash.net/f1/news/1101936/1/impossible-avoid-carlos-sainz-reveals-cause-oscar-piastri-clash-hungary-gp",
-    "pub_date": "2026-07-26T15:57:37+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428354_hires.jpg?width=1200",
+    "position": 9,
+    "title": "‘Where championships are lost’ Lewis Hamilton admits to mistakes after string of F1 penalties",
+    "link": "https://www.crash.net/f1/news/1101958/1/where-championships-are-lost-lewis-hamilton-admits-mistakes-after-string-f1",
+    "pub_date": "2026-07-27T13:21:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/08-hungary-gp-2026-race_59ec9210-3162-47d9-8653-9fed1110f175.JPG?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "What Ferrari told Lewis Hamilton before costly Oscar Piastri block in Hungary F1 qualifying",
+    "link": "https://www.crash.net/f1/news/1101831/1/what-ferrari-told-lewis-hamilton-costly-oscar-piastri-block-hungary-f1-qualifying",
+    "pub_date": "2026-07-26T09:00:22+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428825_hires.jpg?width=1200",
+    "score": -44,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "Rival spots potential weak point in Aston Martin's F1 recovery",
+    "link": "https://www.crash.net/f1/news/1101830/1/rival-spots-potential-weak-point-aston-martins-f1-recovery",
+    "pub_date": "2026-07-26T08:41:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428786_hires.jpg?width=1200",
+    "score": -84,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Why the ‘Bahrain GP’ will be held in Malaysia in F1 2026",
+    "link": "https://www.crash.net/f1/news/1101835/1/why-bahrain-gp-will-be-held-malaysia-f1-2026",
+    "pub_date": "2026-07-26T11:22:26+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_907365_hires.jpg?width=1200",
+    "score": -94,
+    "score_reasons": [
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 13,
+    "title": "Malaysia F1 return confirmed with bizarre race title",
+    "link": "https://www.crash.net/f1/news/1101834/1/malaysia-f1-return-confirmed-bizarre-race-title",
+    "pub_date": "2026-07-26T10:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_908446_hires.jpg?width=1200",
+    "score": -94,
+    "score_reasons": [
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "Drivers concerned with ‘not to F1 standard’ Hungary track surface",
+    "link": "https://www.crash.net/f1/news/1101832/1/drivers-concerned-not-f1-standard-hungary-track-surface",
+    "pub_date": "2026-07-26T09:35:20+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428572_hires.jpg?width=1200",
+    "score": -94,
+    "score_reasons": [
+      "has image (+4)",
+      "older than 24h (-100)",
       "good title length (+2)"
     ]
   },
   {
     "position": 15,
-    "title": "Lando Norris takes first win of F1 2026 as drama hits rivals at Hungarian GP",
-    "link": "https://www.crash.net/f1/race-report/1101924/1/lando-norris-takes-first-win-f1-2026-drama-hits-rivals-hungarian-gp",
-    "pub_date": "2026-07-26T14:47:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429316_hires.jpg?width=1200",
-    "score": -2,
+    "title": "Hungary F1 onboard contradicts Carlos Sainz’s blue flags claim",
+    "link": "https://www.crash.net/f1/news/1101948/1/hungary-f1-onboard-contradicts-carlos-sainzs-blue-flags-claim",
+    "pub_date": "2026-07-27T09:38:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428690_hires.jpg?width=1200",
+    "score": -102,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 16,
-    "title": "2026 Formula 1 world championship standings after the Hungarian Grand Prix",
-    "link": "https://www.crash.net/f1/results/1101933/1/2026-formula-1-world-championship-standings-after-hungarian-grand-prix",
-    "pub_date": "2026-07-26T15:25:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429369_hires.jpg?width=1200",
-    "score": -7,
+    "title": "Lewis Hamilton questions \"shock\" Ferrari F1 tactics after Hungary pole miss",
+    "link": "https://www.crash.net/f1/news/1101815/1/lewis-hamilton-questions-shock-ferrari-f1-tactics-after-hungary-pole-miss",
+    "pub_date": "2026-07-25T15:52:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428810_hires.jpg?width=1200",
+    "score": -144,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 17,
-    "title": "2026 F1 Hungarian Grand Prix race results",
-    "link": "https://www.crash.net/f1/results/1101928/1/2026-f1-hungarian-grand-prix-race-results",
-    "pub_date": "2026-07-26T14:59:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429149_hires.jpg?width=1200",
-    "score": -7,
+    "title": "George Russell on brink of engine penalty after latest Mercedes issue in Hungary F1 qualifying",
+    "link": "https://www.crash.net/f1/news/1101820/1/mercedes-reveals-issue-behind-george-russell-stoppage-hungary-f1-qualifying",
+    "pub_date": "2026-07-25T17:56:12+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428441_hires.jpg?width=1200",
+    "score": -156,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 18,
-    "title": "The Bahrain GP in Malaysia: F1’s other peculiar race names",
-    "link": "https://www.crash.net/f1/feature/1101839/1/bahrain-gp-malaysia-f1s-other-most-peculiar-race-names",
-    "pub_date": "2026-07-26T11:45:25+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_115460_hires.jpg?width=1200",
-    "score": -7,
+    "title": "'My car is degrading' - Max Verstappen gives bizarre explanation for Hungary spin",
+    "link": "https://www.crash.net/f1/news/1101825/1/my-car-degrading-max-verstappen-gives-bizarre-explanation-hungary-spin",
+    "pub_date": "2026-07-25T17:11:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428258_hires.jpg?width=1200",
+    "score": -156,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 19,
-    "title": "2026 F1 calendar: Full race schedule after changes due to Middle East war",
-    "link": "https://www.crash.net/f1/news/1073119/1/2026-f1-calendar-full-race-schedule-revealed",
-    "pub_date": "2026-07-26T10:53:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1426896_hires_0.jpg?width=1200",
-    "score": -7,
+    "title": "F1 Hungary LIVE: Reaction after Norris pips Hamilton to pole",
+    "link": "https://www.crash.net/f1/live/1044261/f1-hungary-live-updates-fp3-and-qualifying",
+    "pub_date": "2026-07-25T13:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428575_hires.jpg?width=1200",
+    "score": -156,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 20,
-    "title": "F1 in Malaysia: Five dramatic Sepang moments as iconic track makes shock return",
-    "link": "https://www.crash.net/f1/news/1101828/1/malaysian-grand-prix-five-iconic-f1-races-sepang",
-    "pub_date": "2026-07-26T10:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_568586_hires.jpg?width=1200",
-    "score": -7,
+    "title": "'We have certain rules' - Lando Norris vents frustration over McLaren team-mate battle",
+    "link": "https://www.crash.net/f1/news/1101939/1/we-have-certain-rules-lando-norris-vents-frustration-over-mclaren-team-mate",
+    "pub_date": "2026-07-26T16:58:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429430_hires.jpg?width=1200",
+    "score": -158,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

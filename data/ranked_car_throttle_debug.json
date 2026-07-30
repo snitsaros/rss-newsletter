@@ -1,29 +1,53 @@
 [
   {
     "position": 1,
-    "title": "The Audi Q9 is Here, and It’s Enormous",
-    "link": "https://www.carthrottle.com/news/audi-q9-here-and-its-enormous",
-    "pub_date": "2026-07-29T08:30:04+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/44143-a263886-large-2.jpg?width=1200",
-    "score": 33,
+    "title": "This 429bhp EV Sports Car from China is Heading to the UK Next Year",
+    "link": "https://www.carthrottle.com/news/429bhp-ev-sports-car-china-heading-uk-next-year",
+    "pub_date": "2026-07-29T09:16:21+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/british-specialist-sportscar-start-up-brings-lightweight-sc01-to-uk-3-2.jpg?width=1200",
+    "score": 30,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 168h (+10)",
-      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 2,
-    "title": "Lotus Emira 420 Sport Review: Four-Pot Emira Goes Feral",
-    "link": "https://www.carthrottle.com/reviews/lotus/lotus-emira-420-sport-review-four-pot-emira-goes-feral",
-    "pub_date": "2026-07-22T10:00:00+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/_dsc9966.jpg?width=1200",
-    "score": 15,
+    "title": "The Best Driving Games to Play in 2026",
+    "link": "https://www.carthrottle.com/features/best-driving-games",
+    "pub_date": "2026-07-29T12:13:00+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Upcoming Off-Road Mini Countryman Wants to Live up to Its Name",
+    "link": "https://www.carthrottle.com/news/upcoming-road-mini-countryman-wants-live-its-name",
+    "pub_date": "2026-07-29T09:51:06+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/p90651292_highres_the-new-mini-country-2.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "The Audi Q9 is Here, and It’s Enormous",
+    "link": "https://www.carthrottle.com/news/audi-q9-here-and-its-enormous",
+    "pub_date": "2026-07-29T08:30:04+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/44143-a263886-large-2.jpg?width=1200",
+    "score": 8,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 168h (+10)",
       "good title length (+2)",
@@ -31,7 +55,7 @@
     ]
   },
   {
-    "position": 3,
+    "position": 5,
     "title": "You’ll Never Go Back to the Old Ways With the Clarke PRO237 Digital Torque Wrench",
     "link": "https://www.carthrottle.com/news/youll-never-go-back-old-ways-clarke-pro237-digital-torque-wrench",
     "pub_date": "2026-07-24T07:55:53+00:00",
@@ -45,7 +69,7 @@
     ]
   },
   {
-    "position": 4,
+    "position": 6,
     "title": "The Clarke CMC40B Car Creeper Helps Look After you While you Look After your Car",
     "link": "https://www.carthrottle.com/news/clarke-cmc40b-car-creeper-helps-look-after-you-while-you-look-after-your-car",
     "pub_date": "2026-07-24T07:53:35+00:00",
@@ -59,7 +83,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 7,
     "title": "The Greatest Factory Alloy Wheels Ever Fitted To Production Cars",
     "link": "https://www.carthrottle.com/news/greatest-factory-alloy-wheels-ever-fitted-production-cars",
     "pub_date": "2026-07-21T14:10:48+00:00",
@@ -74,7 +98,23 @@
     ]
   },
   {
-    "position": 6,
+    "position": 8,
+    "title": "Lotus Emira 420 Sport Review: Four-Pot Emira Goes Feral",
+    "link": "https://www.carthrottle.com/reviews/lotus/lotus-emira-420-sport-review-four-pot-emira-goes-feral",
+    "pub_date": "2026-07-22T10:00:00+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/_dsc9966.jpg?width=1200",
+    "score": -15,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 9,
     "title": "Lamborghini Temerario Boss on the V8 Switch and Pushing the Limits of Power",
     "link": "https://www.carthrottle.com/news/lamborghini-temerario-boss-v8-switch-and-pushing-limits-power",
     "pub_date": "2026-07-21T10:50:26+00:00",
@@ -90,7 +130,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 10,
     "title": "10 Estate Cars That Look Better Than Their Saloon Siblings",
     "link": "https://www.carthrottle.com/news/10-estate-cars-look-better-their-saloon-siblings",
     "pub_date": "2026-07-21T12:41:38+00:00",
@@ -105,7 +145,7 @@
     ]
   },
   {
-    "position": 8,
+    "position": 11,
     "title": "Aston Martin Vanquish Marks Quarter-Century with Throwback Special Edition",
     "link": "https://www.carthrottle.com/news/aston-martin-vanquish-marks-quarter-century-throwback-special-edition",
     "pub_date": "2026-07-21T23:01:00+00:00",
@@ -120,7 +160,7 @@
     ]
   },
   {
-    "position": 9,
+    "position": 12,
     "title": "Nick Mason’s McLaren F1 GTR Could be the £26 million Star of Monterey Car Week",
     "link": "https://www.carthrottle.com/news/nick-masons-mclaren-f1-gtr-could-be-ps26-million-star-monterey-car-week",
     "pub_date": "2026-07-21T15:19:22+00:00",
@@ -135,22 +175,7 @@
     ]
   },
   {
-    "position": 10,
-    "title": "The Morgan Supersport is Heading to the US, But It’s Missing Two Important Things",
-    "link": "https://www.carthrottle.com/news/morgan-supersport-heading-us-its-missing-two-important-things",
-    "pub_date": "2026-07-16T08:21:38+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/morgan_supersport_location_us_004.jpeg?width=1200",
-    "score": -27,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 11,
+    "position": 13,
     "title": "The Tiny Smart Fortwo Successor Is Nearly Ready",
     "link": "https://www.carthrottle.com/news/tiny-smart-fortwo-successor-nearly-ready",
     "pub_date": "2026-07-21T08:00:55+00:00",
@@ -164,7 +189,7 @@
     ]
   },
   {
-    "position": 12,
+    "position": 14,
     "title": "Let it Snow with Clarke’s SFHD5 Heavy Duty Snow Foam",
     "link": "https://www.carthrottle.com/news/let-it-snow-clarkes-sfhd5-heavy-duty-snow-foam",
     "pub_date": "2026-07-16T11:55:12+00:00",
@@ -178,7 +203,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 15,
     "title": "Never Get Caught Out With the Clarke CSJ1500 1.5 Tonne Scissor Jack",
     "link": "https://www.carthrottle.com/news/never-get-caught-out-clarke-csj1500-15-tonne-scissor-jack",
     "pub_date": "2026-07-16T11:52:46+00:00",
@@ -192,7 +217,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 16,
     "title": "12 Exciting New Cars Still to Come in 2026",
     "link": "https://www.carthrottle.com/news/12-exciting-new-cars-still-come-2026",
     "pub_date": "2026-07-16T11:14:27+00:00",
@@ -206,7 +231,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 17,
     "title": "Last Ever Bugatti Mistral Brings the W16 Era to an End",
     "link": "https://www.carthrottle.com/news/last-ever-bugatti-mistral-brings-w16-era-end",
     "pub_date": "2026-07-16T09:33:31+00:00",
@@ -220,7 +245,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 18,
     "title": "The All-New Jensen Interceptor GTX Will Be a Track-Only Special",
     "link": "https://www.carthrottle.com/news/all-new-jensen-interceptor-gtx-will-be-track-only-special",
     "pub_date": "2026-07-16T08:57:24+00:00",
@@ -234,7 +259,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 19,
     "title": "How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry",
     "link": "https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations",
     "pub_date": "2026-07-10T14:24:50+00:00",
@@ -250,7 +275,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 20,
     "title": "The Sanrivatti Hypercar Will Seat its Driver Like a Motorbike",
     "link": "https://www.carthrottle.com/news/sanrivatti-hypercar-will-seat-its-driver-motorbike",
     "pub_date": "2026-06-24T08:10:19+00:00",
@@ -259,37 +284,6 @@
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Theon’s Latest Porsche 911 Restomod is a Carbon-Bodied Masterpiece",
-    "link": "https://www.carthrottle.com/news/theons-latest-porsche-911-restomod-carbon-bodied-masterpiece",
-    "pub_date": "2026-06-04T13:10:51+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-06/theon1.jpg?width=1200",
-    "score": -99,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "older than 336h (-100)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "More Kei Cars Coming to Britain as Suzuki Readies Honda Super-N Rival",
-    "link": "https://www.carthrottle.com/news/more-kei-cars-coming-britain-suzuki-readies-honda-super-n-rival",
-    "pub_date": "2026-07-14T12:45:50+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2025-10/vision-e-sky-2.jpg?width=1200",
-    "score": -102,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 336h (-100)",
       "good title length (+2)",

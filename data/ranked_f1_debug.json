@@ -1,10 +1,10 @@
 [
   {
     "position": 1,
-    "title": "Red Bull set to ‘make an early call’ on 2026 F1 development push",
-    "link": "https://www.crash.net/f1/news/1102025/1/red-bull-set-make-early-call-2026-f1-development-push",
-    "pub_date": "2026-08-02T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/si202607170263.jpg?width=1200",
+    "title": "‘The most important thing’ - Ferrari highlights key focus for rest of F1 2026",
+    "link": "https://www.crash.net/f1/news/1102058/1/most-important-thing-ferrari-highlights-key-focus-rest-f1-2026",
+    "pub_date": "2026-08-03T08:40:44+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1428473_hires.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -16,13 +16,13 @@
   },
   {
     "position": 2,
-    "title": "How Max Verstappen's Red Bull struggles are ‘reassuring’ team-mate Isack Hadjar",
-    "link": "https://www.crash.net/f1/news/1102022/1/how-max-verstappens-red-bull-struggles-are-reassuring-team-mate-isack-hadjar",
-    "pub_date": "2026-08-01T13:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428249_hires.jpg?width=1200",
-    "score": 10,
+    "title": "'Bigger changes needed' - Lando Norris' mid-season verdict on F1's new era",
+    "link": "https://www.crash.net/f1/news/1102032/1/bigger-changes-needed-lando-norris-mid-season-verdict-f1s-new-era",
+    "pub_date": "2026-08-02T13:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429460_hires-1.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -30,14 +30,14 @@
   },
   {
     "position": 3,
-    "title": "‘No regrets’ - Arvid Lindblad on Racing Bulls failed ‘hero’ gamble",
-    "link": "https://www.crash.net/f1/news/1102021/1/no-regrets-arvid-lindblad-racing-bulls-failed-hero-gamble",
-    "pub_date": "2026-08-01T10:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1427333_hires.jpg?width=1200",
-    "score": -14,
+    "title": "Revealed: Why Cadillac's F1 brakes keep catching fire",
+    "link": "https://www.crash.net/f1/news/1102029/1/revealed-why-cadillacs-f1-brakes-keep-catching-fire",
+    "pub_date": "2026-08-02T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429191_hires.jpg?width=1200",
+    "score": -94,
     "score_reasons": [
       "has image (+4)",
-      "between 18-24h (-20)",
+      "older than 24h (-100)",
       "good title length (+2)"
     ]
   },
@@ -169,6 +169,21 @@
   },
   {
     "position": 12,
+    "title": "How Max Verstappen's Red Bull struggles are ‘reassuring’ team-mate Isack Hadjar",
+    "link": "https://www.crash.net/f1/news/1102022/1/how-max-verstappens-red-bull-struggles-are-reassuring-team-mate-isack-hadjar",
+    "pub_date": "2026-08-01T13:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428249_hires.jpg?width=1200",
+    "score": -170,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 13,
     "title": "Toto Wolff caveats McLaren's Hungary victory after Mercedes' performance dip",
     "link": "https://www.crash.net/f1/news/1102017/1/toto-wolff-caveats-mclarens-hungary-victory-after-mercedes-performance-dip",
     "pub_date": "2026-08-01T08:00:00+00:00",
@@ -183,7 +198,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 14,
     "title": "‘Other motives’ theory offered for Max Verstappen F1 Red Bull car gripes",
     "link": "https://www.crash.net/f1/news/1102031/1/other-motives-theory-offered-max-verstappen-f1-red-bull-car-gripes",
     "pub_date": "2026-07-31T15:17:37+00:00",
@@ -198,7 +213,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 15,
     "title": "Charles Leclerc makes ‘aggressive’ Ferrari demand in key F1 battleground",
     "link": "https://www.crash.net/f1/news/1102012/1/charles-leclerc-makes-aggressive-ferrari-demand-key-f1-battleground",
     "pub_date": "2026-07-30T15:59:33+00:00",
@@ -213,7 +228,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 16,
     "title": "Williams puts partial blame on Fernando Alonso for Carlos Sainz and Oscar Piastri F1 clash",
     "link": "https://www.crash.net/f1/news/1102000/1/williams-puts-partial-blame-fernando-alonso-carlos-sainz-and-oscar-piastri-f1",
     "pub_date": "2026-07-30T10:01:47+00:00",
@@ -228,7 +243,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 17,
     "title": "'He wants to be winning' - Rachel Brookes stokes Max Verstappen Red Bull exit flames",
     "link": "https://www.crash.net/f1/news/1101988/1/he-wants-be-winning-rachel-brookes-stokes-max-verstappen-red-bull-exit-flames",
     "pub_date": "2026-07-29T12:44:00+00:00",
@@ -243,7 +258,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 18,
     "title": "Mercedes sheds more light on George Russell’s Hungary F1 start issue",
     "link": "https://www.crash.net/f1/news/1101972/1/mercedes-sheds-more-light-george-russells-hungary-f1-start-issue",
     "pub_date": "2026-07-28T11:58:01+00:00",
@@ -258,7 +273,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 19,
     "title": "“It’s been hard work” - Red Bull’s F1 car admission after Max Verstappen complaints",
     "link": "https://www.crash.net/f1/news/1101971/1/its-been-hard-work-red-bulls-f1-car-admission-after-max-verstappen-complaints",
     "pub_date": "2026-07-28T11:17:32+00:00",
@@ -273,26 +288,11 @@
     ]
   },
   {
-    "position": 19,
+    "position": 20,
     "title": "Mercedes not sure if George Russell’s ‘cracked’ F1 engine can be repaired",
     "link": "https://www.crash.net/f1/news/1101961/1/mercedes-not-sure-george-russells-cracked-f1-engine-can-be-repaired",
     "pub_date": "2026-07-27T15:00:47+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/m619004_f1_hungarian_grand_prix_2026-2.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "Red Bull poaches Mercedes F1 driver scout as Helmut Marko’s successor",
-    "link": "https://www.crash.net/f1/news/1101957/1/red-bull-poaches-mercedes-f1-driver-scout-helmut-markos-successor",
-    "pub_date": "2026-07-27T12:38:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/unnamed.png?width=1200",
     "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",

@@ -1,160 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xml:base="https://www.golfmagic.com/">
   <channel>
     <title>GolfMagic Reviews Ranked Feed</title>
     <link>https://www.golfmagic.com/</link>
     <description>Editorially ranked GolfMagic equipment review RSS feed for newsletter consumption</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Aug 2026 09:05:27 +0000</lastBuildDate>
+    <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_golfmagic_reviews_feed.xml" />
+    <ttl>60</ttl>
+    <lastBuildDate>Tue, 04 Aug 2026 13:19:07 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 08:22:48 +0000</pubDate>
+    <item>
+      <title>PXG One &amp; Done ZT Putter Review: L.A.B.-level performance for less</title>
+      <link>https://www.golfmagic.com/equipment/putters/pxg-one-and-done-zt-putter-review</link>
+      <description>PXG&#x27;s latest zero-torque putter is its best feeling and most forgiving yet, and comes in cheaper than its major ZT rivals as an added bonus.</description>
+      <category>Putters</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/pxg-one-and-done-1.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.golfmagic.com/equipment/putters/pxg-one-and-done-zt-putter-review</guid>
+      <pubDate>Tue, 04 Aug 2026 08:22:48 +0000</pubDate>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
+    </item>
     <item>
       <title>L.A.B. VZN.1i Putter Review: Is this L.A.B.&#x27;s best putter to date?</title>
       <link>https://www.golfmagic.com/equipment/putters/lab-vzn1i-putter-review</link>
+      <description>The new VZN.1i delivers big stability and big forgiveness in an even more player-friendly package.</description>
+      <category>Putters</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/lab-vzn-1i_0000_layer-7.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/putters/lab-vzn1i-putter-review</guid>
       <pubDate>Mon, 03 Aug 2026 08:52:49 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.golfmagic.com/sites/default/files/2026-08/lab-vzn-1i_0000_layer-7.jpg?width=1200" alt="" /><p>The new VZN.1i delivers big stability and big forgiveness in an even more player-friendly package.</p>]]></description>
-      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/lab-vzn-1i_0000_layer-7.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.golfmagic.com/sites/default/files/2026-08/lab-vzn-1i_0000_layer-7.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Royal Lytham &amp; St Annes Review: What it&#x27;s like to play the AIG Women&#x27;s Open venue</title>
       <link>https://www.golfmagic.com/courses/uk-and-ireland/royal-lytham-st-annes-course-review-english-links-gem-worth-travelling</link>
+      <description>GolfMagic pays a visit to Royal Lytham &amp;amp; St Annes, home to this year&#x27;s closing women&#x27;s major.</description>
+      <category>UK and Ireland</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2025-09/royal-lytham-st-annes_0003_layer-1.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/courses/uk-and-ireland/royal-lytham-st-annes-course-review-english-links-gem-worth-travelling</guid>
       <pubDate>Wed, 29 Jul 2026 09:20:56 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.golfmagic.com/sites/default/files/2025-09/royal-lytham-st-annes_0003_layer-1.jpg?width=1200" alt="" /><p>GolfMagic pays a visit to Royal Lytham &amp;amp; St Annes, home to this year&#x27;s closing women&#x27;s major.</p>]]></description>
-      <enclosure url="https://www.golfmagic.com/sites/default/files/2025-09/royal-lytham-st-annes_0003_layer-1.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.golfmagic.com/sites/default/files/2025-09/royal-lytham-st-annes_0003_layer-1.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
+    </item>
+    <item>
+      <title>adidas CODECHAOS 27 Review: The most comfortable adidas golf shoe ever?</title>
+      <link>https://www.golfmagic.com/equipment/shoes/adidas-codechaos-27-golf-shoe-review</link>
+      <description>adidas&#x27; wonderfully bouncy Boost foam and aggressive styling make a welcome return on their retooled spikeless shoe.</description>
+      <category>Golf Shoes</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-07/codechaos-27_0000_fw26_codechaos_pr_1920x1080_4.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.golfmagic.com/equipment/shoes/adidas-codechaos-27-golf-shoe-review</guid>
+      <pubDate>Wed, 15 Jul 2026 08:28:12 +0000</pubDate>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Callaway Quantum Max Irons Review: An outstanding game improvement all-rounder</title>
       <link>https://www.golfmagic.com/equipment/news/callaway-quantum-max-irons-review</link>
+      <description>Callaway&#x27;s new game improvement irons aren&#x27;t the longest or most forgiving we&#x27;ve tested this year, but provide so much consistency and feel it&#x27;s hard not to recommend them.</description>
+      <category>Irons</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-04/callaway-quantum_0000_quantum-max-irons-lifestyle-111225-02-6003.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/news/callaway-quantum-max-irons-review</guid>
       <pubDate>Tue, 14 Apr 2026 11:42:39 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.golfmagic.com/sites/default/files/2026-04/callaway-quantum_0000_quantum-max-irons-lifestyle-111225-02-6003.jpg?width=1200" alt="" /><p>Callaway&#x27;s new game improvement irons aren&#x27;t the longest or most forgiving we&#x27;ve tested this year, but provide so much consistency and feel it&#x27;s hard not to recommend them.</p>]]></description>
-      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-04/callaway-quantum_0000_quantum-max-irons-lifestyle-111225-02-6003.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.golfmagic.com/sites/default/files/2026-04/callaway-quantum_0000_quantum-max-irons-lifestyle-111225-02-6003.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Wilson DYNAPWR Max+ Driver review: Simply the best value driver on the market</title>
       <link>https://www.golfmagic.com/equipment/drivers/wilson-dynapwr-max-driver-review-simply-best-value-driver-market</link>
+      <description>Golf&#x27;s most underrated club maker has knocked it out of the park again with…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-02/wilson-dynapwr-max-plus_0000_wilson-dynapwr-max-flippable-rear-weight_0.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/wilson-dynapwr-max-driver-review-simply-best-value-driver-market</guid>
       <pubDate>Wed, 18 Feb 2026 14:22:32 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.golfmagic.com/sites/default/files/2026-02/wilson-dynapwr-max-plus_0000_wilson-dynapwr-max-flippable-rear-weight_0.jpg?width=1200" alt="" /><p>Golf&#x27;s most underrated club maker has knocked it out of the park again with an ultra forgiving driver that golfers on a budget would be mad not to try.</p>]]></description>
-      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-02/wilson-dynapwr-max-plus_0000_wilson-dynapwr-max-flippable-rear-weight_0.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.golfmagic.com/sites/default/files/2026-02/wilson-dynapwr-max-plus_0000_wilson-dynapwr-max-flippable-rear-weight_0.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>PING G440 K Driver Review: This might just be the best driver we&#x27;ve ever tested</title>
       <link>https://www.golfmagic.com/equipment/drivers/ping-g440k-driver-review-might-just-be-best-driver-weve-ever-tested</link>
+      <description>PING&#x27;s update to the much-loved G430 MAX 10K is here, and it&#x27;s an instant…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-01/ping-g440k.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/ping-g440k-driver-review-might-just-be-best-driver-weve-ever-tested</guid>
       <pubDate>Tue, 13 Jan 2026 14:53:30 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.golfmagic.com/sites/default/files/2026-01/ping-g440k.jpg?width=1200" alt="" /><p>PING&#x27;s update to the much-loved G430 MAX 10K is here, and it&#x27;s an instant contender for the best new release of the year.</p>]]></description>
-      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-01/ping-g440k.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.golfmagic.com/sites/default/files/2026-01/ping-g440k.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Shot Scope LM1 Review: The £200 launch monitor that actually delivers</title>
       <link>https://www.golfmagic.com/equipment/golf-tech/shot-scope-lm1-review-ps200-launch-monitor-actually-delivers</link>
+      <description>At £199, Shot Scope&#x27;s affordable launch monitor might be one of the best-value golf…</description>
+      <category>Golf Tech</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-03/shot-scope-lm.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/golf-tech/shot-scope-lm1-review-ps200-launch-monitor-actually-delivers</guid>
       <pubDate>Wed, 08 Jul 2026 08:29:39 +0000</pubDate>
-      <description><![CDATA[At £199, Shot Scope&#x27;s affordable launch monitor might be one of the best-value golf…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>PING Scottsdale TEC Putters Review: This major-winning putter is worth the hype</title>
       <link>https://www.golfmagic.com/equipment/putters/ping-scottsdale-tec-putters-review</link>
+      <description>PING&#x27;s new flagship putter range is already racking up big-name endorsees and tournament victories…</description>
+      <category>Putters</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-04/ping_0000_scottsdaletec_lifestyle18.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/putters/ping-scottsdale-tec-putters-review</guid>
       <pubDate>Mon, 29 Jun 2026 08:40:58 +0000</pubDate>
-      <description><![CDATA[PING&#x27;s new flagship putter range is already racking up big-name endorsees and tournament victories…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Tour Edge Exotics Drivers Review: The £379 driver that&#x27;s faster than a TaylorMade</title>
       <link>https://www.golfmagic.com/equipment/drivers/tour-edge-exotics-2026-drivers-review-bold-affordable-options-every-golfer</link>
+      <description>Tour Edge&#x27;s new premium drivers deliver clean looks and performance that truly rivals the…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-06/tour-edge-exotics_0.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/tour-edge-exotics-2026-drivers-review-bold-affordable-options-every-golfer</guid>
       <pubDate>Mon, 22 Jun 2026 12:54:03 +0000</pubDate>
-      <description><![CDATA[Tour Edge&#x27;s new premium drivers deliver clean looks and performance that truly rivals the…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Titleist GTS3 Driver Review: An upgrade to a winning formula</title>
       <link>https://www.golfmagic.com/equipment/drivers/titleist-gts3-driver-review</link>
+      <description>Titleist&#x27;s new low-spin driver is both longer and more accurate than its predecessor. But…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-05/titleist-gts3_0001_251216_titleist_silverleaf_hamilton_22753_r1_rgb.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/titleist-gts3-driver-review</guid>
       <pubDate>Mon, 18 May 2026 10:06:07 +0000</pubDate>
-      <description><![CDATA[Titleist&#x27;s new low-spin driver is both longer and more accurate than its predecessor. But…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Callaway Quantum Mini Driver Review: Small, but mightier than ever</title>
       <link>https://www.golfmagic.com/equipment/drivers/callaway-quantum-mini-driver-review</link>
+      <description>Callaway&#x27;s brand new mini driver delivers a wonderful mix of distance, versatility and forgiveness…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-04/callaway-quantum-mini-1.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/callaway-quantum-mini-driver-review</guid>
       <pubDate>Mon, 11 May 2026 09:55:00 +0000</pubDate>
-      <description><![CDATA[Callaway&#x27;s brand new mini driver delivers a wonderful mix of distance, versatility and forgiveness…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>PING G740 Irons Review: PING&#x27;s most forgiving irons yet</title>
       <link>https://www.golfmagic.com/equipment/irons/ping-g740-irons-review</link>
+      <description>If you don&#x27;t mind the chunky profile, PING&#x27;s new super game improvement irons will…</description>
+      <category>Irons</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-03/ping-g740-irons_0000_g740-irons.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/irons/ping-g740-irons-review</guid>
       <pubDate>Wed, 18 Mar 2026 11:06:14 +0000</pubDate>
-      <description><![CDATA[If you don&#x27;t mind the chunky profile, PING&#x27;s new super game improvement irons will…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Callaway Quantum Triple Diamond Driver Review: Big distance, bigger price tag</title>
       <link>https://www.golfmagic.com/equipment/drivers/callaway-quantum-triple-diamond-driver-review-big-distance-bigger-price-tag</link>
+      <description>Callaway&#x27;s Quantum Triple Diamond builds on the formula of its uber-fast low-spin predecessor. But…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-01/callaway-triple-diamond.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/callaway-quantum-triple-diamond-driver-review-big-distance-bigger-price-tag</guid>
       <pubDate>Fri, 16 Jan 2026 16:50:27 +0000</pubDate>
-      <description><![CDATA[Callaway&#x27;s Quantum Triple Diamond builds on the formula of its uber-fast low-spin predecessor. But…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Cobra OPTM MAX-K &amp; MAX-D Drivers Review: The most forgiving driver of 2026?</title>
       <link>https://www.golfmagic.com/equipment/drivers/cobra-optm-max-k-max-d-drivers-review</link>
+      <description>If forgiveness is top of your priorities list, Cobra&#x27;s new OPTM MAX drivers are…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-01/cobra-optm_0002_ss26_gox_cobra_optm_oncourse_0z82462.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/cobra-optm-max-k-max-d-drivers-review</guid>
       <pubDate>Tue, 13 Jan 2026 11:03:27 +0000</pubDate>
-      <description><![CDATA[If forgiveness is top of your priorities list, Cobra&#x27;s new OPTM MAX drivers are…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Cobra OPTM LS Driver Review: Low spin performance with an added bonus</title>
       <link>https://www.golfmagic.com/equipment/drivers/cobra-optm-ls-driver-review</link>
+      <description>By trading relentless low-spin performance for a little more forgiveness, Cobra&#x27;s OPTM LS is…</description>
+      <category>Drivers</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-01/cobra-optm_0001_ss26_gox_cobra_optm_oncourse_0z82515.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/drivers/cobra-optm-ls-driver-review</guid>
       <pubDate>Tue, 13 Jan 2026 11:03:27 +0000</pubDate>
-      <description><![CDATA[By trading relentless low-spin performance for a little more forgiveness, Cobra&#x27;s OPTM LS is…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Mizuno Pro M-15 Irons Review: Great irons outshone by their sibling</title>
       <link>https://www.golfmagic.com/equipment/irons/mizuno-pro-m-15-irons-review</link>
+      <description>GolfMagic tests the most forgiving new iron in Mizuno&#x27;s fabled Pro line to see…</description>
+      <category>Irons</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-01/mizuno-pro-m-15-irons.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/irons/mizuno-pro-m-15-irons-review</guid>
       <pubDate>Mon, 05 Jan 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[GolfMagic tests the most forgiving new iron in Mizuno&#x27;s fabled Pro line to see…]]></description>
-    </item>
-    <item>
-      <title>Mizuno Pro M-13 Irons Review: A new standard for a legendary iron range</title>
-      <link>https://www.golfmagic.com/equipment/irons/mizuno-pro-m-13-irons-review</link>
-      <guid isPermaLink="true">https://www.golfmagic.com/equipment/irons/mizuno-pro-m-13-irons-review</guid>
-      <pubDate>Mon, 05 Jan 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[GolfMagic tests Mizuno&#x27;s latest Pro irons to find out why they might be the…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Shot Scope H50 Golf GPS Review: The best value golf GPS on the market?</title>
       <link>https://www.golfmagic.com/equipment/gps-rangefinders/shot-scope-h50-golf-gps-review</link>
+      <description>Shot Scope&#x27;s handheld GPS is a great all-in-one device for golfers who don&#x27;t want…</description>
+      <category>Golf GPS &amp; Rangefinders</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-07/shot-scope-h50-1.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/gps-rangefinders/shot-scope-h50-golf-gps-review</guid>
       <pubDate>Thu, 09 Jul 2026 12:06:39 +0000</pubDate>
-      <description><![CDATA[Shot Scope&#x27;s handheld GPS is a great all-in-one device for golfers who don&#x27;t want…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Wilson ZT Infinite Putters Review: This £200 zero-torque putter could be a game-changer</title>
       <link>https://www.golfmagic.com/equipment/putters/wilson-zt-infinite-putters-review-ps200-zero-torque-putter-could-be-game-changer</link>
+      <description>Wilson has delivered its unique blend of premium performance and affordability yet again, with…</description>
+      <category>Putters</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-03/wilson-infinite-zt_0002_layer-1.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/putters/wilson-zt-infinite-putters-review-ps200-zero-torque-putter-could-be-game-changer</guid>
       <pubDate>Wed, 08 Apr 2026 12:21:03 +0000</pubDate>
-      <description><![CDATA[Wilson has delivered its unique blend of premium performance and affordability yet again, with…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
     <item>
       <title>Cobra 3DP MB Irons Review: Blades simply shouldn&#x27;t be this forgiving</title>
       <link>https://www.golfmagic.com/equipment/irons/cobra-3dp-mb-irons-review-0</link>
+      <description>Cobra&#x27;s 3D printed blades deliver a blend of feel and forgiveness that we&#x27;ve never…</description>
+      <category>Irons</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-03/cobra-3dp-mb.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/equipment/irons/cobra-3dp-mb-irons-review-0</guid>
       <pubDate>Wed, 25 Mar 2026 11:18:10 +0000</pubDate>
-      <description><![CDATA[Cobra&#x27;s 3D printed blades deliver a blend of feel and forgiveness that we&#x27;ve never…]]></description>
-    </item>
-    <item>
-      <title>PING i540 Irons Review: The perfect blend of feel and power</title>
-      <link>https://www.golfmagic.com/equipment/irons/ping-i540-irons-review</link>
-      <guid isPermaLink="true">https://www.golfmagic.com/equipment/irons/ping-i540-irons-review</guid>
-      <pubDate>Mon, 16 Mar 2026 10:10:21 +0000</pubDate>
-      <description><![CDATA[Ping&#x27;s updated players distance irons deliver a beautiful blend of distance and feel, but…]]></description>
+      <source url="https://www.golfmagic.com/rss/equipment_review">Golfmagic - Equipment review</source>
     </item>
   </channel>
 </rss>

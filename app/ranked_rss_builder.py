@@ -5,6 +5,7 @@ import html
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime, format_datetime
+from urllib.parse import urlparse
 
 import requests
 import feedparser
@@ -26,7 +27,14 @@ DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 # ============================================================
 
 DEFAULT_MAX_ITEMS = 20
-DEFAULT_TOP_IMAGE_ITEMS = 5  # top N are image-led in RSS
+DEFAULT_TOP_IMAGE_ITEMS = 5  # top N items get the longer summary length
+
+# GitHub Pages base URL for this repo's docs/ folder. Used only for each
+# feed's <atom:link rel="self">. Assumes the standard "Pages served from
+# docs/ on main" layout -- verify in GitHub Settings > Pages if it's wrong.
+PUBLIC_FEED_BASE_URL = "https://snitsaros.github.io/rss-newsletter"
+
+RSS_TTL_MINUTES = 60  # matches the ttl value used by every source feed observed
 
 DEFAULT_FRESH_HOURS = 18
 DEFAULT_STALE_HOURS = 24
@@ -366,12 +374,6 @@ def xml_escape(text):
     return html.escape(str(text), quote=True)
 
 
-def wrap_cdata(text):
-    if text is None:
-        text = ""
-    return "<![CDATA[" + text.replace("]]>", "]]]]><![CDATA[>") + "]]>"
-
-
 def load_used_urls(path):
     if not os.path.exists(path):
         return set()
@@ -513,6 +515,21 @@ def extract_best_image(entry):
             return match.group(1)
 
     return None
+
+
+def extract_category(entry):
+    for tag in entry.get("tags") or []:
+        term = tag.get("term") if isinstance(tag, dict) else None
+        if term:
+            return normalise_whitespace(term)
+    return None
+
+
+def get_source_feed_name(parsed_feed, config: "FeedConfig"):
+    title = normalise_whitespace(parsed_feed.feed.get("title", ""))
+    if title:
+        return title
+    return urlparse(config.source_url).netloc or config.source_url
 
 
 def get_description_text(entry):
@@ -713,6 +730,7 @@ def convert_entries_to_items(parsed_feed):
         pub_date = parse_pub_date(entry)
         description = clean_text(get_description_text(entry))
         image_url = extract_best_image(entry)
+        category = clean_text(extract_category(entry))
 
         items.append({
             "title": title,
@@ -720,6 +738,7 @@ def convert_entries_to_items(parsed_feed):
             "pub_date": pub_date,
             "description": description,
             "image_url": image_url,
+            "category": category,
         })
 
     return items
@@ -729,61 +748,65 @@ def convert_entries_to_items(parsed_feed):
 # RSS BUILDING
 # ============================================================
 
-def build_description_html(item, include_images, summary_word_limit):
-    summary_text = trim_words(item.get("description", ""), summary_word_limit)
-    safe_summary = html.escape(summary_text)
-
-    if include_images and item.get("image_url"):
-        image_url_escaped = xml_escape(item["image_url"])
-        return f'<img src="{image_url_escaped}" alt="" /><p>{safe_summary}</p>'
-
-    return safe_summary
-
-
-def build_item_xml(item, include_images, config: FeedConfig):
+def build_item_xml(item, is_lead_item, source_name, config: FeedConfig):
     title = xml_escape(item["title"])
     link = xml_escape(item["link"])
     pub_date = xml_escape(format_rss_date(item["pub_date"]))
 
-    summary_word_limit = config.top_summary_words if include_images else config.lower_summary_words
-    description_html = build_description_html(item, include_images, summary_word_limit)
+    summary_word_limit = config.top_summary_words if is_lead_item else config.lower_summary_words
+    summary_text = trim_words(item.get("description", ""), summary_word_limit)
+    description = xml_escape(summary_text)
 
     parts = []
     parts.append("    <item>")
     parts.append(f"      <title>{title}</title>")
     parts.append(f"      <link>{link}</link>")
-    parts.append(f"      <guid isPermaLink=\"true\">{link}</guid>")
-    parts.append(f"      <pubDate>{pub_date}</pubDate>")
-    parts.append(f"      <description>{wrap_cdata(description_html)}</description>")
+    parts.append(f"      <description>{description}</description>")
 
-    if include_images and item.get("image_url"):
+    if item.get("category"):
+        parts.append(f"      <category>{xml_escape(item['category'])}</category>")
+
+    if item.get("image_url"):
         image_url_escaped = xml_escape(item["image_url"])
         mime_type = xml_escape(guess_mime_type_from_url(item["image_url"]))
         parts.append(f"      <enclosure url=\"{image_url_escaped}\" type=\"{mime_type}\" />")
-        parts.append(
-            f"      <media:content url=\"{image_url_escaped}\" medium=\"image\" type=\"{mime_type}\" />"
-        )
 
+    parts.append(f"      <guid isPermaLink=\"true\">{link}</guid>")
+    parts.append(f"      <pubDate>{pub_date}</pubDate>")
+    parts.append(f"      <source url=\"{xml_escape(config.source_url)}\">{xml_escape(source_name)}</source>")
     parts.append("    </item>")
     return "\n".join(parts)
 
 
-def build_rss_xml(config: FeedConfig, items):
+def build_rss_xml(config: FeedConfig, items, source_name):
     now_utc = datetime.now(timezone.utc)
+
+    item_dates = [item["pub_date"] for item in items if item["pub_date"]]
+    channel_pub_date = max(item_dates) if item_dates else now_utc
+
+    self_href = xml_escape(f"{PUBLIC_FEED_BASE_URL}/{config.output_rss_file}")
 
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
-    lines.append('<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">')
+    lines.append(
+        '<rss version="2.0" '
+        'xmlns:atom="http://www.w3.org/2005/Atom" '
+        'xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+        f'xml:base="{xml_escape(config.channel_link)}">'
+    )
     lines.append("  <channel>")
     lines.append(f"    <title>{xml_escape(config.channel_title)}</title>")
     lines.append(f"    <link>{xml_escape(config.channel_link)}</link>")
     lines.append(f"    <description>{xml_escape(config.channel_description)}</description>")
     lines.append(f"    <language>{xml_escape(config.channel_language)}</language>")
+    lines.append(f'    <atom:link rel="self" href="{self_href}" />')
+    lines.append(f"    <ttl>{RSS_TTL_MINUTES}</ttl>")
     lines.append(f"    <lastBuildDate>{xml_escape(format_rss_date(now_utc))}</lastBuildDate>")
+    lines.append(f"    <pubDate>{xml_escape(format_rss_date(channel_pub_date))}</pubDate>")
 
     for index, item in enumerate(items, start=1):
-        include_images = index <= config.top_image_items
-        lines.append(build_item_xml(item, include_images, config))
+        is_lead_item = index <= config.top_image_items
+        lines.append(build_item_xml(item, is_lead_item, source_name, config))
 
     lines.append("  </channel>")
     lines.append("</rss>")
@@ -822,6 +845,8 @@ def run_feed(config: FeedConfig):
         print(f"ERROR [{config.id}]: No usable items found in the source feed.")
         return
 
+    source_name = get_source_feed_name(parsed_feed, config)
+
     now_utc = datetime.now(timezone.utc)
     ranked_items = deduplicate_and_rank(
         items=items,
@@ -830,7 +855,7 @@ def run_feed(config: FeedConfig):
         config=config,
     )
 
-    rss_xml = build_rss_xml(config=config, items=ranked_items)
+    rss_xml = build_rss_xml(config=config, items=ranked_items, source_name=source_name)
 
     try:
         with open(config.output_rss_path, "w", encoding="utf-8", newline="\n") as f:

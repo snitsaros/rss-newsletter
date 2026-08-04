@@ -1,160 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xml:base="https://www.carthrottle.com/">
   <channel>
     <title>Car Throttle Ranked Feed</title>
     <link>https://www.carthrottle.com/</link>
     <description>Editorially ranked Car Throttle RSS feed for newsletter consumption</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Aug 2026 09:05:26 +0000</lastBuildDate>
+    <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_car_throttle_feed.xml" />
+    <ttl>60</ttl>
+    <lastBuildDate>Tue, 04 Aug 2026 13:19:04 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 11:20:05 +0000</pubDate>
     <item>
       <title>Another Hot Hatch Is Bowing Out As Mercedes Says Goodbye To The A45</title>
       <link>https://www.carthrottle.com/news/another-hot-hatch-bowing-out-mercedes-says-goodbye-a45</link>
+      <description>The 415bhp Mercedes-AMG A45 S is bowing out with a £68k Final Edition, marking the end of another long-running hot hatch</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design_1.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/another-hot-hatch-bowing-out-mercedes-says-goodbye-a45</guid>
       <pubDate>Thu, 30 Jul 2026 10:08:12 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design_1.png?width=1200" alt="" /><p>The 415bhp Mercedes-AMG A45 S is bowing out with a £68k Final Edition, marking the end of another long-running hot hatch</p>]]></description>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design_1.png?width=1200" type="image/png" />
-      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design_1.png?width=1200" medium="image" type="image/png" />
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>Here’s Your Best Look Yet at the New Audi A2</title>
+      <link>https://www.carthrottle.com/news/heres-your-best-look-yet-reborn-audi-a2</link>
+      <description>The cult efficiency hero is making a comeback later this year, and the spirit of the original is alive and well</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/a263941_large-2.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/heres-your-best-look-yet-reborn-audi-a2</guid>
+      <pubDate>Tue, 04 Aug 2026 11:20:05 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>This 429bhp EV Sports Car from China is Heading to the UK Next Year</title>
       <link>https://www.carthrottle.com/news/429bhp-ev-sports-car-china-heading-uk-next-year</link>
+      <description>429bhp, 1,365kg and 0-62 in 2.9 seconds: the SC01 has promising specs, but does the market exist?</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/british-specialist-sportscar-start-up-brings-lightweight-sc01-to-uk-3-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/429bhp-ev-sports-car-china-heading-uk-next-year</guid>
       <pubDate>Wed, 29 Jul 2026 09:16:21 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/british-specialist-sportscar-start-up-brings-lightweight-sc01-to-uk-3-2.jpg?width=1200" alt="" /><p>429bhp, 1,365kg and 0-62 in 2.9 seconds: the SC01 has promising specs, but does the market exist?</p>]]></description>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/british-specialist-sportscar-start-up-brings-lightweight-sc01-to-uk-3-2.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/british-specialist-sportscar-start-up-brings-lightweight-sc01-to-uk-3-2.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Audi Q9 is Here, and It’s Enormous</title>
       <link>https://www.carthrottle.com/news/audi-q9-here-and-its-enormous</link>
+      <description>Outside lane hoggers beware: at 5.3 metres long and 2.2 metres wide, this is Audi’s biggest ever car</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/44143-a263886-large-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/audi-q9-here-and-its-enormous</guid>
       <pubDate>Wed, 29 Jul 2026 08:30:04 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/44143-a263886-large-2.jpg?width=1200" alt="" /><p>Outside lane hoggers beware: at 5.3 metres long and 2.2 metres wide, this is Audi’s biggest ever car</p>]]></description>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/44143-a263886-large-2.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/44143-a263886-large-2.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The 10 Greatest Sports Saloons Of All Time</title>
       <link>https://www.carthrottle.com/news/10-greatest-sports-saloons-all-time</link>
+      <description>From homologation specials to V8-powered super-saloons, these are ten of the greatest four-door performance cars ever made...</description>
+      <category>Features</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design-3_0.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/10-greatest-sports-saloons-all-time</guid>
       <pubDate>Thu, 30 Jul 2026 14:19:28 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design-3_0.png?width=1200" alt="" /><p>From homologation specials to V8-powered super-saloons, these are ten of the greatest four-door performance cars ever made...</p>]]></description>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design-3_0.png?width=1200" type="image/png" />
-      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design-3_0.png?width=1200" medium="image" type="image/png" />
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>Here&#x27;s What it&#x27;s Like to Ride Shotgun in a Reborn Lola T70 Can-Am Racer</title>
+      <link>https://www.carthrottle.com/news/heres-what-its-ride-shotgun-reborn-lola-t70-can-am-racer</link>
+      <description>We squeezed ourself into the new Lola T70S alongside three-time F1 race winner Johnny…</description>
+      <category>Features, Motorsport, British Cars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/1-dg3_2188-2.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/heres-what-its-ride-shotgun-reborn-lola-t70-can-am-racer</guid>
+      <pubDate>Tue, 04 Aug 2026 09:34:05 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Clarke CWR45 Wall Storage Rack is a Must for Organising Your Garage</title>
       <link>https://www.carthrottle.com/news/clarke-cwr45-wall-storage-rack-must-organising-your-garage</link>
+      <description>This practical and great-looking storage rack is space-efficient and makes for easy access to…</description>
+      <category>Workshop, Sponsored</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarketoolrack.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/clarke-cwr45-wall-storage-rack-must-organising-your-garage</guid>
       <pubDate>Thu, 30 Jul 2026 18:50:45 +0000</pubDate>
-      <description><![CDATA[<img src="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarketoolrack.jpg?width=1200" alt="" /><p>This practical and great-looking storage rack is space-efficient and makes for easy access to your most important tools</p>]]></description>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarketoolrack.jpg?width=1200" type="image/jpeg" />
-      <media:content url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarketoolrack.jpg?width=1200" medium="image" type="image/jpeg" />
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Clarke CHT804 Combination Spanner Set Means You’ll Never be Caught Out Again</title>
       <link>https://www.carthrottle.com/news/clarke-cht804-combination-spanner-set-means-youll-never-be-caught-out-again</link>
+      <description>You know that frustrating feeling of not being able to find the right size…</description>
+      <category>Workshop, Sponsored</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkespanners.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/clarke-cht804-combination-spanner-set-means-youll-never-be-caught-out-again</guid>
       <pubDate>Thu, 30 Jul 2026 18:47:53 +0000</pubDate>
-      <description><![CDATA[You know that frustrating feeling of not being able to find the right size…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Best Coupes Of The Last 25 Years</title>
       <link>https://www.carthrottle.com/news/best-coupes-last-25-years</link>
+      <description>From V10-powered supercars to compact rear-wheel-drive bruisers - these are seven of the finest…</description>
+      <category>Features</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design-5.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/best-coupes-last-25-years</guid>
       <pubDate>Thu, 30 Jul 2026 15:10:25 +0000</pubDate>
-      <description><![CDATA[From V10-powered supercars to compact rear-wheel-drive bruisers - these are seven of the finest…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Best Driving Games to Play in 2026</title>
       <link>https://www.carthrottle.com/features/best-driving-games</link>
+      <description>Arcade racers, hardcore sims and indie titles: these are our picks for the best…</description>
+      <category>Gaming</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/features/best-driving-games</guid>
       <pubDate>Wed, 29 Jul 2026 12:13:00 +0000</pubDate>
-      <description><![CDATA[Arcade racers, hardcore sims and indie titles: these are our picks for the best…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>Upcoming Off-Road Mini Countryman Wants to Live up to Its Name</title>
       <link>https://www.carthrottle.com/news/upcoming-road-mini-countryman-wants-live-its-name</link>
+      <description>A more rough-and-ready Countryman has been out testing in the mud ahead of a…</description>
+      <category>News, British Cars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/p90651292_highres_the-new-mini-country-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/upcoming-road-mini-countryman-wants-live-its-name</guid>
       <pubDate>Wed, 29 Jul 2026 09:51:06 +0000</pubDate>
-      <description><![CDATA[A more rough-and-ready Countryman has been out testing in the mud ahead of a…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Greatest Factory Alloy Wheels Ever Fitted To Production Cars</title>
       <link>https://www.carthrottle.com/news/greatest-factory-alloy-wheels-ever-fitted-production-cars</link>
+      <description>From Alfa Romeo teledials to Porsche Fuchs, these iconic designs prove the right alloys…</description>
+      <category>Features</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/giulia-veloce-my23-8.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/greatest-factory-alloy-wheels-ever-fitted-production-cars</guid>
       <pubDate>Tue, 21 Jul 2026 14:10:48 +0000</pubDate>
-      <description><![CDATA[From Alfa Romeo teledials to Porsche Fuchs, these iconic designs prove the right alloys…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>Lotus Emira 420 Sport Review: Four-Pot Emira Goes Feral</title>
       <link>https://www.carthrottle.com/reviews/lotus/lotus-emira-420-sport-review-four-pot-emira-goes-feral</link>
+      <description>The 420 Sport is the hardest, lightest, fastest version of the Emira yet, but…</description>
+      <category>Reviews, British Cars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/_dsc9966.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/reviews/lotus/lotus-emira-420-sport-review-four-pot-emira-goes-feral</guid>
       <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
-      <description><![CDATA[The 420 Sport is the hardest, lightest, fastest version of the Emira yet, but…]]></description>
-    </item>
-    <item>
-      <title>Lamborghini Temerario Boss on the V8 Switch and Pushing the Limits of Power</title>
-      <link>https://www.carthrottle.com/news/lamborghini-temerario-boss-v8-switch-and-pushing-limits-power</link>
-      <guid isPermaLink="true">https://www.carthrottle.com/news/lamborghini-temerario-boss-v8-switch-and-pushing-limits-power</guid>
-      <pubDate>Tue, 21 Jul 2026 10:50:26 +0000</pubDate>
-      <description><![CDATA[Temerario product line director Paolo Rachetti explains the polarising new direction taken by the…]]></description>
-    </item>
-    <item>
-      <title>10 Estate Cars That Look Better Than Their Saloon Siblings</title>
-      <link>https://www.carthrottle.com/news/10-estate-cars-look-better-their-saloon-siblings</link>
-      <guid isPermaLink="true">https://www.carthrottle.com/news/10-estate-cars-look-better-their-saloon-siblings</guid>
-      <pubDate>Tue, 21 Jul 2026 12:41:38 +0000</pubDate>
-      <description><![CDATA[From elegant Italian Sportwagons to enormous Swedish load-luggers, these practical heroes prove a bigger…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>Aston Martin Vanquish Marks Quarter-Century with Throwback Special Edition</title>
       <link>https://www.carthrottle.com/news/aston-martin-vanquish-marks-quarter-century-throwback-special-edition</link>
+      <description>The Vanquish turned 25 this year, so here’s the almost inevitable limited-edition celebration</description>
+      <category>News, British Cars, Supercars and Hypercars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/aston-martin-vanquish-25_01-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/aston-martin-vanquish-marks-quarter-century-throwback-special-edition</guid>
       <pubDate>Tue, 21 Jul 2026 23:01:00 +0000</pubDate>
-      <description><![CDATA[The Vanquish turned 25 this year, so here’s the almost inevitable limited-edition celebration]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>Nick Mason’s McLaren F1 GTR Could be the £26 million Star of Monterey Car Week</title>
       <link>https://www.carthrottle.com/news/nick-masons-mclaren-f1-gtr-could-be-ps26-million-star-monterey-car-week</link>
+      <description>One of the most famous McLaren F1s of all will go under the hammer…</description>
+      <category>News, British Cars, Supercars and Hypercars, Used Cars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/1996-mclaren-f1-gtr_1464774-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/nick-masons-mclaren-f1-gtr-could-be-ps26-million-star-monterey-car-week</guid>
       <pubDate>Tue, 21 Jul 2026 15:19:22 +0000</pubDate>
-      <description><![CDATA[One of the most famous McLaren F1s of all will go under the hammer…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>You’ll Never Go Back to the Old Ways With the Clarke PRO237 Digital Torque Wrench</title>
       <link>https://www.carthrottle.com/news/youll-never-go-back-old-ways-clarke-pro237-digital-torque-wrench</link>
+      <description>An electronic torque wrench can be a game changer in the garage, and they…</description>
+      <category>Workshop, Sponsored</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarketorquewrench.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/youll-never-go-back-old-ways-clarke-pro237-digital-torque-wrench</guid>
       <pubDate>Fri, 24 Jul 2026 07:55:53 +0000</pubDate>
-      <description><![CDATA[An electronic torque wrench can be a game changer in the garage, and they…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>The Clarke CMC40B Car Creeper Helps Look After you While you Look After your Car</title>
       <link>https://www.carthrottle.com/news/clarke-cmc40b-car-creeper-helps-look-after-you-while-you-look-after-your-car</link>
+      <description>A car creeper is a must have for anyone working underneath their car, and…</description>
+      <category>Workshop, Sponsored</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/clarkecarcreeper.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/clarke-cmc40b-car-creeper-helps-look-after-you-while-you-look-after-your-car</guid>
       <pubDate>Fri, 24 Jul 2026 07:53:35 +0000</pubDate>
-      <description><![CDATA[A car creeper is a must have for anyone working underneath their car, and…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
-      <title>How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry</title>
-      <link>https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations</link>
-      <guid isPermaLink="true">https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations</guid>
-      <pubDate>Fri, 10 Jul 2026 14:24:50 +0000</pubDate>
-      <description><![CDATA[At a tough moment for the car industry, Lamborghini continues to post record sales…]]></description>
+      <title>Lamborghini Temerario Boss on the V8 Switch and Pushing the Limits of Power</title>
+      <link>https://www.carthrottle.com/news/lamborghini-temerario-boss-v8-switch-and-pushing-limits-power</link>
+      <description>Temerario product line director Paolo Rachetti explains the polarising new direction taken by the…</description>
+      <category>Features, Supercars and Hypercars, Italian Cars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/654516-2.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/lamborghini-temerario-boss-v8-switch-and-pushing-limits-power</guid>
+      <pubDate>Tue, 21 Jul 2026 10:50:26 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
-      <title>The Sanrivatti Hypercar Will Seat its Driver Like a Motorbike</title>
-      <link>https://www.carthrottle.com/news/sanrivatti-hypercar-will-seat-its-driver-motorbike</link>
-      <guid isPermaLink="true">https://www.carthrottle.com/news/sanrivatti-hypercar-will-seat-its-driver-motorbike</guid>
-      <pubDate>Wed, 24 Jun 2026 08:10:19 +0000</pubDate>
-      <description><![CDATA[The as-yet-unnamed hypercar will feature what the company calls an ‘Apex Position’ for the…]]></description>
+      <title>10 Estate Cars That Look Better Than Their Saloon Siblings</title>
+      <link>https://www.carthrottle.com/news/10-estate-cars-look-better-their-saloon-siblings</link>
+      <description>From elegant Italian Sportwagons to enormous Swedish load-luggers, these practical heroes prove a bigger…</description>
+      <category>Features</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-07/alfa-romeo-159-sportwagon-my-2009.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/10-estate-cars-look-better-their-saloon-siblings</guid>
+      <pubDate>Tue, 21 Jul 2026 12:41:38 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
       <title>More Kei Cars Coming to Britain as Suzuki Readies Honda Super-N Rival</title>
       <link>https://www.carthrottle.com/news/more-kei-cars-coming-britain-suzuki-readies-honda-super-n-rival</link>
+      <description>The Honda Super-N has won our hearts, and now it looks likely to get…</description>
+      <category>News, Japanese</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2025-10/vision-e-sky-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/more-kei-cars-coming-britain-suzuki-readies-honda-super-n-rival</guid>
       <pubDate>Tue, 14 Jul 2026 12:45:50 +0000</pubDate>
-      <description><![CDATA[The Honda Super-N has won our hearts, and now it looks likely to get…]]></description>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
   </channel>
 </rss>

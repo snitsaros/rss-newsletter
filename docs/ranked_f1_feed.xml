@@ -7,7 +7,7 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_f1_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 13:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:32:25 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 10:36:23 +0000</pubDate>
     <item>
       <title>McLaren urged ‘don’t rock the boat’ amid Max Verstappen 2027 F1 links</title>
@@ -17,6 +17,16 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-08/xpb_1422660_hires.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/f1/news/1102077/1/mclaren-urged-dont-rock-boat-amid-max-verstappen-2027-f1-links</guid>
       <pubDate>Tue, 04 Aug 2026 09:19:27 +0000</pubDate>
+      <source url="https://www.crash.net/rss/f1">Crash.net</source>
+    </item>
+    <item>
+      <title>Adrian Newey outlines key Honda F1 progress after “disastrous” start to season</title>
+      <link>https://www.crash.net/f1/news/1102080/1/adrian-newey-outlines-key-honda-f1-progress-after-disastrous-start-season</link>
+      <description>Aston Martin and Honda have endured a tough start to their working relationship</description>
+      <category>F1</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1423868_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1102080/1/adrian-newey-outlines-key-honda-f1-progress-after-disastrous-start-season</guid>
+      <pubDate>Tue, 04 Aug 2026 10:36:23 +0000</pubDate>
       <source url="https://www.crash.net/rss/f1">Crash.net</source>
     </item>
     <item>
@@ -37,16 +47,6 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-08/xpb_1429434_hires.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/f1/news/1102076/1/f1-championship-leader-kimi-antonellis-surprising-claim-about-his-current-level</guid>
       <pubDate>Tue, 04 Aug 2026 08:52:57 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>Adrian Newey outlines key Honda F1 progress after “disastrous” start to season</title>
-      <link>https://www.crash.net/f1/news/1102080/1/adrian-newey-outlines-key-honda-f1-progress-after-disastrous-start-season</link>
-      <description>Aston Martin and Honda have endured a tough start to their working relationship</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1423868_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1102080/1/adrian-newey-outlines-key-honda-f1-progress-after-disastrous-start-season</guid>
-      <pubDate>Tue, 04 Aug 2026 10:36:23 +0000</pubDate>
       <source url="https://www.crash.net/rss/f1">Crash.net</source>
     </item>
     <item>

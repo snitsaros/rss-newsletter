@@ -7,8 +7,8 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_golfmagic_news_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 13:19:06 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 12:56:36 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:32:25 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 13:21:47 +0000</pubDate>
     <item>
       <title>Report: Rory McIlroy adds surprise event to schedule as favour to fellow major champ</title>
       <link>https://www.golfmagic.com/tour/dp-world-tour/surprising-rory-mcilroy-news-announced</link>
@@ -57,6 +57,16 @@
       <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/2026-07-18t122553z_885385922_up1em7i0yj3gd_rtrmadp_3_golf-open.JPG?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/tour/pga-tour/rory-mcilroy-schedule-2026-when-and-where-masters-champ-playing-next</guid>
       <pubDate>Mon, 03 Aug 2026 16:00:47 +0000</pubDate>
+      <source url="https://www.golfmagic.com/rss/article">Golfmagic - Article</source>
+    </item>
+    <item>
+      <title>Luke Donald makes key Ryder Cup announcement ahead of Team Europe&#x27;s title defence</title>
+      <link>https://www.golfmagic.com/tour/ryder-cup/ryder-cup-europe-announces-qualification-format-2027-team-europe</link>
+      <description>The qualification campaign gets underway at the British Masters later this month ahead of…</description>
+      <category>Ryder Cup</category>
+      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/2025-09-28t222119z_1874541102_up1el9s1q3ifn_rtrmadp_3_golf-rydercup.JPG?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.golfmagic.com/tour/ryder-cup/ryder-cup-europe-announces-qualification-format-2027-team-europe</guid>
+      <pubDate>Tue, 04 Aug 2026 13:21:47 +0000</pubDate>
       <source url="https://www.golfmagic.com/rss/article">Golfmagic - Article</source>
     </item>
     <item>
@@ -197,16 +207,6 @@
       <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/aig-women-s-open-2026-round-two-1.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.golfmagic.com/tour/lpga-tour/nelly-korda-shows-true-colours-gesture-aig-womens-open</guid>
       <pubDate>Mon, 03 Aug 2026 12:27:50 +0000</pubDate>
-      <source url="https://www.golfmagic.com/rss/article">Golfmagic - Article</source>
-    </item>
-    <item>
-      <title>Charley Hull ends controversial week at AIG Women&#x27;s Open by declining media duties</title>
-      <link>https://www.golfmagic.com/tour/lpga-tour/charley-hull-ends-controversial-week-aig-womens-open-declining-media-duties</link>
-      <description>Charley Hull finished in a share of sixth at the final women&#x27;s major of…</description>
-      <category>LPGA Tour</category>
-      <enclosure url="https://www.golfmagic.com/sites/default/files/2026-08/aig-women-s-open-2026-final-round-4.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.golfmagic.com/tour/lpga-tour/charley-hull-ends-controversial-week-aig-womens-open-declining-media-duties</guid>
-      <pubDate>Sun, 02 Aug 2026 21:52:23 +0000</pubDate>
       <source url="https://www.golfmagic.com/rss/article">Golfmagic - Article</source>
     </item>
   </channel>

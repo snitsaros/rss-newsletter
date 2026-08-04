@@ -16,36 +16,6 @@
   },
   {
     "position": 2,
-    "title": "F1 legend on Lewis Hamilton's 2026 boost “hardly anyone talks about”",
-    "link": "https://www.crash.net/f1/news/1102074/1/f1-legend-lewis-hamiltons-2026-boost-hardly-anyone-talks-about",
-    "pub_date": "2026-08-04T08:20:46+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1422804_hires.jpg?width=1200",
-    "score": 45,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "F1 championship leader Kimi Antonelli’s surprising claim about his current level",
-    "link": "https://www.crash.net/f1/news/1102076/1/f1-championship-leader-kimi-antonellis-surprising-claim-about-his-current-level",
-    "pub_date": "2026-08-04T08:52:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1429434_hires.jpg?width=1200",
-    "score": 33,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
     "title": "Adrian Newey outlines key Honda F1 progress after “disastrous” start to season",
     "link": "https://www.crash.net/f1/news/1102080/1/adrian-newey-outlines-key-honda-f1-progress-after-disastrous-start-season",
     "pub_date": "2026-08-04T10:36:23+00:00",
@@ -59,17 +29,50 @@
     ]
   },
   {
+    "position": 3,
+    "title": "F1 legend on Lewis Hamilton's 2026 boost “hardly anyone talks about”",
+    "link": "https://www.crash.net/f1/news/1102074/1/f1-legend-lewis-hamiltons-2026-boost-hardly-anyone-talks-about",
+    "pub_date": "2026-08-04T08:20:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1422804_hires.jpg?width=1200",
+    "score": -55,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "F1 championship leader Kimi Antonelli’s surprising claim about his current level",
+    "link": "https://www.crash.net/f1/news/1102076/1/f1-championship-leader-kimi-antonellis-surprising-claim-about-his-current-level",
+    "pub_date": "2026-08-04T08:52:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1429434_hires.jpg?width=1200",
+    "score": -67,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
     "position": 5,
     "title": "‘A big smile on my face’ - What it’s like to drive an old F1 car for a current driver",
     "link": "https://www.crash.net/f1/news/1102071/1/big-smile-my-face-what-its-drive-old-f1-car-current-driver",
     "pub_date": "2026-08-03T15:31:48+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_278885_hires.jpg?width=1200",
-    "score": -2,
+    "score": -102,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -78,12 +81,13 @@
     "link": "https://www.crash.net/f1/news/1102068/1/why-2026-f1-engine-problems-couldnt-have-been-avoided",
     "pub_date": "2026-08-03T14:37:49+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1425510_hires.jpg?width=1200",
-    "score": -7,
+    "score": -107,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -92,12 +96,13 @@
     "link": "https://www.crash.net/f1/feature/1102023/1/ferrari-needs-back-lewis-hamilton-if-it-wants-end-f1-title-drought",
     "pub_date": "2026-07-31T13:34:47+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1420857_hires.jpg?width=1200",
-    "score": -58,
+    "score": -158,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -106,12 +111,13 @@
     "link": "https://www.crash.net/f1/news/1101980/1/toto-wolff-issues-kimi-antonelli-and-george-russell-harsh-ultimatum-f1-title",
     "pub_date": "2026-07-29T08:43:00+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1407659_hires.jpg?width=1200",
-    "score": -58,
+    "score": -158,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -120,13 +126,14 @@
     "link": "https://www.crash.net/f1/news/1101978/1/fresh-twist-max-verstappen-f1-future-saga-major-red-bull-deal-rumoured",
     "pub_date": "2026-07-28T15:36:04+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429461_hires.jpg?width=1200",
-    "score": -63,
+    "score": -163,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -135,13 +142,14 @@
     "link": "https://www.crash.net/f1/news/1101965/1/ferrari-explains-succession-mistakes-led-latest-lewis-hamilton-f1-penalty",
     "pub_date": "2026-07-28T08:23:42+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428286_hires.jpg?width=1200",
-    "score": -63,
+    "score": -163,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -150,13 +158,14 @@
     "link": "https://www.crash.net/f1/news/1101984/1/its-not-enough-schumacher-fumes-carlos-sainz-penalty-after-oscar-piastri-clash",
     "pub_date": "2026-07-29T10:45:00+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1138929_hires.jpg?width=1200",
-    "score": -68,
+    "score": -168,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -165,12 +174,13 @@
     "link": "https://www.crash.net/f1/news/1102022/1/how-max-verstappens-red-bull-struggles-are-reassuring-team-mate-isack-hadjar",
     "pub_date": "2026-08-01T13:00:00+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428249_hires.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -179,12 +189,13 @@
     "link": "https://www.crash.net/f1/news/1102017/1/toto-wolff-caveats-mclarens-hungary-victory-after-mercedes-performance-dip",
     "pub_date": "2026-08-01T08:00:00+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1396691_hires.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -193,12 +204,13 @@
     "link": "https://www.crash.net/f1/news/1102031/1/other-motives-theory-offered-max-verstappen-f1-red-bull-car-gripes",
     "pub_date": "2026-07-31T15:17:37+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428258_hires.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -207,12 +219,13 @@
     "link": "https://www.crash.net/f1/news/1102012/1/charles-leclerc-makes-aggressive-ferrari-demand-key-f1-battleground",
     "pub_date": "2026-07-30T15:59:33+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428728_hires.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -221,12 +234,13 @@
     "link": "https://www.crash.net/f1/news/1102000/1/williams-puts-partial-blame-fernando-alonso-carlos-sainz-and-oscar-piastri-f1",
     "pub_date": "2026-07-30T10:01:47+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1429246_hires.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -235,12 +249,13 @@
     "link": "https://www.crash.net/f1/news/1101988/1/he-wants-be-winning-rachel-brookes-stokes-max-verstappen-red-bull-exit-flames",
     "pub_date": "2026-07-29T12:44:00+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428867_hires_0.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -249,12 +264,13 @@
     "link": "https://www.crash.net/f1/news/1101972/1/mercedes-sheds-more-light-george-russells-hungary-f1-start-issue",
     "pub_date": "2026-07-28T11:58:01+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1428303_hires.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -263,12 +279,13 @@
     "link": "https://www.crash.net/f1/news/1101961/1/mercedes-not-sure-george-russells-cracked-f1-engine-can-be-repaired",
     "pub_date": "2026-07-27T15:00:47+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/m619004_f1_hungarian_grand_prix_2026-2.jpg?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
@@ -277,12 +294,13 @@
     "link": "https://www.crash.net/f1/news/1101957/1/red-bull-poaches-mercedes-f1-driver-scout-helmut-markos-successor",
     "pub_date": "2026-07-27T12:38:09+00:00",
     "image_url": "https://www.crash.net/sites/default/files/2026-07/unnamed.png?width=1200",
-    "score": -70,
+    "score": -170,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

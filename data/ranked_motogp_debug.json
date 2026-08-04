@@ -120,19 +120,6 @@
   },
   {
     "position": 9,
-    "title": "“Really different” - Why MotoGP bikes are now on a “knife edge”",
-    "link": "https://www.crash.net/motogp/news/1102065/1/really-different-why-motogp-bikes-are-now-knife-edge",
-    "pub_date": "2026-08-03T13:23:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1333563_hires_1600x900.jpg?width=1200",
-    "score": -14,
-    "score_reasons": [
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
     "title": "Jorge Martin convinced ‘Aprilia will do everything to let me win’ MotoGP title",
     "link": "https://www.crash.net/motogp/news/1102014/1/jorge-martin-convinced-aprilia-will-do-everything-let-me-win-motogp-title",
     "pub_date": "2026-07-31T07:30:00+00:00",
@@ -146,7 +133,7 @@
     ]
   },
   {
-    "position": 11,
+    "position": 10,
     "title": "‘An even better team-mate’ - Marc Marquez’s heartfelt tribute to Pecco Bagnaia",
     "link": "https://www.crash.net/motogp/news/1101991/1/even-better-team-mate-marc-marquezs-heartfelt-tribute-pecco-bagnaia",
     "pub_date": "2026-07-29T13:26:13+00:00",
@@ -160,7 +147,7 @@
     ]
   },
   {
-    "position": 12,
+    "position": 11,
     "title": "“No more time to lose”: Why Pedro Acosta couldn’t stay at KTM for MotoGP 2027",
     "link": "https://www.crash.net/motogp/news/1101973/1/no-more-time-lose-why-pedro-acosta-couldnt-stay-ktm-motogp-2027",
     "pub_date": "2026-07-28T13:32:36+00:00",
@@ -174,7 +161,7 @@
     ]
   },
   {
-    "position": 13,
+    "position": 12,
     "title": "Valentino Rossi, Pecco Bagnaia among MotoGP stars to ride at Misano race",
     "link": "https://www.crash.net/motogp/news/1101962/1/valentino-rossi-pecco-bagnaia-among-motogp-stars-ride-misano-race",
     "pub_date": "2026-07-27T14:49:38+00:00",
@@ -189,7 +176,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 13,
     "title": "MotoGP race winner and Moto2 frontrunner favourite for Ducati WorldSBK ride",
     "link": "https://www.crash.net/motogp/news/1102006/1/motogp-race-winner-and-moto2-frontrunner-favourite-ducati-worldsbk-ride",
     "pub_date": "2026-07-30T11:41:25+00:00",
@@ -205,7 +192,7 @@
     ]
   },
   {
-    "position": 15,
+    "position": 14,
     "title": "KTM “pleased and happy” with 2027 MotoGP rider line-up",
     "link": "https://www.crash.net/motogp/news/1102026/1/ktm-pleased-and-happy-2027-motogp-rider-line",
     "pub_date": "2026-08-01T07:00:00+00:00",
@@ -219,7 +206,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 15,
     "title": "‘I was suffering a bit’ - How Alex Marquez ‘stepped out from’ Marc’s MotoGP shadow",
     "link": "https://www.crash.net/motogp/news/1102004/1/i-was-suffering-bit-how-alex-marquez-stepped-out-marcs-motogp-shadow",
     "pub_date": "2026-07-30T10:49:29+00:00",
@@ -233,7 +220,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 16,
     "title": "No break this summer for Jorge Martin: 876km in seven days for the MotoGP leader",
     "link": "https://www.crash.net/motogp/news/1101970/1/no-break-summer-jorge-martin-876km-seven-days-motogp-leader",
     "pub_date": "2026-07-28T10:34:24+00:00",
@@ -247,7 +234,7 @@
     ]
   },
   {
-    "position": 18,
+    "position": 17,
     "title": "WorldSBK winner to get Silverstone MotoGP ride as Ducati rider set to miss out",
     "link": "https://www.crash.net/motogp/news/1102015/1/worldsbk-winner-get-silverstone-motogp-ride-ducati-rider-set-miss-out",
     "pub_date": "2026-07-31T08:14:09+00:00",
@@ -262,7 +249,7 @@
     ]
   },
   {
-    "position": 19,
+    "position": 18,
     "title": "Aprilia MotoGP team gives Marco Bezzecchi injury update as he returns to riding",
     "link": "https://www.crash.net/motogp/news/1102013/1/aprilia-motogp-team-gives-marco-bezzecchi-injury-update-he-returns-riding",
     "pub_date": "2026-07-30T16:03:25+00:00",
@@ -277,7 +264,7 @@
     ]
   },
   {
-    "position": 20,
+    "position": 19,
     "title": "Yamaha “excited” for MotoGP 2027 as new riders bring “fresh air”",
     "link": "https://www.crash.net/motogp/news/1101995/1/yamaha-excited-motogp-2027-new-riders-bring-fresh-air",
     "pub_date": "2026-07-29T15:25:32+00:00",
@@ -286,6 +273,20 @@
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "“What a season!” - VR46 rider gives “big picture” verdict on his MotoGP campaign",
+    "link": "https://www.crash.net/motogp/news/1102063/1/what-season-vr46-rider-gives-big-picture-verdict-motogp-2026",
+    "pub_date": "2026-08-03T12:17:40+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1334671_hires_1600x900.jpg?width=1200",
+    "score": -82,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)"

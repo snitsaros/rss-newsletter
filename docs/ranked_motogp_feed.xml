@@ -7,7 +7,7 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 13:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:32:25 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 13:10:30 +0000</pubDate>
     <item>
       <title>Yamaha&#x27;s future riders lead MotoGP standings but “better to get the #1 from inside”</title>
@@ -87,16 +87,6 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1334590_hires_1600x900.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1102070/1/one-metric-could-reveal-marc-marquezs-motogp-summer-break-progress</guid>
       <pubDate>Mon, 03 Aug 2026 15:17:40 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>“Really different” - Why MotoGP bikes are now on a “knife edge”</title>
-      <link>https://www.crash.net/motogp/news/1102065/1/really-different-why-motogp-bikes-are-now-knife-edge</link>
-      <description>Brad Binder explains how MotoGP machinery has changed since 2020, with greater downforce making…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1333563_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102065/1/really-different-why-motogp-bikes-are-now-knife-edge</guid>
-      <pubDate>Mon, 03 Aug 2026 13:23:40 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
     <item>
@@ -207,6 +197,16 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1294693_hires.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1101995/1/yamaha-excited-motogp-2027-new-riders-bring-fresh-air</guid>
       <pubDate>Wed, 29 Jul 2026 15:25:32 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>“What a season!” - VR46 rider gives “big picture” verdict on his MotoGP campaign</title>
+      <link>https://www.crash.net/motogp/news/1102063/1/what-season-vr46-rider-gives-big-picture-verdict-motogp-2026</link>
+      <description>Fabio di Giannantonio’s Sunday MotoGP run may have come to an end, but the…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1334671_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102063/1/what-season-vr46-rider-gives-big-picture-verdict-motogp-2026</guid>
+      <pubDate>Mon, 03 Aug 2026 12:17:40 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

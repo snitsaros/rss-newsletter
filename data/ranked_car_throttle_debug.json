@@ -252,20 +252,6 @@
   },
   {
     "position": 18,
-    "title": "The Tiny Smart Fortwo Successor Is Nearly Ready",
-    "link": "https://www.carthrottle.com/news/tiny-smart-fortwo-successor-nearly-ready",
-    "pub_date": "2026-07-21T08:00:55+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-07/untitled-design.png?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 19,
     "title": "How the Urus is Helping Lamborghini Thrive During Tough Times for the Industry",
     "link": "https://www.carthrottle.com/news/how-lamborghini-urus-helping-company-defy-expectations",
     "pub_date": "2026-07-10T14:24:50+00:00",
@@ -281,7 +267,7 @@
     ]
   },
   {
-    "position": 20,
+    "position": 19,
     "title": "The Sanrivatti Hypercar Will Seat its Driver Like a Motorbike",
     "link": "https://www.carthrottle.com/news/sanrivatti-hypercar-will-seat-its-driver-motorbike",
     "pub_date": "2026-06-24T08:10:19+00:00",
@@ -290,6 +276,21 @@
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 336h (-100)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "More Kei Cars Coming to Britain as Suzuki Readies Honda Super-N Rival",
+    "link": "https://www.carthrottle.com/news/more-kei-cars-coming-britain-suzuki-readies-honda-super-n-rival",
+    "pub_date": "2026-07-14T12:45:50+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2025-10/vision-e-sky-2.jpg?width=1200",
+    "score": -102,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 336h (-100)",
       "good title length (+2)",

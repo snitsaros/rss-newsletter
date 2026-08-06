@@ -41,6 +41,10 @@ DEFAULT_STALE_HOURS = 24
 DEFAULT_BETWEEN_FRESH_AND_STALE_PENALTY = 20
 DEFAULT_OLDER_THAN_STALE_PENALTY = 100
 
+# Hard eligibility cutoff: items older than this are excluded before
+# ranking/selection ever sees them, regardless of how few remain.
+DEFAULT_MAX_AGE_HOURS = 336
+
 DEFAULT_USED_URL_PENALTY = 100
 
 DEFAULT_TITLE_SIMILARITY_THRESHOLD = 0.72
@@ -94,6 +98,7 @@ class FeedConfig:
     stale_hours: int = DEFAULT_STALE_HOURS
     between_fresh_and_stale_penalty: int = DEFAULT_BETWEEN_FRESH_AND_STALE_PENALTY
     older_than_stale_penalty: int = DEFAULT_OLDER_THAN_STALE_PENALTY
+    max_age_hours: int = DEFAULT_MAX_AGE_HOURS
 
     used_url_penalty: int = DEFAULT_USED_URL_PENALTY
 
@@ -141,6 +146,7 @@ FEEDS = [
         channel_description="Editorially ranked Car Throttle RSS feed for newsletter consumption",
         fresh_hours=168,
         stale_hours=336,
+        max_age_hours=336,  # 14 days
         used_url_penalty=20,
         top_tier_keywords=[
             "bmw", "mercedes", "mercedes-amg", "audi", "porsche", "volkswagen",
@@ -173,6 +179,7 @@ FEEDS = [
         channel_description="Editorially ranked F1 RSS feed for newsletter consumption",
         fresh_hours=18,
         stale_hours=24,
+        max_age_hours=36,
         top_tier_keywords=[
             "verstappen", "hamilton", "leclerc", "norris", "piastri",
             "russell", "alonso", "antonelli", "ferrari", "red bull",
@@ -202,6 +209,7 @@ FEEDS = [
         channel_description="Editorially ranked MotoGP RSS feed for newsletter consumption",
         fresh_hours=18,
         stale_hours=24,
+        max_age_hours=36,
         top_tier_keywords=[
             "marc marquez", "alex marquez", "bagnaia", "francesco bagnaia",
             "jorge martin", "martin", "acosta", "pedro acosta",
@@ -232,6 +240,7 @@ FEEDS = [
         channel_description="Editorially ranked GolfMagic news RSS feed for newsletter consumption",
         fresh_hours=48,
         stale_hours=96,
+        max_age_hours=48,
         top_tier_keywords=[
             "rory mcilroy", "scottie scheffler", "tiger woods",
             "bryson dechambeau", "jon rahm", "brooks koepka",
@@ -268,6 +277,7 @@ FEEDS = [
         channel_description="Editorially ranked GolfMagic equipment review RSS feed for newsletter consumption",
         fresh_hours=168,
         stale_hours=336,
+        max_age_hours=336,  # 14 days
         top_tier_keywords=[
             "taylormade", "titleist", "callaway", "ping", "mizuno",
             "cobra", "srixon", "cleveland", "wilson", "pxg",
@@ -300,6 +310,7 @@ FEEDS = [
         channel_description="Editorially ranked Visordown RSS feed for newsletter consumption",
         fresh_hours=72,
         stale_hours=168,
+        max_age_hours=72,
         top_tier_keywords=[
             "honda", "yamaha", "kawasaki", "suzuki", "ducati",
             "bmw", "triumph", "ktm", "aprilia", "harley-davidson",
@@ -641,6 +652,24 @@ def score_item(item, now_utc, used_urls, config: FeedConfig):
     return score, reasons
 
 
+def filter_items_within_max_age(items, now_utc, config: FeedConfig):
+    """Hard eligibility cutoff, applied before scoring/selection.
+
+    Items with no parseable pub_date can't have their age verified, so
+    they are excluded outright -- this is separate from the missing-date
+    penalty in score_item(), which is left as-is for callers that still
+    want to score (rather than exclude) undated items.
+    """
+    eligible = []
+    for item in items:
+        if item["pub_date"] is None:
+            continue
+        age_hours = (now_utc - item["pub_date"]).total_seconds() / 3600
+        if age_hours <= config.max_age_hours:
+            eligible.append(item)
+    return eligible
+
+
 def deduplicate_and_rank(items, now_utc, used_urls, config: FeedConfig):
     max_items = config.max_items
 
@@ -848,8 +877,13 @@ def run_feed(config: FeedConfig):
     source_name = get_source_feed_name(parsed_feed, config)
 
     now_utc = datetime.now(timezone.utc)
+
+    eligible_items = filter_items_within_max_age(items, now_utc, config)
+    eligible_item_count = len(eligible_items)
+    missing_pub_date_count = sum(1 for item in items if item["pub_date"] is None)
+
     ranked_items = deduplicate_and_rank(
-        items=items,
+        items=eligible_items,
         now_utc=now_utc,
         used_urls=used_urls,
         config=config,
@@ -893,7 +927,10 @@ def run_feed(config: FeedConfig):
     print(f"Feed:   {config.id}")
     print(f"Source: {config.source_url}")
     print(f"Output: {config.output_rss_path}")
+    print(f"Max age (hours): {config.max_age_hours}")
     print(f"Usable source items: {usable_item_count}")
+    print(f"Excluded (missing pub_date): {missing_pub_date_count}")
+    print(f"Eligible after age cutoff: {eligible_item_count}")
     print(f"Ranked output items:  {len(ranked_items)}")
     if config.write_debug_json:
         print(f"Debug JSON: {config.debug_json_path}")

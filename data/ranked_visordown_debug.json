@@ -1,57 +1,10 @@
 [
   {
     "position": 1,
-    "title": "Kawasaki reveals 2027 Ninja line-up featuring 2027 Ninja ZX-6R",
-    "link": "https://www.visordown.com/news/kawasaki-reveals-2027-ninja-line-featuring-2027-ninja-zx-6r",
-    "pub_date": "2026-08-05T07:55:56+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-05t083407.693.png?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Norton reveals architect-designed showroom concept for 200-dealer global expansion",
-    "link": "https://www.visordown.com/news/norton-reveals-architect-designed-showroom-concept-200-dealer-global-expansion",
-    "pub_date": "2026-08-05T05:28:59+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/norton-dealers-showroom-02.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Pol Espargaro replaces Maverick Vinales at Tech3 KTM for British MotoGP",
-    "link": "https://www.visordown.com/news/pol-espargaro-replaces-maverick-vinales-tech3-ktm-british-motogp",
-    "pub_date": "2026-08-05T05:47:21+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/vinales-tech3-ktm-01.jpg?width=1200",
-    "score": 33,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "New Yamaha Moto3 bikes to combine prototype chassis with heavily modified R7 engine",
-    "link": "https://www.visordown.com/news/new-yamaha-moto3-bikes-combine-prototype-chassis-heavily-modified-r7-engine",
-    "pub_date": "2026-08-04T14:25:25+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-04t153419.647.png?width=1200",
+    "title": "2027 Kawasaki Z1100, Versys 650, Vulcan S and Z500 receive new colours",
+    "link": "https://www.visordown.com/news/2027-kawasaki-z1100-versys-650-vulcan-s-and-z500-receive-new-colours",
+    "pub_date": "2026-08-05T14:54:07+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-05t154828.127.png?width=1200",
     "score": 28,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -61,14 +14,55 @@
     ]
   },
   {
-    "position": 5,
-    "title": "The commuter tax motorcycles don't have to pay: Why bikers are exempt from the Workplace Parking Levy",
-    "link": "https://www.visordown.com/news/commuter-tax-motorcycles-dont-have-pay-why-bikers-are-exempt-workplace-parking-levy",
-    "pub_date": "2026-08-04T13:59:48+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/motorcycle-parking-in-london-1600px.jpeg?width=1200",
-    "score": 19,
+    "position": 2,
+    "title": "Max Toth makes Bagger World Cup comeback at British MotoGP",
+    "link": "https://www.visordown.com/news/max-toth-makes-bagger-world-cup-comeback-british-motogp",
+    "pub_date": "2026-08-05T09:30:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/max-toth-bwc-03.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "low-tier keywords x1 (+3)",
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Mad Dogs biker gang confirmed as victims of M74 motorway attack",
+    "link": "https://www.visordown.com/news/mad-dogs-biker-gang-confirmed-as-victims-of-m74-motorway-attack",
+    "pub_date": "2026-08-05T10:15:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-05t111013.926.png?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Silverstone secures new MotoGP deal through 2028",
+    "link": "https://www.visordown.com/news/silverstone-secures-new-motogp-deal-through-2028",
+    "pub_date": "2026-08-06T08:31:13+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/26059b15-b2aa-12a8-2548-22c90c7d4511.jpg?width=1200",
+    "score": 21,
+    "score_reasons": [
+      "has image (+4)",
+      "within 72h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Is WorldSBK finally considering more races outside of Europe?",
+    "link": "https://www.visordown.com/news/worldsbk-finally-considering-more-races-outside-europe",
+    "pub_date": "2026-08-05T12:46:27+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-05t140639.056.png?width=1200",
+    "score": 16,
+    "score_reasons": [
       "has image (+4)",
       "within 72h (+10)",
       "good title length (+2)"
@@ -76,212 +70,230 @@
   },
   {
     "position": 6,
-    "title": "New Touratech Aventuro Gravel Carbon motorcycle helmet launched",
-    "link": "https://www.visordown.com/news/new-touratech-aventuro-gravel-carbon-motorcycle-helmet-launched",
-    "pub_date": "2026-08-01T09:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-29t144901.571.png?width=1200",
-    "score": 3,
+    "title": "Trackhouse Racing confirms 2027 MotoGP deal for breakout star",
+    "link": "https://www.visordown.com/news/trackhouse-racing-confirms-2027-motogp-deal-breakout-star",
+    "pub_date": "2026-08-05T08:46:34+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/gng_1334446_hires.jpg?width=1200",
+    "score": 16,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
-      "between 72-168h (-20)",
+      "within 72h (+10)",
       "good title length (+2)"
     ]
   },
   {
     "position": 7,
-    "title": "Clarke PRO357 18-Piece 3/8\" Drive Socket Set review",
-    "link": "https://www.visordown.com/features/clarke-pro357-18-piece-38-drive-socket-set-review",
-    "pub_date": "2026-08-01T08:30:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-30t153832.944.png?width=1200",
-    "score": 0,
+    "title": "Kawasaki reveals 2027 Ninja line-up featuring 2027 Ninja ZX-6R",
+    "link": "https://www.visordown.com/news/kawasaki-reveals-2027-ninja-line-featuring-2027-ninja-zx-6r",
+    "pub_date": "2026-08-05T07:55:56+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-05t083407.693.png?width=1200",
+    "score": -65,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 8,
-    "title": "AJS Motorcycles fills the gap left by Imber 125 with the rugged Leten LT190",
-    "link": "https://www.visordown.com/news/ajs-motorcycles-fills-gap-left-imber-125-rugged-leten-lt190",
-    "pub_date": "2026-07-31T13:41:59+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-31t144102.181.png?width=1200",
-    "score": 0,
+    "title": "Norton reveals architect-designed showroom concept for 200-dealer global expansion",
+    "link": "https://www.visordown.com/news/norton-reveals-architect-designed-showroom-concept-200-dealer-global-expansion",
+    "pub_date": "2026-08-05T05:28:59+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/norton-dealers-showroom-02.jpg?width=1200",
+    "score": -65,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 9,
-    "title": "Clarke CBB217C HD Plus 7 Drawer Tool Cabinet review",
-    "link": "https://www.visordown.com/features/clarke-cbb217c-hd-plus-7-drawer-tool-cabinet-review",
-    "pub_date": "2026-07-30T16:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-30t150840.204.png?width=1200",
-    "score": 0,
+    "title": "Indian Motorcycle set to cut 2027 Scout line-up by more than half its models",
+    "link": "https://www.visordown.com/news/indian-motorcycle-set-cut-2027-scout-line-more-half-its-models",
+    "pub_date": "2026-08-03T11:40:50+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-03t124729.873.png?width=1200",
+    "score": -65,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 10,
-    "title": "Close to 80,000 BMW S1000 RR bikes could be recalled over faulty ignition lock",
-    "link": "https://www.visordown.com/news/close-80000-bmw-s1000-rr-bikes-could-be-recalled-over-faulty-ignition-lock",
-    "pub_date": "2026-07-31T11:16:55+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-31t123720.180.png?width=1200",
-    "score": -2,
+    "title": "Patritalia doubles down on €2.5bn Ducati bid as Ai MotoGP bikes and bold Italian-only rider pledge emerge",
+    "link": "https://www.visordown.com/news/patritalia-doubles-down-eu25bn-ducati-bid-ai-motogp-images-and-bold-italian-only-rider-pledge",
+    "pub_date": "2026-08-03T09:30:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/patritalia-01.jpg?width=1200",
+    "score": -65,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 11,
-    "title": "Harley-Davidson RMCR cafe racer moves a step closer to production",
-    "link": "https://www.visordown.com/news/harley-davidson-rmcr-cafe-racer-moves-step-closer-production",
-    "pub_date": "2026-07-31T08:20:04+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-31t092755.140.png?width=1200",
-    "score": -2,
+    "title": "Kawasaki KLE500 available with new £350 voucher and zero per cent finance offers",
+    "link": "https://www.visordown.com/news/kawasaki-kle500-available-new-ps350-voucher-and-zero-cent-finance-offers",
+    "pub_date": "2026-08-03T09:14:50+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-03t102423.316.png?width=1200",
+    "score": -65,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 12,
-    "title": "KTM teases two supersport models influenced by MotoGP programme",
-    "link": "https://www.visordown.com/news/ktm-teases-two-supersport-models-influenced-motogp-programme",
-    "pub_date": "2026-07-30T11:37:29+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-30t124231.420.png?width=1200",
-    "score": -2,
+    "title": "Pol Espargaro replaces Maverick Vinales at Tech3 KTM for British MotoGP",
+    "link": "https://www.visordown.com/news/pol-espargaro-replaces-maverick-vinales-tech3-ktm-british-motogp",
+    "pub_date": "2026-08-05T05:47:21+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/vinales-tech3-ktm-01.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 13,
-    "title": "Italian firm Patritalia confirms Ducati takeover bid as its CEO doubles down on sale claims",
-    "link": "https://www.visordown.com/news/italian-firm-patritalia-confirms-ducati-takeover-bid-its-ceo-doubles-down-sale-claims",
-    "pub_date": "2026-07-30T07:57:35+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/screenshot-2026-07-30-at-08.58.32.png?width=1200",
-    "score": -2,
+    "title": "New Yamaha Moto3 bikes to combine prototype chassis with heavily modified R7 engine",
+    "link": "https://www.visordown.com/news/new-yamaha-moto3-bikes-combine-prototype-chassis-heavily-modified-r7-engine",
+    "pub_date": "2026-08-04T14:25:25+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-04t153419.647.png?width=1200",
+    "score": -72,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 14,
-    "title": "Harley-Davidson announces exclusive ticket packages for British MotoGP",
-    "link": "https://www.visordown.com/news/harley-davidson-announces-exclusive-ticket-packages-british-motogp",
-    "pub_date": "2026-07-30T07:00:32+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/gng_1318233_hires.jpg?width=1200",
-    "score": -2,
+    "title": "Michael Dunlop, Dean Harrison, John McGuinness Classic TT bikes confirmed",
+    "link": "https://www.visordown.com/news/michael-dunlop-dean-harrison-john-mcguinness-classic-tt-bikes-confirmed",
+    "pub_date": "2026-08-04T10:54:55+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-04t120906.584.png?width=1200",
+    "score": -72,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 15,
-    "title": "“Priorities are set”: Is CFMoto planning dual WorldSBK and MotoGP projects?",
-    "link": "https://www.visordown.com/news/priorities-are-set-cfmoto-planning-dual-worldsbk-and-motogp-projects",
-    "pub_date": "2026-07-29T12:30:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2025-11/cfmoto_v4sr-rrprototype_11.jpg?width=1200",
-    "score": -2,
+    "title": "John McGuinness set for talks with Honda over 2027 plans",
+    "link": "https://www.visordown.com/news/john-mcguinness-set-talks-honda-over-2027-plans",
+    "pub_date": "2026-08-03T13:31:45+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-03t144002.099.png?width=1200",
+    "score": -72,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 16,
-    "title": "Isle of Man TT sidecars given roadmap to 2027 return after suspension review",
-    "link": "https://www.visordown.com/news/isle-man-tt-sidecars-given-roadmap-2027-return-after-suspension-review",
-    "pub_date": "2026-07-31T14:20:40+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/site-image-resize-2026-07-16t103049.781.png?width=1200",
-    "score": -7,
+    "title": "LiveWire dodges penny stock scare as shares rebound above $2 days after NYSE warning",
+    "link": "https://www.visordown.com/news/livewire-dodges-penny-stock-scare-shares-rebound-above-2-days-after-nyse-warning",
+    "pub_date": "2026-08-03T10:30:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2025-09/livewire-logo.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 17,
-    "title": "MCL26 Show and Shine puts visitors’ bikes in the spotlight",
-    "link": "https://www.visordown.com/news/mcl26-show-and-shine-puts-visitors-bikes-spotlight",
-    "pub_date": "2026-07-30T10:32:11+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/show-and-shine-mcl26.png?width=1200",
-    "score": -7,
+    "title": "European Parliament launches new Motorcycling MEP Club",
+    "link": "https://www.visordown.com/news/european-parliament-launches-new-motorcycling-mep-club",
+    "pub_date": "2026-08-04T12:41:16+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/motorcycling-mep-club.jpg?width=1200",
+    "score": -77,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 18,
-    "title": "Glen Hansard, star of The Commitments, dies aged 56 after Dublin motorcycle crash",
-    "link": "https://www.visordown.com/news/glen-hansard-star-commitments-dies-aged-56-after-dublin-motorcycle-crash",
-    "pub_date": "2026-07-29T11:32:06+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/screenshot-2026-07-29-at-12.31.00_0.png?width=1200",
-    "score": -7,
+    "title": "Maria Costello’s Sidecar TT passenger, Shaun Parker, reveals permanent eye damage from TT accident",
+    "link": "https://www.visordown.com/news/maria-costellos-sidecar-tt-passenger-shaun-parker-reveals-permanent-eye-damage-tt-accident",
+    "pub_date": "2026-08-04T08:19:14+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-04t091835.634.png?width=1200",
+    "score": -77,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 19,
-    "title": "Sold out Ruroc Gold Chrome helmet is back in stock for £475",
-    "link": "https://www.visordown.com/news/new-ps475-ruroc-at40-carbon-gold-chrome-has-landed",
-    "pub_date": "2026-07-31T07:28:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/aydenlawman_nyc_fx3_426-ayden_3840x2160.jpg?width=1200",
-    "score": -11,
+    "title": "Stark Future closes first half of 2026 with nearly 50 per cent revenue growth",
+    "link": "https://www.visordown.com/news/stark-future-closes-first-half-2026-nearly-50-cent-revenue-growth",
+    "pub_date": "2026-08-03T14:24:42+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-01/stark-hq-1.jpg?width=1200",
+    "score": -77,
     "score_reasons": [
-      "low-tier keywords x1 (+3)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 20,
-    "title": "UN tells governments to make roads safer for motorcyclists by 2030",
-    "link": "https://www.visordown.com/news/un-tells-governments-make-roads-safer-motorcyclists-2030",
-    "pub_date": "2026-07-31T13:00:37+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2025-02/Motor-cycle-roadtrip_972233775.jpg?width=1200",
-    "score": -14,
+    "title": "The commuter tax motorcycles don't have to pay: Why bikers are exempt from the Workplace Parking Levy",
+    "link": "https://www.visordown.com/news/commuter-tax-motorcycles-dont-have-pay-why-bikers-are-exempt-workplace-parking-levy",
+    "pub_date": "2026-08-04T13:59:48+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/motorcycle-parking-in-london-1600px.jpeg?width=1200",
+    "score": -81,
     "score_reasons": [
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
-      "between 72-168h (-20)",
-      "good title length (+2)"
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

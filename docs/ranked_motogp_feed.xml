@@ -7,16 +7,66 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 08:50:59 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 07:49:59 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:37:28 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 08:08:33 +0000</pubDate>
     <item>
-      <title>Casey Stoner backs Pedro Acosta’s Ducati MotoGP move, “feels sorry” for Pecco Bagnaia</title>
-      <link>https://www.crash.net/motogp/news/1102090/1/casey-stoner-backs-pedro-acostas-ducati-motogp-move-feels-sorry-pecco-bagnaia</link>
-      <description>Casey Stoner expects Pedro Acosta to become a major MotoGP threat at Ducati, but believes he must show greater patience.</description>
+      <title>Silverstone confirms place on future MotoGP calendar</title>
+      <link>https://www.crash.net/motogp/news/1102099/1/silverstone-confirms-place-future-motogp-calendar</link>
+      <description>Silverstone stays on the MotoGP calendar for the 2027 and 2028 seasons.</description>
       <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1323829_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102090/1/casey-stoner-backs-pedro-acostas-ducati-motogp-move-feels-sorry-pecco-bagnaia</guid>
-      <pubDate>Tue, 04 Aug 2026 15:46:30 +0000</pubDate>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1232134_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102099/1/silverstone-confirms-place-future-motogp-calendar</guid>
+      <pubDate>Thu, 06 Aug 2026 08:08:33 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Augusto Fernandez “happy to be back” in Silverstone MotoGP wildcard</title>
+      <link>https://www.crash.net/motogp/news/1102098/1/augusto-fernandez-happy-be-back-silverstone-motogp-wildcard</link>
+      <description>Augusto Fernandez will return to racing this weekend as a wildcard in the British MotoGP round.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-06/gng_1316542_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102098/1/augusto-fernandez-happy-be-back-silverstone-motogp-wildcard</guid>
+      <pubDate>Wed, 05 Aug 2026 15:23:12 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Fabio Quartararo “ready to be back” at scene of 2025 MotoGP heartbreak</title>
+      <link>https://www.crash.net/motogp/news/1102094/1/fabio-quartararo-ready-be-back-scene-2025-motogp-heartbreak</link>
+      <description>Fabio Quartararo returns to Silverstone this weekend 14 months on from his 2025 British MotoGP heartbreak.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1332868_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102094/1/fabio-quartararo-ready-be-back-scene-2025-motogp-heartbreak</guid>
+      <pubDate>Wed, 05 Aug 2026 12:31:53 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>“Extremely demanding” Silverstone MotoGP next for Marc Marquez after “perfect” Germany</title>
+      <link>https://www.crash.net/motogp/news/1102096/1/extremely-demanding-silverstone-motogp-next-marc-marquez-after-perfect</link>
+      <description>Marc Marquez faces what could be one of his toughest challenges for the remainder of MotoGP 2026 at Silverstone.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1333295_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102096/1/extremely-demanding-silverstone-motogp-next-marc-marquez-after-perfect</guid>
+      <pubDate>Wed, 05 Aug 2026 14:11:43 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Jack Miller curious about potential Yamaha “progress” at British MotoGP</title>
+      <link>https://www.crash.net/motogp/news/1102095/1/jack-miller-curious-about-potential-yamaha-progress-british-motogp</link>
+      <description>Jack Miller is hopeful of “a bit more progress” from Yamaha ahead of the British MotoGP.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-06/gng_1327277_hires_1600x900_0.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102095/1/jack-miller-curious-about-potential-yamaha-progress-british-motogp</guid>
+      <pubDate>Wed, 05 Aug 2026 13:28:40 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>“I thought I could win”: Cal Crutchlow looks back on British MotoGP highlights</title>
+      <link>https://www.crash.net/motogp/news/1102093/1/i-thought-i-could-win-cal-crutchlow-looks-back-british-motogp-highlights</link>
+      <description>Cal Crutchlow looks back on some of his highlights – and one particular low…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_577004_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102093/1/i-thought-i-could-win-cal-crutchlow-looks-back-british-motogp-highlights</guid>
+      <pubDate>Wed, 05 Aug 2026 11:09:47 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
     <item>
@@ -27,186 +77,6 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-06/gng_1330661_hires_1600x900.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1102091/1/raul-fernandez-gets-trackhouse-aprilia-renewal-new-motogp-era</guid>
       <pubDate>Wed, 05 Aug 2026 07:49:59 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Maverick Vinales out of Silverstone MotoGP due to injury amid KTM exit rumours</title>
-      <link>https://www.crash.net/motogp/news/1102086/1/maverick-vinales-out-silverstone-motogp-due-injury-amid-ktm-exit-rumours</link>
-      <description>Maverick Vinales will be replaced by Pol Espargaro at Silverstone</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1330411_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102086/1/maverick-vinales-out-silverstone-motogp-due-injury-amid-ktm-exit-rumours</guid>
-      <pubDate>Tue, 04 Aug 2026 13:50:37 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Luca Marini aims to remain “fastest Honda”, MotoGP future decided?</title>
-      <link>https://www.crash.net/motogp/news/1102087/1/luca-marini-aims-remain-fastest-honda-motogp-future-decided</link>
-      <description>Luca Marini seeking to &quot;stay as the fastest Honda&quot; - Tech3 MotoGP deal done?</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1334682_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102087/1/luca-marini-aims-remain-fastest-honda-motogp-future-decided</guid>
-      <pubDate>Tue, 04 Aug 2026 14:06:30 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Yamaha&#x27;s future riders lead MotoGP standings but “better to get the #1 from inside”</title>
-      <link>https://www.crash.net/motogp/news/1102084/1/yamahas-future-riders-lead-motogp-standings-better-get-1-inside</link>
-      <description>Yamaha looks to have pulled off an inspired double signing with 2027 riders Jorge Martin and Ai Ogura now leading the MotoGP standings for Aprilia.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/martin-ogura.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102084/1/yamahas-future-riders-lead-motogp-standings-better-get-1-inside</guid>
-      <pubDate>Tue, 04 Aug 2026 13:10:30 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>“Excited to be back” - Cal Crutchlow relishing surprise British MotoGP return</title>
-      <link>https://www.crash.net/motogp/news/1102057/1/excited-be-back-cal-crutchlow-relishing-surprise-british-motogp-return</link>
-      <description>Cal Crutchlow says racing at Silverstone is “always special” as he prepares for a…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1331169_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102057/1/excited-be-back-cal-crutchlow-relishing-surprise-british-motogp-return</guid>
-      <pubDate>Mon, 03 Aug 2026 08:36:40 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>“I will finish the year”: Maverick Vinales responds to KTM exit rumours</title>
-      <link>https://www.crash.net/motogp/news/1102049/1/i-will-finish-year-maverick-vinales-responds-ktm-exit-rumours</link>
-      <description>Maverick Vinales has responded to reports suggesting he will be replaced at KTM for…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1331187_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102049/1/i-will-finish-year-maverick-vinales-responds-ktm-exit-rumours</guid>
-      <pubDate>Sun, 02 Aug 2026 14:55:15 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>KTM reportedly considering axing Maverick Vinales before British MotoGP</title>
-      <link>https://www.crash.net/motogp/news/1102047/1/ktm-reportedly-considering-axing-maverick-vinales-british-motogp</link>
-      <description>KTM is reportedly considering dropping Maverick Vinales from its MotoGP line-up before the season…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1333656_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102047/1/ktm-reportedly-considering-axing-maverick-vinales-british-motogp</guid>
-      <pubDate>Sun, 02 Aug 2026 11:59:05 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Casey Stoner’s MotoGP riding style considered “impossible” by Ducati veteran</title>
-      <link>https://www.crash.net/motogp/news/1102030/1/casey-stoners-motogp-riding-style-considered-impossible-ducati-veteran</link>
-      <description>Michele Pirro says Casey Stoner’s MotoGP riding style was “impossible” to comprehend.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_649514_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102030/1/casey-stoners-motogp-riding-style-considered-impossible-ducati-veteran</guid>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>‘Marc Marquez seems a bit like Lewis Hamilton’: Guenther Steiner compares MotoGP and F1 champions</title>
-      <link>https://www.crash.net/motogp/news/1102033/1/marc-marquez-seems-bit-lewis-hamilton-guenther-steiner-compares-motogp-and-f1</link>
-      <description>Tech3 boss Guenther Steiner has compared MotoGP champion Marc Marquez with F1 legend Lewis…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/1_4.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102033/1/marc-marquez-seems-bit-lewis-hamilton-guenther-steiner-compares-motogp-and-f1</guid>
-      <pubDate>Fri, 31 Jul 2026 16:06:54 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Marc Marquez back on track ahead of MotoGP’s post-summer Silverstone return</title>
-      <link>https://www.crash.net/motogp/news/1102024/1/marc-marquez-back-track-ahead-motogps-post-summer-silverstone-return</link>
-      <description>Marc Marquez has returned to the race track ahead of MotoGP’s return after the…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/maq_0.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102024/1/marc-marquez-back-track-ahead-motogps-post-summer-silverstone-return</guid>
-      <pubDate>Fri, 31 Jul 2026 13:27:17 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>VW shuts down latest claims of Ducati takeover by Italian investor</title>
-      <link>https://www.crash.net/motogp/news/1101998/1/vw-shuts-down-latest-claims-ducati-takeover-italian-investor</link>
-      <description>VW has shut down claims made by an Italian investor that it is making…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-05/gng_1311462_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1101998/1/vw-shuts-down-latest-claims-ducati-takeover-italian-investor</guid>
-      <pubDate>Thu, 30 Jul 2026 08:56:43 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>The old KTM MotoGP line-up that could be recreated in 2027</title>
-      <link>https://www.crash.net/motogp/news/1101990/1/old-ktm-motogp-line-could-be-recreated-2027</link>
-      <description>Brad Binder and Miguel Oliveira could be set to team up again in 2027…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1018885_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1101990/1/old-ktm-motogp-line-could-be-recreated-2027</guid>
-      <pubDate>Wed, 29 Jul 2026 13:11:33 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>“I don’t feel as brave”: Johann Zarco’s Marc Marquez MotoGP recovery comparison</title>
-      <link>https://www.crash.net/motogp/news/1101981/1/i-dont-feel-brave-johann-zarcos-marc-marquez-motogp-recovery-comparison</link>
-      <description>Johann Zarco says he doesn’t “feel as brave” as Marc Marquez in his recovery…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-05/gng_1315402_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1101981/1/i-dont-feel-brave-johann-zarcos-marc-marquez-motogp-recovery-comparison</guid>
-      <pubDate>Wed, 29 Jul 2026 09:14:14 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>One of Aprilia’s most important MotoGP bikes to be auctioned by Aleix Espargaro</title>
-      <link>https://www.crash.net/motogp/news/1101976/1/one-aprilias-most-important-motogp-bikes-be-auctioned-aleix-espargaro</link>
-      <description>An old Aprilia MotoGP bike ridden and owned by Aleix Espargaro is set to…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_863780_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1101976/1/one-aprilias-most-important-motogp-bikes-be-auctioned-aleix-espargaro</guid>
-      <pubDate>Tue, 28 Jul 2026 14:37:01 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Yamaha vows MotoGP 2026 misery “will help us” for 2027 rule change</title>
-      <link>https://www.crash.net/motogp/news/1101968/1/yamaha-vows-motogp-2026-misery-will-help-us-2027-rule-change</link>
-      <description>Yamaha says it is “learning” in MotoGP 2026 and that its difficulties this year…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1331501_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1101968/1/yamaha-vows-motogp-2026-misery-will-help-us-2027-rule-change</guid>
-      <pubDate>Tue, 28 Jul 2026 09:55:15 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>KTM “need to be happy” with 2026 MotoGP podiums but “time again to find stability”</title>
-      <link>https://www.crash.net/motogp/news/1101966/1/ktm-need-be-happy-2026-motogp-podiums-time-again-find-stability</link>
-      <description>Red Bull KTM boss Aki Ajo says KTM must “find the stability” to fight…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1332496_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1101966/1/ktm-need-be-happy-2026-motogp-podiums-time-again-find-stability</guid>
-      <pubDate>Tue, 28 Jul 2026 08:57:18 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>The 2027 MotoGP rider line-up so far</title>
-      <link>https://www.crash.net/motogp/feature/1084011/1/2027-motogp-rider-line-and-rumours-so-far</link>
-      <description>This is the current situation for 2027 rider contracts, the first season of 850cc…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1330785_hires_1600x900_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/feature/1084011/1/2027-motogp-rider-line-and-rumours-so-far</guid>
-      <pubDate>Tue, 21 Jul 2026 09:10:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Thai Grand Prix to remain as MotoGP season opener in 2027</title>
-      <link>https://www.crash.net/motogp/news/1102018/1/thai-grand-prix-remain-motogp-season-opener-2027</link>
-      <description>MotoGP has announced that Thailand will remain as its season-opening race in 2027.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-05/gng_1295672_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102018/1/thai-grand-prix-remain-motogp-season-opener-2027</guid>
-      <pubDate>Fri, 31 Jul 2026 09:24:19 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>F1 and MotoGP could come together at the US Grand Prix in demo event</title>
-      <link>https://www.crash.net/motogp/news/1102001/1/f1-and-motogp-could-come-together-us-grand-prix-demo-event</link>
-      <description>Plans are being hatched for MotoGP to hold a demo event at the F1…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/gng_1304360_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1102001/1/f1-and-motogp-could-come-together-us-grand-prix-demo-event</guid>
-      <pubDate>Thu, 30 Jul 2026 09:50:44 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

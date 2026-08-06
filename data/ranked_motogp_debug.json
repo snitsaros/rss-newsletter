@@ -1,27 +1,12 @@
 [
   {
     "position": 1,
-    "title": "Casey Stoner backs Pedro Acosta’s Ducati MotoGP move, “feels sorry” for Pecco Bagnaia",
-    "link": "https://www.crash.net/motogp/news/1102090/1/casey-stoner-backs-pedro-acostas-ducati-motogp-move-feels-sorry-pecco-bagnaia",
-    "pub_date": "2026-08-04T15:46:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1323829_hires_1600x900.jpg?width=1200",
-    "score": 64,
+    "title": "Silverstone confirms place on future MotoGP calendar",
+    "link": "https://www.crash.net/motogp/news/1102099/1/silverstone-confirms-place-future-motogp-calendar",
+    "pub_date": "2026-08-06T08:08:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1232134_hires_1600x900.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Raul Fernandez gets Trackhouse Aprilia renewal for new MotoGP era",
-    "link": "https://www.crash.net/motogp/news/1102091/1/raul-fernandez-gets-trackhouse-aprilia-renewal-new-motogp-era",
-    "pub_date": "2026-08-05T07:49:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/gng_1330661_hires_1600x900.jpg?width=1200",
-    "score": 33,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -29,15 +14,28 @@
     ]
   },
   {
-    "position": 3,
-    "title": "Maverick Vinales out of Silverstone MotoGP due to injury amid KTM exit rumours",
-    "link": "https://www.crash.net/motogp/news/1102086/1/maverick-vinales-out-silverstone-motogp-due-injury-amid-ktm-exit-rumours",
-    "pub_date": "2026-08-04T13:50:37+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1330411_hires.jpg?width=1200",
-    "score": 5,
+    "position": 2,
+    "title": "Augusto Fernandez “happy to be back” in Silverstone MotoGP wildcard",
+    "link": "https://www.crash.net/motogp/news/1102098/1/augusto-fernandez-happy-be-back-silverstone-motogp-wildcard",
+    "pub_date": "2026-08-05T15:23:12+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/gng_1316542_hires.jpg?width=1200",
+    "score": 19,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Fabio Quartararo “ready to be back” at scene of 2025 MotoGP heartbreak",
+    "link": "https://www.crash.net/motogp/news/1102094/1/fabio-quartararo-ready-be-back-scene-2025-motogp-heartbreak",
+    "pub_date": "2026-08-05T12:31:53+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1332868_hires.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -45,10 +43,10 @@
   },
   {
     "position": 4,
-    "title": "Luca Marini aims to remain “fastest Honda”, MotoGP future decided?",
-    "link": "https://www.crash.net/motogp/news/1102087/1/luca-marini-aims-remain-fastest-honda-motogp-future-decided",
-    "pub_date": "2026-08-04T14:06:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1334682_hires_1600x900.jpg?width=1200",
+    "title": "“Extremely demanding” Silverstone MotoGP next for Marc Marquez after “perfect” Germany",
+    "link": "https://www.crash.net/motogp/news/1102096/1/extremely-demanding-silverstone-motogp-next-marc-marquez-after-perfect",
+    "pub_date": "2026-08-05T14:11:43+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333295_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -59,227 +57,44 @@
   },
   {
     "position": 5,
-    "title": "Yamaha's future riders lead MotoGP standings but “better to get the #1 from inside”",
-    "link": "https://www.crash.net/motogp/news/1102084/1/yamahas-future-riders-lead-motogp-standings-better-get-1-inside",
-    "pub_date": "2026-08-04T13:10:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/martin-ogura.jpg?width=1200",
-    "score": -66,
+    "title": "Jack Miller curious about potential Yamaha “progress” at British MotoGP",
+    "link": "https://www.crash.net/motogp/news/1102095/1/jack-miller-curious-about-potential-yamaha-progress-british-motogp",
+    "pub_date": "2026-08-05T13:28:40+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/gng_1327277_hires_1600x900_0.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "top-tier keywords x4 (+48)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "good title length (+2)"
     ]
   },
   {
     "position": 6,
-    "title": "“Excited to be back” - Cal Crutchlow relishing surprise British MotoGP return",
-    "link": "https://www.crash.net/motogp/news/1102057/1/excited-be-back-cal-crutchlow-relishing-surprise-british-motogp-return",
-    "pub_date": "2026-08-03T08:36:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1331169_hires_1600x900.jpg?width=1200",
-    "score": -82,
+    "title": "“I thought I could win”: Cal Crutchlow looks back on British MotoGP highlights",
+    "link": "https://www.crash.net/motogp/news/1102093/1/i-thought-i-could-win-cal-crutchlow-looks-back-british-motogp-highlights",
+    "pub_date": "2026-08-05T11:09:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_577004_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 7,
-    "title": "“I will finish the year”: Maverick Vinales responds to KTM exit rumours",
-    "link": "https://www.crash.net/motogp/news/1102049/1/i-will-finish-year-maverick-vinales-responds-ktm-exit-rumours",
-    "pub_date": "2026-08-02T14:55:15+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331187_hires_1600x900.jpg?width=1200",
-    "score": -82,
+    "title": "Raul Fernandez gets Trackhouse Aprilia renewal for new MotoGP era",
+    "link": "https://www.crash.net/motogp/news/1102091/1/raul-fernandez-gets-trackhouse-aprilia-renewal-new-motogp-era",
+    "pub_date": "2026-08-05T07:49:59+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/gng_1330661_hires_1600x900.jpg?width=1200",
+    "score": -182,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "KTM reportedly considering axing Maverick Vinales before British MotoGP",
-    "link": "https://www.crash.net/motogp/news/1102047/1/ktm-reportedly-considering-axing-maverick-vinales-british-motogp",
-    "pub_date": "2026-08-02T11:59:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1333656_hires.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Casey Stoner’s MotoGP riding style considered “impossible” by Ducati veteran",
-    "link": "https://www.crash.net/motogp/news/1102030/1/casey-stoners-motogp-riding-style-considered-impossible-ducati-veteran",
-    "pub_date": "2026-08-02T07:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_649514_hires.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "‘Marc Marquez seems a bit like Lewis Hamilton’: Guenther Steiner compares MotoGP and F1 champions",
-    "link": "https://www.crash.net/motogp/news/1102033/1/marc-marquez-seems-bit-lewis-hamilton-guenther-steiner-compares-motogp-and-f1",
-    "pub_date": "2026-07-31T16:06:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/1_4.png?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Marc Marquez back on track ahead of MotoGP’s post-summer Silverstone return",
-    "link": "https://www.crash.net/motogp/news/1102024/1/marc-marquez-back-track-ahead-motogps-post-summer-silverstone-return",
-    "pub_date": "2026-07-31T13:27:17+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/maq_0.png?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "VW shuts down latest claims of Ducati takeover by Italian investor",
-    "link": "https://www.crash.net/motogp/news/1101998/1/vw-shuts-down-latest-claims-ducati-takeover-italian-investor",
-    "pub_date": "2026-07-30T08:56:43+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/gng_1311462_hires.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 13,
-    "title": "The old KTM MotoGP line-up that could be recreated in 2027",
-    "link": "https://www.crash.net/motogp/news/1101990/1/old-ktm-motogp-line-could-be-recreated-2027",
-    "pub_date": "2026-07-29T13:11:33+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1018885_hires.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 14,
-    "title": "“I don’t feel as brave”: Johann Zarco’s Marc Marquez MotoGP recovery comparison",
-    "link": "https://www.crash.net/motogp/news/1101981/1/i-dont-feel-brave-johann-zarcos-marc-marquez-motogp-recovery-comparison",
-    "pub_date": "2026-07-29T09:14:14+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/gng_1315402_hires_1600x900.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "One of Aprilia’s most important MotoGP bikes to be auctioned by Aleix Espargaro",
-    "link": "https://www.crash.net/motogp/news/1101976/1/one-aprilias-most-important-motogp-bikes-be-auctioned-aleix-espargaro",
-    "pub_date": "2026-07-28T14:37:01+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_863780_hires.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 16,
-    "title": "Yamaha vows MotoGP 2026 misery “will help us” for 2027 rule change",
-    "link": "https://www.crash.net/motogp/news/1101968/1/yamaha-vows-motogp-2026-misery-will-help-us-2027-rule-change",
-    "pub_date": "2026-07-28T09:55:15+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331501_hires_1600x900.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 17,
-    "title": "KTM “need to be happy” with 2026 MotoGP podiums but “time again to find stability”",
-    "link": "https://www.crash.net/motogp/news/1101966/1/ktm-need-be-happy-2026-motogp-podiums-time-again-find-stability",
-    "pub_date": "2026-07-28T08:57:18+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1332496_hires_1600x900.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 18,
-    "title": "The 2027 MotoGP rider line-up so far",
-    "link": "https://www.crash.net/motogp/feature/1084011/1/2027-motogp-rider-line-and-rumours-so-far",
-    "pub_date": "2026-07-21T09:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1330785_hires_1600x900_1600x900.jpg?width=1200",
-    "score": -82,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Thai Grand Prix to remain as MotoGP season opener in 2027",
-    "link": "https://www.crash.net/motogp/news/1102018/1/thai-grand-prix-remain-motogp-season-opener-2027",
-    "pub_date": "2026-07-31T09:24:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/gng_1295672_hires_1600x900.jpg?width=1200",
-    "score": -87,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 20,
-    "title": "F1 and MotoGP could come together at the US Grand Prix in demo event",
-    "link": "https://www.crash.net/motogp/news/1102001/1/f1-and-motogp-could-come-together-us-grand-prix-demo-event",
-    "pub_date": "2026-07-30T09:50:44+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1304360_hires.jpg?width=1200",
-    "score": -87,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

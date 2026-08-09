@@ -1,14 +1,14 @@
 [
   {
     "position": 1,
-    "title": "Pedro Acosta plays down performance gain from KTM MotoGP engine fix",
-    "link": "https://www.crash.net/motogp/news/1102216/1/pedro-acosta-plays-down-performance-gain-ktm-motogp-engine-fix",
-    "pub_date": "2026-08-07T19:07:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335885_hires_1600x900.jpg?width=1200",
-    "score": 55,
+    "title": "Fabio Quartararo identifies Aprilia advantage after Silverstone MotoGP Sprint sweep",
+    "link": "https://www.crash.net/motogp/news/1102300/1/fabio-quartararo-identifies-aprilia-advantage-after-silverstone-motogp-sprint",
+    "pub_date": "2026-08-08T16:30:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336367_hires_1600x900.jpg?width=1200",
+    "score": 78,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "low-tier keywords x1 (+3)",
+      "top-tier keywords x4 (+48)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -16,13 +16,14 @@
   },
   {
     "position": 2,
-    "title": "“It improved quite a lot”: Jorge Martin solves key Aprilia MotoGP issue",
-    "link": "https://www.crash.net/motogp/news/1102214/1/it-improved-quite-lot-jorge-martin-solves-key-aprilia-motogp-issue",
-    "pub_date": "2026-08-07T18:35:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335331_hires.jpg?width=1200",
-    "score": 52,
+    "title": "Points leader Jorge Martin takes Silverstone MotoGP pole with new lap record",
+    "link": "https://www.crash.net/motogp/news/1102259/1/points-leader-jorge-martin-takes-silverstone-motogp-pole-new-lap-record",
+    "pub_date": "2026-08-08T11:40:26+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335327_hires.jpg?width=1200",
+    "score": 73,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
+      "mid-tier keywords x3 (+21)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -30,13 +31,13 @@
   },
   {
     "position": 3,
-    "title": "The fate of Silverstone’s unusual MotoGP win stat rests in Aprilia’s hands",
-    "link": "https://www.crash.net/motogp/feature/1102220/1/fate-silverstones-unusual-motogp-win-stat-rests-aprilias-hands",
-    "pub_date": "2026-08-07T19:06:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335466_hires_1600x900.jpg?width=1200",
-    "score": 42,
+    "title": "'Couldn't get my knee down' - Pecco Bagnaia details shocking Silverstone MotoGP sprint",
+    "link": "https://www.crash.net/motogp/news/1102307/1/couldnt-get-my-knee-down-pecco-bagnaia-details-shocking-silverstone-motogp",
+    "pub_date": "2026-08-08T17:48:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335380_hires_1600x900.jpg?width=1200",
+    "score": 66,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x3 (+36)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
@@ -45,10 +46,40 @@
   },
   {
     "position": 4,
-    "title": "Marc Marquez “far from the podium” after Silverstone MotoGP practice",
-    "link": "https://www.crash.net/motogp/news/1102213/1/marc-marquez-far-podium-after-silverstone-motogp-practice",
-    "pub_date": "2026-08-07T18:10:44+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335375_hires.jpg?width=1200",
+    "title": "Jorge Martin wins Silverstone MotoGP sprint as Ducati struggles",
+    "link": "https://www.crash.net/motogp/news/1102297/1/jorge-martin-wins-silverstone-motogp-sprint-ducati-struggles",
+    "pub_date": "2026-08-08T15:36:40+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336232_hires.jpg?width=1200",
+    "score": 66,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Jorge Martin ‘out of a hole’ but issues warning about Silverstone MotoGP sprint win",
+    "link": "https://www.crash.net/motogp/news/1102306/1/jorge-martin-out-hole-issues-warning-about-silverstone-motogp-sprint-win",
+    "pub_date": "2026-08-08T17:43:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336456_hires.jpg?width=1200",
+    "score": 47,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "‘Consequence of a bad start’ - Why Aprilia was denied a 1-2-3-4 in Silverstone sprint",
+    "link": "https://www.crash.net/motogp/news/1102312/1/consequence-bad-start-why-aprilia-was-denied-1-2-3-4-silverstone-sprint",
+    "pub_date": "2026-08-08T18:09:07+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336154_hires.jpg?width=1200",
     "score": 42,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -59,39 +90,55 @@
     ]
   },
   {
-    "position": 5,
-    "title": "Pecco Bagnaia’s core problem remains at Silverstone MotoGP",
-    "link": "https://www.crash.net/motogp/news/1102218/1/pecco-bagnaias-core-problem-remains-silverstone-motogp",
-    "pub_date": "2026-08-07T19:03:11+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/francesco-bagnaia-2026-british-motogp-09086.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 6,
-    "title": "‘Like the first time on a bike’ - Fabio Quartararo baffled by Silverstone MotoGP struggles",
-    "link": "https://www.crash.net/motogp/news/1102207/1/first-time-bike-fabio-quartararo-baffled-silverstone-motogp-struggles",
-    "pub_date": "2026-08-07T16:47:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/fabio-quartararo-2026-british-motogp-09288.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 7,
-    "title": "Alex Marquez leads Marco Bezzecchi in Silverstone MotoGP FP1",
-    "link": "https://www.crash.net/motogp/news/1102161/1/alex-marquez-leads-marco-bezzecchi-silverstone-motogp-fp1",
-    "pub_date": "2026-08-07T11:39:23+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335211_hires.jpg?width=1200",
+    "title": "Marc Marquez explains Silverstone MotoGP sprint issue ‘we never had before’",
+    "link": "https://www.crash.net/motogp/news/1102304/1/marc-marquez-explains-silverstone-motogp-sprint-issue-we-never-had",
+    "pub_date": "2026-08-08T17:17:43+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336285_hires.jpg?width=1200",
+    "score": 42,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "Silverstone MotoGP LIVE: Reaction from the Sprint as Martin wins and Marquez slumps",
+    "link": "https://www.crash.net/motogp/live/1044229/silverstone-motogp-live-updates-qualifying-and-sprint-british-gp",
+    "pub_date": "2026-08-08T14:05:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336043_hires.jpg?width=1200",
+    "score": 42,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "Doubts for Marco Bezzecchi’s Silverstone MotoGP endurance despite Sprint podium",
+    "link": "https://www.crash.net/motogp/news/1102310/1/doubts-marco-bezzecchis-silverstone-motogp-endurance-despite-sprint-podium",
+    "pub_date": "2026-08-08T17:58:55+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/marco-bezzecchi-2026-british-motogp-08958_0.jpg?width=1200",
+    "score": 37,
+    "score_reasons": [
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "How Alex Marquez turned FP2 “problem” to an advantage in Silverstone MotoGP Sprint",
+    "link": "https://www.crash.net/motogp/news/1102316/1/how-alex-marquez-turned-fp2-problem-advantage-silverstone-motogp-sprint",
+    "pub_date": "2026-08-08T18:32:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/alex-marquez-2026-british-motogp-00142.jpg?width=1200",
     "score": 35,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -102,54 +149,15 @@
     ]
   },
   {
-    "position": 8,
-    "title": "Alex Marquez still limited physically after MotoGP summer break",
-    "link": "https://www.crash.net/motogp/news/1102221/1/alex-marquez-still-limited-physically-after-motogp-summer-break",
-    "pub_date": "2026-08-07T19:31:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/alex-marquez-2026-british-motogp-09169.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "‘Ducati is very fast’ - VR46 responds to Bulega’s 850cc MotoGP pace",
-    "link": "https://www.crash.net/motogp/news/1102166/1/ducati-very-fast-vr46-responds-bulegas-850cc-motogp-pace",
-    "pub_date": "2026-08-07T13:51:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1331726_hires_1600x900.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "“Missing a piece of bone” - Fastest Marco Bezzecchi reveals “complicated” MotoGP injuries",
-    "link": "https://www.crash.net/motogp/news/1102211/1/missing-small-piece-bone-fastest-marco-bezzecchi-reveals-complicated-motogp",
-    "pub_date": "2026-08-07T18:15:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/marco-bezzecchi-2026-british-motogp-08958.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 11,
-    "title": "“A bit of magic” - Cal Crutchlow “fastest I've been around Silverstone”",
-    "link": "https://www.crash.net/motogp/news/1102209/1/bit-magic-cal-crutchlow-fastest-ive-been-around-silverstone",
-    "pub_date": "2026-08-07T17:37:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/cal-crutchlow-2026-british-motogp-09550.jpg?width=1200",
-    "score": 16,
+    "title": "Diggia in “survival mode” at Silverstone Sprint, Aprilia “doing a better job”",
+    "link": "https://www.crash.net/motogp/news/1102314/1/diggia-survival-mode-silverstone-sprint-aprilia-doing-better-job",
+    "pub_date": "2026-08-08T18:30:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336451_hires_1600x900.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -157,12 +165,13 @@
   },
   {
     "position": 12,
-    "title": "Marco Bezzecchi smashes Silverstone lap record in MotoGP Practice",
-    "link": "https://www.crash.net/motogp/news/1102205/1/marco-bezzecchi-smashes-silverstone-lap-record-motogp-practice",
-    "pub_date": "2026-08-07T16:08:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335333_hires.jpg?width=1200",
-    "score": 16,
+    "title": "Iker Lecuona puzzled by Franco Morbidelli Silverstone MotoGP Sprint contact",
+    "link": "https://www.crash.net/motogp/news/1102320/1/iker-lecuona-puzzled-franco-morbidelli-silverstone-motogp-sprint-contact",
+    "pub_date": "2026-08-08T19:11:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336307_hires.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -170,12 +179,13 @@
   },
   {
     "position": 13,
-    "title": "2026 British MotoGP, Silverstone - Friday Practice Results",
-    "link": "https://www.crash.net/motogp/results/1102116/1/2026-british-motogp-silverstone-friday-practice-results",
-    "pub_date": "2026-08-07T16:00:15+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335317_hires_1600x900.jpg?width=1200",
-    "score": 16,
+    "title": "\"I hit the back of him’\" - early end to Cal Crutchlow’s Silverstone MotoGP Sprint",
+    "link": "https://www.crash.net/motogp/news/1102302/1/i-hit-back-him-early-end-cal-crutchlows-silverstone-motogp-sprint",
+    "pub_date": "2026-08-08T17:10:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336305_hires_1600x900.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -183,10 +193,52 @@
   },
   {
     "position": 14,
-    "title": "Silverstone MotoGP LIVE: Reaction after Bezzecchi tops record breaking Practice",
-    "link": "https://www.crash.net/motogp/live/1044229/silverstone-motogp-live-updates-friday-practice",
-    "pub_date": "2026-08-07T14:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335290_hires.jpg?width=1200",
+    "title": "The all-time MotoGP Sprint winners' list after Silverstone",
+    "link": "https://www.crash.net/motogp/news/1092378/1/all-time-motogp-sprint-race-winners-list",
+    "pub_date": "2026-08-08T15:59:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336314_hires_1600x900.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Silverstone Sprint Race: New 2026 MotoGP World Championship standings",
+    "link": "https://www.crash.net/motogp/results/1102165/1/silverstone-sprint-race-new-2026-motogp-world-championship-standings",
+    "pub_date": "2026-08-08T15:42:32+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/jorge-martin-2026-british-motogp-04610_0.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 16,
+    "title": "2026 British MotoGP, Silverstone - Sprint Race Results",
+    "link": "https://www.crash.net/motogp/results/1102164/1/2026-british-motogp-silverstone-sprint-race-results",
+    "pub_date": "2026-08-08T15:25:32+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336112_hires_1600x900.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 17,
+    "title": "Starting grid for the 2026 Silverstone MotoGP race",
+    "link": "https://www.crash.net/motogp/news/1102261/1/starting-grid-2026-silverstone-motogp-race",
+    "pub_date": "2026-08-08T18:40:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336127_hires_1600x900.jpg?width=1200",
     "score": 16,
     "score_reasons": [
       "has image (+4)",
@@ -195,29 +247,28 @@
     ]
   },
   {
-    "position": 15,
-    "title": "Pecco Bagnaia makes calendar request amid Qatar MotoGP uncertainty",
-    "link": "https://www.crash.net/motogp/news/1102123/1/pecco-bagnaia-makes-calendar-request-amid-qatar-motogp-uncertainty",
-    "pub_date": "2026-08-07T09:10:47+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2025-04/GnG_1219311_HiRes.jpg?width=1200",
-    "score": 5,
+    "position": 18,
+    "title": "Johann Zarco \"training almost every day\" ahead of MotoGP return",
+    "link": "https://www.crash.net/motogp/news/1102265/1/johann-zarco-training-almost-every-day-ahead-motogp-return",
+    "pub_date": "2026-08-08T14:17:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1312545_hires_1600x900.jpg?width=1200",
+    "score": 16,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 16,
-    "title": "KTM gets permission to 'correct' MotoGP engine issue, but not in time for Silverstone",
-    "link": "https://www.crash.net/motogp/news/1102125/1/ktm-gets-permission-correct-motogp-engine-issue-not-time-silverstone",
-    "pub_date": "2026-08-07T09:35:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1329489_hires_1600x900.jpg?width=1200",
-    "score": 1,
+    "position": 19,
+    "title": "Pol: “You cannot believe” how much MotoGP will change in 2027",
+    "link": "https://www.crash.net/motogp/news/1102224/1/pol-you-cannot-believe-how-much-motogp-will-change-2027",
+    "pub_date": "2026-08-08T09:12:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335521_hires_1600x900.jpg?width=1200",
+    "score": 15,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "low-tier keywords x1 (+3)",
       "has image (+4)",
       "between 18-24h (-20)",
@@ -225,55 +276,15 @@
     ]
   },
   {
-    "position": 17,
-    "title": "Franco Morbidelli responds to Ducati World Superbike links",
-    "link": "https://www.crash.net/motogp/news/1102124/1/franco-morbidelli-responds-ducati-world-superbike-links",
-    "pub_date": "2026-08-07T09:30:26+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/gng_1331196_hires.jpg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 18,
-    "title": "Joan Mir urges Honda not to sacrifice 2026 for future MotoGP bike",
-    "link": "https://www.crash.net/motogp/news/1102122/1/joan-mir-urges-honda-not-sacrifice-2026-future-motogp-bike",
-    "pub_date": "2026-08-07T09:15:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335195_hires_1600x900.jpg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Guenther Steiner “never had to deal with” a situation like Maverick Vinales’ before",
-    "link": "https://www.crash.net/motogp/news/1102133/1/guenther-steiner-never-had-deal-situation-maverick-vinales",
-    "pub_date": "2026-08-07T10:32:15+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/gng_1330699_hires.jpg?width=1200",
-    "score": -7,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 20,
-    "title": "“Maybe not 2027” but Toprak Razgatlioglu still working on Turkish MotoGP",
-    "link": "https://www.crash.net/motogp/news/1102121/1/exclusive-maybe-not-2027-toprak-razgatlioglu-still-working-turkish-motogp",
-    "pub_date": "2026-08-07T08:24:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335176_hires.jpg?width=1200",
-    "score": -14,
+    "title": "Jack Miller details the troubles of MotoGP aero testing at Silverstone",
+    "link": "https://www.crash.net/motogp/news/1102225/1/jack-miller-details-troubles-motogp-aero-testing-silverstone",
+    "pub_date": "2026-08-08T09:25:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335295_hires.jpg?width=1200",
+    "score": 6,
     "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "low-tier keywords x2 (+6)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"

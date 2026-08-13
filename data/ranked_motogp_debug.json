@@ -1,13 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Podcast: How Aprilia dominated the British MotoGP and why Ducati struggled",
-    "link": "https://www.crash.net/motogp/news/1102413/1/podcast-how-aprilia-dominated-british-motogp-and-why-ducati-struggled",
-    "pub_date": "2026-08-11T09:47:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337097_hires.jpg?width=1200",
-    "score": 24,
+    "title": "‘I’m not having fun’ - Fabio Quartararo talks Yamaha MotoGP exit and Honda move",
+    "link": "https://www.crash.net/motogp/feature/1102423/1/im-not-having-fun-fabio-quartararo-talks-yamaha-motogp-exit-and-honda-move",
+    "pub_date": "2026-08-12T07:19:32+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336826_hires.jpg?width=1200",
+    "score": 48,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x4 (+48)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
@@ -16,10 +16,38 @@
   },
   {
     "position": 2,
-    "title": "New MotoGP season launch location announced for 2027",
-    "link": "https://www.crash.net/motogp/news/1102418/1/new-motogp-season-launch-location-announced-2027",
-    "pub_date": "2026-08-11T12:36:36+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1293748_hires.jpg?width=1200",
+    "title": "Marc Marquez reveals “no control over my right arm” in Silverstone MotoGP",
+    "link": "https://www.crash.net/motogp/news/1102435/1/marc-marquez-reveals-no-control-over-my-right-arm-silverstone-motogp",
+    "pub_date": "2026-08-12T14:44:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/marc-marquez-2026-british-motogp-04460.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "“Maybe it’s my style” - Iker Lecuona’s Michelin feel bodes well for WorldSBK 2027",
+    "link": "https://www.crash.net/motogp/news/1102436/1/maybe-its-my-style-iker-lecuonas-michelin-feel-bodes-well-worldsbk-2027",
+    "pub_date": "2026-08-12T15:50:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/iker-lecuona-2026-british-motogp-07345_0.jpg?width=1200",
+    "score": 30,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "MotoGP considering F1-style budget cap, confirms Carlos Ezpeleta",
+    "link": "https://www.crash.net/motogp/news/1102432/1/motogp-considering-f1-style-budget-cap-confirms-carlos-ezpeleta",
+    "pub_date": "2026-08-12T13:24:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336314_hires.jpg?width=1200",
     "score": 16,
     "score_reasons": [
       "has image (+4)",
@@ -28,29 +56,28 @@
     ]
   },
   {
-    "position": 3,
-    "title": "“I cannot ride like this” - KTM rider’s “strange” Silverstone MotoGP issue",
-    "link": "https://www.crash.net/motogp/news/1102411/1/i-cannot-ride-ktm-riders-strange-silverstone-motogp-issue",
-    "pub_date": "2026-08-11T08:54:13+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335530_hires.jpg?width=1200",
-    "score": 5,
+    "position": 5,
+    "title": "Pedro Acosta gives verdict on revised MotoGP radio earplug design",
+    "link": "https://www.crash.net/motogp/news/1102430/1/pedro-acosta-gives-verdict-revised-motogp-radio-earplug-design",
+    "pub_date": "2026-08-12T11:31:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/pedro-acosta-2026-british-motogp-08945.jpg?width=1200",
+    "score": 10,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 4,
-    "title": "Manu Gonzalez explains Silverstone Moto2 celebration gaffe that cost him win",
-    "link": "https://www.crash.net/moto2/news/1102409/1/manu-gonzalez-explains-silverstone-moto2-celebration-gaffe-cost-him-win",
-    "pub_date": "2026-08-11T08:27:58+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336937_hires.jpg?width=1200",
-    "score": -4,
+    "position": 6,
+    "title": "Yamaha test rider explains how “confusing” MotoGP wildcards help 850cc development",
+    "link": "https://www.crash.net/motogp/news/1102425/1/augusto-fernandez-explains-how-confusing-motogp-wildcards-help-850cc",
+    "pub_date": "2026-08-12T09:00:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336242_hires_1600x900.jpg?width=1200",
+    "score": 1,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "low-tier keywords x1 (+3)",
       "has image (+4)",
       "between 18-24h (-20)",
@@ -58,11 +85,11 @@
     ]
   },
   {
-    "position": 5,
-    "title": "MotoGP considering major rider market rule change",
-    "link": "https://www.crash.net/motogp/news/1102416/1/motogp-considering-major-rider-market-rule-change",
-    "pub_date": "2026-08-11T11:31:47+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336992_hires.jpg?width=1200",
+    "position": 7,
+    "title": "Sylvain Guintoli to sell beloved bike in aid of late son Luca's charity foundation",
+    "link": "https://www.crash.net/motogp/news/1102431/1/sylvain-guintoli-sell-beloved-bike-aid-late-son-lucas-charity-foundation",
+    "pub_date": "2026-08-12T11:31:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/image-6.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -71,11 +98,24 @@
     ]
   },
   {
-    "position": 6,
-    "title": "‘If they can’t see my value, that's fine’ - Jack Miller “not bitter” about MotoGP exit",
-    "link": "https://www.crash.net/motogp/news/1102415/1/if-they-cant-see-my-value-thats-fine-jack-miller-not-bitter-about-motogp-exit",
-    "pub_date": "2026-08-11T11:01:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336982_hires.jpg?width=1200",
+    "position": 8,
+    "title": "Trackhouse: The next American MotoGP champion is probably three years old now",
+    "link": "https://www.crash.net/motogp/news/1102428/1/trackhouse-next-american-motogp-champion-probably-three-years-old-now",
+    "pub_date": "2026-08-12T10:35:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_105414_hires_1600x900.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "“I got asked if I wanted to buy the club” - Cal Crutchlow on Coventry City",
+    "link": "https://www.crash.net/motogp/news/1102426/1/i-got-asked-if-i-wanted-buy-club-cal-crutchlow-coventry-city",
+    "pub_date": "2026-08-12T09:30:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336302_hires_1600x900.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",

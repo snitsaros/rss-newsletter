@@ -1,21 +1,6 @@
 [
   {
     "position": 1,
-    "title": "The 1,050bhp Lamborghini Revuelto SV Will Hit 62mph in 2.4 Seconds",
-    "link": "https://www.carthrottle.com/news/1050bhp-lamborghini-revuelto-sv-will-hit-62mph-24-seconds",
-    "pub_date": "2026-08-14T18:00:00+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/6-2.jpg?width=1200",
-    "score": 35,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
     "title": "These are the Last 10 Petrol-Powered Hot Hatches Left in Britain in 2026",
     "link": "https://www.carthrottle.com/news/these-are-last-10-petrol-powered-hot-hatches-left-britain-2026",
     "pub_date": "2026-08-13T10:53:32+00:00",
@@ -23,6 +8,22 @@
     "score": 32,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "The 1,050bhp Lamborghini Revuelto SV Will Hit 62mph in 2.4 Seconds",
+    "link": "https://www.carthrottle.com/news/1050bhp-lamborghini-revuelto-sv-will-hit-62mph-24-seconds",
+    "pub_date": "2026-08-14T18:00:00+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/6-2.jpg?width=1200",
+    "score": 15,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 168h (+10)",
       "good title length (+2)",

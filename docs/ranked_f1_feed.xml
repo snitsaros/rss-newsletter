@@ -7,26 +7,16 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_f1_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Sun, 16 Aug 2026 04:49:31 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 11:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:57:20 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 11:00:00 +0000</pubDate>
     <item>
-      <title>Mercedes reveal astonishing rate of F1 development in new era</title>
-      <link>https://www.crash.net/f1/news/1102467/1/mercedes-reveal-astonishing-rate-f1-development-new-era</link>
-      <description>The 2026 Formula 1 season has been a fierce development race.</description>
+      <title>Lewis Hamilton disputes ground effect struggles amid renewed F1 form</title>
+      <link>https://www.crash.net/f1/news/1102471/1/lewis-hamilton-disputes-ground-effect-struggles-amid-renewed-f1-form</link>
+      <description>Lewis Hamilton failed to reach his previous highs in the ground-effect Formula 1 era.</description>
       <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/xpb_1361231_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1102467/1/mercedes-reveal-astonishing-rate-f1-development-new-era</guid>
-      <pubDate>Sat, 15 Aug 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>Why Max Verstappen will be keeping an eye on Aston Martin&#x27;s F1 progress</title>
-      <link>https://www.crash.net/f1/feature/1102454/1/why-max-verstappen-will-be-keeping-eye-aston-martins-f1-progress</link>
-      <description>Max Verstappen is in the midst of his least successful Formula 1 season with Red Bull and has constantly been linked with moves away from the team. But why would he be…</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-08/xpb_1396128_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/feature/1102454/1/why-max-verstappen-will-be-keeping-eye-aston-martins-f1-progress</guid>
-      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1420863_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1102471/1/lewis-hamilton-disputes-ground-effect-struggles-amid-renewed-f1-form</guid>
+      <pubDate>Sun, 16 Aug 2026 11:00:00 +0000</pubDate>
       <source url="https://www.crash.net/rss/f1">Crash.net</source>
     </item>
   </channel>

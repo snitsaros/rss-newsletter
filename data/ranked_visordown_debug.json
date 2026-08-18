@@ -1,13 +1,14 @@
 [
   {
     "position": 1,
-    "title": "Insta360 launches new flagship X6 camera with dedicated motorcycle set",
-    "link": "https://www.visordown.com/news/insta360-launches-new-flagship-x6-camera-dedicated-motorcycle-set",
-    "pub_date": "2026-08-16T08:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-14t151959.081.png?width=1200",
-    "score": 30,
+    "title": "Kawasaki Corleo patents reveal new details of the hydrogen-powered horse",
+    "link": "https://www.visordown.com/news/kawasaki-corleo-patents-reveal-new-details-hydrogen-powered-horse",
+    "pub_date": "2026-08-17T10:16:32+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2025-04/Kawasaki-Corleo-Concept-02.jpg?width=1200",
+    "score": 49,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x3 (+21)",
       "has image (+4)",
       "within 72h (+10)",
       "good title length (+2)"
@@ -15,10 +16,95 @@
   },
   {
     "position": 2,
-    "title": "Maria Costello makes emotional race track return following Isle of Man TT accident",
-    "link": "https://www.visordown.com/news/maria-costello-makes-emotional-race-track-return-following-isle-man-tt-accident",
-    "pub_date": "2026-08-16T17:24:04+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-16t182105.036.png?width=1200",
+    "title": "Honda Australia’s new WN7 subscription could point to the future of motorcycle ownership",
+    "link": "https://www.visordown.com/news/honda-australias-new-wn7-subscription-could-point-future-motorcycle-ownership",
+    "pub_date": "2026-08-17T09:30:07+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-05/230595_honda_wn7_ym26_4682_jpg.jpg?width=1200",
+    "score": 42,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Superbike Factory collapse: The small bike logistics firm left thousands out of pocket",
+    "link": "https://www.visordown.com/features/superbike-factory-collapse-small-bike-logistics-firm-left-thousands-out-pocket",
+    "pub_date": "2026-08-17T10:32:09+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/guy-martin-tbb.jpg?width=1200",
+    "score": 37,
+    "score_reasons": [
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Bristol dealership to celebrate 100-year anniversary with Suzuki GSX-8S giveaway",
+    "link": "https://www.visordown.com/news/bristol-dealership-celebrate-100-year-anniversary-suzuki-gsx-8s-giveaway",
+    "pub_date": "2026-08-17T11:00:34+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-17t120016.676.png?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Royal Enfield Himalayan 750 development bikes found abandoned at scrapyard",
+    "link": "https://www.visordown.com/news/royal-enfield-himalayan-750-development-bikes-found-abandoned-scrapyard",
+    "pub_date": "2026-08-17T09:35:15+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-17t104809.671.png?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "The history behind the Norton Manx and Atlas",
+    "link": "https://www.visordown.com/features/history-behind-norton-manx-and-atlas",
+    "pub_date": "2026-08-17T08:43:12+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/norton-manx-atlas-thumb.png?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "Motorcycle MOT prices could rise as Independant Garage Association calls for £95 fee",
+    "link": "https://www.visordown.com/news/motorcycle-mot-prices-could-rise-independant-garage-association-calls-ps95-fee",
+    "pub_date": "2026-08-17T15:10:11+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/mot-cert.jpeg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "Manx Grand Prix organisers cancel second day of qualifying due to rain",
+    "link": "https://www.visordown.com/news/manx-grand-prix-organisers-cancel-second-day-qualifying-due-rain",
+    "pub_date": "2026-08-17T15:01:34+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-17t160555.628.png?width=1200",
     "score": 16,
     "score_reasons": [
       "has image (+4)",
@@ -27,14 +113,52 @@
     ]
   },
   {
-    "position": 3,
-    "title": "Superbike Factory customer rescued his prized Ducati just hours before collapse",
-    "link": "https://www.visordown.com/features/superbike-factory-customer-rescued-his-prized-ducati-just-hours-collapse",
-    "pub_date": "2026-08-14T15:22:37+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/ducati-streetfighter-848-01.jpeg?width=1200",
-    "score": -58,
+    "position": 9,
+    "title": "John McGuinness Collection celebrates the Isle of Man TT and Road Racing legend",
+    "link": "https://www.visordown.com/news/john-mcguinness-collection-celebrates-isle-man-tt-and-road-racing-legend",
+    "pub_date": "2026-08-17T14:04:29+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/screenshot-2026-08-17-at-15.00.13.png?width=1200",
+    "score": 16,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "Bikers call for action as Lindsay and Craig Foreman hit 600 days in Iran jail",
+    "link": "https://www.visordown.com/news/bikers-call-action-lindsay-and-craig-foreman-hit-600-days-iran-jail",
+    "pub_date": "2026-08-17T13:33:41+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2025-10/lindsay-and-craig-foreman-copy.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "Isle of Man TT Clerk of the Course offers emphatic response to online haters",
+    "link": "https://www.visordown.com/news/isle-man-tt-clerk-course-offers-emphatic-response-online-haters",
+    "pub_date": "2026-08-17T08:43:21+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-17t094751.801.png?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Insta360 launches new flagship X6 camera with dedicated motorcycle set",
+    "link": "https://www.visordown.com/news/insta360-launches-new-flagship-x6-camera-dedicated-motorcycle-set",
+    "pub_date": "2026-08-16T08:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-14t151959.081.png?width=1200",
+    "score": -70,
+    "score_reasons": [
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 72h (+10)",
@@ -43,38 +167,7 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Triumph announces new ‘Ride With Legends’ off-road event featuring Ricky Carmichael",
-    "link": "https://www.visordown.com/news/triumph-announces-new-ride-legends-road-event-featuring-ricky-carmichael",
-    "pub_date": "2026-08-14T13:36:10+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-14t144259.295.png?width=1200",
-    "score": -65,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "How the new MotoGP ladder could help British riders",
-    "link": "https://www.visordown.com/news/how-new-motogp-ladder-could-help-british-riders",
-    "pub_date": "2026-08-14T13:59:03+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/field/image/Jake Dixon 2023 Moto2 .jpg?width=1200",
-    "score": -72,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 6,
+    "position": 13,
     "title": "Guenther Steiner believes 850cc MotoGP era could take a step backwards initially",
     "link": "https://www.visordown.com/news/guenther-steiner-believes-850cc-motogp-era-could-take-step-backwards-initially",
     "pub_date": "2026-08-15T07:00:00+00:00",
@@ -89,70 +182,11 @@
     ]
   },
   {
-    "position": 7,
-    "title": "Six former US world champions reunite at Laguna Seca for special event",
-    "link": "https://www.visordown.com/news/six-former-us-world-champions-reunite-laguna-seca-special-event",
-    "pub_date": "2026-08-14T13:14:20+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/article-images/7/79285.jpg?width=1200",
-    "score": -77,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "World Moto Clash, the no rules motorcycle race, is now only 50/50 to happen, says CEO",
-    "link": "https://www.visordown.com/news/world-moto-clash-50-50-chance-race-happens",
-    "pub_date": "2026-08-14T09:50:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-04/wmc-03.jpg?width=1200",
-    "score": -77,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Young motorcyclists get free coaching at Thruxton circuit in a bid to reduce road collisions",
-    "link": "https://www.visordown.com/news/young-motorcyclists-get-free-coaching-thruxton-circuit-bid-reduce-road-collisions",
-    "pub_date": "2026-08-14T08:24:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-14t092359.065.png?width=1200",
-    "score": -77,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Growing costs making Manx Grand Prix tough to run, says organiser",
-    "link": "https://www.visordown.com/news/growing-costs-making-manx-grand-prix-tough-run-says-organiser",
-    "pub_date": "2026-08-14T09:34:08+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/field/image/Entries_16-9_2.jpg?width=1200",
-    "score": -84,
-    "score_reasons": [
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Middle East tensions could force Qatar MotoGP rethink",
-    "link": "https://www.visordown.com/news/middle-east-tensions-could-force-qatar-motogp-rethink",
-    "pub_date": "2026-08-14T08:49:58+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2025-05/ar-qatargp-friday-06.jpg?width=1200",
+    "position": 14,
+    "title": "Maria Costello makes emotional race track return following Isle of Man TT accident",
+    "link": "https://www.visordown.com/news/maria-costello-makes-emotional-race-track-return-following-isle-man-tt-accident",
+    "pub_date": "2026-08-16T17:24:04+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-08/site-image-resize-2026-08-16t182105.036.png?width=1200",
     "score": -84,
     "score_reasons": [
       "has image (+4)",

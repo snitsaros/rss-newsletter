@@ -7,7 +7,7 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_car_throttle_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 04:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:51:49 +0000</lastBuildDate>
     <pubDate>Tue, 18 Aug 2026 13:51:31 +0000</pubDate>
     <item>
       <title>These are the Last 10 Petrol-Powered Hot Hatches Left in Britain in 2026</title>
@@ -17,6 +17,16 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/original-38595-vw-golf-gti-0098-2.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/these-are-last-10-petrol-powered-hot-hatches-left-britain-2026</guid>
       <pubDate>Thu, 13 Aug 2026 10:53:32 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>The 1,050bhp Lamborghini Revuelto SV Will Hit 62mph in 2.4 Seconds</title>
+      <link>https://www.carthrottle.com/news/1050bhp-lamborghini-revuelto-sv-will-hit-62mph-24-seconds</link>
+      <description>Lamborghini’s V12 hybrid flagship gets let even further off the leash as the Super Veloce badge returns</description>
+      <category>News, Italian Cars, Supercars and Hypercars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/6-2.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/1050bhp-lamborghini-revuelto-sv-will-hit-62mph-24-seconds</guid>
+      <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -47,16 +57,6 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/p90283615_highres_the-bmw-i8-10-2017.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/7-great-performance-cars-were-killed-too-soon</guid>
       <pubDate>Tue, 18 Aug 2026 10:24:50 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>The 1,050bhp Lamborghini Revuelto SV Will Hit 62mph in 2.4 Seconds</title>
-      <link>https://www.carthrottle.com/news/1050bhp-lamborghini-revuelto-sv-will-hit-62mph-24-seconds</link>
-      <description>Lamborghini’s V12 hybrid flagship gets let even further off the leash as the Super Veloce badge returns</description>
-      <category>News, Italian Cars, Supercars and Hypercars</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/6-2.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/1050bhp-lamborghini-revuelto-sv-will-hit-62mph-24-seconds</guid>
-      <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -130,16 +130,6 @@
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
-      <title>New Vauxhall Corsa GSE Hot Hatchback Is Quicker And Cheaper Than Its Closest Rivals</title>
-      <link>https://www.carthrottle.com/news/new-vauxhall-corsa-gse-hot-hatchback-quicker-and-cheaper-its-closest-rivals</link>
-      <description>Vauxhall’s first hot Corsa in eight years promises serious performance, retro-inspired details and a…</description>
-      <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/untitled-design-6_1.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/new-vauxhall-corsa-gse-hot-hatchback-quicker-and-cheaper-its-closest-rivals</guid>
-      <pubDate>Wed, 05 Aug 2026 12:26:47 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
       <title>7 Cars Gran Turismo Made Famous</title>
       <link>https://www.carthrottle.com/news/7-cars-gran-turismo-made-famous</link>
       <description>Gran Turismo introduced millions of players to cars they might never have encountered otherwise…</description>
@@ -207,6 +197,16 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarkegreasegun_0.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/free-things-clarke-cgg400-grease-gun</guid>
       <pubDate>Thu, 06 Aug 2026 15:37:51 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>The Bugatti Destrier is a Wild, Low and Wide W16 One-Off</title>
+      <link>https://www.carthrottle.com/news/bugatti-destrier-wild-low-and-wide-w16-one</link>
+      <description>The latest entrant in Bugatti’s ‘Solitaire’ one-off programme is designed to celebrate pure, sculptural…</description>
+      <category>News, Supercars and Hypercars</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-08/07-bugatti-solitaire-destrier-2.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/bugatti-destrier-wild-low-and-wide-w16-one</guid>
+      <pubDate>Thu, 06 Aug 2026 11:38:41 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
   </channel>

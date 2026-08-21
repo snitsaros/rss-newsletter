@@ -1,13 +1,13 @@
 [
   {
     "position": 1,
-    "title": "“You’ve just got to ride it”: Jack Miller on “kind of fun” element of Suzuka 8 Hours",
-    "link": "https://www.crash.net/motogp/news/1102548/1/youve-just-got-ride-it-jack-miller-kind-fun-element-suzuka-8-hours",
-    "pub_date": "2026-08-19T15:36:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/jg9_0281_1600x900.jpg?width=1200",
-    "score": 23,
+    "title": "“Impossible to copy” - Dall’Igna on Marc Marquez, Pecco Bagnaia MotoGP data",
+    "link": "https://www.crash.net/motogp/news/1102562/1/impossible-copy-dalligna-marc-marquez-pecco-bagnaia-motogp-data",
+    "pub_date": "2026-08-20T14:00:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1318265_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -15,10 +15,67 @@
   },
   {
     "position": 2,
-    "title": "“Raul had more balls” - Cal Crutchlow explains Fernandez’s Silverstone MotoGP victory",
-    "link": "https://www.crash.net/motogp/news/1102544/1/raul-had-more-balls-cal-crutchlow-explains-fernandezs-silverstone-motogp",
-    "pub_date": "2026-08-19T13:00:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337060_hires_1600x900.jpg?width=1200",
+    "title": "“I can do something more” - Pedro Acosta on KTM to Ducati MotoGP move",
+    "link": "https://www.crash.net/motogp/news/1102556/1/i-can-do-something-more-pedro-acosta-ktm-ducati-motogp-move",
+    "pub_date": "2026-08-20T10:50:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336236_hires_1600x900.jpg?width=1200",
+    "score": 34,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Scott Redding reveals why Marc Marquez received more MotoGP backing",
+    "link": "https://www.crash.net/motogp/news/1102558/1/scott-redding-reveals-why-marc-marquez-received-more-motogp-backing",
+    "pub_date": "2026-08-20T12:14:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336850_hires.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Moto2’s “black sheep” celebrates Silverstone podium, predicts single-bike future",
+    "link": "https://www.crash.net/moto2/news/1102567/1/moto2s-black-sheep-celebrates-silverstone-podium-predicts-single-bike-future",
+    "pub_date": "2026-08-20T15:20:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/unnamed-1-1600x900.jpg?width=1200",
+    "score": 26,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Jack Miller: Toprak Razgatlioglu ‘unfortunate’ in timing of rookie MotoGP season",
+    "link": "https://www.crash.net/motogp/news/1102565/1/jack-miller-toprak-razgatlioglu-unfortunate-timing-rookie-motogp-season",
+    "pub_date": "2026-08-20T14:39:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1330932_hires.jpg?width=1200",
+    "score": 19,
+    "score_reasons": [
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "“That accident was the turning point” - How Simon Crafar found his way back to MotoGP",
+    "link": "https://www.crash.net/motogp/news/1102550/1/accident-was-turning-point-how-simon-crafar-found-his-way-back-motogp",
+    "pub_date": "2026-08-20T16:15:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1119223_hires_1600x900.jpg?width=1200",
     "score": 16,
     "score_reasons": [
       "has image (+4)",
@@ -27,57 +84,15 @@
     ]
   },
   {
-    "position": 3,
-    "title": "“Without trying to win every time” - Aprilia explains Marco Bezzecchi’s new MotoGP approach",
-    "link": "https://www.crash.net/motogp/news/1102539/1/without-trying-win-every-time-aprilia-explains-marco-bezzecchis-new-motogp",
-    "pub_date": "2026-08-19T10:10:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336434_hires_1600x900.jpg?width=1200",
-    "score": 5,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "Ducati MotoGP nearly back to full strength as injured rider gets back on a bike",
-    "link": "https://www.crash.net/motogp/news/1102538/1/ducati-motogp-nearly-back-full-strength-injured-rider-gets-back-bike",
-    "pub_date": "2026-08-19T09:27:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1328406_hires.jpg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "MotoGP team boss targeted by fake pass “scam”",
-    "link": "https://www.crash.net/motogp/news/1102542/1/motogp-team-boss-targeted-fake-pass-scam",
-    "pub_date": "2026-08-19T10:45:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1322505_hires_1600x900.jpg?width=1200",
-    "score": -14,
+    "position": 7,
+    "title": "Johann Zarco to attempt early MotoGP return at Aragon",
+    "link": "https://www.crash.net/motogp/news/1102557/1/johann-zarco-make-early-motogp-return-aragon",
+    "pub_date": "2026-08-20T12:04:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1293373_hires_1600x900.jpg?width=1200",
+    "score": 16,
     "score_reasons": [
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 6,
-    "title": "“This will make me happy” - Toprak sets target for remaining MotoGP rounds",
-    "link": "https://www.crash.net/motogp/news/1102534/1/will-make-me-happy-toprak-sets-target-remaining-motogp-rounds",
-    "pub_date": "2026-08-19T08:40:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336143_hires_1600x900.jpg?width=1200",
-    "score": -14,
-    "score_reasons": [
-      "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
       "good title length (+2)"
     ]
   }

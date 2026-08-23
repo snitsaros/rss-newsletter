@@ -1,32 +1,6 @@
 [
   {
     "position": 1,
-    "title": "Get the Answers You Need With the Clarke CEOBDPRO Fault Code Reader",
-    "link": "https://www.carthrottle.com/news/get-answers-you-need-clarke-ceobdpro-fault-code-reader",
-    "pub_date": "2026-08-21T09:03:52+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarke-fault-code-reader.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Get Jacked Up With the Clarke CTJ3000GB Trolley Jack",
-    "link": "https://www.carthrottle.com/news/get-jacked-clarke-ctj3000gb-trolley-jack",
-    "pub_date": "2026-08-21T08:59:03+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarke-trolley-jack.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
     "title": "Rivian Is Coming To The UK - Here’s Why You Should Care",
     "link": "https://www.carthrottle.com/news/rivian-coming-uk-heres-why-you-should-care",
     "pub_date": "2026-08-18T13:51:31+00:00",
@@ -41,7 +15,7 @@
     ]
   },
   {
-    "position": 4,
+    "position": 2,
     "title": "Hot Hatches Were Supposed To Be Affordable - What Happened?",
     "link": "https://www.carthrottle.com/news/hot-hatches-were-supposed-be-affordable-what-happened",
     "pub_date": "2026-08-18T13:04:28+00:00",
@@ -56,7 +30,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 3,
     "title": "These are the Last 10 Petrol-Powered Hot Hatches Left in Britain in 2026",
     "link": "https://www.carthrottle.com/news/these-are-last-10-petrol-powered-hot-hatches-left-britain-2026",
     "pub_date": "2026-08-13T10:53:32+00:00",
@@ -66,6 +40,34 @@
       "top-tier keywords x3 (+36)",
       "has image (+4)",
       "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Get the Answers You Need With the Clarke CEOBDPRO Fault Code Reader",
+    "link": "https://www.carthrottle.com/news/get-answers-you-need-clarke-ceobdpro-fault-code-reader",
+    "pub_date": "2026-08-21T09:03:52+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarke-fault-code-reader.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Get Jacked Up With the Clarke CTJ3000GB Trolley Jack",
+    "link": "https://www.carthrottle.com/news/get-jacked-clarke-ctj3000gb-trolley-jack",
+    "pub_date": "2026-08-21T08:59:03+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarke-trolley-jack.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
       "good title length (+2)",
       "previously used URL (-20)"
     ]

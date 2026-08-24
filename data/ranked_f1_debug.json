@@ -1,43 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Lando Norris charges to second straight F1 pole ahead of Mercedes pair at Dutch Grand Prix",
-    "link": "https://www.crash.net/f1/news/1102820/1/lando-norris-charges-second-straight-f1-pole-ahead-mercedes-pair-dutch-grand-prix",
-    "pub_date": "2026-08-22T15:05:42+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431076_hires.jpg?width=1200",
-    "score": 54,
+    "title": "‘Tough calls need to be done’ - Toto Wolff stands by Mercedes F1 team orders",
+    "link": "https://www.crash.net/f1/news/1102960/1/tough-calls-need-be-done-toto-wolff-stands-mercedes-f1-team-orders",
+    "pub_date": "2026-08-23T17:30:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431742_hires_6.jpg?width=1200",
+    "score": 59,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Kimi Antonelli set for F1 grid penalty at Italian Grand Prix",
-    "link": "https://www.crash.net/f1/news/1102783/1/kimi-antonelli-set-f1-grid-penalty-italian-grand-prix",
-    "pub_date": "2026-08-22T14:09:36+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430724_hires.jpg?width=1200",
-    "score": 49,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x3 (+21)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Max Verstappen aims cheeky jab at George Russell over F1 Dutch GP qualifying incident",
-    "link": "https://www.crash.net/f1/news/1102831/1/max-verstappen-aims-cheeky-jab-george-russell-over-f1-dutch-gp-qualifying",
-    "pub_date": "2026-08-22T17:27:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430106_hires.jpg?width=1200",
-    "score": 47,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x3 (+36)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
@@ -45,11 +15,41 @@
     ]
   },
   {
+    "position": 2,
+    "title": "Lando Norris beats Kimi Antonelli to win final Dutch GP after big Max Verstappen shunt",
+    "link": "https://www.crash.net/f1/race-report/1102943/1/lando-norris-beats-kimi-antonelli-win-final-dutch-gp-after-big-max",
+    "pub_date": "2026-08-23T14:42:05+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431655_hires.jpg?width=1200",
+    "score": 59,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Charles Leclerc joins Lewis Hamilton in questioning Ferrari's Dutch GP strategy",
+    "link": "https://www.crash.net/f1/news/1102961/1/charles-leclerc-joins-lewis-hamilton-questioning-ferrari-strategy",
+    "pub_date": "2026-08-23T17:05:45+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1429243_hires.jpg?width=1200",
+    "score": 55,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 4,
-    "title": "Lewis Hamilton makes Zandvoort F1 breakthrough after “starting again” for qualifying",
-    "link": "https://www.crash.net/f1/news/1102828/1/lewis-hamilton-makes-zandvoort-f1-breakthrough-after-starting-again-qualifying",
-    "pub_date": "2026-08-22T16:45:46+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431146_hires.jpg?width=1200",
+    "title": "Lewis Hamilton calls out Ferrari for “wasting time” in fiery F1 Zandvoort radio messages",
+    "link": "https://www.crash.net/f1/news/1102953/1/lewis-hamilton-calls-out-ferrari-wasting-time-fiery-f1-zandvoort-radio-messages",
+    "pub_date": "2026-08-23T15:52:51+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431146_hires_0.jpg?width=1200",
     "score": 47,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -61,14 +61,14 @@
   },
   {
     "position": 5,
-    "title": "McLaren boss claims Zandvoort pole 'adds substance' to Lando Norris' Hungary win",
-    "link": "https://www.crash.net/f1/news/1102824/1/mclaren-boss-claims-zandvoort-pole-adds-substance-lando-norris-hungary-win",
-    "pub_date": "2026-08-22T15:51:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431088_hires.jpg?width=1200",
-    "score": 47,
+    "title": "Max Verstappen reveals what caused his scary Dutch GP crash",
+    "link": "https://www.crash.net/f1/news/1102957/1/max-verstappen-reveals-what-caused-his-scary-dutch-gp-crash",
+    "pub_date": "2026-08-23T16:28:14+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431256_hires.jpg?width=1200",
+    "score": 42,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -76,10 +76,10 @@
   },
   {
     "position": 6,
-    "title": "Lando Norris jokes he has ‘biggest balls’ after snatching Zandvoort F1 pole",
-    "link": "https://www.crash.net/f1/news/1102826/1/lando-norris-jokes-he-has-biggest-balls-after-snatching-zandvoort-f1-pole",
-    "pub_date": "2026-08-22T15:59:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431069_hires.jpg?width=1200",
+    "title": "F1 Dutch GP red-flagged after massive Max Verstappen crash",
+    "link": "https://www.crash.net/f1/news/1102867/1/f1-dutch-gp-red-flagged-after-huge-max-verstappen-crash",
+    "pub_date": "2026-08-23T13:12:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431328_hires.jpg?width=1200",
     "score": 42,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -91,14 +91,13 @@
   },
   {
     "position": 7,
-    "title": "Hamilton still hampered by \"subtle change\" in Zandvoort sprint",
-    "link": "https://www.crash.net/f1/news/1102761/1/hamilton-still-hampered-subtle-change-zandvoort-sprint",
-    "pub_date": "2026-08-22T11:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430081_hires.jpg?width=1200",
-    "score": 42,
+    "title": "Lewis Hamilton slates Ferrari Dutch GP tactics with championship jibe",
+    "link": "https://www.crash.net/f1/news/1102959/1/lewis-hamilton-slates-ferrari-dutch-gp-tactics-championship-jibe",
+    "pub_date": "2026-08-23T16:56:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431692_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -106,38 +105,10 @@
   },
   {
     "position": 8,
-    "title": "“Nothing we can do” - Lando Norris’s bleak admission about McLaren’s big F1 weakness",
-    "link": "https://www.crash.net/f1/news/1102760/1/nothing-we-can-do-lando-norriss-bleak-admission-about-mclarens-big-f1-weakness",
-    "pub_date": "2026-08-22T11:28:40+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430029_hires.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "'Silly season cancelled' - Mercedes had line-up \"clarity\" before new Max Verstappen deal",
-    "link": "https://www.crash.net/f1/news/1102758/1/silly-season-cancelled-mercedes-had-line-clarity-new-max-verstappen-deal",
-    "pub_date": "2026-08-22T11:14:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430710_hires.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Kimi Antonelli owns up to mistakes amid Zandvoort “wake-up call” at F1 Dutch GP",
-    "link": "https://www.crash.net/f1/news/1102827/1/kimi-antonelli-owns-mistakes-amid-zandvoort-wake-call-f1-dutch-gp",
-    "pub_date": "2026-08-22T16:35:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431144_hires.jpg?width=1200",
+    "title": "F1 Zandvoort LIVE: Reaction after Norris wins Dutch GP",
+    "link": "https://www.crash.net/f1/live/1044262/f1-zandvoort-live-dutch-gp-race-updates",
+    "pub_date": "2026-08-23T15:20:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431151_hires.jpg?width=1200",
     "score": 35,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -148,14 +119,43 @@
     ]
   },
   {
-    "position": 11,
-    "title": "Yuki Tsunoda apologises after sprint contact with team-mate Arvid Lindblad",
-    "link": "https://www.crash.net/f1/news/1102830/1/yuki-tsunoda-apologises-after-sprint-contact-team-mate-arvid-lindblad",
-    "pub_date": "2026-08-22T17:21:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431055_hires.jpg?width=1200",
-    "score": 30,
+    "position": 9,
+    "title": "Lando Norris addresses F1 title chances after Zandvoort victory",
+    "link": "https://www.crash.net/f1/news/1102958/1/lando-norris-addresses-f1-title-chances-after-zandvoort-victory",
+    "pub_date": "2026-08-23T16:29:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431754_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "Charles Leclerc doubts Ferrari had pole potential in Dutch GP qualifying",
+    "link": "https://www.crash.net/f1/news/1102835/1/charles-leclerc-doubts-ferrari-had-pole-potential-dutch-gp-qualifying",
+    "pub_date": "2026-08-23T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430997_hires.jpg?width=1200",
+    "score": 24,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "Why two F1 drivers escaped ‘very significant penalty’ for pit lane breach",
+    "link": "https://www.crash.net/f1/news/1102962/1/why-two-f1-drivers-escaped-very-significant-penalty-pit-lane-breach",
+    "pub_date": "2026-08-23T18:10:49+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431601_hires.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -163,13 +163,13 @@
   },
   {
     "position": 12,
-    "title": "F1 2026 Dutch Grand Prix: Full starting grid after qualifying at Zandvoort",
-    "link": "https://www.crash.net/f1/results/1102823/1/f1-2026-dutch-grand-prix-full-starting-grid-after-qualifying-zandvoort",
-    "pub_date": "2026-08-22T15:15:13+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431047_hires.jpg?width=1200",
-    "score": 30,
+    "title": "The all-time F1 winners' list after the 2026 Dutch Grand Prix",
+    "link": "https://www.crash.net/f1/news/1092987/1/all-time-f1-winners-list",
+    "pub_date": "2026-08-23T17:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-04/xpb_480596_hires.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -177,13 +177,13 @@
   },
   {
     "position": 13,
-    "title": "F1 2026 Dutch Grand Prix: Full qualifying result at Zandvoort",
-    "link": "https://www.crash.net/f1/results/1102821/1/f1-2026-dutch-grand-prix-full-qualifying-result-zandvoort",
-    "pub_date": "2026-08-22T15:03:25+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430781_hires.jpg?width=1200",
-    "score": 30,
+    "title": "2026 Formula 1 world championship standings after the Dutch Grand Prix",
+    "link": "https://www.crash.net/f1/results/1102951/1/2026-formula-1-world-championship-standings-after-dutch-grand-prix",
+    "pub_date": "2026-08-23T15:39:49+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431605_hires.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -191,13 +191,13 @@
   },
   {
     "position": 14,
-    "title": "F1 Zandvoort LIVE: Dutch GP qualifying updates",
-    "link": "https://www.crash.net/f1/live/1044262/f1-zandvoort-live-dutch-gp-sprint-race-and-qualifying-updates",
-    "pub_date": "2026-08-22T13:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430511_hires.jpg?width=1200",
-    "score": 30,
+    "title": "2026 F1 Dutch Grand Prix race results",
+    "link": "https://www.crash.net/f1/news/1102945/1/2026-f1-dutch-grand-prix-race-results",
+    "pub_date": "2026-08-23T15:20:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431596_hires.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -205,29 +205,27 @@
   },
   {
     "position": 15,
-    "title": "“It’s a lottery” - Aston Martin plagued by “a lot of issues” with new Honda F1 engine",
-    "link": "https://www.crash.net/f1/news/1102832/1/its-lottery-aston-martin-plagued-lot-issues-new-honda-f1-engine",
-    "pub_date": "2026-08-22T17:21:28+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430856_hires.jpg?width=1200",
-    "score": 26,
+    "title": "Toto Wolff prods F1 rival Red Bull with Max Verstappen Mercedes ‘family’ reminder",
+    "link": "https://www.crash.net/f1/news/1102837/1/toto-wolff-prods-f1-rival-red-bull-max-verstappen-mercedes-family-reminder",
+    "pub_date": "2026-08-23T09:10:39+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1419903_hires.jpg?width=1200",
+    "score": 22,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
-      "within 18h (+10)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 16,
-    "title": "George Russell boosts F1 title outlook with Dutch GP sprint win",
-    "link": "https://www.crash.net/f1/news/1102748/1/george-russell-boosts-f1-title-outlook-dutch-gp-sprint-win",
-    "pub_date": "2026-08-22T10:36:41+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430751_hires.jpg?width=1200",
-    "score": 12,
+    "title": "The crucial change behind George Russell’s F1 revival explained",
+    "link": "https://www.crash.net/f1/news/1102836/1/crucial-change-behind-george-russells-f1-revival-explained",
+    "pub_date": "2026-08-23T07:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431147_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -235,14 +233,13 @@
   },
   {
     "position": 17,
-    "title": "Fernando Alonso gets Zandvoort F1 sprint penalty, but Aston confirms key car fix",
-    "link": "https://www.crash.net/f1/news/1102712/1/fernando-alonso-gets-zandvoort-f1-sprint-penalty-aston-confirms-key-car-fix",
-    "pub_date": "2026-08-22T08:36:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430432_hires.jpg?width=1200",
-    "score": 12,
+    "title": "How helmet punch \"reset\" Gabriel Bortoleto after near-miss in Q1",
+    "link": "https://www.crash.net/f1/news/1102838/1/how-helmet-punch-reset-gabriel-bortoleto-after-near-miss-q1",
+    "pub_date": "2026-08-23T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430118_hires.jpg?width=1200",
+    "score": -7,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -250,44 +247,47 @@
   },
   {
     "position": 18,
-    "title": "2026 Formula 1 world championship standings after the Zandvoort sprint race",
-    "link": "https://www.crash.net/f1/news/1102756/1/2026-formula-1-world-championship-standings-after-zandvoort-sprint-race",
-    "pub_date": "2026-08-22T10:50:41+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430767_hires.jpg?width=1200",
-    "score": 0,
+    "title": "Is it going to rain at the Dutch Grand Prix? Wet weather hits before Zandvoort start",
+    "link": "https://www.crash.net/f1/news/1102513/1/it-going-rain-dutch-grand-prix-full-zandvoort-weather-report",
+    "pub_date": "2026-08-23T12:18:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1232243_hires.jpg?width=1200",
+    "score": -77,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 19,
-    "title": "F1 2026 Dutch Grand Prix: Full sprint race results",
-    "link": "https://www.crash.net/f1/news/1102754/1/f1-2026-dutch-grand-prix-full-sprint-race-results",
-    "pub_date": "2026-08-22T10:39:14+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430754_hires.jpg?width=1200",
-    "score": 0,
+    "title": "F1 2026 Dutch Grand Prix: Final starting grid at Zandvoort after pit lane start",
+    "link": "https://www.crash.net/f1/results/1102823/1/f1-2026-dutch-grand-prix-full-starting-grid-after-qualifying-zandvoort",
+    "pub_date": "2026-08-23T12:01:13+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431047_hires.jpg?width=1200",
+    "score": -77,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 20,
-    "title": "Thousands of fans could miss F1 action after Zandvoort travel chaos at Dutch GP",
-    "link": "https://www.crash.net/f1/news/1102723/1/thousands-fans-miss-f1-action-after-zandvoort-travel-chaos",
-    "pub_date": "2026-08-22T09:52:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430446_hires.jpg?width=1200",
-    "score": -7,
+    "title": "How to watch the 2026 Dutch GP and final Zandvoort F1 race today",
+    "link": "https://www.crash.net/f1/news/1102509/1/how-watch-f1-2026-dutch-grand-prix-zandvoort-bids-farewell",
+    "pub_date": "2026-08-23T09:11:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1430764_hires.jpg?width=1200",
+    "score": -107,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

@@ -1,25 +1,10 @@
 [
   {
     "position": 1,
-    "title": "‘One of our worst tracks’ - Jorge Martin’s surprising Aprilia Aragon MotoGP claim",
-    "link": "https://www.crash.net/motogp/news/1103157/1/one-our-worst-tracks-jorge-martins-surprising-aprilia-aragon-motogp-claim",
-    "pub_date": "2026-08-28T16:23:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337690_hires.jpg?width=1200",
-    "score": 57,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "“Wow, that’s intense!” - Johann Zarco top Honda on MotoGP comeback at Aragon",
-    "link": "https://www.crash.net/motogp/news/1103153/1/wow-thats-intense-johann-zarco-top-honda-motogp-comeback-aragon",
-    "pub_date": "2026-08-28T16:00:56+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338227_hires_1600x900_1600x900.jpg?width=1200",
+    "title": "Marco Bezzecchi beats Marc Marquez to Aragon MotoGP pole with historic lap",
+    "link": "https://www.crash.net/motogp/news/1103222/1/marco-bezzecchi-beats-marc-marquez-aragon-motogp-pole-historic-lap",
+    "pub_date": "2026-08-29T09:41:20+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338005_hires.jpg?width=1200",
     "score": 47,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -31,11 +16,26 @@
     ]
   },
   {
+    "position": 2,
+    "title": "The signs that suggest Marc Marquez holds critical Aragon MotoGP advantage",
+    "link": "https://www.crash.net/motogp/feature/1103165/1/signs-suggest-marc-marquez-holds-critical-aragon-motogp-advantage",
+    "pub_date": "2026-08-28T17:16:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337812_hires.jpg?width=1200",
+    "score": 47,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 3,
-    "title": "The innocuous change that has transformed Pedro Acosta’s Aragon MotoGP",
-    "link": "https://www.crash.net/motogp/news/1103159/1/innocuous-change-has-transformed-pedro-acostas-aragon-motogp",
-    "pub_date": "2026-08-28T16:28:39+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338194_hires.jpg?width=1200",
+    "title": "Marc Marquez’s Silverstone MotoGP arm revelation “was a shock” for Ducati",
+    "link": "https://www.crash.net/motogp/news/1103188/1/marc-marquezs-silverstone-motogp-arm-revelation-was-shock-ducati",
+    "pub_date": "2026-08-29T08:40:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337640_hires_1600x900.jpg?width=1200",
     "score": 45,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -47,14 +47,13 @@
   },
   {
     "position": 4,
-    "title": "Marco Bezzecchi beats Alex Marquez in Aragon MotoGP Practice",
-    "link": "https://www.crash.net/motogp/news/1103144/1/marco-bezzecchi-beats-alex-marquez-aragon-motogp-practice",
-    "pub_date": "2026-08-28T14:11:08+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337695_hires.jpg?width=1200",
-    "score": 40,
+    "title": "Fabio Quartararo “really bad” but it’s ‘not a surprise’ at Aragon MotoGP",
+    "link": "https://www.crash.net/motogp/news/1103171/1/fabio-quartararo-really-bad-its-not-surprise-aragon-motogp",
+    "pub_date": "2026-08-29T06:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338015_hires.jpg?width=1200",
+    "score": 45,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -63,10 +62,26 @@
   },
   {
     "position": 5,
-    "title": "Fabio Quartararo details F1 helmet collection, names drivers he’d like to swap with",
-    "link": "https://www.crash.net/motogp/news/1103060/1/fabio-quartararo-details-f1-helmet-collection-names-drivers-hed-swap",
-    "pub_date": "2026-08-28T08:27:01+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337259_hires.jpg?width=1200",
+    "title": "Johann Zarco thanks Pecco Bagnaia for his \"humanity” after horror MotoGP crash",
+    "link": "https://www.crash.net/motogp/news/1103177/1/johann-zarco-thanks-pecco-bagnaia-his-humanity-after-horror-motogp-crash",
+    "pub_date": "2026-08-29T08:04:54+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1316238_hires_1600x900.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Pecco Bagnaia: “I struggle to do normal things” since Silverstone MotoGP",
+    "link": "https://www.crash.net/motogp/news/1103169/1/pecco-bagnaia-i-struggle-do-normal-things-silverstone-motogp",
+    "pub_date": "2026-08-28T17:45:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337763_hires_1600x900.jpg?width=1200",
     "score": 40,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -76,29 +91,14 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Marc Marquez “in attack mode” at Aragon MotoGP but “everything is very close”",
-    "link": "https://www.crash.net/motogp/news/1103154/1/marc-marquez-attack-mode-aragon-motogp-everything-very-close",
-    "pub_date": "2026-08-28T15:58:13+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337972_hires.jpg?width=1200",
-    "score": 33,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 7,
-    "title": "“We needed him”: LCR Honda ‘relieved’ by stunning Johann Zarco Aragon MotoGP return",
-    "link": "https://www.crash.net/motogp/news/1103150/1/we-needed-him-lcr-honda-relieved-stunning-johann-zarco-aragon-motogp-return",
-    "pub_date": "2026-08-28T15:21:45+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337851_hires.jpg?width=1200",
-    "score": 33,
+    "title": "Aragon MotoGP LIVE: Updates after Bezzecchi takes MotorLand pole",
+    "link": "https://www.crash.net/motogp/live/1044230/aragon-motogp-live-updates-qualifying-motorland",
+    "pub_date": "2026-08-29T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337981_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -107,10 +107,25 @@
   },
   {
     "position": 8,
-    "title": "“Eight days per week” - Aprilia pushes flat-out in pursuit of maiden MotoGP title",
-    "link": "https://www.crash.net/motogp/news/1103101/1/eight-days-week-aprilia-pushes-flat-out-pursuit-maiden-motogp-title",
-    "pub_date": "2026-08-28T10:44:56+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337803_hires_1600x900.jpg?width=1200",
+    "title": "How a Marc Marquez tow led to a Jack Miller crash in Aragon MotoGP Practice",
+    "link": "https://www.crash.net/motogp/news/1103167/1/how-marc-marquez-tow-led-jack-miller-crash-aragon-motogp-practice",
+    "pub_date": "2026-08-28T17:34:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338014_hires.jpg?width=1200",
+    "score": 35,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "‘We need Pol on the 850’: Why KTM “don’t enjoy” Maverick Vinales’ MotoGP absence",
+    "link": "https://www.crash.net/motogp/news/1103225/1/we-need-pol-850-why-ktm-dont-enjoy-maverick-vinales-motogp-absence",
+    "pub_date": "2026-08-29T10:28:19+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1334272_hires.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -121,173 +136,167 @@
     ]
   },
   {
-    "position": 9,
-    "title": "2026 MotoGP Aragon Grand Prix: Which riders are in Q2?",
-    "link": "https://www.crash.net/motogp/news/1103147/1/2026-motogp-aragon-grand-prix-which-riders-are-q2",
-    "pub_date": "2026-08-28T14:19:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337780_hires_1600x900.jpg?width=1200",
+    "position": 10,
+    "title": "Starting grid for the 2026 Aragon MotoGP Sprint race",
+    "link": "https://www.crash.net/motogp/news/1103224/1/starting-grid-2026-aragon-motogp-sprint-race",
+    "pub_date": "2026-08-29T10:07:08+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338775_hires_1600x900.jpg?width=1200",
     "score": 28,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Marc Marquez fastest in Aragon MotoGP FP1",
-    "link": "https://www.crash.net/motogp/news/1103096/1/marc-marquez-fastest-aragon-motogp-fp1",
-    "pub_date": "2026-08-28T09:40:26+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337733_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
       "good title length (+2)"
     ]
   },
   {
     "position": 11,
-    "title": "MotoGP “trying to go to Qatar” this year but cancellation reports mount",
-    "link": "https://www.crash.net/motogp/news/1103099/1/motogp-trying-go-qatar-year-cancellation-reports-mount",
-    "pub_date": "2026-08-28T10:16:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1221645_hires.jpg?width=1200",
-    "score": 23,
+    "title": "2026 Aragon MotoGP - Full Qualifying Results",
+    "link": "https://www.crash.net/motogp/results/1103106/1/2026-aragon-motogp-qualifying-results",
+    "pub_date": "2026-08-29T09:40:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338727_hires_1600x900_0.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 12,
-    "title": "2026 Aragon MotoGP - Friday Practice Results",
-    "link": "https://www.crash.net/motogp/results/1103052/1/2026-aragon-motogp-friday-practice-results",
-    "pub_date": "2026-08-28T14:00:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337917_hires_1600x900.jpg?width=1200",
-    "score": 21,
+    "title": "“Need to try something” - Alex Marquez faces unusual Aragon MotoGP sector deficit",
+    "link": "https://www.crash.net/motogp/news/1103163/1/need-try-something-alex-marquez-faces-unusual-aragon-motogp-sector-deficit",
+    "pub_date": "2026-08-28T17:20:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337900_hires_1600x900.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
-      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 13,
-    "title": "MotoGP Aragon LIVE: Reaction after Marco Bezzecchi tops Practice at MotorLand",
-    "link": "https://www.crash.net/motogp/live/1044230/aragon-motogp-live-updates-friday-practice-motorland",
-    "pub_date": "2026-08-28T12:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337781_hires.jpg?width=1200",
-    "score": 21,
+    "title": "Marco Bezzecchi: Marc Marquez “hiding a bit” still “man to beat” at Aragon",
+    "link": "https://www.crash.net/motogp/news/1103161/1/marco-bezzecchi-marc-marquez-hiding-bit-still-man-beat-aragon",
+    "pub_date": "2026-08-28T16:38:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338454_hires_1600x900_0.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 14,
-    "title": "“It’ll be easier” - Toprak says future Pramac team-mate joining MotoGP at the “right time”",
-    "link": "https://www.crash.net/motogp/news/1103063/1/itll-be-easier-toprak-razgatlioglu-says-future-pramac-team-mate-joining",
-    "pub_date": "2026-08-28T08:35:56+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337560_hires_1600x900.jpg?width=1200",
-    "score": 16,
+    "title": "2026 Aragon MotoGP Qualifying & Sprint today: Start times and how to watch",
+    "link": "https://www.crash.net/motogp/news/1102967/1/2026-aragon-motogp-start-times-and-how-watch",
+    "pub_date": "2026-08-29T07:54:55+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1235354_hires_1600x900.jpg?width=1200",
+    "score": -65,
     "score_reasons": [
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
-      "good title length (+2)"
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 15,
-    "title": "‘We’ve lost so many’ - KTM rider wary of engine reserves for remaining MotoGP races",
-    "link": "https://www.crash.net/motogp/news/1103049/1/weve-lost-so-many-ktm-rider-wary-engine-reserves-remaining-motogp-races",
-    "pub_date": "2026-08-27T15:31:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336110_hires.jpg?width=1200",
-    "score": -79,
+    "title": "‘One of our worst tracks’ - Jorge Martin’s surprising Aprilia Aragon MotoGP claim",
+    "link": "https://www.crash.net/motogp/news/1103157/1/one-our-worst-tracks-jorge-martins-surprising-aprilia-aragon-motogp-claim",
+    "pub_date": "2026-08-28T16:23:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337690_hires.jpg?width=1200",
+    "score": -78,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x1 (+3)",
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
+      "between 18-24h (-20)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 16,
-    "title": "“We talked a lot in the past” - Enea Bastianini reveals long-running Aprilia MotoGP interest",
-    "link": "https://www.crash.net/motogp/news/1103051/1/we-talked-lot-past-enea-bastianini-reveals-long-running-aprilia-motogp",
-    "pub_date": "2026-08-27T15:45:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1315017_hires_1600x900.jpg?width=1200",
-    "score": -82,
+    "title": "“Wow, that’s intense!” - Johann Zarco top Honda on MotoGP comeback at Aragon",
+    "link": "https://www.crash.net/motogp/news/1103153/1/wow-thats-intense-johann-zarco-top-honda-motogp-comeback-aragon",
+    "pub_date": "2026-08-28T16:00:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338227_hires_1600x900_1600x900.jpg?width=1200",
+    "score": -88,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)"
+      "between 18-24h (-20)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 17,
-    "title": "2026 Aragon MotoGP practice: Start times and how to watch",
-    "link": "https://www.crash.net/motogp/news/1102967/1/2026-aragon-motogp-start-times-and-how-watch",
-    "pub_date": "2026-08-28T08:00:55+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1235354_hires_1600x900.jpg?width=1200",
-    "score": -84,
+    "title": "The innocuous change that has transformed Pedro Acosta’s Aragon MotoGP",
+    "link": "https://www.crash.net/motogp/news/1103159/1/innocuous-change-has-transformed-pedro-acostas-aragon-motogp",
+    "pub_date": "2026-08-28T16:28:39+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1338194_hires.jpg?width=1200",
+    "score": -90,
     "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
-      "within 18h (+10)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
     "position": 18,
-    "title": "‘Like Brno’ - Why Ducati “will have more potential” than Aprilia at Aragon MotoGP",
-    "link": "https://www.crash.net/motogp/news/1103036/1/brno-why-ducati-will-have-more-potential-aprilia-aragon-motogp",
-    "pub_date": "2026-08-27T10:50:49+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337500_hires.jpg?width=1200",
-    "score": -158,
+    "title": "Marco Bezzecchi beats Alex Marquez in Aragon MotoGP Practice",
+    "link": "https://www.crash.net/motogp/news/1103144/1/marco-bezzecchi-beats-alex-marquez-aragon-motogp-practice",
+    "pub_date": "2026-08-28T14:11:08+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337695_hires.jpg?width=1200",
+    "score": -95,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
     "position": 19,
-    "title": "Pedro Acosta to test latest MotoGP radio system at Aragon",
-    "link": "https://www.crash.net/motogp/news/1103035/1/pedro-acosta-test-latest-motogp-radio-system-aragon",
-    "pub_date": "2026-08-27T10:38:39+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1336236_hires_1600x900_0.jpg?width=1200",
-    "score": -170,
+    "title": "Marc Marquez “in attack mode” at Aragon MotoGP but “everything is very close”",
+    "link": "https://www.crash.net/motogp/news/1103154/1/marc-marquez-attack-mode-aragon-motogp-everything-very-close",
+    "pub_date": "2026-08-28T15:58:13+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337972_hires.jpg?width=1200",
+    "score": -102,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
     "position": 20,
-    "title": "\"There was an opportunity\" - Luca Marini questioned on 2027 Yamaha MotoGP option",
-    "link": "https://www.crash.net/motogp/news/1103034/1/there-was-opportunity-luca-marini-questioned-2027-yamaha-motogp-option",
-    "pub_date": "2026-08-27T10:17:49+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1335116_hires.jpg?width=1200",
-    "score": -170,
+    "title": "“We needed him”: LCR Honda ‘relieved’ by stunning Johann Zarco Aragon MotoGP return",
+    "link": "https://www.crash.net/motogp/news/1103150/1/we-needed-him-lcr-honda-relieved-stunning-johann-zarco-aragon-motogp-return",
+    "pub_date": "2026-08-28T15:21:45+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1337851_hires.jpg?width=1200",
+    "score": -102,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]

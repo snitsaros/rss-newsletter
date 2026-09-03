@@ -1,36 +1,6 @@
 [
   {
     "position": 1,
-    "title": "Alfa Romeo Is Offering Quadrifoglio Buyers A Driving Course - Because Where Else Can You Actually Use 520bhp?",
-    "link": "https://www.carthrottle.com/news/alfa-romeo-offering-quadrifoglio-buyers-driving-course-because-where-else-can-you-actually-use",
-    "pub_date": "2026-08-26T14:50:01+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/alfa-romeo-driving-academy.jpg?width=1200",
-    "score": 8,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Is The Baby Land Cruiser The Most Exciting New Toyota In Years?",
-    "link": "https://www.carthrottle.com/news/baby-land-cruiser-most-exciting-new-toyota-years",
-    "pub_date": "2026-08-26T11:38:04+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/20260514_01_02.jpg?width=1200",
-    "score": 8,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 3,
     "title": "Light the Way with the Clarke PL5R Slim Pocket LED Work Light and Torch",
     "link": "https://www.carthrottle.com/news/light-way-clarke-pl5r-slim-pocket-led-work-light-and-torch",
     "pub_date": "2026-08-27T12:35:31+00:00",
@@ -44,7 +14,7 @@
     ]
   },
   {
-    "position": 4,
+    "position": 2,
     "title": "The Clarke IBC15 Intelligent Battery Charger will Stop you from Falling Flat",
     "link": "https://www.carthrottle.com/news/clarke-ibc15-intelligent-battery-charger-will-stop-you-falling-flat",
     "pub_date": "2026-08-27T12:29:01+00:00",
@@ -58,15 +28,45 @@
     ]
   },
   {
+    "position": 3,
+    "title": "Alfa Romeo Is Offering Quadrifoglio Buyers A Driving Course - Because Where Else Can You Actually Use 520bhp?",
+    "link": "https://www.carthrottle.com/news/alfa-romeo-offering-quadrifoglio-buyers-driving-course-because-where-else-can-you-actually-use",
+    "pub_date": "2026-08-26T14:50:01+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/alfa-romeo-driving-academy.jpg?width=1200",
+    "score": -22,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Is The Baby Land Cruiser The Most Exciting New Toyota In Years?",
+    "link": "https://www.carthrottle.com/news/baby-land-cruiser-most-exciting-new-toyota-years",
+    "pub_date": "2026-08-26T11:38:04+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/20260514_01_02.jpg?width=1200",
+    "score": -22,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 168-336h (-20)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
     "position": 5,
     "title": "James May Says ‘Real Petrolheads’ Hate Dangerous Driving Videos After A66 Tragedy",
     "link": "https://www.carthrottle.com/news/james-may-says-real-petrolheads-hate-dangerous-driving-videos-after-a66-tragedy",
     "pub_date": "2026-08-26T13:45:07+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/media/2019-02/12/fbb0e8f68608a1ab/james-may-tests-the-alpine-a110.jpg?width=1200",
-    "score": -4,
+    "score": -34,
     "score_reasons": [
       "has image (+4)",
-      "within 168h (+10)",
+      "between 168-336h (-20)",
       "good title length (+2)",
       "previously used URL (-20)"
     ]

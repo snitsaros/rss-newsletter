@@ -5,11 +5,12 @@
     "link": "https://www.carthrottle.com/news/never-lose-part-again-clarkes-csr94-storage-bin-rack",
     "pub_date": "2026-09-03T13:06:31+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-09/clarke-bin-rack.jpg?width=1200",
-    "score": 16,
+    "score": -4,
     "score_reasons": [
       "has image (+4)",
       "within 168h (+10)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-20)"
     ]
   },
   {
@@ -18,11 +19,12 @@
     "link": "https://www.carthrottle.com/news/never-get-caught-out-clarke-cht695-oil-filter-cap-wrench-set",
     "pub_date": "2026-09-03T13:04:21+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-09/clarke-oil-filter-cap-wreches.jpg?width=1200",
-    "score": 16,
+    "score": -4,
     "score_reasons": [
       "has image (+4)",
       "within 168h (+10)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-20)"
     ]
   },
   {
@@ -89,34 +91,6 @@
     "link": "https://www.carthrottle.com/news/james-may-says-real-petrolheads-hate-dangerous-driving-videos-after-a66-tragedy",
     "pub_date": "2026-08-26T13:45:07+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/media/2019-02/12/fbb0e8f68608a1ab/james-may-tests-the-alpine-a110.jpg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "Get the Answers You Need With the Clarke CEOBDPRO Fault Code Reader",
-    "link": "https://www.carthrottle.com/news/get-answers-you-need-clarke-ceobdpro-fault-code-reader",
-    "pub_date": "2026-08-21T09:03:52+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarke-fault-code-reader.jpg?width=1200",
-    "score": -34,
-    "score_reasons": [
-      "has image (+4)",
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Get Jacked Up With the Clarke CTJ3000GB Trolley Jack",
-    "link": "https://www.carthrottle.com/news/get-jacked-clarke-ctj3000gb-trolley-jack",
-    "pub_date": "2026-08-21T08:59:03+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-08/clarke-trolley-jack.jpg?width=1200",
     "score": -34,
     "score_reasons": [
       "has image (+4)",

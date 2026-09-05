@@ -1,13 +1,15 @@
 [
   {
     "position": 1,
-    "title": "How Oscar Piastri plans to plug his F1 deficit to McLaren team-mate Lando Norris",
-    "link": "https://www.crash.net/f1/news/1103429/1/how-oscar-piastri-plans-plug-his-f1-deficit-mclaren-team-mate-lando-norris",
-    "pub_date": "2026-09-03T16:48:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1420283_hires.jpg?width=1200",
-    "score": 52,
+    "title": "Lewis Hamilton pinpoints worrying Ferrari limitation despite F1 engine upgrade",
+    "link": "https://www.crash.net/f1/news/1103587/1/lewis-hamilton-pinpoints-worrying-ferrari-limitation-despite-f1-engine-upgrade",
+    "pub_date": "2026-09-04T17:15:54+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432562_hires.jpg?width=1200",
+    "score": 57,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -15,13 +17,14 @@
   },
   {
     "position": 2,
-    "title": "George Russell makes big McLaren claim amid F1 title fight",
-    "link": "https://www.crash.net/f1/news/1103427/1/george-russell-makes-big-mclaren-claim-amid-f1-title-fight",
-    "pub_date": "2026-09-03T15:40:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431750_hires.jpg?width=1200",
-    "score": 40,
+    "title": "Max Verstappen Monza practice absence causes Red Bull concerns",
+    "link": "https://www.crash.net/f1/news/1103583/1/max-verstappen-monza-practice-absence-causes-red-bull-concerns",
+    "pub_date": "2026-09-04T16:56:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431256_hires.jpg?width=1200",
+    "score": 54,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -29,101 +32,102 @@
   },
   {
     "position": 3,
-    "title": "Kimi Antonelli reveals Valentino Rossi helmet tribute for Italian GP",
-    "link": "https://www.crash.net/f1/news/1103430/1/kimi-antonelli-reveals-valentino-rossi-helmet-tribute-italian-gp",
-    "pub_date": "2026-09-04T07:20:46+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431930_hires.jpg?width=1200",
-    "score": 33,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "F1 teams back plan for shorter Grand Prix distances in 2027",
-    "link": "https://www.crash.net/f1/news/1103444/1/f1-teams-back-plan-shorter-grand-prix-distances-2027",
-    "pub_date": "2026-09-04T08:37:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1429020_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "Max Verstappen provides health update as true extent of illness laid bare ahead of F1 Italian GP",
-    "link": "https://www.crash.net/f1/news/1103426/1/max-verstappen-provides-health-update-true-extent-illness-laid-bare",
-    "pub_date": "2026-09-03T15:39:25+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432020_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 6,
-    "title": "The crucial F1 advantage Lewis Hamilton could hold over Charles Leclerc at Monza",
-    "link": "https://www.crash.net/f1/news/1103421/1/crucial-advantage-lewis-hamilton-could-hold-over-charles-leclerc-monza",
-    "pub_date": "2026-09-03T14:46:58+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1428728_hires.jpg?width=1200",
-    "score": 22,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 7,
-    "title": "Lewis Hamilton's expectations for F1 engine upgrade as Ferrari finds 'North Star'",
-    "link": "https://www.crash.net/f1/news/1103415/1/lewis-hamiltons-expectations-f1-engine-upgrade-ferrari-finds-north-star",
-    "pub_date": "2026-09-03T12:45:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432056_hires.jpg?width=1200",
-    "score": 20,
+    "title": "Kimi Antonelli drops Ferrari engine upgrade warning ahead of F1 Italian GP",
+    "link": "https://www.crash.net/f1/news/1103582/1/kimi-antonelli-drops-ferrari-engine-upgrade-warning-ahead-f1-italian-gp",
+    "pub_date": "2026-09-04T16:34:08+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432225_hires.jpg?width=1200",
+    "score": 50,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
       "mid-tier keywords x1 (+7)",
       "low-tier keywords x1 (+3)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 8,
-    "title": "Lewis Hamilton reveals amazing detail and restoration story about Ferrari F40",
-    "link": "https://www.crash.net/f1/news/1103418/1/lewis-hamilton-reveals-amazing-detail-and-restoration-story-about-ferrari-f40",
-    "pub_date": "2026-09-03T13:33:13+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431902_hires.jpg?width=1200",
-    "score": 10,
+    "position": 4,
+    "title": "George Russell heads Charles Leclerc in second Monza F1 practice at Italian GP",
+    "link": "https://www.crash.net/f1/news/1103569/1/george-russell-heads-charles-leclerc-second-monza-f1-practice-italian-gp",
+    "pub_date": "2026-09-04T15:02:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432268_hires.jpg?width=1200",
+    "score": 47,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "'Make sure it never happens again' - Alpine demand F1 to fix Monaco penalty chaos",
+    "link": "https://www.crash.net/f1/news/1103510/1/make-sure-it-never-happens-again-alpine-demand-f1-fix-monaco-penalty-chaos",
+    "pub_date": "2026-09-04T12:10:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1414228_hires.jpg?width=1200",
+    "score": 31,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x3 (+21)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
+    "position": 6,
+    "title": "2026 F1 Italian Grand Prix - Monza Friday Practice Results",
+    "link": "https://www.crash.net/f1/results/1103508/1/2026-f1-italian-grand-prix-monza-friday-practice-results",
+    "pub_date": "2026-09-04T15:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432199_hires.jpg?width=1200",
+    "score": 30,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "McLaren take Monza H-wing decision after Friday verdict",
+    "link": "https://www.crash.net/f1/news/1103581/1/mclaren-take-monza-h-wing-decision-after-friday-verdict",
+    "pub_date": "2026-09-04T16:14:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432543_hires.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "Red Bull boss casts doubt on Isack Hadjar F1 return for Spanish GP",
+    "link": "https://www.crash.net/f1/news/1103578/1/red-bull-boss-casts-doubt-isack-hadjar-f1-return-spanish-gp",
+    "pub_date": "2026-09-04T15:58:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1425199_hires.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 9,
-    "title": "Kimi Antonelli addresses inevitable Ferrari F1 links ahead of Italian GP",
-    "link": "https://www.crash.net/f1/news/1103416/1/kimi-antonelli-addresses-inevitable-ferrari-f1-links-ahead-italian-gp",
-    "pub_date": "2026-09-03T12:59:39+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1430533_hires.jpg?width=1200",
-    "score": 10,
+    "title": "Red Bull cast verdict on Monaco F1 penalty verdict",
+    "link": "https://www.crash.net/f1/news/1103515/1/red-bull-cast-verdict-monaco-f1-penalty-verdict",
+    "pub_date": "2026-09-04T12:38:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1429927_hires.jpg?width=1200",
+    "score": 24,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -131,13 +135,14 @@
   },
   {
     "position": 10,
-    "title": "Lewis Hamilton makes statement Monza F1 paddock arrival in rare Ferrari F40",
-    "link": "https://www.crash.net/f1/news/1103407/1/lewis-hamilton-makes-statement-monza-f1-paddock-arrival-rare-ferrari-f40",
-    "pub_date": "2026-09-03T09:02:12+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431905_hires.jpg?width=1200",
-    "score": 10,
+    "title": "Charles Leclerc heads Ferrari 1-2 as new engine debuts in Monza F1 practice",
+    "link": "https://www.crash.net/f1/news/1103506/1/charles-leclerc-heads-ferrari-1-2-new-engine-debuts-monza-practice",
+    "pub_date": "2026-09-04T11:36:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432174_hires.jpg?width=1200",
+    "score": 24,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -145,12 +150,13 @@
   },
   {
     "position": 11,
-    "title": "Franco Colapinto reveals talks with FIA president Mohammed Ben Sulayem after Dutch GP F1 penalty fallout",
-    "link": "https://www.crash.net/f1/news/1103411/1/franco-colapinto-reveals-fia-president-talks-after-dutch-gp-f1-penalty-fallout",
-    "pub_date": "2026-09-03T10:47:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1428847_hires.jpg?width=1200",
-    "score": 0,
+    "title": "2026 Formula 1 world championship standings after the Red Bull-McLaren Monaco appeal",
+    "link": "https://www.crash.net/f1/results/1103487/1/2026-formula-1-world-championship-standings-after-red-bull-mclaren-monaco",
+    "pub_date": "2026-09-04T10:54:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1413408_hires.jpg?width=1200",
+    "score": 24,
     "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
@@ -159,13 +165,14 @@
   },
   {
     "position": 12,
-    "title": "Liam Lawson sheds light on one of F1's biggest comparison question marks",
-    "link": "https://www.crash.net/f1/news/1103419/1/liam-lawson-sheds-light-one-f1s-biggest-comparison-question-marks",
-    "pub_date": "2026-09-03T13:35:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432063_hires.jpg?width=1200",
-    "score": -2,
+    "title": "Monaco GP result changed again after Red Bull and McLaren appeal",
+    "link": "https://www.crash.net/f1/news/1103484/1/monaco-gp-result-changed-again-after-red-bull-and-mclaren-appeal",
+    "pub_date": "2026-09-04T10:47:51+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431369_hires.jpg?width=1200",
+    "score": 24,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -173,10 +180,55 @@
   },
   {
     "position": 13,
-    "title": "Fernando Alonso gives Honda F1 project ambitious backing",
-    "link": "https://www.crash.net/f1/news/1103413/1/fernando-alonso-gives-honda-f1-project-ambitious-backing",
-    "pub_date": "2026-09-03T11:59:28+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431287_hires.jpg?width=1200",
+    "title": "McLaren 'insulted' by Flavio Briatore allegations in heated Monaco fallout",
+    "link": "https://www.crash.net/f1/news/1103530/1/mclaren-insulted-flavio-briatore-allegations-heated-monaco-fallout",
+    "pub_date": "2026-09-04T13:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1418878_hires.jpg?width=1200",
+    "score": 12,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "F1 Monza LIVE: Italian GP reaction after George Russell tops FP2",
+    "link": "https://www.crash.net/f1/live/1044263/f1-monza-live-italian-gp-friday-practice-updates",
+    "pub_date": "2026-09-04T13:40:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432245_hires.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Flavio Briatore accuses ‘very nasty’ judge of McLaren bias in explosive rant",
+    "link": "https://www.crash.net/f1/news/1103528/1/flavio-briatore-accuses-very-nasty-judge-mclaren-bias-explosive-rant",
+    "pub_date": "2026-09-04T13:27:25+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1427593_hires.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 16,
+    "title": "McLaren finally debuts its newly-named rotating F1 rear wing at Monza",
+    "link": "https://www.crash.net/f1/news/1103455/1/mclaren-finally-debut-its-newly-named-rotating-f1-rear-wing-italian-gp",
+    "pub_date": "2026-09-04T11:10:25+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1427710_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -186,11 +238,11 @@
     ]
   },
   {
-    "position": 14,
-    "title": "\"More like MotoGP\" - Why the Italian GP is tipped to break Monza overtaking record",
-    "link": "https://www.crash.net/f1/news/1103422/1/more-motogp-why-italian-gp-tipped-break-monza-overtaking-record",
-    "pub_date": "2026-09-03T14:47:38+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431766_hires_0.jpg?width=1200",
+    "position": 17,
+    "title": "F1 announces huge 2027 season launch event in Milan",
+    "link": "https://www.crash.net/f1/news/1103532/1/f1-announces-huge-2027-season-launch-event-milan",
+    "pub_date": "2026-09-04T13:35:35+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/whatsapp-image-2026-09-04-at-08.22.55.jpeg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -199,47 +251,46 @@
     ]
   },
   {
-    "position": 15,
-    "title": "Lando Norris reveals other ‘opportunities’ before committing his F1 future to McLaren",
-    "link": "https://www.crash.net/f1/news/1103404/1/lando-norris-reveals-other-opportunities-committing-his-f1-future-mclaren",
-    "pub_date": "2026-09-03T08:24:17+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1431255_hires.jpg?width=1200",
-    "score": -170,
+    "position": 18,
+    "title": "How to watch the 2026 F1 Italian Grand Prix at Monza",
+    "link": "https://www.crash.net/f1/news/1103386/1/how-watch-2026-f1-italian-grand-prix-monza",
+    "pub_date": "2026-09-04T09:35:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1371792_hires_0.jpg?width=1200",
+    "score": -107,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
-    "position": 16,
-    "title": "Lando Norris makes junior team announcement ahead of F1 Italian GP",
-    "link": "https://www.crash.net/f1/news/1103403/1/lando-norris-makes-junior-team-announcement-ahead-italian-gp",
-    "pub_date": "2026-09-03T07:10:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1427425_hires.jpg?width=1200",
-    "score": -175,
+    "position": 19,
+    "title": "Is it going to rain at the Italian Grand Prix? Full Monza weather report",
+    "link": "https://www.crash.net/f1/news/1103387/1/it-going-rain-italian-grand-prix-full-monza-weather-report",
+    "pub_date": "2026-09-04T09:32:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1141040_hires.jpg?width=1200",
+    "score": -107,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
-    "position": 17,
-    "title": "Italian GP declared ‘heat hazard’ F1 race: What does it mean and what happens next?",
-    "link": "https://www.crash.net/f1/news/1099279/1/austrian-gp-declared-heat-hazard-f1-race-what-does-it-mean-and-what-happens-next",
-    "pub_date": "2026-09-03T06:35:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1371699_hires.jpg?width=1200",
-    "score": -187,
+    "position": 20,
+    "title": "F1 2026 Italian Grand Prix: Start time and schedule",
+    "link": "https://www.crash.net/f1/news/1103370/1/f1-2026-italian-grand-prix-start-time-and-schedule",
+    "pub_date": "2026-09-04T08:55:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1371988_hires.jpg?width=1200",
+    "score": -107,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]

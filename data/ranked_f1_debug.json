@@ -1,59 +1,58 @@
 [
   {
     "position": 1,
-    "title": "Oscar Piastri loses P3 after penalty for impeding Liam Lawson in F1 Italian GP qualifying",
-    "link": "https://www.crash.net/f1/news/1103783/1/oscar-piastri-loses-p3-after-penalty-impeding-liam-lawson-f1-italian-gp",
-    "pub_date": "2026-09-05T16:33:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433870_hires.jpg?width=1200",
-    "score": 56,
+    "title": "Charles Leclerc blames media for pushing Ferrari narrative after Lewis Hamilton clash at F1 Italian GP",
+    "link": "https://www.crash.net/f1/news/1103997/1/charles-leclerc-blames-media-pushing-ferrari-narrative-after-lewis-hamilton-clash",
+    "pub_date": "2026-09-07T08:08:52+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434355_hires.jpg?width=1200",
+    "score": 57,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x4 (+28)",
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
       "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 2,
-    "title": "Lewis Hamilton's frustration builds as Ferrari weakness exposed again in Monza qualifying",
-    "link": "https://www.crash.net/f1/news/1103786/1/lewis-hamiltons-frustration-builds-ferrari-weakness-exposed-again-monza",
-    "pub_date": "2026-09-05T17:02:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433992_hires.jpg?width=1200",
-    "score": 54,
+    "title": "Mercedes to review Monza incident that ‘would have made us look like idiots’",
+    "link": "https://www.crash.net/f1/news/1103998/1/mercedes-review-monza-incident-would-have-made-us-look-idiots",
+    "pub_date": "2026-09-07T08:49:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433780_hires_0.jpg?width=1200",
+    "score": 52,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Frustrated Max Verstappen felt \"like a turtle\" on Monza straights against faster Mercedes",
+    "link": "https://www.crash.net/f1/news/1103987/1/frustrated-max-verstappen-felt-turtle-monza-straights-against-faster-mercedes",
+    "pub_date": "2026-09-06T16:52:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609060860.jpg?width=1200",
+    "score": 52,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 3,
-    "title": "George Russell sets pace as Lewis Hamilton and Max Verstappen clash in final Monza F1 practice",
-    "link": "https://www.crash.net/f1/news/1103660/1/george-russell-sets-pace-lewis-hamilton-and-max-verstappen-clash-final-monza-f1",
-    "pub_date": "2026-09-05T11:36:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432478_hires.jpg?width=1200",
-    "score": 48,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 4,
-    "title": "“Done over by Max” - Toto Wolff unhappy with Max Verstappen for ‘lost pole’ at Monza",
-    "link": "https://www.crash.net/f1/news/1103782/1/done-over-max-toto-wolff-unhappy-max-verstappen-lost-pole",
-    "pub_date": "2026-09-05T16:20:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433780_hires.jpg?width=1200",
-    "score": 47,
+    "title": "Nico Rosberg, Martin Brundle disagree in \"100%\" blame verdict on Lewis Hamilton-Charles Leclerc clash",
+    "link": "https://www.crash.net/f1/news/1103977/1/nico-rosberg-martin-brundle-disagree-100-blame-verdict-lewis-hamilton-charles",
+    "pub_date": "2026-09-06T15:45:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1362381_hires.jpg?width=1200",
+    "score": 52,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -61,40 +60,25 @@
   },
   {
     "position": 5,
-    "title": "Kimi Antonelli ‘ready to fight’ after repaying George Russell's favour",
-    "link": "https://www.crash.net/f1/news/1103795/1/kimi-antonelli-ready-fight-after-repaying-george-russells-favour",
-    "pub_date": "2026-09-06T08:20:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433258_hires.jpg?width=1200",
-    "score": 45,
+    "title": "“No chance” - Mercedes explains strategy that cost George Russell Monza F1 win",
+    "link": "https://www.crash.net/f1/news/1103981/1/no-chance-mercedes-explains-strategy-cost-george-russell-monza-f1-win",
+    "pub_date": "2026-09-06T16:07:17+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433872_hires.jpg?width=1200",
+    "score": 43,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
-      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 6,
-    "title": "Pierre Gasly beats George Russell to claim stunning first F1 pole at Italian GP",
-    "link": "https://www.crash.net/f1/news/1103770/1/pierre-gasly-beats-george-russell-claim-stunning-first-f1-pole-italian-gp",
-    "pub_date": "2026-09-05T15:08:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433770_hires.jpg?width=1200",
-    "score": 42,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 7,
-    "title": "Ferrari star pulled from fiery China GT crash by fellow driver as marshals slammed",
-    "link": "https://www.crash.net/sportscars/news/1103798/1/ferrari-star-pulled-fiery-china-gt-crash-fellow-driver-marshals-slammed",
-    "pub_date": "2026-09-06T08:14:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/untitled-design.jpg?width=1200",
+    "title": "China GT issues statement amid fallout from shocking fireball Ferrari crash",
+    "link": "https://www.crash.net/sportscars/news/1103996/1/china-gt-issues-statement-amid-fallout-shocking-fireball-ferrari-crash",
+    "pub_date": "2026-09-07T07:42:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/screenshot-2026-09-07-at-08.44.08.png?width=1200",
     "score": 40,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -106,11 +90,11 @@
     ]
   },
   {
-    "position": 8,
-    "title": "'Not compliant anymore' - Max Verstappen issues worrying Red Bull F1 car verdict",
-    "link": "https://www.crash.net/f1/news/1103790/1/not-compliant-anymore-max-verstappen-issues-worrying-red-bull-f1-car-verdict",
-    "pub_date": "2026-09-05T17:48:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433481_hires.jpg?width=1200",
+    "position": 7,
+    "title": "“Far too late” for Ferrari to prioritise drivers as Lewis Hamilton's F1 title hopes fade",
+    "link": "https://www.crash.net/f1/news/1103988/1/far-too-late-ferrari-prioritise-drivers-lewis-hamiltons-f1-title-hopes-fade",
+    "pub_date": "2026-09-06T16:47:22+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434303_hires.jpg?width=1200",
     "score": 40,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -120,14 +104,30 @@
     ]
   },
   {
-    "position": 9,
-    "title": "Pierre Gasly stunned F1 with unlikely Monza pole - now he can avenge lost podium",
-    "link": "https://www.crash.net/f1/news/1103791/1/pierre-gasly-stunned-f1-unlikely-monza-pole-now-he-can-avenge-lost-podium",
-    "pub_date": "2026-09-05T18:23:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433860_hires.jpg?width=1200",
-    "score": 37,
+    "position": 8,
+    "title": "Charles Leclerc needs \"additional checks\" before Madrid F1 all-clear",
+    "link": "https://www.crash.net/f1/news/1103992/1/charles-leclerc-needs-additional-checks-madrid-f1-all-clear",
+    "pub_date": "2026-09-06T17:21:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434656_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
-      "mid-tier keywords x3 (+21)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "Charles Leclerc's first words after heavy Monza shunt",
+    "link": "https://www.crash.net/f1/news/1103982/1/charles-leclercs-first-words-after-heavy-monza-shunt",
+    "pub_date": "2026-09-06T16:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433990_hires.jpg?width=1200",
+    "score": 35,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -135,13 +135,14 @@
   },
   {
     "position": 10,
-    "title": "Lance Stroll achieves F1 record no driver wants with 100 Q1 exits at Italian GP",
-    "link": "https://www.crash.net/f1/news/1103787/1/lance-stroll-achieves-f1-record-no-driver-wants-100-q1-exits-italian-gp",
-    "pub_date": "2026-09-05T17:19:11+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/2287447700.jpg?width=1200",
-    "score": 30,
+    "title": "F1 Monza LIVE: Reaction after astonishing Antonelli fightback to Italian GP victory",
+    "link": "https://www.crash.net/f1/live/1044263/f1-monza-live-italian-gp-updates",
+    "pub_date": "2026-09-06T15:25:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434538_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -149,13 +150,14 @@
   },
   {
     "position": 11,
-    "title": "'Let's try and win it' - Alpine set lofty target after Gasly's astonishing Monza pole",
-    "link": "https://www.crash.net/f1/news/1103781/1/lets-try-and-win-it-alpine-set-lofty-target-after-gaslys-astonishing-monza-pole",
-    "pub_date": "2026-09-05T15:57:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433853_hires.jpg?width=1200",
-    "score": 30,
+    "title": "2026 Formula 1 world championship standings after the Italian Grand Prix",
+    "link": "https://www.crash.net/f1/news/1103967/1/2026-formula-1-world-championship-standings-after-italian-grand-prix",
+    "pub_date": "2026-09-06T15:19:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433875_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -163,10 +165,10 @@
   },
   {
     "position": 12,
-    "title": "F1 2026 Italian Grand Prix: Full qualifying result at Monza",
-    "link": "https://www.crash.net/f1/results/1103771/1/f1-2026-italian-grand-prix-full-qualifying-result-monza",
-    "pub_date": "2026-09-05T15:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433503_hires.jpg?width=1200",
+    "title": "Audi challenges FIA decision not to penalise Yuki Tsunoda at F1 Italian GP",
+    "link": "https://www.crash.net/f1/news/1103995/1/audi-challenges-fia-decision-not-penalise-yuki-tsunoda-f1-italian-gp",
+    "pub_date": "2026-09-06T19:49:58+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434343_hires.jpg?width=1200",
     "score": 30,
     "score_reasons": [
       "mid-tier keywords x2 (+14)",
@@ -177,28 +179,27 @@
   },
   {
     "position": 13,
-    "title": "‘Someone didn’t follow the plan’ - Liam Lawson felt ‘lost’ in Monza qualifying",
-    "link": "https://www.crash.net/f1/news/1103794/1/someone-didnt-follow-plan-liam-lawson-felt-lost-monza-qualifying",
-    "pub_date": "2026-09-06T07:30:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433177_hires.jpg?width=1200",
-    "score": 28,
+    "title": "Why Yuki Tsunoda escaped F1 penalty for part in messy Monza restart",
+    "link": "https://www.crash.net/f1/news/1103994/1/why-yuki-tsunoda-escaped-f1-penalty-part-messy-monza-restart",
+    "pub_date": "2026-09-06T17:58:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609060775.jpg?width=1200",
+    "score": 30,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
-      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 14,
-    "title": "F1 2026 Italian Grand Prix: Full starting grid at Monza after four penalties",
-    "link": "https://www.crash.net/f1/news/1103778/1/f1-2026-italian-grand-prix-full-starting-grid-monza-after-grid-penalties",
-    "pub_date": "2026-09-05T16:30:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433856_hires.jpg?width=1200",
-    "score": 23,
+    "title": "Is the F1 title fight over? George Russell ‘not thinking about a comeback’",
+    "link": "https://www.crash.net/f1/news/1103991/1/f1-title-fight-over-george-russell-not-thinking-about-comeback",
+    "pub_date": "2026-09-06T17:22:08+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434780_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -206,10 +207,39 @@
   },
   {
     "position": 15,
-    "title": "Where Ferrari really stands on slipstreaming tactics for Monza F1 qualifying at Italian GP",
-    "link": "https://www.crash.net/f1/news/1103621/1/where-ferrari-really-stands-slipstreaming-tactics-monza-f1-qualifying-italian-gp",
-    "pub_date": "2026-09-05T09:59:08+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432809_hires.jpg?width=1200",
+    "title": "WATCH: Huge Charles Leclerc crash brings out Monza F1 red flag",
+    "link": "https://www.crash.net/f1/news/1103882/1/f1-italian-grand-prix-red-flagged-after-huge-charles-leclerc-crash",
+    "pub_date": "2026-09-06T13:08:51+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434357_hires.jpg?width=1200",
+    "score": 12,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 16,
+    "title": "Kimi Antonelli beats George Russell for shock Monza F1 comeback win",
+    "link": "https://www.crash.net/f1/race-report/1103957/1/kimi-antonelli-beats-george-russell-shock-monza-f1-comeback-win",
+    "pub_date": "2026-09-06T15:00:39+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434545_hires.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 17,
+    "title": "Honda issue that wrecked Fernando Alonso’s Monza F1 qualifying revealed",
+    "link": "https://www.crash.net/f1/news/1103826/1/honda-issue-wrecked-fernando-alonsos-monza-f1-qualifying-revealed",
+    "pub_date": "2026-09-06T10:53:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433467_hires.jpg?width=1200",
     "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -220,42 +250,14 @@
     ]
   },
   {
-    "position": 16,
-    "title": "F1 Monza LIVE: Reaction after Gasly takes shock Italian GP pole",
-    "link": "https://www.crash.net/f1/live/1044263/f1-monza-live-italian-gp-fp3-and-qualifying-updates",
-    "pub_date": "2026-09-05T13:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433430_hires.jpg?width=1200",
-    "score": 0,
-    "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 17,
-    "title": "2026 F1 Italian Grand Prix - Monza Final Practice Results",
-    "link": "https://www.crash.net/f1/results/1103662/1/2026-f1-italian-grand-prix-monza-final-practice-results",
-    "pub_date": "2026-09-05T11:45:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433380_hires.jpg?width=1200",
-    "score": 0,
-    "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 18,
-    "title": "ICA issues strong response after Flavio Briatore’s bombshell integrity allegations",
-    "link": "https://www.crash.net/f1/news/1103610/1/ica-issues-strong-response-after-flavio-briatores-bombshell-integrity-allegations",
-    "pub_date": "2026-09-05T09:28:35+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432605_hires.jpg?width=1200",
-    "score": -7,
+    "title": "Jeremy Clarkson makes Alpine promise if Pierre Gasly converts Monza F1 pole into win",
+    "link": "https://www.crash.net/f1/news/1103818/1/jeremy-clarkson-makes-alpine-promise-if-pierre-gasly-converts-monza-f1-pole-win",
+    "pub_date": "2026-09-06T09:24:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1424534_hires.jpg?width=1200",
+    "score": 0,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -263,34 +265,30 @@
   },
   {
     "position": 19,
-    "title": "How to watch the qualifying at the 2026 F1 Italian GP at Monza today",
-    "link": "https://www.crash.net/f1/news/1103386/1/how-watch-2026-f1-italian-grand-prix-monza",
-    "pub_date": "2026-09-06T06:15:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1371792_hires_0.jpg?width=1200",
-    "score": -65,
+    "title": "Sebastian Vettel thrills Monza crowd on F1 return in Michael Schumacher’s Ferrari",
+    "link": "https://www.crash.net/f1/news/1103827/1/sebastian-vettel-thrills-monza-crowd-f1-return-michael-schumachers-ferrari",
+    "pub_date": "2026-09-06T11:40:41+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434280_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "between 18-24h (-20)",
+      "good title length (+2)"
     ]
   },
   {
     "position": 20,
-    "title": "Is it going to rain at the Italian Grand Prix? Full Monza weather report",
-    "link": "https://www.crash.net/f1/news/1103387/1/it-going-rain-italian-grand-prix-full-monza-weather-report",
-    "pub_date": "2026-09-06T06:18:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1141040_hires.jpg?width=1200",
-    "score": -72,
+    "title": "When is the next Formula 1 race after the 2026 Italian Grand Prix?",
+    "link": "https://www.crash.net/f1/news/1103958/1/when-next-formula-1-race-after-2026-italian-grand-prix",
+    "pub_date": "2026-09-06T15:01:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1432352_hires.jpg?width=1200",
+    "score": -7,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "between 18-24h (-20)",
+      "good title length (+2)"
     ]
   }
 ]

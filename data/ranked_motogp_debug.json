@@ -1,29 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Podcast: Can Fabio Quartararo and Yamaha survive the rest of MotoGP 2026?",
-    "link": "https://www.crash.net/motogp/news/1104023/1/podcast-can-fabio-quartararo-and-yamaha-survive-rest-motogp-2026",
-    "pub_date": "2026-09-07T15:35:06+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/misano-gp-preview-2026.jpg?width=1200",
-    "score": 59,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Yamaha bids farewell to Xavi Vierge, clearing way for Jack Miller WorldSBK move",
-    "link": "https://www.crash.net/wsbk/news/1104026/1/yamaha-bids-farewell-xavi-vierge-clearing-way-jack-miller-worldsbk-move",
-    "pub_date": "2026-09-08T08:22:38+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1340996_hires_1600x900.jpg?width=1200",
-    "score": 40,
+    "title": "Path cleared for Nicolo Bulega MotoGP move as Ducati confirms WorldSBK departure",
+    "link": "https://www.crash.net/motogp/news/1104043/1/path-cleared-nicolo-bulega-motogp-move-ducati-confirms-worldsbk-departure",
+    "pub_date": "2026-09-09T08:12:41+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1333666_hires_1600x900.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -31,11 +15,69 @@
     ]
   },
   {
+    "position": 2,
+    "title": "Cal Crutchlow: “A tough watch” but Pecco Bagnaia “still one of the best” in MotoGP",
+    "link": "https://www.crash.net/motogp/news/1104041/1/cal-crutchlow-tough-watch-pecco-bagnaia-still-one-best-motogp",
+    "pub_date": "2026-09-08T15:05:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1339612_hires_1600x900.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
     "position": 3,
-    "title": "Marc Marquez among MotoGP stars to congratulate motorsport “beast” on unique record",
-    "link": "https://www.crash.net/motogp/news/1104000/1/marc-marquez-among-motogp-stars-congratulate-motorsport-beast-unique-record",
-    "pub_date": "2026-09-07T09:25:28+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/02_trialgp26_r11_bou_01397_ps.jpg?width=1200",
+    "title": "Jorge Martin says MotoGP title lead “not a priority” as Misano battle looms",
+    "link": "https://www.crash.net/motogp/news/1104033/1/jorge-martin-says-motogp-title-lead-not-priority-misano-battle-looms",
+    "pub_date": "2026-09-08T10:52:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1338023_hires_1600x900.jpg?width=1200",
+    "score": 22,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Fabio di Giannantonio “fired up” for final VR46 home MotoGP at Misano",
+    "link": "https://www.crash.net/motogp/news/1104039/1/fabio-di-giannantonio-fired-final-vr46-home-motogp-misano",
+    "pub_date": "2026-09-08T14:25:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1335378_hires_1600x900.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Jack Miller joins Yamaha WorldSBK team after MotoGP exit",
+    "link": "https://www.crash.net/motogp/news/1104029/1/jack-miller-joins-yamaha-worldsbk-team-after-motogp-exit",
+    "pub_date": "2026-09-08T12:07:02+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1293340_hires_1600x900.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Yamaha explains why Jack Miller was “too good to miss” for 2027 WorldSBK team",
+    "link": "https://www.crash.net/motogp/news/1104036/1/yamaha-explains-why-jack-miller-was-too-good-miss-2027-worldsbk-team",
+    "pub_date": "2026-09-08T13:13:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1331534_hires_1600x900_0.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -45,25 +87,11 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Veteran team boss warns Moto2, Moto3 \"becoming increasingly invisible\"",
-    "link": "https://www.crash.net/motogp/news/1104006/1/veteran-team-boss-warns-moto2-moto3-becoming-increasingly-invisible",
-    "pub_date": "2026-09-07T11:18:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1315814_hires_1600x900.jpg?width=1200",
-    "score": -8,
-    "score_reasons": [
-      "low-tier keywords x2 (+6)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "Italian star to be inducted as a MotoGP Legend at Misano",
-    "link": "https://www.crash.net/motogp/news/1104012/1/italian-star-be-inducted-motogp-legend-misano",
-    "pub_date": "2026-09-07T13:22:26+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_8133_hires_1600x900.jpg?width=1200",
+    "position": 7,
+    "title": "“Our journey… will come to an end” - VR46 confirms Franco Morbidelli's MotoGP departure",
+    "link": "https://www.crash.net/motogp/news/1104030/1/our-journey-will-come-end-vr46-confirms-franco-morbidelli-motogp-departure",
+    "pub_date": "2026-09-08T09:45:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1339845_hires_1600x900.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -72,16 +100,19 @@
     ]
   },
   {
-    "position": 6,
-    "title": "2026 Misano MotoGP: Start times and how to watch",
-    "link": "https://www.crash.net/motogp/news/1104001/1/2026-misano-motogp-start-times-and-how-watch",
-    "pub_date": "2026-09-07T09:43:15+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1264587_hires_1600x900.jpg?width=1200",
-    "score": -14,
+    "position": 8,
+    "title": "Yamaha bids farewell to Xavi Vierge, clearing way for Jack Miller WorldSBK move",
+    "link": "https://www.crash.net/wsbk/news/1104026/1/yamaha-bids-farewell-xavi-vierge-clearing-way-jack-miller-worldsbk-move",
+    "pub_date": "2026-09-08T08:22:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1340996_hires_1600x900.jpg?width=1200",
+    "score": -175,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

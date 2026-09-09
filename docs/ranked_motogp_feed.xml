@@ -7,66 +7,86 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 08:51:23 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 08:22:38 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:57:26 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 08:12:41 +0000</pubDate>
     <item>
-      <title>Podcast: Can Fabio Quartararo and Yamaha survive the rest of MotoGP 2026?</title>
-      <link>https://www.crash.net/motogp/news/1104023/1/podcast-can-fabio-quartararo-and-yamaha-survive-rest-motogp-2026</link>
-      <description>The team discuss Fabio Quartararo’s fallout with Yamaha in the new Crash MotoGP Podcast</description>
+      <title>Path cleared for Nicolo Bulega MotoGP move as Ducati confirms WorldSBK departure</title>
+      <link>https://www.crash.net/motogp/news/1104043/1/path-cleared-nicolo-bulega-motogp-move-ducati-confirms-worldsbk-departure</link>
+      <description>Nicolo Bulega’s path is clear for a move to MotoGP as Ducati hs confirmed his departure from its WorldSBK team.</description>
       <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/misano-gp-preview-2026.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104023/1/podcast-can-fabio-quartararo-and-yamaha-survive-rest-motogp-2026</guid>
-      <pubDate>Mon, 07 Sep 2026 15:35:06 +0000</pubDate>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-08/gng_1333666_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104043/1/path-cleared-nicolo-bulega-motogp-move-ducati-confirms-worldsbk-departure</guid>
+      <pubDate>Wed, 09 Sep 2026 08:12:41 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Cal Crutchlow: “A tough watch” but Pecco Bagnaia “still one of the best” in MotoGP</title>
+      <link>https://www.crash.net/motogp/news/1104041/1/cal-crutchlow-tough-watch-pecco-bagnaia-still-one-best-motogp</link>
+      <description>Cal Crutchlow backs Pecco Bagnaia to recover from his current MotoGP slump: “Still one of the best”.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1339612_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104041/1/cal-crutchlow-tough-watch-pecco-bagnaia-still-one-best-motogp</guid>
+      <pubDate>Tue, 08 Sep 2026 15:05:11 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Jorge Martin says MotoGP title lead “not a priority” as Misano battle looms</title>
+      <link>https://www.crash.net/motogp/news/1104033/1/jorge-martin-says-motogp-title-lead-not-priority-misano-battle-looms</link>
+      <description>Jorge Martin says retaining his MotoGP championship lead is “not a priority” as Marc Marquez and Marco Bezzecchi close in.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1338023_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104033/1/jorge-martin-says-motogp-title-lead-not-priority-misano-battle-looms</guid>
+      <pubDate>Tue, 08 Sep 2026 10:52:38 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Fabio di Giannantonio “fired up” for final VR46 home MotoGP at Misano</title>
+      <link>https://www.crash.net/motogp/news/1104039/1/fabio-di-giannantonio-fired-final-vr46-home-motogp-misano</link>
+      <description>Fabio di Giannantonio is “fired up” for what will be his final home MotoGP appearance with VR46 before joining factory KTM in 2027.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1335378_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104039/1/fabio-di-giannantonio-fired-final-vr46-home-motogp-misano</guid>
+      <pubDate>Tue, 08 Sep 2026 14:25:38 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Jack Miller joins Yamaha WorldSBK team after MotoGP exit</title>
+      <link>https://www.crash.net/motogp/news/1104029/1/jack-miller-joins-yamaha-worldsbk-team-after-motogp-exit</link>
+      <description>Jack Miller will leave MotoGP and join Yamaha’s factory WorldSBK team for 2027.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1293340_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104029/1/jack-miller-joins-yamaha-worldsbk-team-after-motogp-exit</guid>
+      <pubDate>Tue, 08 Sep 2026 12:07:02 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Yamaha explains why Jack Miller was “too good to miss” for 2027 WorldSBK team</title>
+      <link>https://www.crash.net/motogp/news/1104036/1/yamaha-explains-why-jack-miller-was-too-good-miss-2027-worldsbk-team</link>
+      <description>Yamaha says the opportunity to bring MotoGP race winner Jack Miller into its WorldSBK…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1331534_hires_1600x900_0.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104036/1/yamaha-explains-why-jack-miller-was-too-good-miss-2027-worldsbk-team</guid>
+      <pubDate>Tue, 08 Sep 2026 13:13:38 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>“Our journey… will come to an end” - VR46 confirms Franco Morbidelli&#x27;s MotoGP departure</title>
+      <link>https://www.crash.net/motogp/news/1104030/1/our-journey-will-come-end-vr46-confirms-franco-morbidelli-motogp-departure</link>
+      <description>VR46 has confirmed Franco Morbidelli will leave its MotoGP team, clearing the way for…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1339845_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104030/1/our-journey-will-come-end-vr46-confirms-franco-morbidelli-motogp-departure</guid>
+      <pubDate>Tue, 08 Sep 2026 09:45:38 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
     <item>
       <title>Yamaha bids farewell to Xavi Vierge, clearing way for Jack Miller WorldSBK move</title>
       <link>https://www.crash.net/wsbk/news/1104026/1/yamaha-bids-farewell-xavi-vierge-clearing-way-jack-miller-worldsbk-move</link>
-      <description>Yamaha has confirmed Xavi Vierge’s WorldSBK exit, clearing the path for Jack Miller to join its factory line-up in 2027.</description>
+      <description>Yamaha has confirmed Xavi Vierge’s WorldSBK exit, clearing the path for Jack Miller to…</description>
       <category>World Superbikes</category>
       <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1340996_hires_1600x900.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/wsbk/news/1104026/1/yamaha-bids-farewell-xavi-vierge-clearing-way-jack-miller-worldsbk-move</guid>
       <pubDate>Tue, 08 Sep 2026 08:22:38 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Marc Marquez among MotoGP stars to congratulate motorsport “beast” on unique record</title>
-      <link>https://www.crash.net/motogp/news/1104000/1/marc-marquez-among-motogp-stars-congratulate-motorsport-beast-unique-record</link>
-      <description>Marc Marquez was one of several MotoGP riders to appear in a video congratulating Toni Bou on his 40th trial world title.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/02_trialgp26_r11_bou_01397_ps.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104000/1/marc-marquez-among-motogp-stars-congratulate-motorsport-beast-unique-record</guid>
-      <pubDate>Mon, 07 Sep 2026 09:25:28 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Veteran team boss warns Moto2, Moto3 &quot;becoming increasingly invisible&quot;</title>
-      <link>https://www.crash.net/motogp/news/1104006/1/veteran-team-boss-warns-moto2-moto3-becoming-increasingly-invisible</link>
-      <description>Paolo Simoncelli has criticised declining Moto2 and Moto3 visibility, using a Titanic comparison to warn against dividing the paddock.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1315814_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104006/1/veteran-team-boss-warns-moto2-moto3-becoming-increasingly-invisible</guid>
-      <pubDate>Mon, 07 Sep 2026 11:18:29 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Italian star to be inducted as a MotoGP Legend at Misano</title>
-      <link>https://www.crash.net/motogp/news/1104012/1/italian-star-be-inducted-motogp-legend-misano</link>
-      <description>Loris Capirossi will be inducted as a MotoGP Legend during this weekend&#x27;s Misano round.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_8133_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104012/1/italian-star-be-inducted-motogp-legend-misano</guid>
-      <pubDate>Mon, 07 Sep 2026 13:22:26 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>2026 Misano MotoGP: Start times and how to watch</title>
-      <link>https://www.crash.net/motogp/news/1104001/1/2026-misano-motogp-start-times-and-how-watch</link>
-      <description>Information below on how to watch this weekend’s 2026 Misano MotoGP round, including timings…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1264587_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104001/1/2026-misano-motogp-start-times-and-how-watch</guid>
-      <pubDate>Mon, 07 Sep 2026 09:43:15 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

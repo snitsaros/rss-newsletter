@@ -1,64 +1,6 @@
 [
   {
     "position": 1,
-    "title": "Royal Enfield updates 350 range and launches new finance offers",
-    "link": "https://www.visordown.com/news/royal-enfield-updates-350-range-and-launches-new-finance-offers",
-    "pub_date": "2026-09-11T09:33:24+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/royal-enfield-hntr-350_0.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "MV Agusta responds to reports of financial problems and production halt",
-    "link": "https://www.visordown.com/news/mv-agusta-responds-reports-financial-problems-and-production-halt",
-    "pub_date": "2026-09-11T10:36:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/mv-production-line.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Aston Martin and Brough Superior launch road-legal AMB 002 Roadster",
-    "link": "https://www.visordown.com/news/aston-martin-and-brough-superior-launch-road-legal-amb-002-roadster",
-    "pub_date": "2026-09-09T09:53:15+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-09t105647.929.png?width=1200",
-    "score": -63,
-    "score_reasons": [
-      "mid-tier keywords x3 (+21)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "Suzuki RM-Z450 now available with £1,000 deposit contribution",
-    "link": "https://www.visordown.com/news/suzuki-rm-z450-now-available-ps1000-deposit-contribution",
-    "pub_date": "2026-09-10T08:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/rm-z450_m6_location_1.jpg?width=1200",
-    "score": -65,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 5,
     "title": "New motorcycle registrations surge with adventure bikes leading the way",
     "link": "https://www.visordown.com/news/new-motorcycle-registrations-surge-adventure-bikes-lead-way",
     "pub_date": "2026-09-10T11:30:00+00:00",
@@ -73,7 +15,22 @@
     ]
   },
   {
-    "position": 6,
+    "position": 2,
+    "title": "Royal Enfield updates 350 range and launches new finance offers",
+    "link": "https://www.visordown.com/news/royal-enfield-updates-350-range-and-launches-new-finance-offers",
+    "pub_date": "2026-09-11T09:33:24+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/royal-enfield-hntr-350_0.jpg?width=1200",
+    "score": -72,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 3,
     "title": "BMW M 1000 RR, R and XR get limited 100 Jahre Nürburgring editions",
     "link": "https://www.visordown.com/news/bmw-m-1000-rr-r-and-xr-get-limited-100-jahre-nurburgring-editions",
     "pub_date": "2026-09-11T08:06:05+00:00",
@@ -88,7 +45,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 4,
     "title": "Carl Fogarty helps Pocher reveal 1:4-scale Ducati Panigale V2 Superquadro Final Edition",
     "link": "https://www.visordown.com/news/carl-fogarty-helps-pocher-reveal-14-scale-ducati-panigale-v2-superquadro-final-edition",
     "pub_date": "2026-09-11T07:46:59+00:00",
@@ -103,22 +60,7 @@
     ]
   },
   {
-    "position": 8,
-    "title": "Ducati teams up with Pirelli and SACS Marine to create a new RIB speedboat",
-    "link": "https://www.visordown.com/news/ducati-teams-pirelli-and-sacs-marine-create-new-rib-speedboat",
-    "pub_date": "2026-09-09T08:57:52+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/unnamed.jpg?width=1200",
-    "score": -72,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 9,
+    "position": 5,
     "title": "Clarke JS1224 2000A 12/24V Jumpstart review",
     "link": "https://www.visordown.com/features/clarke-js1224-2000a-1224v-jumpstart-review",
     "pub_date": "2026-09-10T15:30:00+00:00",
@@ -133,14 +75,13 @@
     ]
   },
   {
-    "position": 10,
-    "title": "Airmaster Tiger 16/1050 14.5cfm 100 Litre 3HP Air Compressor (230V) review",
-    "link": "https://www.visordown.com/features/airmaster-tiger-161050-145cfm-100-litre-3hp-air-compressor-230v-review",
-    "pub_date": "2026-09-10T06:30:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-09t114939.104.png?width=1200",
-    "score": -77,
+    "position": 6,
+    "title": "MV Agusta responds to reports of financial problems and production halt",
+    "link": "https://www.visordown.com/news/mv-agusta-responds-reports-financial-problems-and-production-halt",
+    "pub_date": "2026-09-11T10:36:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/mv-production-line.jpg?width=1200",
+    "score": -84,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 72h (+10)",
       "good title length (+2)",
@@ -148,7 +89,7 @@
     ]
   },
   {
-    "position": 11,
+    "position": 7,
     "title": "Isle of Man TT Sidecars will return in 2027 with major rule changes",
     "link": "https://www.visordown.com/news/isle-man-tt-sidecars-will-return-2027-major-rule-changes",
     "pub_date": "2026-09-11T07:10:57+00:00",

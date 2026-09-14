@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-13T09:32:29.478875+00:00",
+  "updated_at_utc": "2026-09-14T09:50:34.245288+00:00",
   "used_urls": [
     "https://www.crash.net/moto2/news/1102409/1/manu-gonzalez-explains-silverstone-moto2-celebration-gaffe-cost-him-win",
     "https://www.crash.net/moto2/news/1102449/1/intact-gp-senna-agius-left-no-chance-silverstone-moto2-race",
@@ -16,6 +16,7 @@
     "https://www.crash.net/motogp/feature/1103338/1/marc-marquez-wasnt-motogps-biggest-winner-aragon-grand-prix",
     "https://www.crash.net/motogp/feature/1103401/1/ktm-motogp-riders-regain-500rpm-misano",
     "https://www.crash.net/motogp/feature/1104272/1/how-marc-marquez-can-deny-aprilia-home-motogp-success-misano",
+    "https://www.crash.net/motogp/feature/1104692/1/misano-exposed-one-aprilia-motogp-weakness-it-can-do-nothing-about",
     "https://www.crash.net/motogp/interview/1102554/1/why-2026-motogp-title-tilt-only-part-jorge-martins-aprilia-journey",
     "https://www.crash.net/motogp/interview/1102577/1/how-one-conversation-changed-career-motogps-newest-rising-star",
     "https://www.crash.net/motogp/live/1044229/silverstone-motogp-live-updates-british-gp-jorge-martin-starts-pole",
@@ -26,6 +27,7 @@
     "https://www.crash.net/motogp/live/1044230/aragon-motogp-live-updates-qualifying-motorland",
     "https://www.crash.net/motogp/live/1044231/misano-motogp-live-updates-friday-practice-san-marino",
     "https://www.crash.net/motogp/live/1044231/misano-motogp-live-updates-qualifying-san-marino-gp",
+    "https://www.crash.net/motogp/live/1044231/misano-motogp-live-updates-san-marino-gp-marco-bezzecchi-pole",
     "https://www.crash.net/motogp/news/1078437/1/all-time-motogp-winners-list-who-has-most-victories",
     "https://www.crash.net/motogp/news/1092378/1/all-time-motogp-sprint-race-winners-list",
     "https://www.crash.net/motogp/news/1101962/1/valentino-rossi-pecco-bagnaia-among-motogp-stars-ride-misano-race",
@@ -406,6 +408,20 @@
     "https://www.crash.net/motogp/news/1104526/1/not-result-we-wanted-fermin-aldeguer-after-pedro-acosta-misano-motogp-fight",
     "https://www.crash.net/motogp/news/1104528/1/aprilia-unveils-vespa-celebration-motogp-livery-inspired-f1-legend-misano",
     "https://www.crash.net/motogp/news/1104531/1/marc-marquez-will-try-make-marco-bezzecchis-life-bit-more-difficult-misano",
+    "https://www.crash.net/motogp/news/1104534/1/maverick-vinales-5050-red-bull-ring-motogp-return-says-ktm",
+    "https://www.crash.net/motogp/news/1104589/1/marc-marquez-wins-misano-motogp-take-championship-lead-bezzecchi-crashes",
+    "https://www.crash.net/motogp/news/1104605/1/marc-marquezs-first-words-new-2026-motogp-championship-leader",
+    "https://www.crash.net/motogp/news/1104613/1/when-next-motogp-race-after-san-marino-grand-prix",
+    "https://www.crash.net/motogp/news/1104630/1/marco-bezzecchis-blunt-response-about-pressure-after-costly-misano-motogp",
+    "https://www.crash.net/motogp/news/1104653/1/i-felt-free-marc-marquez-reveals-social-media-mental-step-misano-motogp",
+    "https://www.crash.net/motogp/news/1104661/1/alex-marquez-celebrates-unexpected-podium-marc-playing-bit-misano-motogp",
+    "https://www.crash.net/motogp/news/1104669/1/jorge-martins-motogp-title-charge-faces-surgery-dilemma-after-misano-arm-pump",
+    "https://www.crash.net/motogp/news/1104674/1/time-chill-acosta-ends-marquez-chase-after-front-end-scare-misano-motogp",
+    "https://www.crash.net/motogp/news/1104676/1/two-unusual-yamaha-problems-ended-jack-millers-misano-motogp",
+    "https://www.crash.net/motogp/news/1104679/1/there-are-no-favourites-ducati-plays-down-marc-marquezs-motogp-points-lead",
+    "https://www.crash.net/motogp/news/1104681/1/really-difficult-stop-ducati-rider-plagued-bike-problem-misano-motogp",
+    "https://www.crash.net/motogp/news/1104684/1/luca-marini-jokes-diggia-hates-me-after-misano-motogp-battle",
+    "https://www.crash.net/motogp/news/1104695/1/diogo-moreira-frustrated-misano-motogp-crash-after-key-breakthrough",
     "https://www.crash.net/motogp/results/1102116/1/2026-british-motogp-silverstone-friday-practice-results",
     "https://www.crash.net/motogp/results/1102164/1/2026-british-motogp-silverstone-sprint-race-results",
     "https://www.crash.net/motogp/results/1102165/1/silverstone-sprint-race-new-2026-motogp-world-championship-standings",
@@ -419,7 +435,9 @@
     "https://www.crash.net/motogp/results/1103254/1/2026-aragon-motogp-warm-up-results",
     "https://www.crash.net/motogp/results/1103255/1/aragon-new-2026-motogp-world-championship-standings",
     "https://www.crash.net/motogp/results/1104059/1/2026-misano-motogp-friday-practice-results",
+    "https://www.crash.net/motogp/results/1104463/1/2026-misano-motogp-race-results",
     "https://www.crash.net/motogp/results/1104463/1/2026-san-marino-motogp-warm-race-results",
+    "https://www.crash.net/motogp/results/1104467/1/misano-new-2026-motogp-world-championship-standings",
     "https://www.crash.net/wsbk/news/1104026/1/yamaha-bids-farewell-xavi-vierge-clearing-way-jack-miller-worldsbk-move"
   ]
 }

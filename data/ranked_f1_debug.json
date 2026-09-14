@@ -1,25 +1,10 @@
 [
   {
     "position": 1,
-    "title": "\"It cannot continue this way\" - Fernando Alonso slams current F1 era after FIA boss plea",
-    "link": "https://www.crash.net/f1/news/1104525/1/it-cannot-continue-way-fernando-alonso-slams-current-f1-era-after-fia-boss-plea",
-    "pub_date": "2026-09-12T18:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435125_hires.jpg?width=1200",
-    "score": 49,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x3 (+21)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Jose Mourinho praises \"incredible\" Kimi Antonelli and Fernando Alonso",
-    "link": "https://www.crash.net/f1/news/1104529/1/jose-mourinho-praises-incredible-kimi-antonelli-and-fernando-alonso",
-    "pub_date": "2026-09-13T07:57:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1359218_hires.jpg?width=1200",
+    "title": "Romain Grosjean apologises for ‘misunderstanding’ McLaren F1 boss Zak Brown after Oscar Piastri claim",
+    "link": "https://www.crash.net/f1/news/1104694/1/romain-grosjean-apologises-misunderstanding-mclaren-f1-boss-zak-brown-after-oscar",
+    "pub_date": "2026-09-14T08:52:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435161_hires.jpg?width=1200",
     "score": 45,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -30,15 +15,30 @@
     ]
   },
   {
-    "position": 3,
-    "title": "Lewis Hamilton blames Madrid F1 pole-miss on \"dodgy tyres\"",
-    "link": "https://www.crash.net/f1/news/1104519/1/lewis-hamilton-blames-madrid-f1-pole-miss-dodgy-tyres",
-    "pub_date": "2026-09-12T16:48:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435204_hires.jpg?width=1200",
-    "score": 42,
+    "position": 2,
+    "title": "‘Allowed to drink what I like’ - Lando Norris told off for drinking Coca-Cola after F1 Spanish GP",
+    "link": "https://www.crash.net/f1/news/1104691/1/allowed-drink-what-i-lando-norris-told-drinking-coca-cola-after-f1-spanish-gp",
+    "pub_date": "2026-09-14T07:25:29+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436457_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Max Verstappen fumes at “Mickey Mouse racing\" after Lewis Hamilton Madrid F1 incident",
+    "link": "https://www.crash.net/f1/news/1104686/1/max-verstappen-fumes-mickey-mouse-racing-after-lewis-hamilton-incident",
+    "pub_date": "2026-09-13T16:23:01+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437021_hires.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -46,85 +46,55 @@
   },
   {
     "position": 4,
-    "title": "Lando Norris ‘thought I was in the wall’ on ‘best ever’ lap for Madrid F1 pole",
-    "link": "https://www.crash.net/f1/news/1104513/1/lando-norris-thought-i-was-wall-best-ever-lap-madrid-f1-pole",
-    "pub_date": "2026-09-12T16:15:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436461_hires.jpg?width=1200",
-    "score": 42,
+    "title": "Prominent F1 photographer grabbed in choke hold by police at Spanish GP",
+    "link": "https://www.crash.net/f1/news/1104693/1/prominent-f1-photographer-grabbed-choke-hold-police-spanish-gp",
+    "pub_date": "2026-09-14T08:22:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436964_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 5,
-    "title": "Kimi Antonelli tops final Madrid F1 practice delayed by Lewis Hamilton shunt",
-    "link": "https://www.crash.net/f1/news/1104387/1/kimi-antonelli-tops-final-madrid-f1-practice-delayed-lewis-hamilton-shunt",
-    "pub_date": "2026-09-12T11:55:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435511_hires.jpg?width=1200",
-    "score": 41,
+    "title": "'Racing gods were with us' - Toto Wolff concedes fortunate Madrid F1 win",
+    "link": "https://www.crash.net/f1/news/1104683/1/racing-gods-were-us-toto-wolff-concedes-fortunate-madrid-f1-win",
+    "pub_date": "2026-09-13T16:10:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434092_hires.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
-      "top-tier keywords x4 (+48)",
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
       "good title length (+2)"
     ]
   },
   {
     "position": 6,
-    "title": "Lewis Hamilton risks Madrid F1 penalty after crash and ignoring Ferrari orders",
-    "link": "https://www.crash.net/f1/news/1104363/1/lewis-hamilton-risks-madrid-f1-penalty-after-crash-and-ignoring-ferrari",
-    "pub_date": "2026-09-12T11:08:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436098_hires.jpg?width=1200",
-    "score": 31,
+    "title": "What Madring needs to fix to stop F1 drivers 'falling asleep' after dull debut",
+    "link": "https://www.crash.net/f1/news/1104696/1/what-madring-needs-fix-stop-f1-drivers-falling-asleep-after-dull-debut",
+    "pub_date": "2026-09-14T09:35:29+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436757_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x3 (+21)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 7,
-    "title": "F1 2026 Spanish Grand Prix: Full starting grid for first race in Madrid after two penalties",
-    "link": "https://www.crash.net/f1/news/1104507/1/f1-2026-spanish-grand-prix-full-starting-grid-first-race-madrid",
-    "pub_date": "2026-09-13T09:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436395_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "Aprilia unveils Vespa celebration MotoGP livery inspired by F1 legend at Misano",
-    "link": "https://www.crash.net/motogp/news/1104528/1/aprilia-unveils-vespa-celebration-motogp-livery-inspired-f1-legend-misano",
-    "pub_date": "2026-09-13T07:39:10+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/whatsapp-image-2026-09-13-at-08.12.27.jpeg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Max Verstappen calls ‘BS’ over main Madrid F1 track design concern",
-    "link": "https://www.crash.net/f1/news/1104522/1/max-verstappen-calls-bs-over-main-madrid-f1-track-design-concern",
-    "pub_date": "2026-09-12T17:31:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436413_hires.jpg?width=1200",
+    "title": "Kimi Antonelli makes honest confession after latest F1 win in Madrid",
+    "link": "https://www.crash.net/f1/news/1104688/1/kimi-antonelli-makes-honest-confession-after-latest-f1-win-madrid",
+    "pub_date": "2026-09-13T17:30:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437022_hires.jpg?width=1200",
     "score": 28,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -134,26 +104,40 @@
     ]
   },
   {
-    "position": 10,
-    "title": "Lando Norris beats Kimi Antonelli to surprise first F1 pole at Madrid",
-    "link": "https://www.crash.net/f1/news/1104495/1/lando-norris-beats-kimi-antonelli-surprise-first-f1-pole-madrid",
-    "pub_date": "2026-09-12T15:05:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436384_hires.jpg?width=1200",
-    "score": 24,
+    "position": 8,
+    "title": "\"Insanely unlucky\" Lando Norris lambasts F1's virtual safety car rules",
+    "link": "https://www.crash.net/f1/news/1104687/1/insanely-unlucky-lando-norris-lambasts-f1s-virtual-safety-car-rules",
+    "pub_date": "2026-09-13T16:59:55+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436468_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 11,
-    "title": "Madrid's biggest challenge could force F1 drivers into \"grandmother driving\"",
-    "link": "https://www.crash.net/f1/news/1104521/1/madrids-biggest-challenge-could-force-f1-drivers-grandmother-driving",
-    "pub_date": "2026-09-12T16:59:20+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436149_hires.jpg?width=1200",
+    "position": 9,
+    "title": "Honda announces F1 power unit leadership structure changes",
+    "link": "https://www.crash.net/f1/news/1104690/1/honda-announces-f1-power-unit-leadership-structure-changes",
+    "pub_date": "2026-09-14T06:20:53+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435491_hires.jpg?width=1200",
+    "score": 24,
+    "score_reasons": [
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "'I almost fell asleep' - Scathing Madrid F1 reviews continue from drivers after debut race",
+    "link": "https://www.crash.net/f1/news/1104689/1/i-almost-fell-asleep-scathing-madrid-f1-reviews-continue-drivers-after-debut-race",
+    "pub_date": "2026-09-13T17:34:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436945_hires.jpg?width=1200",
     "score": 23,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -163,14 +147,29 @@
     ]
   },
   {
-    "position": 12,
-    "title": "Toto Wolff lands ‘idiot’ barb at Ferrari for Lewis Hamilton, Charles Leclerc's Monza clash",
-    "link": "https://www.crash.net/f1/news/1104408/1/toto-wolff-lands-idiot-barb-ferrari-lewis-hamilton-charles-leclercs-monza-clash",
-    "pub_date": "2026-09-12T12:59:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1434093_hires.jpg?width=1200",
-    "score": 22,
+    "position": 11,
+    "title": "Kimi Antonelli wins after Lando Norris loses out on turgid Madrid F1 debut",
+    "link": "https://www.crash.net/f1/race-report/1104657/1/kimi-antonelli-beats-max-verstappen-win-turgid-madrid-f1-debut",
+    "pub_date": "2026-09-13T14:41:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436919_hires.jpg?width=1200",
+    "score": 17,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "McLaren ramping up efforts for early Max Verstappen race engineer arrival amid Madrid F1 paddock meeting",
+    "link": "https://www.crash.net/f1/news/1104536/1/mclaren-ramping-efforts-early-max-verstappen-race-engineer-arrival-amid-madrid-f1",
+    "pub_date": "2026-09-13T10:27:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1423440_hires.jpg?width=1200",
+    "score": 10,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -178,14 +177,14 @@
   },
   {
     "position": 13,
-    "title": "F1 Madrid LIVE: Qualifying reaction after surprise Norris Spanish GP pole",
-    "link": "https://www.crash.net/f1/live/1044265/f1-madrid-live-spanish-gp-fp3-and-qualifying-updates",
-    "pub_date": "2026-09-12T15:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435564_hires.jpg?width=1200",
-    "score": 19,
+    "title": "2026 Formula 1 world championship standings after the Spanish Grand Prix",
+    "link": "https://www.crash.net/f1/results/1104667/1/2026-formula-1-world-championship-standings-after-spanish-grand-prix",
+    "pub_date": "2026-09-13T15:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436915_hires.jpg?width=1200",
+    "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x3 (+21)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -193,10 +192,10 @@
   },
   {
     "position": 14,
-    "title": "Anthony Davidson criticises Lewis Hamilton for setting bad example to young drivers in Madrid F1 practice",
-    "link": "https://www.crash.net/f1/news/1104436/1/anthony-davidson-criticises-lewis-hamilton-setting-bad-example-young-drivers",
-    "pub_date": "2026-09-12T13:39:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435723_hires.jpg?width=1200",
+    "title": "Spanish GP brake failure ends impressive Lewis Hamilton F1 2026 streak",
+    "link": "https://www.crash.net/f1/news/1104612/1/spanish-gp-brake-failure-ends-impressive-lewis-hamilton-f1-2026-streak",
+    "pub_date": "2026-09-13T13:55:17+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436490_hires.jpg?width=1200",
     "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -208,13 +207,14 @@
   },
   {
     "position": 15,
-    "title": "F1 2026 Spanish Grand Prix: Full qualifying result at Madrid",
-    "link": "https://www.crash.net/f1/results/1104497/1/f1-2026-spanish-grand-prix-full-qualifying-result-madrid",
-    "pub_date": "2026-09-12T15:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435497_hires.jpg?width=1200",
-    "score": 0,
+    "title": "F1 Madrid LIVE: Spanish GP race updates as Hamilton retires",
+    "link": "https://www.crash.net/f1/live/1044265/f1-madrid-live-spanish-gp-race-updates",
+    "pub_date": "2026-09-13T12:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435377_hires.jpg?width=1200",
+    "score": 5,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -222,13 +222,13 @@
   },
   {
     "position": 16,
-    "title": "2026 F1 Spanish Grand Prix - Madrid Final Practice Results",
-    "link": "https://www.crash.net/f1/results/1104389/1/2026-f1-spanish-grand-prix-madrid-final-practice-results",
-    "pub_date": "2026-09-12T12:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436098_hires.jpg?width=1200",
-    "score": 0,
+    "title": "Lewis Hamilton admits F1 2026 title all-but over after huge Madrid DNF blow",
+    "link": "https://www.crash.net/f1/news/1104678/1/lewis-hamilton-admits-f1-2026-title-all-over-after-huge-madrid-dnf-blow",
+    "pub_date": "2026-09-13T15:37:49+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1431145_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -236,10 +236,10 @@
   },
   {
     "position": 17,
-    "title": "Dull Madring racing debut gives worrying indication for F1 Spanish GP",
-    "link": "https://www.crash.net/f1/news/1104329/1/dull-madring-racing-debut-gives-worrying-indication-f1-spanish-gp",
-    "pub_date": "2026-09-12T09:50:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435944_hires.jpg?width=1200",
+    "title": "When is the next Formula 1 race after the Spanish Grand Prix?",
+    "link": "https://www.crash.net/f1/news/1104671/1/when-next-formula-1-race-after-spanish-grand-prix",
+    "pub_date": "2026-09-13T15:08:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436914_hires_0.jpg?width=1200",
     "score": -7,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -250,15 +250,42 @@
   },
   {
     "position": 18,
-    "title": "Max Verstappen details Red Bull’s true F1 engine reality after FIA ADUO verdict",
-    "link": "https://www.crash.net/f1/news/1104306/1/max-verstappen-details-red-bulls-true-f1-engine-reality-after-fia-aduo-verdict",
-    "pub_date": "2026-09-12T09:07:31+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609040148.jpg?width=1200",
-    "score": -48,
+    "title": "2026 F1 Spanish Grand Prix race results",
+    "link": "https://www.crash.net/f1/results/1104662/1/2026-f1-spanish-grand-prix-race-results",
+    "pub_date": "2026-09-13T14:47:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436876_hires.jpg?width=1200",
+    "score": -7,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 19,
+    "title": "Twist in Madrid Ferrari power deficit between Lewis Hamilton and Charles Leclerc",
+    "link": "https://www.crash.net/f1/news/1104533/1/twist-madrid-ferrari-power-deficit-between-lewis-hamilton-and-charles-leclerc",
+    "pub_date": "2026-09-13T09:33:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435530_hires.jpg?width=1200",
+    "score": -58,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "The key to Lando Norris' \"masterpiece\" Madrid F1 pole",
+    "link": "https://www.crash.net/f1/news/1104532/1/key-lando-norris-masterpiece-madrid-f1-pole",
+    "pub_date": "2026-09-13T09:32:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436438_hires.jpg?width=1200",
+    "score": -68,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)"

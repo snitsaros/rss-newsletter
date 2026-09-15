@@ -1,10 +1,10 @@
 [
   {
     "position": 1,
-    "title": "Harley-Davidson announces winner of new Creators Custom Clash competition",
-    "link": "https://www.visordown.com/news/harley-davidson-announces-winner-new-creators-custom-clash-competition",
-    "pub_date": "2026-09-14T08:36:20+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-14t094431.263.png?width=1200",
+    "title": "Triumph Originals voting opens with all seven Scrambler builds revealed",
+    "link": "https://www.visordown.com/news/triumph-originals-voting-opens-all-seven-scrambler-builds-revealed",
+    "pub_date": "2026-09-15T08:34:34+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-15t093809.354.png?width=1200",
     "score": 43,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -18,13 +18,14 @@
   },
   {
     "position": 2,
-    "title": "CARB filings reveal upcoming new Ducati model, collaboration with luxury car maker",
-    "link": "https://www.visordown.com/news/carb-filings-reveal-upcoming-new-ducati-model-collaboration-luxury-car-maker",
-    "pub_date": "2026-09-14T09:07:23+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/ducati-diavel-for-bentley-01.jpg?width=1200",
-    "score": 33,
+    "title": "Ducati Pirelli 44 speedboat revealed with 1,500bhp",
+    "link": "https://www.visordown.com/news/ducati-1500bhp-pirelli-rib-speedboat-revealed",
+    "pub_date": "2026-09-15T08:02:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/p44_ducati_sacstecnorib_v2-1.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 72h (+10)",
       "within 6h (+5)",
@@ -33,28 +34,130 @@
   },
   {
     "position": 3,
-    "title": "Sam Sunderland completes 2,356-mile first leg of world record attempt",
-    "link": "https://www.visordown.com/news/sam-sunderland-ride-triumph-tiger-1200-rally-explorer-around-world-record-attempt",
-    "pub_date": "2026-09-14T09:40:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/si202609100422.jpg?width=1200",
-    "score": -72,
+    "title": "Benda Rock 707 joins the Chinese brand’s growing cruiser motorcycle range",
+    "link": "https://www.visordown.com/news/benda-rock-707-joins-chinese-brands-growing-cruiser-motorcycle-range",
+    "pub_date": "2026-09-14T13:09:35+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/benda-rock-707-01.jpg?width=1200",
+    "score": 35,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 72h (+10)",
-      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Indian Motorcycle confirms 2027 Indian Riders Fest dates after record attendance",
+    "link": "https://www.visordown.com/news/indian-motorcycle-confirms-2027-indian-riders-fest-dates-after-record-attendance",
+    "pub_date": "2026-09-14T13:01:59+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-14t140738.277.png?width=1200",
+    "score": 35,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Suzuki GSX-R1000R Stealth edition launches in Italy",
+    "link": "https://www.visordown.com/news/suzuki-gsx-r1000r-stealth-edition-launches-italy",
+    "pub_date": "2026-09-14T10:33:01+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/suzuki-stealth-gsx-r1000r-02.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Lenovo reveals Ai-powered race data system for Ducati Panigale V2 junior championship riders",
+    "link": "https://www.visordown.com/news/lenovo-reveals-ai-powered-race-data-system-ducati-panigale-v2-junior-championship-riders",
+    "pub_date": "2026-09-14T10:06:28+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/v2-1.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "All-new MotoGP “Legends of Speed” exhibition to take centre stage at EICMA",
+    "link": "https://www.visordown.com/news/all-new-motogp-legends-speed-exhibition-take-centre-stage-eicma",
+    "pub_date": "2026-09-14T14:54:48+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/gng_172655_hires.jpg?width=1200",
+    "score": 19,
+    "score_reasons": [
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "Isle of Man TT confirms full transition from Supertwins to Sportbikes for 2027",
+    "link": "https://www.visordown.com/news/isle-man-tt-confirms-full-transition-supertwins-sportbikes-2027",
+    "pub_date": "2026-09-14T09:47:51+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/img_7403-jpg-1.jpg?width=1200",
+    "score": 16,
+    "score_reasons": [
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "Harley-Davidson announces winner of new Creators Custom Clash competition",
+    "link": "https://www.visordown.com/news/harley-davidson-announces-winner-new-creators-custom-clash-competition",
+    "pub_date": "2026-09-14T08:36:20+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-14t094431.263.png?width=1200",
+    "score": -62,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 72h (+10)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
-    "position": 4,
-    "title": "MV Agusta responds to reports of financial problems and production halt",
-    "link": "https://www.visordown.com/news/mv-agusta-responds-reports-financial-problems-and-production-halt",
-    "pub_date": "2026-09-11T10:36:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-09/mv-production-line.jpg?width=1200",
-    "score": -84,
+    "position": 10,
+    "title": "CARB filings reveal upcoming new Ducati model, collaboration with luxury car maker",
+    "link": "https://www.visordown.com/news/carb-filings-reveal-upcoming-new-ducati-model-collaboration-luxury-car-maker",
+    "pub_date": "2026-09-14T09:07:23+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/ducati-diavel-for-bentley-01.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "Sam Sunderland completes 2,356-mile first leg of world record attempt",
+    "link": "https://www.visordown.com/news/sam-sunderland-ride-triumph-tiger-1200-rally-explorer-around-world-record-attempt",
+    "pub_date": "2026-09-14T09:40:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-09/si202609100422.jpg?width=1200",
+    "score": -77,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 72h (+10)",
       "good title length (+2)",

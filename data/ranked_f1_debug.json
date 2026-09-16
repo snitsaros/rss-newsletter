@@ -1,14 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Lando Norris fuels Le Mans debut speculation after McLaren Hypercar test",
-    "link": "https://www.crash.net/f1/news/1104716/1/lando-norris-fuels-le-mans-debut-speculation-after-mclaren-hypercar-test",
-    "pub_date": "2026-09-15T08:14:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/james-barclay-and-lando-norris.JPG?width=1200",
-    "score": 48,
+    "title": "F1 reveals 24-round 2027 calendar with 10 sprint races including Monaco",
+    "link": "https://www.crash.net/f1/news/1104728/1/f1-reveals-24-round-2027-calendar-10-sprint-races-including-monaco",
+    "pub_date": "2026-09-16T09:00:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1414823_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "low-tier keywords x1 (+3)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -17,13 +16,14 @@
   },
   {
     "position": 2,
-    "title": "Why Red Bull made F1 Spanish GP order that infuriated Max Verstappen",
-    "link": "https://www.crash.net/f1/news/1104711/1/why-red-bull-made-f1-spanish-gp-order-infuriated-max-verstappen",
-    "pub_date": "2026-09-14T15:02:56+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609130735.jpg?width=1200",
-    "score": 22,
+    "title": "Charles Leclerc set for Baku F1 grid penalty despite positive Ferrari engine news",
+    "link": "https://www.crash.net/motogp/news/1104724/1/charles-leclerc-set-baku-f1-grid-penalty-despite-positive-ferrari-engine-news",
+    "pub_date": "2026-09-15T15:05:35+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436698_hires.jpg?width=1200",
+    "score": 24,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -31,13 +31,13 @@
   },
   {
     "position": 3,
-    "title": "Ferrari explains brake issues that caused Lewis Hamilton’s Madrid F1 retirement",
-    "link": "https://www.crash.net/f1/news/1104705/1/ferrari-explains-brake-issues-caused-lewis-hamiltons-madrid-f1-retirement",
-    "pub_date": "2026-09-14T12:43:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/10-spanish-gp-2026-friday_50bd450f-4065-417a-a50d-9e6e9ea58d4c.jpg?width=1200",
-    "score": 17,
+    "title": "Ferrari reveals where it is ‘paying the price’ in recent F1 weekends",
+    "link": "https://www.crash.net/f1/news/1104721/1/ferrari-reveals-where-it-paying-price-recent-f1-weekends",
+    "pub_date": "2026-09-15T11:08:21+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436804_hires.jpg?width=1200",
+    "score": 5,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "between 18-24h (-20)",
@@ -46,14 +46,12 @@
   },
   {
     "position": 4,
-    "title": "Carlos Sainz claims Fernando Alonso radio complaints provoked F1 Spanish GP penalty “like always”",
-    "link": "https://www.crash.net/f1/news/1104702/1/carlos-sainz-claims-fernando-alonso-radio-complaints-provoked-f1-spanish-gp",
-    "pub_date": "2026-09-14T10:58:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435170_hires.jpg?width=1200",
-    "score": 12,
+    "title": "Toto Wolff backs adjusting F1 rules to help Honda amid Ben Sulayem claims",
+    "link": "https://www.crash.net/f1/news/1104723/1/toto-wolff-backs-adjusting-f1-rules-help-honda-amid-ben-sulayem-claims",
+    "pub_date": "2026-09-15T14:11:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436121_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -61,10 +59,10 @@
   },
   {
     "position": 5,
-    "title": "F2 to “supersize” Baku round amid ongoing F1 calendar uncertainty",
-    "link": "https://www.crash.net/f2/news/1104700/1/f2-supersize-baku-round-amid-ongoing-f1-calendar-uncertainty",
-    "pub_date": "2026-09-14T10:35:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436332_hires.jpg?width=1200",
+    "title": "‘A failure’ - Guenther Steiner issues Madrid warning after F1 debut slammed",
+    "link": "https://www.crash.net/f1/news/1104719/1/failure-guenther-steiner-issues-madrid-warning-after-f1-debut-slammed",
+    "pub_date": "2026-09-15T10:06:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436196_hires.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -74,73 +72,29 @@
   },
   {
     "position": 6,
-    "title": "What Madring needs to fix to stop F1 drivers 'falling asleep' after dull debut",
-    "link": "https://www.crash.net/f1/news/1104696/1/what-madring-needs-fix-stop-f1-drivers-falling-asleep-after-dull-debut",
-    "pub_date": "2026-09-14T09:35:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436757_hires.jpg?width=1200",
-    "score": -107,
+    "title": "Max vs 100: How to watch world-record go-kart race featuring F1 star Max Verstappen today",
+    "link": "https://www.crash.net/f1/news/1104056/1/max-vs-100-how-watch-world-record-go-kart-race-featuring-f1-star-verstappen",
+    "pub_date": "2026-09-16T08:10:26+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609050120.jpg?width=1200",
+    "score": -67,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
     "position": 7,
-    "title": "Romain Grosjean apologises for ‘misunderstanding’ McLaren F1 boss Zak Brown after Oscar Piastri claim",
-    "link": "https://www.crash.net/f1/news/1104694/1/romain-grosjean-apologises-misunderstanding-mclaren-f1-boss-zak-brown-after-oscar",
-    "pub_date": "2026-09-14T08:52:46+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435161_hires.jpg?width=1200",
-    "score": -170,
+    "title": "Lando Norris fuels Le Mans debut speculation after McLaren Hypercar test",
+    "link": "https://www.crash.net/f1/news/1104716/1/lando-norris-fuels-le-mans-debut-speculation-after-mclaren-hypercar-test",
+    "pub_date": "2026-09-15T08:14:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/james-barclay-and-lando-norris.JPG?width=1200",
+    "score": -167,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "‘Allowed to drink what I like’ - Lando Norris told off for drinking Coca-Cola after F1 Spanish GP",
-    "link": "https://www.crash.net/f1/news/1104691/1/allowed-drink-what-i-lando-norris-told-drinking-coca-cola-after-f1-spanish-gp",
-    "pub_date": "2026-09-14T07:25:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436457_hires.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Prominent F1 photographer grabbed in choke hold by police at Spanish GP",
-    "link": "https://www.crash.net/f1/news/1104693/1/prominent-f1-photographer-grabbed-choke-hold-police-spanish-gp",
-    "pub_date": "2026-09-14T08:22:42+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436964_hires.jpg?width=1200",
-    "score": -180,
-    "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Honda announces F1 power unit leadership structure changes",
-    "link": "https://www.crash.net/f1/news/1104690/1/honda-announces-f1-power-unit-leadership-structure-changes",
-    "pub_date": "2026-09-14T06:20:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435491_hires.jpg?width=1200",
-    "score": -191,
-    "score_reasons": [
       "low-tier keywords x1 (+3)",
       "has image (+4)",
       "older than 24h (-100)",

@@ -7,156 +7,86 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 09:24:20 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 08:41:14 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:17:16 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 08:35:43 +0000</pubDate>
+    <item>
+      <title>Joan Mir to miss Red Bull Ring MotoGP, replacement announced</title>
+      <link>https://www.crash.net/motogp/news/1104727/1/joan-mir-miss-red-bull-ring-motogp-replacement-announced</link>
+      <description>Joan Mir withdraws from the Red Bull Ring MotoGP round after medical checks reveal ‘altered parameters in the blood’.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1343010_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104727/1/joan-mir-miss-red-bull-ring-motogp-replacement-announced</guid>
+      <pubDate>Wed, 16 Sep 2026 08:35:43 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>The complete 2027 MotoGP rider line-up</title>
+      <link>https://www.crash.net/motogp/feature/1084011/1/2027-motogp-rider-line-up</link>
+      <description>All riders have now been confirmed for the 2027 MotoGP World Championship, the debut season of 850cc engines and Pirelli tyres.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1331285_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/feature/1084011/1/2027-motogp-rider-line-up</guid>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Senna Agius completes 2027 MotoGP grid with Tech3 deal</title>
+      <link>https://www.crash.net/motogp/news/1104726/1/senna-agius-completes-2027-motogp-grid-tech3-deal</link>
+      <description>Australia will have a new MotoGP rider in 2027 with Senna Agius officially confirmed as completing next year&#x27;s grid.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1323402_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104726/1/senna-agius-completes-2027-motogp-grid-tech3-deal</guid>
+      <pubDate>Wed, 16 Sep 2026 07:34:21 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Jorge Martin set for crucial injury evaluation as Austria MotoGP looms</title>
+      <link>https://www.crash.net/motogp/news/1104722/1/jorge-martin-set-crucial-injury-evaluation-austria-motogp-looms</link>
+      <description>Jorge Martin is due to have an arm pump issue looked at this week</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1343086_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104722/1/jorge-martin-set-crucial-injury-evaluation-austria-motogp-looms</guid>
+      <pubDate>Tue, 15 Sep 2026 11:29:56 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>‘It’s a good story’ - Valentino Rossi reacts to Nicolo Bulega’s MotoGP step with VR46</title>
+      <link>https://www.crash.net/motogp/news/1104725/1/its-good-story-valentino-rossi-reacts-nicolo-bulegas-motogp-step-vr46</link>
+      <description>Valentino Rossi says Nicolo Bulega’s MotoGP step with VR46 will be “fun”</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1341947_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104725/1/its-good-story-valentino-rossi-reacts-nicolo-bulegas-motogp-step-vr46</guid>
+      <pubDate>Tue, 15 Sep 2026 15:38:01 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>‘They won’t let me’ - Pecco Bagnaia’s revealing Ducati MotoGP set-up claim</title>
+      <link>https://www.crash.net/motogp/news/1104720/1/they-wont-let-me-pecco-bagnaias-revealing-ducati-motogp-set-claim</link>
+      <description>Pecco Bagnaia has caused a stir with some comments made at Misano about Ducati</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1344199_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104720/1/they-wont-let-me-pecco-bagnaias-revealing-ducati-motogp-set-claim</guid>
+      <pubDate>Tue, 15 Sep 2026 10:45:19 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Maverick Vinales to miss another MotoGP race as injury recovery continues</title>
+      <link>https://www.crash.net/motogp/news/1104718/1/maverick-vinales-miss-another-motogp-race-injury-recovery-continues</link>
+      <description>Maverick Vinales will miss this weekend’s Austrian Grand Prix</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1333939_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104718/1/maverick-vinales-miss-another-motogp-race-injury-recovery-continues</guid>
+      <pubDate>Tue, 15 Sep 2026 09:20:21 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
     <item>
       <title>‘A special rider’ - Ducati boss says Misano win ‘Marc Marquez at his absolute best’</title>
       <link>https://www.crash.net/motogp/news/1104717/1/special-rider-ducati-boss-says-misano-win-marc-marquez-his-absolute-best</link>
-      <description>Gigi Dall’Igna has raved over Marc Marquez’s double victory at the San Marino Grand Prix</description>
+      <description>Gigi Dall’Igna has raved over Marc Marquez’s double victory at the San Marino Grand…</description>
       <category>MotoGP</category>
       <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1344097_hires_1600x900.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1104717/1/special-rider-ducati-boss-says-misano-win-marc-marquez-his-absolute-best</guid>
       <pubDate>Tue, 15 Sep 2026 08:41:14 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>The Fabio Quartararo Misano MotoGP problem that bodes ill for Yamaha’s Austria GP</title>
-      <link>https://www.crash.net/motogp/news/1104699/1/fabio-quartararo-misano-motogp-problem-bodes-ill-yamahas-austria-gp</link>
-      <description>Fabio Quartararo was hampered by fuel problems at the Misano MotoGP that he was not anticipating.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1344210_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104699/1/fabio-quartararo-misano-motogp-problem-bodes-ill-yamahas-austria-gp</guid>
-      <pubDate>Mon, 14 Sep 2026 10:22:21 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>‘Difficult to know why’ - Pecco Bagnaia found no solution to Ducati MotoGP struggles</title>
-      <link>https://www.crash.net/motogp/news/1104697/1/difficult-know-why-pecco-bagnaia-found-no-solution-ducati-motogp-struggles</link>
-      <description>Pecco Bagnaia continued to battle grip issues at the San Marino Grand Prix</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1344451_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104697/1/difficult-know-why-pecco-bagnaia-found-no-solution-ducati-motogp-struggles</guid>
-      <pubDate>Mon, 14 Sep 2026 10:08:03 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>2026 Red Bull Ring MotoGP: Start times and how to watch</title>
-      <link>https://www.crash.net/motogp/news/1104715/1/2026-red-bull-ring-motogp-start-times-and-how-watch</link>
-      <description>Information below on how to watch this weekend’s 2026 Austrian MotoGP round at the Red Bull Ring, including timings and schedule.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1253530_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104715/1/2026-red-bull-ring-motogp-start-times-and-how-watch</guid>
-      <pubDate>Mon, 14 Sep 2026 15:45:21 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Ducati flags rear-grip concern despite Marc Marquez MotoGP title lead</title>
-      <link>https://www.crash.net/motogp/news/1104709/1/ducati-flags-rear-grip-concern-despite-marc-marquez-motogp-title-lead</link>
-      <description>Ducati is unconcerned by Marc Marquez’s missed 2025 MotoGP rounds, but admits rear grip is &quot;something we&#x27;ll have to work on&quot; in the title fight.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1343993_hires_1600x900_0.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104709/1/ducati-flags-rear-grip-concern-despite-marc-marquez-motogp-title-lead</guid>
-      <pubDate>Mon, 14 Sep 2026 14:40:22 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Podcast: Was Misano the beginning of the end for Aprilia’s MotoGP title hopes?</title>
-      <link>https://www.crash.net/motogp/news/1104710/1/podcast-was-misano-beginning-end-aprilias-motogp-title-hopes</link>
-      <description>The team discuss the San Marino GP on the latest Crash MotoGP Podcast</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/crash-motogp-podcast_misano-gp.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104710/1/podcast-was-misano-beginning-end-aprilias-motogp-title-hopes</guid>
-      <pubDate>Mon, 14 Sep 2026 14:41:02 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Outgoing KTM MotoGP rider skirting “disaster” due to setup quirk</title>
-      <link>https://www.crash.net/motogp/news/1104706/1/outgoing-ktm-motogp-rider-skirting-disaster-due-setup-quirk</link>
-      <description>Enea Bastianini says there’s an element of bike setup at KTM that means he…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1343502_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104706/1/outgoing-ktm-motogp-rider-skirting-disaster-due-setup-quirk</guid>
-      <pubDate>Mon, 14 Sep 2026 12:40:28 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Marc Marquez admits MotoGP rivals handed him a “sweet present” in title fight</title>
-      <link>https://www.crash.net/motogp/news/1104707/1/marc-marquez-admits-motogp-rivals-handed-him-sweet-present-title-fight</link>
-      <description>Marc Marquez has erased a 102-point deficit to take the MotoGP championship lead.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1343988_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104707/1/marc-marquez-admits-motogp-rivals-handed-him-sweet-present-title-fight</guid>
-      <pubDate>Mon, 14 Sep 2026 13:20:22 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Yamaha explains Alex Rins Misano MotoGP retirement: “Safety has to come first”</title>
-      <link>https://www.crash.net/motogp/news/1104698/1/yamaha-explains-alex-rins-misano-motogp-retirement-safety-always-has-come</link>
-      <description>Alex Rins retired from the Misano MotoGP after suffering a migraine and severe nausea.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1342762_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104698/1/yamaha-explains-alex-rins-misano-motogp-retirement-safety-always-has-come</guid>
-      <pubDate>Mon, 14 Sep 2026 10:15:22 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Marco Bezzecchi on MotoGP title pressure: ‘If I didn’t want it, I’d work in my dad’s shop’</title>
-      <link>https://www.crash.net/motogp/news/1104703/1/marco-bezzecchi-motogp-title-pressure-if-i-didnt-want-it-id-work-my-dads-shop</link>
-      <description>Marco Bezzecchi says he welcomes MotoGP title pressure after Misano crash</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1344215_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104703/1/marco-bezzecchi-motogp-title-pressure-if-i-didnt-want-it-id-work-my-dads-shop</guid>
-      <pubDate>Mon, 14 Sep 2026 11:06:43 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>MotoGP rider radio “on a good level” and “interesting for the future”</title>
-      <link>https://www.crash.net/motogp/news/1104713/1/motogp-rider-radio-good-level-and-interesting-future</link>
-      <description>Luca Marini says MotoGP’s in-helmet radio technology is now working well.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1342093_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104713/1/motogp-rider-radio-good-level-and-interesting-future</guid>
-      <pubDate>Mon, 14 Sep 2026 15:20:22 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Pol Espargaro “riding like an old man” at “super-physical” Misano MotoGP</title>
-      <link>https://www.crash.net/motogp/news/1104708/1/pol-espargaro-riding-old-man-super-physical-misano-motogp</link>
-      <description>Pol Espargaro says he was riding “like an old man” in the Misano MotoGP.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1341582_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104708/1/pol-espargaro-riding-old-man-super-physical-misano-motogp</guid>
-      <pubDate>Mon, 14 Sep 2026 13:48:38 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>“Very impressive” - Toprak surprised by Misano MotoGP pace, but “impossible to overtake”</title>
-      <link>https://www.crash.net/motogp/news/1104704/1/very-impressive-toprak-surprised-misano-motogp-pace-impossible-overtake</link>
-      <description>Toprak Razgatlioglu set his fastest lap of the Misano weekend midway through Sunday’s race…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1342842_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104704/1/very-impressive-toprak-surprised-misano-motogp-pace-impossible-overtake</guid>
-      <pubDate>Mon, 14 Sep 2026 11:35:22 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Misano exposed the one Aprilia MotoGP weakness it can do nothing about</title>
-      <link>https://www.crash.net/motogp/feature/1104692/1/misano-exposed-one-aprilia-motogp-weakness-it-can-do-nothing-about</link>
-      <description>Aprilia should have won at least one of the races staged at the San…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1343963_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/feature/1104692/1/misano-exposed-one-aprilia-motogp-weakness-it-can-do-nothing-about</guid>
-      <pubDate>Mon, 14 Sep 2026 07:54:34 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Diogo Moreira frustrated by Misano MotoGP crash after key breakthrough</title>
-      <link>https://www.crash.net/motogp/news/1104695/1/diogo-moreira-frustrated-misano-motogp-crash-after-key-breakthrough</link>
-      <description>Diogo Moreira was left frustrated by his Misano MotoGP crash having felt as though…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/gng_1342811_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1104695/1/diogo-moreira-frustrated-misano-motogp-crash-after-key-breakthrough</guid>
-      <pubDate>Mon, 14 Sep 2026 08:48:29 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

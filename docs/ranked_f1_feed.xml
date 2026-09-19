@@ -7,16 +7,36 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_f1_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 08:59:34 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 08:42:45 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:47:37 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
     <item>
-      <title>24 Hours of Le Mans faces huge 2027 change amid FIA/ACO dispute</title>
+      <title>Why is F1 racing at the Azerbaijan Grand Prix on a Saturday?</title>
+      <link>https://www.crash.net/f1/news/1104762/1/why-f1-racing-azerbaijan-grand-prix-saturday</link>
+      <description>The F1 2026 Azerbaijan Grand Prix is on a Saturday this year. This is why...</description>
+      <category>F1</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/xpb_1374307_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1104762/1/why-f1-racing-azerbaijan-grand-prix-saturday</guid>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
+      <source url="https://www.crash.net/rss/f1">Crash.net</source>
+    </item>
+    <item>
+      <title>Guenther Steiner hits out at Lando Norris for F1 Coca-Cola spat</title>
+      <link>https://www.crash.net/f1/news/1104758/1/guenther-steiner-hits-out-lando-norris-f1-coca-cola-spat</link>
+      <description>Guenther Steiner was not impressed with Lando Norris&#x27; behaviour after the Spanish Grand Prix.</description>
+      <category>F1</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/xpb_1436461_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/f1/news/1104758/1/guenther-steiner-hits-out-lando-norris-f1-coca-cola-spat</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <source url="https://www.crash.net/rss/f1">Crash.net</source>
+    </item>
+    <item>
+      <title>FIA clarifies stance on 2027 24 Hours of Le Mans amid ACO rift</title>
       <link>https://www.crash.net/le-mans/news/1104780/1/24-hours-le-mans-faces-huge-2027-change-amid-fiaaco-dispute</link>
-      <description>A dispute between the FIA and the ACO over their WEC contract could have ramifications for Le Mans in 2027</description>
+      <description>A dispute between the FIA and the ACO over their WEC contract could have ramifications for Le Mans</description>
       <category>Le Mans</category>
       <enclosure url="https://www.crash.net/sites/default/files/2026-06/xpb_1418779_hires.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/le-mans/news/1104780/1/24-hours-le-mans-faces-huge-2027-change-amid-fiaaco-dispute</guid>
-      <pubDate>Fri, 18 Sep 2026 08:22:11 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 11:30:00 +0000</pubDate>
       <source url="https://www.crash.net/rss/f1">Crash.net</source>
     </item>
     <item>
@@ -34,79 +54,9 @@
       <link>https://www.crash.net/wrc/news/1104786/1/bbc-broadcast-major-motorsport-series-live-2027</link>
       <description>The WRC will receive live coverage on the BBC from 2027</description>
       <category>World Rally</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/xpb_1437154_hires.jpg?width=1200" type="image/jpeg" />
+      <enclosure url="https://www.crash.net/sites/default/files/2026-09/wrc-bbc_glasgow_2026_dsc_5482.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/wrc/news/1104786/1/bbc-broadcast-major-motorsport-series-live-2027</guid>
       <pubDate>Fri, 18 Sep 2026 08:42:45 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>Lewis Hamilton denies wild Ferrari F1 replacement requests amid tension reports</title>
-      <link>https://www.crash.net/f1/news/1104763/1/lewis-hamilton-denies-wild-ferrari-f1-replacement-requests-amid-tension-reports</link>
-      <description>Lewis Hamilton has addressed reports he has asked for staff changes at Ferrari.</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1425167_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104763/1/lewis-hamilton-denies-wild-ferrari-f1-replacement-requests-amid-tension-reports</guid>
-      <pubDate>Thu, 17 Sep 2026 14:15:50 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>‘Interesting’ - Lando Norris’ telling response to Monaco F1 sprint shock</title>
-      <link>https://www.crash.net/f1/news/1104749/1/interesting-lando-norris-telling-response-monaco-f1-sprint-shock</link>
-      <description>Lando Norris has given his reaction to the news that Monaco will host an F1 sprint race for the first time in 2027.</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-07/xpb_1427425_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104749/1/interesting-lando-norris-telling-response-monaco-f1-sprint-shock</guid>
-      <pubDate>Thu, 17 Sep 2026 09:58:54 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>Fernando Alonso spotted driving most expensive Bugatti Veyron ever built</title>
-      <link>https://www.crash.net/f1/news/1104755/1/fernando-alonso-spotted-driving-most-expensive-bugatti-veyron-ever-built</link>
-      <description>Fernando Alonso has been spotted driving an ultra-rare Bugatti Veyron in Monaco.</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/xpb_1435167_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104755/1/fernando-alonso-spotted-driving-most-expensive-bugatti-veyron-ever-built</guid>
-      <pubDate>Thu, 17 Sep 2026 11:32:30 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>Alpine bolsters ranks with signing of former Mercedes F1 chief technical officer</title>
-      <link>https://www.crash.net/f1/news/1104751/1/alpine-bolsters-ranks-signing-former-mercedes-f1-chief-technical-officer</link>
-      <description>Alpine has strengthened its F1 technical department with the signing of a former Mercedes…</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/xpb_1435512_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104751/1/alpine-bolsters-ranks-signing-former-mercedes-f1-chief-technical-officer</guid>
-      <pubDate>Thu, 17 Sep 2026 10:56:27 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>F1 could face additional 2027 calendar headache after Australian GP declaration</title>
-      <link>https://www.crash.net/f1/news/1104747/1/f1-could-face-additional-2027-calendar-headache-after-australian-gp-declaration</link>
-      <description>F1 could face an additional 2027 calendar headache surrounding the start of the season.</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/xpb_1399898_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104747/1/f1-could-face-additional-2027-calendar-headache-after-australian-gp-declaration</guid>
-      <pubDate>Thu, 17 Sep 2026 09:28:10 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>The latest on Isack Hadjar’s injury recovery and next steps before F1 triple-header</title>
-      <link>https://www.crash.net/f1/news/1104745/1/latest-isack-hadjars-injury-recovery-and-next-steps-f1-triple-header</link>
-      <description>Red Bull gives update on Isack Hadjar&#x27;s ongoing recovery from injury.</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/si202609100467.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104745/1/latest-isack-hadjars-injury-recovery-and-next-steps-f1-triple-header</guid>
-      <pubDate>Thu, 17 Sep 2026 08:59:15 +0000</pubDate>
-      <source url="https://www.crash.net/rss/f1">Crash.net</source>
-    </item>
-    <item>
-      <title>Max vs 100: What had Max Verstappen “a little bit worried” before beating 100 amateur karters</title>
-      <link>https://www.crash.net/f1/news/1104743/1/what-had-max-verstappen-little-bit-worried-beating-100-amateur-karters</link>
-      <description>Max Verstappen revealed he had some doubts before winning his epic Max vs 100…</description>
-      <category>F1</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/si202609160496.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/f1/news/1104743/1/what-had-max-verstappen-little-bit-worried-beating-100-amateur-karters</guid>
-      <pubDate>Thu, 17 Sep 2026 08:26:55 +0000</pubDate>
       <source url="https://www.crash.net/rss/f1">Crash.net</source>
     </item>
   </channel>

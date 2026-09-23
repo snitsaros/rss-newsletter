@@ -1,26 +1,10 @@
 [
   {
     "position": 1,
-    "title": "Red Bull makes driver change for Baku F1 as Isack Hadjar return decision made",
-    "link": "https://www.crash.net/f1/news/1105060/1/red-bull-makes-driver-change-baku-f1-isack-hadjar-return-decision-made",
-    "pub_date": "2026-09-22T08:18:11+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1425199_hires.jpg?width=1200",
-    "score": 40,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "Why Ferrari won’t switch its development focus to F1 2027",
-    "link": "https://www.crash.net/f1/news/1105053/1/why-ferrari-wont-switch-its-development-focus-f1-2027",
-    "pub_date": "2026-09-22T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435773_hires.jpg?width=1200",
+    "title": "Red Bull confirms driver line up for 2027 F1 season",
+    "link": "https://www.crash.net/f1/news/1105069/1/red-bull-confirms-driver-line-2027-f1-season",
+    "pub_date": "2026-09-23T07:35:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202607030209.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -31,28 +15,41 @@
     ]
   },
   {
-    "position": 3,
-    "title": "F1 plan for rule change to grands prix length in 2027 approved",
-    "link": "https://www.crash.net/f1/news/1105059/1/f1-approves-plan-rule-change-grands-prix-length-2027",
-    "pub_date": "2026-09-21T17:04:27+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436783_hires.jpg?width=1200",
-    "score": 16,
+    "position": 2,
+    "title": "What’s really behind F1’s delay in cancelling Middle East races",
+    "link": "https://www.crash.net/f1/news/1105073/1/whats-really-behind-f1s-delay-cancelling-middle-east-races",
+    "pub_date": "2026-09-23T09:06:24+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1391909_hires.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
       "has image (+4)",
       "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Guenther Steiner makes bold Lando Norris F1 2026 prediction",
+    "link": "https://www.crash.net/f1/news/1105055/1/guenther-steiner-makes-bold-lando-norris-f1-2026-prediction",
+    "pub_date": "2026-09-22T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/2295053964.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
     "position": 4,
-    "title": "Mercedes reveals timeline and target for long-awaited F1 upgrade",
-    "link": "https://www.crash.net/f1/news/1105050/1/mercedes-reveals-timeline-and-target-long-awaited-f1-upgrade",
-    "pub_date": "2026-09-21T13:15:22+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/m628458_f1_spanish_grand_prix_2026.jpg?width=1200",
-    "score": 1,
+    "title": "F1 team handed brutal 2026 “shocker” verdict by Nico Rosberg",
+    "link": "https://www.crash.net/f1/news/1105057/1/f1-team-handed-brutal-2026-shocker-verdict-nico-rosberg",
+    "pub_date": "2026-09-22T12:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1308627_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -60,100 +57,45 @@
   },
   {
     "position": 5,
-    "title": "F1 2026 Azerbaijan Grand Prix: Start time and schedule",
-    "link": "https://www.crash.net/f1/news/1105046/1/f1-2026-azerbaijan-grand-prix-start-time-and-schedule",
-    "pub_date": "2026-09-21T11:19:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1373081_hires.jpg?width=1200",
-    "score": -7,
+    "title": "F1 2027 grid: Which drivers have a seat and who is out of contract",
+    "link": "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line",
+    "pub_date": "2026-09-23T07:55:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202606070554.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 6,
-    "title": "How to watch the 2026 F1 Azerbaijan Grand Prix on Saturday in Baku",
-    "link": "https://www.crash.net/f1/news/1105044/1/how-watch-2026-f1-azerbaijan-grand-prix-saturday-baku",
-    "pub_date": "2026-09-21T10:54:01+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1374332_hires.jpg?width=1200",
-    "score": -7,
+    "title": "Red Bull makes driver change for Baku F1 as Isack Hadjar return decision made",
+    "link": "https://www.crash.net/f1/news/1105060/1/red-bull-makes-driver-change-baku-f1-isack-hadjar-return-decision-made",
+    "pub_date": "2026-09-22T08:18:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1425199_hires.jpg?width=1200",
+    "score": -175,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 7,
-    "title": "The worrying Max Verstappen F1 car issue Red Bull can’t fix in 2026",
-    "link": "https://www.crash.net/f1/news/1105042/1/worrying-max-verstappen-f1-car-issue-red-bull-cant-fix-2026",
-    "pub_date": "2026-09-21T09:41:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433481_hires_0.jpg?width=1200",
-    "score": -90,
+    "title": "Why Ferrari won’t switch its development focus to F1 2027",
+    "link": "https://www.crash.net/f1/news/1105053/1/why-ferrari-wont-switch-its-development-focus-f1-2027",
+    "pub_date": "2026-09-22T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435773_hires.jpg?width=1200",
+    "score": -182,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "Ollie Millroy returns home after horror GT crash that “changed my life forever”",
-    "link": "https://www.crash.net/sportscars/news/1105040/1/ollie-millroy-returns-home-after-horror-gt-crash-changed-my-life-forever",
-    "pub_date": "2026-09-21T09:25:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/untitled-design.jpg?width=1200",
-    "score": -107,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Nico Rosberg identifies Kimi Antonelli’s biggest obstacle in F1 title race",
-    "link": "https://www.crash.net/f1/news/1105036/1/nico-rosberg-identifies-kimi-antonellis-biggest-obstacle-f1-title-race",
-    "pub_date": "2026-09-21T08:31:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436469_hires.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Why is F1 racing at the Azerbaijan Grand Prix on a Saturday?",
-    "link": "https://www.crash.net/f1/news/1104762/1/why-f1-racing-azerbaijan-grand-prix-saturday",
-    "pub_date": "2026-09-21T07:34:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1374307_hires.jpg?width=1200",
-    "score": -187,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Popular F1 presenter's first race absence in 28 years explained",
-    "link": "https://www.crash.net/f1/news/1105038/1/popular-f1-presenters-first-race-absence-28-years-explained",
-    "pub_date": "2026-09-21T09:03:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1364492_hires.jpg?width=1200",
-    "score": -194,
-    "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

@@ -1,10 +1,56 @@
 [
   {
     "position": 1,
-    "title": "Red Bull confirms driver line up for 2027 F1 season",
-    "link": "https://www.crash.net/f1/news/1105069/1/red-bull-confirms-driver-line-2027-f1-season",
-    "pub_date": "2026-09-23T07:35:48+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202607030209.jpg?width=1200",
+    "title": "McLaren, Red Bull’s big Baku F1 upgrades revealed in Mercedes hunt",
+    "link": "https://www.crash.net/f1/news/1105104/1/mclaren-red-bulls-big-baku-f1-upgrades-revealed-mercedes-hunt",
+    "pub_date": "2026-09-24T07:51:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609131096.jpg?width=1200",
+    "score": 64,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "F1 Baku LIVE: Antonelli stops on track in Azerbaijan Grand Prix FP1",
+    "link": "https://www.crash.net/f1/live/1044266/f1-baku-live-updates-thursday-practice",
+    "pub_date": "2026-09-24T08:19:22+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436804_hires-1.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Charles Leclerc reveals the sport Ferrari has banned him from doing outside of F1",
+    "link": "https://www.crash.net/f1/news/1105095/1/charles-leclerc-reveals-sport-ferrari-has-banned-him-doing-outside-f1",
+    "pub_date": "2026-09-23T16:02:41+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437403_hires.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Fernando Alonso offers proposal to improve F1 after rules backlash",
+    "link": "https://www.crash.net/f1/news/1105142/1/fernando-alonso-offers-proposal-improve-f1-after-rules-backlash",
+    "pub_date": "2026-09-24T08:59:32+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/2293312825.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -15,11 +61,53 @@
     ]
   },
   {
-    "position": 2,
-    "title": "What’s really behind F1’s delay in cancelling Middle East races",
-    "link": "https://www.crash.net/f1/news/1105073/1/whats-really-behind-f1s-delay-cancelling-middle-east-races",
-    "pub_date": "2026-09-23T09:06:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1391909_hires.jpg?width=1200",
+    "position": 5,
+    "title": "Rafael Camara: Who is Ferrari F1 junior rumoured to replace Esteban Ocon",
+    "link": "https://www.crash.net/f1/news/1105094/1/rafael-camara-who-ferrari-f1-junior-rumoured-replace-esteban-ocon",
+    "pub_date": "2026-09-23T16:29:25+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433646_hires.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Max Verstappen’s “unknown quantity” highlighted by F1 rival in title chase",
+    "link": "https://www.crash.net/f1/news/1105096/1/max-verstappens-unknown-quantity-highlighted-f1-rival-title-chase",
+    "pub_date": "2026-09-23T16:28:53+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/si202607040065.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "Charles Leclerc doubles down on ‘unfair' Ferrari F1 scrutiny after Lewis Hamilton fights",
+    "link": "https://www.crash.net/f1/news/1105080/1/charles-leclerc-doubles-down-unfair-ferrari-f1-scrutiny-after-lewis-hamilton",
+    "pub_date": "2026-09-23T10:58:29+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436623_hires.jpg?width=1200",
+    "score": 22,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 8,
+    "title": "Flavio Briatore threatens Franco Colapinto media blackout over fan abuse fallout",
+    "link": "https://www.crash.net/f1/news/1105106/1/flavio-briatore-threatens-franco-colapinto-media-blackout-over-fan-abuse-fallout",
+    "pub_date": "2026-09-24T07:55:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436084_hires.jpg?width=1200",
     "score": 21,
     "score_reasons": [
       "has image (+4)",
@@ -29,11 +117,26 @@
     ]
   },
   {
-    "position": 3,
-    "title": "Guenther Steiner makes bold Lando Norris F1 2026 prediction",
-    "link": "https://www.crash.net/f1/news/1105055/1/guenther-steiner-makes-bold-lando-norris-f1-2026-prediction",
-    "pub_date": "2026-09-22T10:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/2295053964.jpg?width=1200",
+    "position": 9,
+    "title": "Why George Russell faced double penalty if he took Baku engine change",
+    "link": "https://www.crash.net/f1/news/1105083/1/why-george-russell-faced-double-penalty-if-he-took-baku-engine-change",
+    "pub_date": "2026-09-23T12:32:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437486_hires.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "Lewis Hamilton’s surprising stance on F1’s Middle East races",
+    "link": "https://www.crash.net/f1/news/1105091/1/lewis-hamiltons-surprising-stance-f1s-middle-east-races",
+    "pub_date": "2026-09-23T15:03:06+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437481_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -43,11 +146,81 @@
     ]
   },
   {
-    "position": 4,
-    "title": "F1 team handed brutal 2026 “shocker” verdict by Nico Rosberg",
-    "link": "https://www.crash.net/f1/news/1105057/1/f1-team-handed-brutal-2026-shocker-verdict-nico-rosberg",
-    "pub_date": "2026-09-22T12:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1308627_hires.jpg?width=1200",
+    "position": 11,
+    "title": "Lewis Hamilton criticises F1 rule change that “makes no sense”",
+    "link": "https://www.crash.net/f1/news/1105088/1/lewis-hamilton-criticises-f1-rule-change-makes-no-sense",
+    "pub_date": "2026-09-23T14:21:52+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437510_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Max Verstappen rules out 2027 Le Mans despite no F1 clash as GT3 race plans revealed",
+    "link": "https://www.crash.net/f1/news/1105086/1/max-verstappen-rules-out-2027-le-mans-despite-no-f1-clash-gt3-race-plans-revealed",
+    "pub_date": "2026-09-23T13:41:44+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437501_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 13,
+    "title": "Fernando Alonso on his talks with F1 as classic tracks \"killed\" by current rules",
+    "link": "https://www.crash.net/f1/news/1105085/1/fernando-alonso-his-talks-f1-classic-tracks-killed-current-rules",
+    "pub_date": "2026-09-23T12:53:19+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437346_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "F1 drivers react to Monaco sprint plans to improve “as dull as it gets” race",
+    "link": "https://www.crash.net/f1/news/1105089/1/f1-drivers-react-monaco-sprint-plans-improve-dull-it-gets-race",
+    "pub_date": "2026-09-23T14:18:07+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1413466_hires.jpg?width=1200",
+    "score": -7,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Doubt already cast as Williams deploys major F1 upgrade in Baku",
+    "link": "https://www.crash.net/f1/news/1105082/1/doubt-already-cast-williams-deploys-major-f1-upgrade-baku",
+    "pub_date": "2026-09-23T11:46:38+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1433426_hires.jpg?width=1200",
+    "score": -11,
+    "score_reasons": [
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 16,
+    "title": "Initial reports on F1’s 2030 V8 engine switch may upset fans",
+    "link": "https://www.crash.net/f1/news/1105081/1/initial-reports-f1s-2030-v8-engine-switch-may-upset-fans",
+    "pub_date": "2026-09-23T11:35:58+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1436945_hires.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -56,48 +229,56 @@
     ]
   },
   {
-    "position": 5,
-    "title": "F1 2027 grid: Which drivers have a seat and who is out of contract",
-    "link": "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line",
-    "pub_date": "2026-09-23T07:55:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202606070554.jpg?width=1200",
-    "score": -72,
+    "position": 17,
+    "title": "Isack Hadjar sheds light on his wrist injury recovery ahead of F1 return",
+    "link": "https://www.crash.net/f1/news/1105077/1/isack-hadjar-sheds-light-his-wrist-injury-recovery-ahead-f1-return",
+    "pub_date": "2026-09-23T10:28:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437406_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 18,
+    "title": "Cryptic remark offers bleak twist in Esteban Ocon F1 future saga",
+    "link": "https://www.crash.net/f1/news/1105076/1/cryptic-remark-offers-bleak-twist-esteban-ocon-f1-future-saga",
+    "pub_date": "2026-09-23T10:02:43+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/xpb_1412448_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 19,
+    "title": "Pierre Gasly reveals “disturbing” abuse towards his family by Franco Colapinto fans",
+    "link": "https://www.crash.net/f1/news/1105075/1/pierre-gasly-reveals-disturbing-abuse-towards-his-family-franco-colapinto-fans",
+    "pub_date": "2026-09-23T09:48:44+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1430711_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 20,
+    "title": "F1 2026 Azerbaijan Grand Prix: How to watch practice today",
+    "link": "https://www.crash.net/f1/news/1105046/1/f1-2026-azerbaijan-grand-prix-start-time-and-schedule",
+    "pub_date": "2026-09-24T07:45:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1373081_hires.jpg?width=1200",
+    "score": -65,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 6,
-    "title": "Red Bull makes driver change for Baku F1 as Isack Hadjar return decision made",
-    "link": "https://www.crash.net/f1/news/1105060/1/red-bull-makes-driver-change-baku-f1-isack-hadjar-return-decision-made",
-    "pub_date": "2026-09-22T08:18:11+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1425199_hires.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 7,
-    "title": "Why Ferrari won’t switch its development focus to F1 2027",
-    "link": "https://www.crash.net/f1/news/1105053/1/why-ferrari-wont-switch-its-development-focus-f1-2027",
-    "pub_date": "2026-09-22T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435773_hires.jpg?width=1200",
-    "score": -182,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]

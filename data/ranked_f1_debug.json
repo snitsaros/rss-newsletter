@@ -1,13 +1,28 @@
 [
   {
     "position": 1,
-    "title": "McLaren leaves door “wide open” for Max Verstappen despite Red Bull deal",
-    "link": "https://www.crash.net/f1/news/1105345/1/mclaren-leaves-door-wide-open-max-verstappen-despite-red-bull-deal",
-    "pub_date": "2026-09-25T09:21:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438696_hires.jpg?width=1200",
-    "score": 57,
+    "title": "Lewis Hamilton, Charles Leclerc’s “strange” Ferrari dynamic questioned by Jacques Villeneuve",
+    "link": "https://www.crash.net/f1/news/1105493/1/lewis-hamilton-charles-leclercs-strange-ferrari-dynamic-questioned-jacques",
+    "pub_date": "2026-09-25T16:09:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-08/xpb_1420857_hires.jpg?width=1200",
+    "score": 52,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "Max Verstappen faces engine penalty after Baku F1 qualifying problems",
+    "link": "https://www.crash.net/f1/news/1105512/1/max-verstappen-faces-engine-penalty-after-baku-f1-qualifying-problems",
+    "pub_date": "2026-09-26T08:30:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1439335_hires.jpg?width=1200",
+    "score": 47,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -15,29 +30,15 @@
     ]
   },
   {
-    "position": 2,
-    "title": "Lewis Hamilton learns verdict after Azerbaijan GP impeding investigation",
-    "link": "https://www.crash.net/f1/news/1105250/1/lewis-hamilton-learns-verdict-after-azerbaijan-gp-impeding-investigation",
-    "pub_date": "2026-09-24T16:25:52+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437248_hires.jpg?width=1200",
-    "score": 42,
+    "position": 3,
+    "title": "Fred Vasseur admits “it’s hard to work at Ferrari” amid recent firing rumours",
+    "link": "https://www.crash.net/f1/news/1105516/1/fred-vasseur-admits-its-hard-work-ferrari-amid-recent-firing-rumours",
+    "pub_date": "2026-09-26T09:10:29+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437482_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "F1 Azerbaijan Grand Prix LIVE: Updates from FP3 at Baku",
-    "link": "https://www.crash.net/f1/live/1044266/f1-azerbaijan-grand-prix-live-fp3-qualifying-updates-baku",
-    "pub_date": "2026-09-25T07:13:55+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437904_hires.jpg?width=1200",
-    "score": 35,
-    "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -46,10 +47,53 @@
   },
   {
     "position": 4,
-    "title": "Christian Horner open to shock F1 return with Ferrari: “It’s the dream”",
-    "link": "https://www.crash.net/f1/news/1105301/1/christian-horner-open-shock-f1-return-ferrari-its-dream",
-    "pub_date": "2026-09-25T08:43:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1358207_hires.jpg?width=1200",
+    "title": "The eerie Baku similarity F1's runaway leader is in danger of repeating at Azerbaijan GP",
+    "link": "https://www.crash.net/f1/feature/1105501/1/eerie-baku-similarity-f1s-runaway-leader-danger-repeating-azerbaijan-gp",
+    "pub_date": "2026-09-25T17:35:39+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1411415_hires.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Williams’ season-best F1 qualifying ruined by big Carlos Sainz penalty at Azerbaijan GP",
+    "link": "https://www.crash.net/f1/news/1105491/1/williams-season-best-f1-qualifying-ruined-big-carlos-sainz-penalty",
+    "pub_date": "2026-09-25T15:35:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438830_hires.jpg?width=1200",
+    "score": 37,
+    "score_reasons": [
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Max Verstappen outpaces George Russell in Azerbaijan GP final practice",
+    "link": "https://www.crash.net/f1/news/1105354/1/max-verstappen-outpaces-george-russell-azerbaijan-gp-final-practice",
+    "pub_date": "2026-09-25T09:38:12+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609240311.jpg?width=1200",
+    "score": 36,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "Charles Leclerc told F1 not a ‘picnic’ in bizarre David Coulthard dog criticism",
+    "link": "https://www.crash.net/f1/news/1105508/1/charles-leclerc-told-f1-not-picnic-bizarre-david-coulthard-dog-criticism",
+    "pub_date": "2026-09-26T08:30:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435982_hires.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -60,15 +104,44 @@
     ]
   },
   {
-    "position": 5,
-    "title": "The early verdict on Williams’ big Azerbaijan Grand Prix F1 upgrade package",
-    "link": "https://www.crash.net/f1/news/1105267/1/early-verdict-williams-big-azerbaijan-grand-prix-f1-upgrade-package",
-    "pub_date": "2026-09-25T07:53:51+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437790_hires.jpg?width=1200",
+    "position": 8,
+    "title": "George Russell makes Kimi Antonelli joke after Baku F1 crash",
+    "link": "https://www.crash.net/f1/news/1105484/1/george-russell-makes-kimi-antonelli-joke-after-baku-f1-crash",
+    "pub_date": "2026-09-25T14:51:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1439209_hires.jpg?width=1200",
     "score": 31,
     "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "George Russell storms to Azerbaijan GP pole after Kimi Antonelli crash",
+    "link": "https://www.crash.net/f1/news/1105453/1/george-russell-storms-azerbaijan-gp-pole-after-kimi-antonelli-crash",
+    "pub_date": "2026-09-25T13:10:59+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1439145_hires.jpg?width=1200",
+    "score": 31,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "How F1 fans in the US can watch the Azerbaijan Grand Prix for free",
+    "link": "https://www.crash.net/f1/news/1105502/1/how-f1-fans-us-can-watch-azerbaijan-grand-prix-free",
+    "pub_date": "2026-09-26T06:20:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1439186_hires.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
       "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -76,41 +149,26 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Red Bull confirms last major F1 2026 upgrade amid 2027 focus shift",
-    "link": "https://www.crash.net/f1/news/1105252/1/red-bull-confirms-last-major-f1-2026-upgrade-amid-2027-focus-shift",
-    "pub_date": "2026-09-24T17:03:48+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/si202609240313.jpg?width=1200",
-    "score": 31,
+    "position": 11,
+    "title": "F1 Azerbaijan Grand Prix: Full starting grid after penalties",
+    "link": "https://www.crash.net/f1/news/1105487/1/f1-azerbaijan-grand-prix-full-starting-gird-after-penalties",
+    "pub_date": "2026-09-26T06:05:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1439055_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 7,
-    "title": "George Russell stays on top in F1 Azerbaijan Grand Prix FP2 as Arvid Lindblad crashes at Baku",
-    "link": "https://www.crash.net/f1/news/1105232/1/george-russell-stays-top-f1-azerbaijan-grand-prix-fp2-arvid-lindblad-crashes-baku",
-    "pub_date": "2026-09-24T13:03:17+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437907_hires.jpg?width=1200",
-    "score": 29,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 8,
-    "title": "Kimi Antonelli’s F1 engine status revealed after Azerbaijan GP stoppage forces change",
-    "link": "https://www.crash.net/f1/news/1105243/1/kimi-antonellis-f1-engine-status-revealed-after-azerbaijan-gp-stoppage-forces",
-    "pub_date": "2026-09-24T14:52:58+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437635_hires.jpg?width=1200",
+    "position": 12,
+    "title": "Lewis Hamilton bemoans Ferrari changing Azerbaijan GP qualifying plan",
+    "link": "https://www.crash.net/f1/news/1105480/1/lewis-hamilton-bemoans-ferrari-changing-azerbaijan-gp-qualifying-plan",
+    "pub_date": "2026-09-25T14:06:12+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438646_hires.jpg?width=1200",
     "score": 24,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -121,72 +179,14 @@
     ]
   },
   {
-    "position": 9,
-    "title": "Ex-Red Bull, Mercedes and McLaren engineers join Cadillac F1 team",
-    "link": "https://www.crash.net/f1/news/1105245/1/ex-red-bull-mercedes-and-mclaren-engineers-join-cadillac-f1-team",
-    "pub_date": "2026-09-24T15:16:10+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438222_hires.jpg?width=1200",
-    "score": 22,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Lewis Hamilton investigated for “dangerous” incident that angered F1 rival at Azerbaijan GP",
-    "link": "https://www.crash.net/f1/news/1105234/1/lewis-hamilton-investigated-dangerous-incident-angered-f1-rival-azerbaijan-gp",
-    "pub_date": "2026-09-24T13:22:31+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437252_hires.jpg?width=1200",
-    "score": 19,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x3 (+21)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Lando Norris \"miles off\" in Baku F1 practice: \"Like a knife in the heart\"",
-    "link": "https://www.crash.net/f1/news/1105237/1/lando-norris-miles-baku-f1-practice-knife-heart",
-    "pub_date": "2026-09-24T13:49:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437382_hires.jpg?width=1200",
-    "score": 17,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Early drama for Kimi Antonelli in Baku F1 practice as George Russell fastest",
-    "link": "https://www.crash.net/f1/news/1105167/1/early-drama-kimi-antonelli-baku-f1-practice-george-russell-fastest",
-    "pub_date": "2026-09-24T09:38:06+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437637_hires.jpg?width=1200",
-    "score": 17,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 13,
-    "title": "Michael Schumacher's wife Corinna recalls touching story about F1 champion in new documentary",
-    "link": "https://www.crash.net/f1/news/1105249/1/michael-schumachers-wife-corinna-recalls-touching-story-about-f1-champion-new",
-    "pub_date": "2026-09-24T16:18:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_371680_hires.jpg?width=1200",
-    "score": 16,
+    "title": "Esteban Ocon launches sweary Azerbaijan GP qualifying outburst: ‘I don’t deserve this’",
+    "link": "https://www.crash.net/f1/news/1105499/1/esteban-ocon-launches-sweary-azerbaijan-gp-qualifying-outburst-i-dont-deserve",
+    "pub_date": "2026-09-25T16:36:24+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437294_hires.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -194,10 +194,24 @@
   },
   {
     "position": 14,
-    "title": "Fernando Alonso, Lance Stroll hit with 45-place Azerbaijan GP grid penalty",
-    "link": "https://www.crash.net/f1/news/1105242/1/fernando-alonso-lance-stroll-hit-45-place-azerbaijan-gp-grid-penalty",
-    "pub_date": "2026-09-24T14:37:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438009_hires.jpg?width=1200",
+    "title": "Isack Hadjar makes bold claim after shock Azerbaijan GP qualifying result",
+    "link": "https://www.crash.net/f1/news/1105494/1/isack-hadjar-makes-bold-claim-after-shock-azerbaijan-gp-qualifying-result",
+    "pub_date": "2026-09-25T16:08:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438826_hires.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Kimi Antonelli’s first words after Azerbaijan GP qualifying crash",
+    "link": "https://www.crash.net/f1/news/1105472/1/kimi-antonellis-first-words-after-azerbaijan-gp-qualifying-crash",
+    "pub_date": "2026-09-25T13:38:05+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438828_hires.jpg?width=1200",
     "score": 12,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -208,26 +222,11 @@
     ]
   },
   {
-    "position": 15,
-    "title": "Lewis Hamilton blames F1 rules for Baku near-miss: ‘Not the drivers’ fault'",
-    "link": "https://www.crash.net/f1/news/1105247/1/lewis-hamilton-blames-f1-rules-baku-near-miss-not-drivers-fault",
-    "pub_date": "2026-09-24T15:30:56+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437925_hires.jpg?width=1200",
-    "score": 5,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 16,
-    "title": "Isack Hadjar Red Bull F1 contract length addressed after new deal confusion",
-    "link": "https://www.crash.net/f1/news/1105201/1/isack-hadjar-red-bull-f1-contract-length-addressed-after-new-deal-confusion",
-    "pub_date": "2026-09-24T12:16:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437623_hires.jpg?width=1200",
+    "title": "Lando Norris would ‘rather die pushing’ after costly Baku F1 qualifying error",
+    "link": "https://www.crash.net/f1/news/1105489/1/lando-norris-would-rather-die-pushing-after-costly-baku-f1-qualifying-error",
+    "pub_date": "2026-09-25T15:15:54+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437381_hires.jpg?width=1200",
     "score": 5,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -239,10 +238,25 @@
   },
   {
     "position": 17,
-    "title": "F1 Azerbaijan Grand Prix: Full Thursday practice results in Baku",
-    "link": "https://www.crash.net/f1/results/1105168/1/2026-f1-azerbaijan-grand-prix-full-thursday-practice-results-baku",
-    "pub_date": "2026-09-24T13:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1437717_hires.jpg?width=1200",
+    "title": "Max Verstappen explains why Azerbaijan GP qualifying was “a disaster”",
+    "link": "https://www.crash.net/f1/news/1105482/1/max-verstappen-explains-why-azerbaijan-gp-qualifying-was-disaster",
+    "pub_date": "2026-09-25T14:41:49+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438846_hires.jpg?width=1200",
+    "score": 5,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 18,
+    "title": "F1 Azerbaijan Grand Prix: Full qualifying results",
+    "link": "https://www.crash.net/f1/results/1105457/1/f1-azerbaijan-grand-prix-full-qualifying-results",
+    "pub_date": "2026-09-25T13:08:54+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1438968_hires.jpg?width=1200",
     "score": 0,
     "score_reasons": [
       "mid-tier keywords x2 (+14)",
@@ -252,44 +266,35 @@
     ]
   },
   {
-    "position": 18,
-    "title": "F1 sets decision deadline for Middle East rounds as Lewis Hamilton backs racing in region",
-    "link": "https://www.crash.net/f1/news/1105177/1/f1-sets-decision-deadline-middle-east-rounds-lewis-hamilton-backs-racing-region",
-    "pub_date": "2026-09-24T11:38:23+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1392090_hires.jpg?width=1200",
-    "score": -2,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 19,
-    "title": "Jamie Chadwick creates history with maiden Williams F1 test",
-    "link": "https://www.crash.net/f1/news/1105239/1/jamie-chadwick-creates-history-maiden-williams-f1-test",
-    "pub_date": "2026-09-24T13:56:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/jamie-chadwick-7.jpg?width=1200",
-    "score": -11,
+    "title": "Why is F1 racing at the Azerbaijan Grand Prix on a Saturday?",
+    "link": "https://www.crash.net/f1/news/1104762/1/why-f1-racing-azerbaijan-grand-prix-saturday",
+    "pub_date": "2026-09-26T06:55:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1374307_hires.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
-      "low-tier keywords x1 (+3)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 20,
-    "title": "Haas reveals F1 driver decision timeline as Esteban Ocon exit speculation grows",
-    "link": "https://www.crash.net/f1/news/1105176/1/haas-reveals-f1-driver-decision-timeline-esteban-ocon-exit-speculation-grows",
-    "pub_date": "2026-09-24T11:36:17+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1435212_hires.jpg?width=1200",
-    "score": -14,
+    "title": "F1 2026 Azerbaijan Grand Prix: Start time and TV schedule",
+    "link": "https://www.crash.net/f1/news/1105046/1/f1-2026-azerbaijan-grand-prix-start-time-and-schedule",
+    "pub_date": "2026-09-26T06:45:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/xpb_1373081_hires.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   }
 ]

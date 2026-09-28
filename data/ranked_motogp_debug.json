@@ -1,10 +1,10 @@
 [
   {
     "position": 1,
-    "title": "Jorge Martin arm surgery decision: Aprilia backs “lower risk” option",
-    "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
-    "pub_date": "2026-09-27T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
+    "title": "Fabio Quartararo forced into major sponsor change for Honda move",
+    "link": "https://www.crash.net/motogp/news/1105864/1/fabio-quartararo-forced-major-sponsor-change-honda-move",
+    "pub_date": "2026-09-28T09:34:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1344603_hires.jpg?width=1200",
     "score": 57,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
@@ -16,13 +16,53 @@
   },
   {
     "position": 2,
-    "title": "Toprak Razgatlioglu reveals when he thought to “stop racing”",
-    "link": "https://www.crash.net/motogp/news/1105481/1/toprak-razgatlioglu-reveals-when-he-thought-stop-racing",
-    "pub_date": "2026-09-26T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1346519_hires_1600x900.jpg?width=1200",
-    "score": -191,
+    "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
+    "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
+    "pub_date": "2026-09-28T06:40:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
-      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Pol Espargaro: Motegi would be “perfect” for Maverick Vinales return",
+    "link": "https://www.crash.net/motogp/news/1105492/1/pol-espargaro-motegi-would-be-perfect-maverick-vinales-return",
+    "pub_date": "2026-09-27T13:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1332997_hires_1600x900_0.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Senna Agius: Shame not to share MotoGP grid with Jack Miller",
+    "link": "https://www.crash.net/motogp/news/1105485/1/senna-agius-shame-not-share-motogp-grid-jack-miller",
+    "pub_date": "2026-09-27T11:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1231714_hires_1600x900.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Jorge Martin arm surgery decision: Aprilia backs “lower risk” option",
+    "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
+    "pub_date": "2026-09-27T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
+    "score": -158,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

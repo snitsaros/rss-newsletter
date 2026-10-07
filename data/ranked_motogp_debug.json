@@ -1,10 +1,24 @@
 [
   {
     "position": 1,
-    "title": "Honda announces Joan Mir’s replacement for Indonesian MotoGP",
-    "link": "https://www.crash.net/motogp/news/1106562/1/honda-announces-joan-mirs-replacement-indonesian-motogp",
-    "pub_date": "2026-10-06T08:29:01+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1288227_hires.jpg?width=1200",
+    "title": "Jorge Martin issues Aprilia message amid \"very tight\" Marc Marquez title battle",
+    "link": "https://www.crash.net/motogp/news/1106572/1/jorge-martin-issues-aprilia-message-amid-very-tight-marc-marquez-title-battle",
+    "pub_date": "2026-10-06T14:19:23+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350777_hires_1600x900.jpg?width=1200",
+    "score": 34,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "Toprak takes inspiration from WorldSBK glory, Pramac seeks MotoGP \"turning point\"",
+    "link": "https://www.crash.net/motogp/news/1106583/1/toprak-takes-inspiration-worldsbk-glory-pramac-seeks-motogp-turning-point",
+    "pub_date": "2026-10-07T10:44:24+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_962939_hires_1600x900.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -15,27 +29,14 @@
     ]
   },
   {
-    "position": 2,
-    "title": "MotoAmerica disappointed after Harley-Davidson ditches KOTB programme",
-    "link": "https://www.crash.net/motogp/news/1106567/1/motoamerica-disappointed-after-harley-davidson-ditches-kotb-programme",
-    "pub_date": "2026-10-06T10:03:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/site-image-resize-2026-10-06t110619.915.png?width=1200",
-    "score": 21,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 3,
-    "title": "VR46 unveils bold new livery for Indonesian MotoGP round",
-    "link": "https://www.crash.net/motogp/news/1106566/1/vr46-unveils-bold-new-livery-indonesian-motogp-round",
-    "pub_date": "2026-10-06T09:55:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/55572486021_dbe3885e1a_k.jpg?width=1200",
-    "score": 21,
+    "title": "Marc Marquez out to “reverse” bleak Mandalika MotoGP record",
+    "link": "https://www.crash.net/motogp/news/1106576/1/marc-marquez-out-reverse-miserable-mandalika-motogp-record",
+    "pub_date": "2026-10-07T07:57:24+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350981_hires_1600x900.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -44,29 +45,26 @@
   },
   {
     "position": 4,
-    "title": "Why Marc Marquez was right to shun MotoGP’s kart race in Japan",
-    "link": "https://www.crash.net/motogp/feature/1106559/1/why-marc-marquez-was-right-shun-motogps-kart-race-japan",
-    "pub_date": "2026-10-05T15:28:41+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351177_hires.jpg?width=1200",
-    "score": 5,
+    "title": "Casey Stoner “fighting” to get Phillip Island back on MotoGP calendar after Adelaide switch",
+    "link": "https://www.crash.net/motogp/news/1106575/1/casey-stoner-fighting-get-phillip-island-back-motogp-calendar-after-adelaide",
+    "pub_date": "2026-10-07T07:14:59+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_370102_hires_1600x900.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 5,
-    "title": "Michelin’s unfavoured Japanese MotoGP back-up tyre ‘could’ve done three races’",
-    "link": "https://www.crash.net/motogp/news/1106558/1/michelins-unfavoured-japanese-motogp-back-tyre-couldve-done-three-races",
-    "pub_date": "2026-10-05T14:34:57+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1349314_hires.jpg?width=1200",
-    "score": 3,
+    "title": "Valentino Rossi’s intimidation tactics helped Casey Stoner in fierce MotoGP battle",
+    "link": "https://www.crash.net/motogp/news/1106569/1/valentino-rossis-intimidation-tactics-helped-casey-stoner-fierce-motogp",
+    "pub_date": "2026-10-06T11:23:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1253467_hires.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -74,173 +72,55 @@
   },
   {
     "position": 6,
-    "title": "Maverick Vinales’ “worry” about Japan MotoGP return was not injury-related",
-    "link": "https://www.crash.net/motogp/news/1106551/1/maverick-vinales-worry-about-japan-motogp-return-was-not-injury-related",
-    "pub_date": "2026-10-05T11:37:48+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350946_hires.jpg?width=1200",
-    "score": 0,
+    "title": "The 2027 WorldSBK rider line-up so far",
+    "link": "https://www.crash.net/wsbk/news/1104737/1/2027-worldsbk-rider-line-so-far",
+    "pub_date": "2026-10-07T08:55:03+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1341361_hires_1600x900.jpg?width=1200",
+    "score": -72,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 7,
-    "title": "Watch: Valentino Rossi loses a door in bizarre Barcelona GT race incident",
-    "link": "https://www.crash.net/motogp/news/1106557/1/watch-valentino-rossi-loses-door-bizarre-barcelona-gt-race-incident",
-    "pub_date": "2026-10-05T14:32:20+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1352565_hires.jpg?width=1200",
-    "score": -14,
+    "title": "Honda announces Joan Mir’s replacement for Indonesian MotoGP",
+    "link": "https://www.crash.net/motogp/news/1106562/1/honda-announces-joan-mirs-replacement-indonesian-motogp",
+    "pub_date": "2026-10-06T08:29:01+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1288227_hires.jpg?width=1200",
+    "score": -182,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 8,
-    "title": "MotoGP returnee enjoys “quite amazing” Motegi comeback",
-    "link": "https://www.crash.net/motogp/news/1106554/1/motogp-returnee-enjoys-quite-amazing-motegi-comeback",
-    "pub_date": "2026-10-05T13:27:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350823_hires.jpg?width=1200",
-    "score": -14,
+    "title": "MotoAmerica disappointed after Harley-Davidson ditches KOTB programme",
+    "link": "https://www.crash.net/motogp/news/1106567/1/motoamerica-disappointed-after-harley-davidson-ditches-kotb-programme",
+    "pub_date": "2026-10-06T10:03:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/site-image-resize-2026-10-06t110619.915.png?width=1200",
+    "score": -194,
     "score_reasons": [
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
     ]
   },
   {
     "position": 9,
-    "title": "Bagnaia picks Marc Marquez, Martin strongholds in “fantastic” MotoGP title fight",
-    "link": "https://www.crash.net/motogp/news/1106540/1/bagnaia-picks-marc-marquez-martin-strongholds-fantastic-motogp-title-fight",
-    "pub_date": "2026-10-05T09:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350777_hires_1600x900.jpg?width=1200",
-    "score": -146,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "Official: Franco Morbidelli swaps MotoGP for factory Ducati WorldSBK seat",
-    "link": "https://www.crash.net/motogp/news/1104024/1/official-franco-morbidelli-swaps-motogp-factory-worldsbk-seat",
-    "pub_date": "2026-10-05T10:03:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1308012_hires.jpg?width=1200",
-    "score": -168,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "The winless Ducati “in my heart” as Marc Marquez delivers Dall’Igna's 100th MotoGP victory",
-    "link": "https://www.crash.net/motogp/news/1106539/1/dalligna-names-ducati-my-heart-after-marc-marquez-delivers-100th-motogp-win",
-    "pub_date": "2026-10-05T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gigi-100-3_1600x900.jpg?width=1200",
-    "score": -170,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Aprilia “pushed” for changes after “clear safety issue” at Motegi MotoGP",
-    "link": "https://www.crash.net/motogp/news/1106538/1/aprilia-pushed-changes-after-clear-safety-issue-motegi-motogp",
-    "pub_date": "2026-10-05T07:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350152_hires_1600x900.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 13,
-    "title": "Why Jack Miller’s Yamaha was “unrideable” in Motegi MotoGP: “So safe it’s ridiculous”",
-    "link": "https://www.crash.net/motogp/news/1106537/1/jack-millers-yamaha-became-unrideable-motegi-motogp-so-safe-its-ridiculous",
-    "pub_date": "2026-10-05T03:32:08+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350708_hires_1600x900.jpg?width=1200",
-    "score": -175,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 14,
-    "title": "Ducati boss reacts to “extremely valuable” Franco Morbidelli WorldSBK move",
-    "link": "https://www.crash.net/wsbk/news/1106549/1/ducati-boss-reacts-extremely-valuable-franco-morbidelli-worldsbk-move",
-    "pub_date": "2026-10-05T11:01:28+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1348793_hires.jpg?width=1200",
-    "score": -182,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "Toprak Razgatlioglu details “strange” Yamaha issue in Japan MotoGP",
-    "link": "https://www.crash.net/motogp/news/1106547/1/toprak-razgatlioglu-details-strange-yamaha-issue-japan-motogp",
-    "pub_date": "2026-10-05T10:31:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350944_hires.jpg?width=1200",
-    "score": -182,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 16,
-    "title": "Luca Marini gives Michelin “advice” after unexpected Japanese MotoGP breakthrough",
-    "link": "https://www.crash.net/motogp/news/1106546/1/luca-marini-gives-michelin-advice-after-unexpected-japanese-motogp",
-    "pub_date": "2026-10-05T10:19:02+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350709_hires.jpg?width=1200",
-    "score": -187,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 17,
-    "title": "2026 Indonesian MotoGP at Mandalika: Start times and how to watch",
-    "link": "https://www.crash.net/motogp/news/1106544/1/2026-indonesian-motogp-mandalika-start-times-and-how-watch",
-    "pub_date": "2026-10-05T10:24:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350749_hires_1600x900.jpg?width=1200",
+    "title": "VR46 unveils bold new livery for Indonesian MotoGP round",
+    "link": "https://www.crash.net/motogp/news/1106566/1/vr46-unveils-bold-new-livery-indonesian-motogp-round",
+    "pub_date": "2026-10-06T09:55:05+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/55572486021_dbe3885e1a_k.jpg?width=1200",
     "score": -194,
     "score_reasons": [
       "has image (+4)",

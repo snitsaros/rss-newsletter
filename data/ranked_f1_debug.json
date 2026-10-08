@@ -1,10 +1,25 @@
 [
   {
     "position": 1,
-    "title": "Fernando Alonso makes wild Lewis Hamilton claim and blasts ‘unfair’ F1 decision",
-    "link": "https://www.crash.net/f1/news/1106579/1/fernando-alonso-makes-wild-lewis-hamilton-claim-and-blasts-unfair-f1-decision",
-    "pub_date": "2026-10-07T08:59:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1440987_hires.jpg?width=1200",
+    "title": "When is Max Verstappen’s engineer leaving Red Bull for McLaren? Zak Brown hints it could be sooner than expected",
+    "link": "https://www.crash.net/f1/news/1106607/1/when-max-verstappens-engineer-leaving-red-bull-mclaren-zak-brown-hints-it-could",
+    "pub_date": "2026-10-08T08:30:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1420417_hires.jpg?width=1200",
+    "score": 53,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "awkward title length (-2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "Lando Norris hopeful McLaren has found fix for mystery F1 car speed loss",
+    "link": "https://www.crash.net/f1/news/1106618/1/lando-norris-hopeful-mclaren-has-found-fix-mystery-f1-car-speed-loss",
+    "pub_date": "2026-10-08T10:55:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442673_hires.jpg?width=1200",
     "score": 52,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -16,16 +31,14 @@
     ]
   },
   {
-    "position": 2,
-    "title": "Mercedes reveals Singapore split car plan amid F1 upgrade confusion",
-    "link": "https://www.crash.net/f1/news/1106582/1/mercedes-reveals-singapore-split-car-plan-amid-f1-upgrade-confusion",
-    "pub_date": "2026-10-07T10:25:06+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442261_hires.jpg?width=1200",
-    "score": 43,
+    "position": 3,
+    "title": "Max Verstappen says Red Bull is 'less stressful' after Christian Horner exit",
+    "link": "https://www.crash.net/f1/news/1106595/1/max-verstappen-makes-telling-red-bull-admission-after-christian-horner-f1-exit",
+    "pub_date": "2026-10-08T06:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/si202505302250.jpg?width=1200",
+    "score": 45,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -33,11 +46,26 @@
     ]
   },
   {
-    "position": 3,
-    "title": "Christian Horner sends message in response to Red Bull’s landmark F1 win",
-    "link": "https://www.crash.net/f1/news/1106581/1/christian-horner-sends-message-response-red-bulls-landmark-f1-win",
-    "pub_date": "2026-10-07T09:49:36+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-06/si202502260249.jpg?width=1200",
+    "position": 4,
+    "title": "FIA reveals findings of investigation into Bahrain GP ‘software bug’ slammed by F1 drivers",
+    "link": "https://www.crash.net/f1/news/1106605/1/fia-reveals-findings-investigation-bahrain-gp-software-bug-slammed-drivers",
+    "pub_date": "2026-10-08T07:36:53+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442097_hires.jpg?width=1200",
+    "score": 42,
+    "score_reasons": [
+      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Fernando Alonso shuts down “rumours” surrounding Dakar Rally return",
+    "link": "https://www.crash.net/f1/news/1106614/1/fernando-alonso-shuts-down-rumours-surrounding-dakar-rally-return",
+    "pub_date": "2026-10-08T10:08:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1441329_hires.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -48,30 +76,14 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Andrea Stella admits ‘incorrect judgment’ ruined McLaren's Bahrain GP",
-    "link": "https://www.crash.net/f1/news/1106570/1/andrea-stella-admits-incorrect-judgment-ruined-mclarens-bahrain-gp",
-    "pub_date": "2026-10-06T11:45:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1409860_hires.jpg?width=1200",
-    "score": 32,
+    "position": 6,
+    "title": "Christian Horner’s staggering eight-figure Red Bull F1 payout revealed",
+    "link": "https://www.crash.net/f1/news/1106606/1/christian-horners-staggering-eight-figure-red-bull-f1-payout-revealed",
+    "pub_date": "2026-10-08T08:06:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1342510_hires.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "Martin Brundle drops verdict on Bahrain GP chaos and starting order controversy",
-    "link": "https://www.crash.net/f1/news/1106577/1/martin-brundle-drops-verdict-bahrain-gp-chaos-and-starting-order-controversy",
-    "pub_date": "2026-10-07T08:19:49+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410753_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -79,11 +91,11 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Groundbreaking former F1 presenter calls time on 30-year ITV career",
-    "link": "https://www.crash.net/f1/news/1106584/1/groundbreaking-former-f1-presenter-calls-time-30-year-career",
-    "pub_date": "2026-10-07T11:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1236803_hires.jpg?width=1200",
+    "position": 7,
+    "title": "Williams launches £1m legal action after historic F1 car goes missing",
+    "link": "https://www.crash.net/f1/news/1106611/1/williams-launches-ps1m-legal-action-after-historic-f1-car-goes-missing",
+    "pub_date": "2026-10-08T08:57:13+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_2387_hires.jpg?width=1200",
     "score": 21,
     "score_reasons": [
       "has image (+4)",
@@ -93,26 +105,11 @@
     ]
   },
   {
-    "position": 7,
-    "title": "Laurent Mekies targets ‘fight for the podium’ but warns Mercedes remains benchmark",
-    "link": "https://www.crash.net/f1/news/1106573/1/laurent-mekies-targets-fight-podium-warns-mercedes-remains-benchmark",
-    "pub_date": "2026-10-06T14:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442420_hires.jpg?width=1200",
-    "score": 17,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 8,
-    "title": "Jacques Villeneuve highlights the ‘big difference’ between Max Verstappen and Kimi Antonelli",
-    "link": "https://www.crash.net/f1/news/1106574/1/jacques-villeneuve-highlights-big-difference-between-max-verstappen-and-kimi",
-    "pub_date": "2026-10-06T15:55:03+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442375_hires.jpg?width=1200",
+    "title": "Lewis Hamilton exposes big Ferrari deficit to F1 rivals in 2027 rallying cry",
+    "link": "https://www.crash.net/f1/news/1106589/1/lewis-hamilton-exposes-big-ferrari-deficit-f1-rivals-2027-rallying-cry",
+    "pub_date": "2026-10-07T13:29:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1441635_hires.jpg?width=1200",
     "score": 10,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -123,14 +120,13 @@
   },
   {
     "position": 9,
-    "title": "Legality of Lewis Hamilton's Bahrain GP start under scrutiny",
-    "link": "https://www.crash.net/f1/news/1106571/1/legality-lewis-hamiltons-bahrain-gp-start-under-scrutiny",
-    "pub_date": "2026-10-06T12:55:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442396_hires_0.jpg?width=1200",
-    "score": 5,
+    "title": "How to watch the F1 2026 Singapore Grand Prix and first sprint race",
+    "link": "https://www.crash.net/f1/news/1106591/1/how-watch-f1-2026-singapore-grand-prix-and-first-sprint-race",
+    "pub_date": "2026-10-07T14:21:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1377154_hires.jpg?width=1200",
+    "score": 0,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
@@ -138,14 +134,87 @@
   },
   {
     "position": 10,
-    "title": "George Russell set for Singapore GP grid penalty after latest F1 engine failure",
-    "link": "https://www.crash.net/f1/news/1106565/1/george-russell-set-singapore-gp-grid-penalty-after-latest-f1-engine-failure",
-    "pub_date": "2026-10-06T09:50:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1440449_hires.jpg?width=1200",
-    "score": -158,
+    "title": "Helmut Marko claps back at Christian Horner’s ‘absolute lie’ about Max Verstappen",
+    "link": "https://www.crash.net/f1/news/1106588/1/helmut-marko-claps-back-christian-horners-absolute-lie-about-max-verstappen",
+    "pub_date": "2026-10-07T12:56:15+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/si202412070072.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x3 (+21)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "F1 2026 Singapore Grand Prix: Start time and full weekend schedule",
+    "link": "https://www.crash.net/f1/news/1106593/1/f1-2026-singapore-grand-prix-start-time-and-full-weekend-schedule",
+    "pub_date": "2026-10-07T15:34:15+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1377357_hires.jpg?width=1200",
+    "score": -7,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Valtteri Bottas completes epic cycle between F1 races in Malaysia and Singapore",
+    "link": "https://www.crash.net/f1/news/1106587/1/valtteri-bottas-completes-epic-cycle-between-f1-races-malaysia-and-singapore",
+    "pub_date": "2026-10-07T12:16:10+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1437529_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 13,
+    "title": "Singapore GP declared ‘heat hazard’ F1 race: What does it mean and what happens next?",
+    "link": "https://www.crash.net/f1/news/1099279/1/austrian-gp-declared-heat-hazard-f1-race-what-does-it-mean-and-what-happens-next",
+    "pub_date": "2026-10-08T05:55:27+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1377162_hires.jpg?width=1200",
+    "score": -72,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "Fernando Alonso makes wild Lewis Hamilton claim and blasts ‘unfair’ F1 decision",
+    "link": "https://www.crash.net/f1/news/1106579/1/fernando-alonso-makes-wild-lewis-hamilton-claim-and-blasts-unfair-f1-decision",
+    "pub_date": "2026-10-07T08:59:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1440987_hires.jpg?width=1200",
+    "score": -163,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "older than 24h (-100)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Mercedes reveals Singapore split car plan amid F1 upgrade confusion",
+    "link": "https://www.crash.net/f1/news/1106582/1/mercedes-reveals-singapore-split-car-plan-amid-f1-upgrade-confusion",
+    "pub_date": "2026-10-07T10:25:06+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442261_hires.jpg?width=1200",
+    "score": -172,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "low-tier keywords x1 (+3)",
       "has image (+4)",
       "older than 24h (-100)",
@@ -154,14 +223,14 @@
     ]
   },
   {
-    "position": 11,
-    "title": "Kimi Antonelli reveals the lesson he learnt from Max Verstappen at the Bahrain GP",
-    "link": "https://www.crash.net/f1/news/1106564/1/kimi-antonelli-reveals-lesson-he-learnt-max-verstappen-bahrain-gp",
-    "pub_date": "2026-10-06T09:30:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442391_hires.jpg?width=1200",
-    "score": -158,
+    "position": 16,
+    "title": "Christian Horner sends message in response to Red Bull’s landmark F1 win",
+    "link": "https://www.crash.net/f1/news/1106581/1/christian-horner-sends-message-response-red-bulls-landmark-f1-win",
+    "pub_date": "2026-10-07T09:49:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/si202502260249.jpg?width=1200",
+    "score": -182,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",
@@ -169,14 +238,13 @@
     ]
   },
   {
-    "position": 12,
-    "title": "Will Buxton makes huge Max Verstappen declaration",
-    "link": "https://www.crash.net/f1/news/1106568/1/will-buxton-makes-huge-max-verstappen-declaration",
-    "pub_date": "2026-10-06T10:45:22+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442349_hires.jpg?width=1200",
-    "score": -175,
+    "position": 17,
+    "title": "Martin Brundle drops verdict on Bahrain GP chaos and starting order controversy",
+    "link": "https://www.crash.net/f1/news/1106577/1/martin-brundle-drops-verdict-bahrain-gp-chaos-and-starting-order-controversy",
+    "pub_date": "2026-10-07T08:19:49+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-05/xpb_1410753_hires.jpg?width=1200",
+    "score": -187,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
@@ -185,14 +253,13 @@
     ]
   },
   {
-    "position": 13,
-    "title": "Fernando Alonso prepares for shock return to one of the world’s hardest races",
-    "link": "https://www.crash.net/f1/news/1106563/1/fernando-alonso-prepares-shock-return-one-worlds-hardest-races",
-    "pub_date": "2026-10-06T08:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1440640_hires.jpg?width=1200",
-    "score": -182,
+    "position": 18,
+    "title": "Groundbreaking former F1 presenter calls time on 30-year ITV career",
+    "link": "https://www.crash.net/f1/news/1106584/1/groundbreaking-former-f1-presenter-calls-time-30-year-career",
+    "pub_date": "2026-10-07T11:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1236803_hires.jpg?width=1200",
+    "score": -194,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

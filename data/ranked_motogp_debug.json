@@ -1,13 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Raul Fernandez tops crash-strewn Indonesia MotoGP Practice",
-    "link": "https://www.crash.net/motogp/news/1106744/1/raul-fernandez-tops-crash-strewn-indonesia-motogp-practice",
-    "pub_date": "2026-10-09T08:46:16+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351466_hires.jpg?width=1200",
-    "score": 47,
+    "title": "“I’m not surprised”: Marc Marquez blamed for Aprilia crash in Indonesia sprint",
+    "link": "https://www.crash.net/motogp/news/1106988/1/im-not-surprised-marc-marquez-blamed-aprilia-crash-indonesia-sprint",
+    "pub_date": "2026-10-10T07:50:34+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352739_hires_1600x900.jpg?width=1200",
+    "score": 83,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x4 (+48)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
@@ -17,26 +17,13 @@
   },
   {
     "position": 2,
-    "title": "Bezzecchi fastest as Marc Marquez splits the Aprilias in Mandalika MotoGP FP1",
-    "link": "https://www.crash.net/motogp/news/1106665/1/bezzecchi-fastest-marc-marquez-splits-aprilias-mandalika-motogp-fp1",
-    "pub_date": "2026-10-09T04:07:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351418_hires_1600x900.jpg?width=1200",
-    "score": 40,
+    "title": "Jorge Martin says MotoGP Sprint win “was done” but “I had to let Marc Marquez pass”",
+    "link": "https://www.crash.net/motogp/news/1107032/1/jorge-martin-says-motogp-sprint-win-was-done-i-had-let-marc-pass",
+    "pub_date": "2026-10-10T09:45:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352773_hires-1-1600x900.jpg?width=1200",
+    "score": 71,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "MotoGP Indonesian Grand Prix: Which riders are in Q2?",
-    "link": "https://www.crash.net/motogp/results/1106754/1/motogp-indonesian-grand-prix-which-riders-are-q2",
-    "pub_date": "2026-10-09T08:53:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351544_hires.jpg?width=1200",
-    "score": 35,
-    "score_reasons": [
+      "top-tier keywords x3 (+36)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
@@ -45,14 +32,31 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Mandalika “ideal for Aprilia”, but could Raul be “in the middle” of MotoGP title fight?",
-    "link": "https://www.crash.net/motogp/news/1106800/1/mandalika-ideal-aprilia-could-raul-be-middle-motogp-title-fight",
-    "pub_date": "2026-10-09T11:00:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352172_hires_1600x900.jpg?width=1200",
-    "score": 33,
+    "position": 3,
+    "title": "Marc Marquez wins wild Indonesian GP sprint after late Jorge Martin drama",
+    "link": "https://www.crash.net/motogp/news/1106986/1/marc-marquez-wins-wild-indonesian-gp-sprint-after-late-jorge-martin-drama",
+    "pub_date": "2026-10-10T07:32:02+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352765_hires.jpg?width=1200",
+    "score": 64,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "WATCH: Marc Marquez plays games with Jorge Martin as MotoGP title fight heats up",
+    "link": "https://www.crash.net/motogp/news/1106958/1/watch-marc-marquez-plays-games-jorge-martin-motogp-title-fight-heats",
+    "pub_date": "2026-10-10T06:10:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352594_hires_1600x900.jpg?width=1200",
+    "score": 64,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -61,13 +65,14 @@
   },
   {
     "position": 5,
-    "title": "Marc Marquez “closer than we thought” in Indonesia MotoGP practice",
-    "link": "https://www.crash.net/motogp/news/1106796/1/marc-marquez-closer-we-thought-indonesia-motogp-practice",
-    "pub_date": "2026-10-09T10:40:24+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351943_hires.jpg?width=1200",
-    "score": 33,
+    "title": "First MotoGP pole for Fernandez, Marc Marquez stalks Jorge Martin",
+    "link": "https://www.crash.net/motogp/news/1106953/1/first-motogp-pole-fernandez-marc-marquez-stalks-jorge-martin",
+    "pub_date": "2026-10-10T04:50:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352619_hires_1600x900.jpg?width=1200",
+    "score": 64,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -76,13 +81,14 @@
   },
   {
     "position": 6,
-    "title": "Mandalika MotoGP LIVE: Reaction after Aprilia dominate delayed Friday Practice",
-    "link": "https://www.crash.net/motogp/live/1044234/mandalika-motogp-live-friday-practice-updates-indonesia",
-    "pub_date": "2026-10-09T07:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350758_hires_1600x900_0.jpg?width=1200",
-    "score": 33,
+    "title": "Marc Marquez reveals he was “dizzy” after Indonesia MotoGP sprint win",
+    "link": "https://www.crash.net/motogp/news/1107013/1/marc-marquez-reveals-he-was-dizzy-after-indonesia-motogp-sprint-win",
+    "pub_date": "2026-10-10T09:16:35+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352805_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -91,12 +97,13 @@
   },
   {
     "position": 7,
-    "title": "Indonesia MotoGP Practice delayed due to stewards’ room issue",
-    "link": "https://www.crash.net/motogp/news/1106681/1/indonesia-motogp-practice-delayed-due-stewards-room-issue",
-    "pub_date": "2026-10-09T07:10:25+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351417_hires_1600x900.jpg?width=1200",
-    "score": 28,
+    "title": "Mandalika MotoGP LIVE: Sprint reaction as Marc Marquez takes title lead",
+    "link": "https://www.crash.net/motogp/live/1044234/mandalika-motogp-live-saturday-qualifying-sprint-updates-indonesia",
+    "pub_date": "2026-10-10T06:45:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352553_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",
@@ -106,10 +113,39 @@
   },
   {
     "position": 8,
-    "title": "Ezpeleta admits riders “not fully understanding” 2027 MotoGP race weekend changes",
-    "link": "https://www.crash.net/motogp/news/1106667/1/ezpeleta-admits-riders-not-fully-understanding-2027-motogp-changes",
-    "pub_date": "2026-10-09T06:03:30+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1337249_hires_1600x900.jpg?width=1200",
+    "title": "Fabio Quartararo “lucky” to avoid Marc Marquez-style Indonesia crash",
+    "link": "https://www.crash.net/motogp/news/1106802/1/fabio-quartararo-lucky-avoid-marc-marquez-style-indonesia-crash",
+    "pub_date": "2026-10-09T11:14:10+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352124_hires.jpg?width=1200",
+    "score": 36,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "Jorge Martin “struggling”, “a bit far” from victory and wary of Marc Marquez",
+    "link": "https://www.crash.net/motogp/news/1106806/1/jorge-martin-struggling-bit-far-victory-and-wary-marc-marquez",
+    "pub_date": "2026-10-09T11:39:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352163_hires_1600x900.jpg?width=1200",
+    "score": 34,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "Marco Bezzecchi responds to \"angry\" Raul Fernandez: \"He touched me\"",
+    "link": "https://www.crash.net/motogp/news/1107058/1/marco-bezzecchi-responds-angry-raul-fernandez-he-touched-me",
+    "pub_date": "2026-10-10T10:12:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352739_hires_1600x900_0.jpg?width=1200",
     "score": 28,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -120,66 +156,113 @@
     ]
   },
   {
-    "position": 9,
-    "title": "Is MotoGP Qatar going ahead? Here's everything we know so far",
-    "link": "https://www.crash.net/motogp/news/1106795/1/motogp-qatar-going-ahead-heres-everything-we-know-so-far",
-    "pub_date": "2026-10-09T10:20:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-08/gng_1221645_hires.jpg?width=1200",
-    "score": 21,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "2026 Indonesian MotoGP, Mandalika - Friday Practice Results",
-    "link": "https://www.crash.net/motogp/results/1106596/1/2026-indonesian-motogp-mandalika-friday-practice-results",
-    "pub_date": "2026-10-09T08:40:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351514_hires_1600x900.jpg?width=1200",
-    "score": 21,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 11,
-    "title": "MotoGP’s F1-fuelled identity crisis is getting worse amid sprint qualifying outcry",
-    "link": "https://www.crash.net/motogp/feature/1106624/1/motogps-f1-fuelled-identity-crisis-getting-worse-amid-sprint-qualifying",
-    "pub_date": "2026-10-08T14:19:33+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350751_hires.jpg?width=1200",
-    "score": 0,
+    "title": "Raul Fernandez slams ‘unprofessional’ Marco Bezzecchi after MotoGP sprint clash",
+    "link": "https://www.crash.net/motogp/news/1107029/1/raul-fernandez-slams-unprofessional-marco-bezzecchi-after-motogp-sprint-clash",
+    "pub_date": "2026-10-10T09:33:48+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352733_hires.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
-      "mid-tier keywords x2 (+14)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 12,
-    "title": "2025 Indonesia MotoGP winner “not in the same moment” to try for 2026 repeat",
-    "link": "https://www.crash.net/motogp/news/1106627/1/2025-indonesia-motogp-winner-not-same-moment-try-2026-repeat",
-    "pub_date": "2026-10-08T15:12:41+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351239_hires.jpg?width=1200",
-    "score": -14,
+    "title": "Mandalika Sprint Race: New 2026 MotoGP World Championship standings",
+    "link": "https://www.crash.net/motogp/results/1106767/1/mandalika-sprint-race-new-2026-motogp-world-championship-standings",
+    "pub_date": "2026-10-10T07:40:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352053_hires_1600x900.jpg?width=1200",
+    "score": 28,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 13,
-    "title": "MotoGP winner reveals how series’ safety forum has failed to deliver for riders",
-    "link": "https://www.crash.net/motogp/news/1106622/1/motogp-winner-reveals-how-series-safety-forum-has-failed-deliver-riders",
-    "pub_date": "2026-10-08T13:35:11+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351254_hires.jpg?width=1200",
+    "title": "2026 Indonesian MotoGP, Mandalika - Sprint Race Results",
+    "link": "https://www.crash.net/motogp/results/1106762/1/2026-indonesian-motogp-mandalika-sprint-race-results",
+    "pub_date": "2026-10-10T07:20:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352750_hires_1600x900.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "Starting grid for the 2026 Mandalika MotoGP Sprint race",
+    "link": "https://www.crash.net/motogp/news/1106955/1/starting-grid-2026-mandalika-motogp-sprint-race",
+    "pub_date": "2026-10-10T04:27:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352615_hires_1600x900.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 15,
+    "title": "Toprak Razgatlioglu dislocates shoulder in Mandalika MotoGP highside - then returns!",
+    "link": "https://www.crash.net/motogp/news/1106921/1/toprak-razgatlioglu-injured-mandalika-motogp-highside",
+    "pub_date": "2026-10-10T02:38:50+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352484_hires_1600x900.jpg?width=1200",
+    "score": 23,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 16,
+    "title": "MotoGP Indonesia: What we learned after Friday practice at Mandalika",
+    "link": "https://www.crash.net/motogp/feature/1106869/1/motogp-indonesia-what-we-learned-after-friday-practice-mandalika",
+    "pub_date": "2026-10-09T14:07:14+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352073_hires.jpg?width=1200",
+    "score": 17,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 17,
+    "title": "Pecco Bagnaia explains major MotoGP breakthrough in Indonesia",
+    "link": "https://www.crash.net/motogp/news/1106810/1/pecco-bagnaia-explains-major-motogp-breakthrough-indonesia",
+    "pub_date": "2026-10-09T11:48:51+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351942_hires.jpg?width=1200",
+    "score": -2,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 18,
+    "title": "Alex Rins gives Indonesia MotoGP marshal middle finger in heated exchange",
+    "link": "https://www.crash.net/motogp/news/1106839/1/alex-rins-gives-indonesia-motogp-marshal-middle-finger-heated-exchange",
+    "pub_date": "2026-10-09T13:01:47+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351465_hires.jpg?width=1200",
     "score": -14,
     "score_reasons": [
       "has image (+4)",
@@ -188,108 +271,29 @@
     ]
   },
   {
-    "position": 14,
-    "title": "2026 Indonesian MotoGP Practice at Mandalika today: Start times and how to watch",
-    "link": "https://www.crash.net/motogp/news/1106544/1/2026-indonesian-motogp-mandalika-start-times-and-how-watch",
-    "pub_date": "2026-10-09T01:54:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350749_hires_1600x900.jpg?width=1200",
-    "score": -84,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "Jorge Martin hailed as \"astonishing\" in Marc Marquez battle he's \"never lost\"",
-    "link": "https://www.crash.net/motogp/news/1106616/1/jorge-martin-hailed-astonishing-marc-marquez-battle-hes-never-lost",
-    "pub_date": "2026-10-08T10:30:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1345944_hires_1600x900.jpg?width=1200",
-    "score": -146,
-    "score_reasons": [
-      "top-tier keywords x4 (+48)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 16,
-    "title": "Pedro Acosta warns 2027 MotoGP Sprint qualifying format will \"shorten careers\"",
-    "link": "https://www.crash.net/motogp/news/1106599/1/pedro-acosta-warns-2027-motogp-sprint-qualifying-format-will-shorten-careers",
-    "pub_date": "2026-10-08T04:56:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350137_hires_1600x900.jpg?width=1200",
-    "score": -149,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x3 (+21)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 17,
-    "title": "Aprilia: Beating Marc Marquez in MotoGP “most difficult” task we could face",
-    "link": "https://www.crash.net/motogp/news/1106609/1/aprilia-beating-marc-marquez-motogp-most-difficult-task-we-could-face",
-    "pub_date": "2026-10-08T08:29:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1330783_hires_1600x900.jpg?width=1200",
-    "score": -158,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 18,
-    "title": "Aprilia rivals make ominous prediction for Mandalika MotoGP: \"Unbeatable\"",
-    "link": "https://www.crash.net/motogp/news/1106602/1/aprilia-rivals-make-ominous-prediction-mandalika-motogp-unbeatable",
-    "pub_date": "2026-10-08T06:25:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1270707_hires_1600x900.jpg?width=1200",
-    "score": -158,
-    "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
     "position": 19,
-    "title": "Will Ducati’s confusing Michelin tyre problem persist in Indonesia?",
-    "link": "https://www.crash.net/motogp/news/1106612/1/will-ducatis-confusing-michelin-tyre-problem-persist-indonesia",
-    "pub_date": "2026-10-08T09:22:13+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1349597_hires.jpg?width=1200",
-    "score": -168,
+    "title": "Toprak Razgatlioglu facing MotoGP-first after Indonesia practice",
+    "link": "https://www.crash.net/motogp/news/1106816/1/toprak-razgatlioglu-facing-motogp-first-after-indonesia-practice",
+    "pub_date": "2026-10-09T12:25:30+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351323_hires_1600x900.jpg?width=1200",
+    "score": -14,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "older than 24h (-100)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "between 18-24h (-20)",
+      "good title length (+2)"
     ]
   },
   {
     "position": 20,
-    "title": "Pecco Bagnaia \"likes\" new MotoGP Sprint qualifying format, with one exception",
-    "link": "https://www.crash.net/motogp/news/1106601/1/pecco-bagnaia-likes-new-motogp-sprint-qualifying-format-one-exception",
-    "pub_date": "2026-10-08T05:55:34+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350984_hires_1600x900_0.jpg?width=1200",
-    "score": -168,
+    "title": "2026 Indonesian MotoGP Qualifying & Sprint at Mandalika today: Start times and how to watch",
+    "link": "https://www.crash.net/motogp/news/1106544/1/2026-indonesian-motogp-mandalika-start-times-and-how-watch",
+    "pub_date": "2026-10-10T01:22:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1350749_hires_1600x900.jpg?width=1200",
+    "score": -70,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
       "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "within 18h (+10)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]

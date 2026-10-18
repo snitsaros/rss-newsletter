@@ -5,45 +5,18 @@
     "link": "https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly",
     "pub_date": "2026-10-16T08:42:58+00:00",
     "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-15.png?width=1200",
-    "score": 35,
+    "score": 15,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 168h (+10)",
-      "good title length (+2)"
+      "good title length (+2)",
+      "previously used URL (-20)"
     ]
   },
   {
     "position": 2,
-    "title": "Brighten Your Workshop Days with the Clarke MFL800R Multi Function Work Light",
-    "link": "https://www.carthrottle.com/news/brighten-your-workshop-days-clarke-mfl800r-multi-function-work-light",
-    "pub_date": "2026-10-17T08:01:38+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-work-light-2.jpg?width=1200",
-    "score": 21,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Look After Your Bike and Yourself with the Clarke CML3 Motorcycle Lift",
-    "link": "https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift",
-    "pub_date": "2026-10-17T07:58:57+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200",
-    "score": 21,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
     "title": "Volkswagen is about to axe 75 models and its boss says it was always going to happen",
     "link": "https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen",
     "pub_date": "2026-10-15T14:47:34+00:00",
@@ -58,7 +31,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 3,
     "title": "Citroën’s 2CV is back - it’s electric, and it’ll cost less than £13k",
     "link": "https://www.carthrottle.com/news/citroens-2cv-back-its-electric-and-itll-cost-less-ps13k",
     "pub_date": "2026-10-14T11:39:20+00:00",
@@ -66,6 +39,34 @@
     "score": -1,
     "score_reasons": [
       "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Brighten Your Workshop Days with the Clarke MFL800R Multi Function Work Light",
+    "link": "https://www.carthrottle.com/news/brighten-your-workshop-days-clarke-mfl800r-multi-function-work-light",
+    "pub_date": "2026-10-17T08:01:38+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-work-light-2.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Look After Your Bike and Yourself with the Clarke CML3 Motorcycle Lift",
+    "link": "https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift",
+    "pub_date": "2026-10-17T07:58:57+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
       "has image (+4)",
       "within 168h (+10)",
       "good title length (+2)",

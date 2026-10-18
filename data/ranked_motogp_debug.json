@@ -1,15 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Outgoing KTM MotoGP rider pushing for major 2027 testing change",
-    "link": "https://www.crash.net/motogp/news/1107619/1/outgoing-ktm-motogp-rider-pushing-major-2027-testing-change",
-    "pub_date": "2026-10-17T08:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351544_hires.jpg?width=1200",
-    "score": 43,
+    "title": "Why Japan’s new MotoGP superstar said no to Honda",
+    "link": "https://www.crash.net/motogp/news/1107651/1/why-japans-new-motogp-superstar-said-no-honda",
+    "pub_date": "2026-10-18T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1354042_hires.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -18,24 +16,10 @@
   },
   {
     "position": 2,
-    "title": "Marc Marquez wins prestigious sporting award",
-    "link": "https://www.crash.net/motogp/news/1107649/1/marc-marquez-wins-prestigious-sporting-award",
-    "pub_date": "2026-10-16T15:15:38+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1352835_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Phillip Island secures major motorsport return to replace MotoGP",
-    "link": "https://www.crash.net/motogp/news/1107646/1/phillip-island-secures-major-motorsport-return-replace-motogp",
-    "pub_date": "2026-10-16T14:50:18+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1276307_hires.jpg?width=1200",
+    "title": "Nicolo Bulega beats WorldSBK greats to win milestone on final weekend",
+    "link": "https://www.crash.net/wsbk/news/1107760/1/nicolo-bulega-beats-worldsbk-greats-win-milestone-final-weekend",
+    "pub_date": "2026-10-17T16:23:02+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1354954_hires.jpg?width=1200",
     "score": 16,
     "score_reasons": [
       "has image (+4)",
@@ -44,26 +28,11 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Why Marc Marquez wants his protege “to struggle” in Moto2",
-    "link": "https://www.crash.net/motogp/news/1107609/1/why-marc-marquez-wants-his-protege-struggle-moto2",
-    "pub_date": "2026-10-16T10:12:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1299484_hires.jpg?width=1200",
-    "score": 4,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "low-tier keywords x2 (+6)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 5,
-    "title": "Yamaha boss warns ‘fans must recognise MotoGP’ as it grows",
-    "link": "https://www.crash.net/motogp/news/1107600/1/yamaha-boss-warns-fans-must-recognise-motogp-it-grows",
-    "pub_date": "2026-10-16T08:57:14+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351538_hires.jpg?width=1200",
+    "position": 3,
+    "title": "Ducati MotoGP boss ‘fighting against my past’ in 2026 title battle",
+    "link": "https://www.crash.net/motogp/news/1107624/1/ducati-motogp-boss-fighting-against-my-past-2026-title-battle",
+    "pub_date": "2026-10-17T12:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1345655_hires_1600x900.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -73,28 +42,16 @@
     ]
   },
   {
-    "position": 6,
-    "title": "MotoGP winner’s brother has huge Moto3 penalty overturned in shock FIM ruling",
-    "link": "https://www.crash.net/motogp/news/1107611/1/motogp-winners-brother-has-huge-moto3-penalty-overturned-shock-fim-ruling",
-    "pub_date": "2026-10-16T10:50:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1335672_hires.jpg?width=1200",
-    "score": -4,
+    "position": 4,
+    "title": "Outgoing KTM MotoGP rider pushing for major 2027 testing change",
+    "link": "https://www.crash.net/motogp/news/1107619/1/outgoing-ktm-motogp-rider-pushing-major-2027-testing-change",
+    "pub_date": "2026-10-17T08:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1351544_hires.jpg?width=1200",
+    "score": -172,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "low-tier keywords x1 (+3)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 7,
-    "title": "Valentino Rossi gets new team-mate for GT World Challenge Europe finale",
-    "link": "https://www.crash.net/sportscars/news/1107588/1/valentino-rossi-gets-new-team-mate-gt-world-challenge-europe-finale",
-    "pub_date": "2026-10-16T08:16:35+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-07/xpb_1352565_hires.jpg?width=1200",
-    "score": -194,
-    "score_reasons": [
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

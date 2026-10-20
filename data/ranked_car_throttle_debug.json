@@ -1,32 +1,6 @@
 [
   {
     "position": 1,
-    "title": "The Clarke PRO357 18-Piece Socket Set Makes Lost Sockets a Thing of the Past",
-    "link": "https://www.carthrottle.com/news/clarke-pro357-18-piece-socket-set-makes-lost-sockets-thing-past",
-    "pub_date": "2026-10-18T09:30:51+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-socket-set.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 2,
-    "title": "The Clarke CBB217BGC HD Plus 7 Drawer Tool Cabinet Brings Style and Substance",
-    "link": "https://www.carthrottle.com/news/clarke-cbb217bgc-hd-plus-7-drawer-tool-cabinet-brings-style-and-substance",
-    "pub_date": "2026-10-18T09:27:35+00:00",
-    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-tool-cabinet-b-g.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 168h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
     "title": "Tesla unveils new Roadster hypercar and Elon Musk just made it fly",
     "link": "https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly",
     "pub_date": "2026-10-16T08:42:58+00:00",
@@ -42,7 +16,7 @@
     ]
   },
   {
-    "position": 4,
+    "position": 2,
     "title": "Volkswagen is about to axe 75 models and its boss says it was always going to happen",
     "link": "https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen",
     "pub_date": "2026-10-15T14:47:34+00:00",
@@ -57,7 +31,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 3,
     "title": "Citroën’s 2CV is back - it’s electric, and it’ll cost less than £13k",
     "link": "https://www.carthrottle.com/news/citroens-2cv-back-its-electric-and-itll-cost-less-ps13k",
     "pub_date": "2026-10-14T11:39:20+00:00",
@@ -65,6 +39,34 @@
     "score": -1,
     "score_reasons": [
       "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "The Clarke PRO357 18-Piece Socket Set Makes Lost Sockets a Thing of the Past",
+    "link": "https://www.carthrottle.com/news/clarke-pro357-18-piece-socket-set-makes-lost-sockets-thing-past",
+    "pub_date": "2026-10-18T09:30:51+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-socket-set.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
+      "has image (+4)",
+      "within 168h (+10)",
+      "good title length (+2)",
+      "previously used URL (-20)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "The Clarke CBB217BGC HD Plus 7 Drawer Tool Cabinet Brings Style and Substance",
+    "link": "https://www.carthrottle.com/news/clarke-cbb217bgc-hd-plus-7-drawer-tool-cabinet-brings-style-and-substance",
+    "pub_date": "2026-10-18T09:27:35+00:00",
+    "image_url": "https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-tool-cabinet-b-g.jpg?width=1200",
+    "score": -4,
+    "score_reasons": [
       "has image (+4)",
       "within 168h (+10)",
       "good title length (+2)",

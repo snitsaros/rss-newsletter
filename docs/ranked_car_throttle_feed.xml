@@ -7,26 +7,8 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_car_throttle_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Thu, 22 Oct 2026 09:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:19:54 +0000</lastBuildDate>
     <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
-    <item>
-      <title>Tesla unveils new Roadster hypercar and Elon Musk just made it fly</title>
-      <link>https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</link>
-      <description>Elon Musk finally unveiled the Roadster, complete with rocket thrusters, a 0-60mph time of under a second and a car park kickflip.</description>
-      <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-15.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</guid>
-      <pubDate>Fri, 16 Oct 2026 08:42:58 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>We built an app for car-meet culture because group chats weren&#x27;t cutting it</title>
-      <link>https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</link>
-      <description>Hey everyone — we&#x27;re CRUNITE, and we built an app for car-meet culture because group chats weren&#x27;t cutting it. If you&#x27;ve ever tried to organise a cruise in a 200-person group chat…</description>
-      <guid isPermaLink="true">https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</guid>
-      <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
     <item>
       <title>McLaren is flogging five iconic F1 cars with an eye watering price tag</title>
       <link>https://www.carthrottle.com/news/mclaren-flogging-five-iconic-f1-cars-eye-watering-price-tag</link>
@@ -35,16 +17,6 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/xpb_1034748_hires.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/mclaren-flogging-five-iconic-f1-cars-eye-watering-price-tag</guid>
       <pubDate>Tue, 20 Oct 2026 14:30:09 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>Volkswagen is about to axe 75 models and its boss says it was always going to happen</title>
-      <link>https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen</link>
-      <description>Half of the VW Group’s line-up is heading for the scrapyard by 2035</description>
-      <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-06/volkswagen_golf_gti.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen</guid>
-      <pubDate>Thu, 15 Oct 2026 14:47:34 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -60,7 +32,7 @@
     <item>
       <title>The Clarke CBB217BGC HD Plus 7 Drawer Tool Cabinet Brings Style and Substance</title>
       <link>https://www.carthrottle.com/news/clarke-cbb217bgc-hd-plus-7-drawer-tool-cabinet-brings-style-and-substance</link>
-      <description>Can tool cabinets blend form and function? This stylish black and gold cabinet from…</description>
+      <description>Can tool cabinets blend form and function? This stylish black and gold cabinet from Clarke proves it’s possible</description>
       <category>Workshop, Sponsored</category>
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-tool-cabinet-b-g.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/clarke-cbb217bgc-hd-plus-7-drawer-tool-cabinet-brings-style-and-substance</guid>
@@ -80,11 +52,39 @@
     <item>
       <title>Look After Your Bike and Yourself with the Clarke CML3 Motorcycle Lift</title>
       <link>https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</link>
-      <description>Designed to make working on your motorbike safer and easier, a good bike lift…</description>
+      <description>Designed to make working on your motorbike safer and easier, a good bike lift like this is a must for keen motorbike mechanics</description>
       <category>Workshop, Sponsored</category>
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</guid>
       <pubDate>Sat, 17 Oct 2026 07:58:57 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>We built an app for car-meet culture because group chats weren&#x27;t cutting it</title>
+      <link>https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</link>
+      <description>Hey everyone — we&#x27;re CRUNITE, and we built an app for car-meet culture because…</description>
+      <guid isPermaLink="true">https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</guid>
+      <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>Tesla unveils new Roadster hypercar and Elon Musk just made it fly</title>
+      <link>https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</link>
+      <description>Elon Musk finally unveiled the Roadster, complete with rocket thrusters, a 0-60mph time of…</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-15.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</guid>
+      <pubDate>Fri, 16 Oct 2026 08:42:58 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>Volkswagen is about to axe 75 models and its boss says it was always going to happen</title>
+      <link>https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen</link>
+      <description>Half of the VW Group’s line-up is heading for the scrapyard by 2035</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-06/volkswagen_golf_gti.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen</guid>
+      <pubDate>Thu, 15 Oct 2026 14:47:34 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -105,16 +105,6 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/africa.jpeg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/f1-set-return-africa-first-time-33-years-rwanda-grand-prix-confirmed</guid>
       <pubDate>Tue, 13 Oct 2026 09:48:19 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>Jeremy Clarkson is making a special car-themed episode of Clarkson&#x27;s Farm</title>
-      <link>https://www.carthrottle.com/news/jeremy-clarkson-making-special-car-themed-episode-clarksons-farm</link>
-      <description>Frustrated with modern cars, Clarkson has decided the only answer is to build one…</description>
-      <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-5.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/jeremy-clarkson-making-special-car-themed-episode-clarksons-farm</guid>
-      <pubDate>Thu, 08 Oct 2026 11:26:54 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
   </channel>

@@ -7,86 +7,86 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_visordown_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Fri, 23 Oct 2026 09:19:56 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 08:46:17 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:51:41 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
     <item>
-      <title>MotoGP star loses control in frightening 100mph crash at Phillip Island</title>
-      <link>https://www.visordown.com/news/motogp-star-loses-control-frightening-100mph-crash-phillip-island</link>
-      <description>Jack Miller’s Pramac Yamaha bike was completely wrecked following a bruising 100mph fall at Phillip Island.</description>
+      <title>Honda CBR500R FOUR versus the rivals from Kawasaki, ZXMOTO and QJMotor</title>
+      <link>https://www.visordown.com/features/honda-cbr500r-four-versus-rivals-kawasaki-zxmoto-and-qjmotor</link>
+      <description>Honda&#x27;s new CBR500R FOUR joins a growing group of small-capacity four-cylinder sports bikes. Here&#x27;s how it compares with rivals from Kawasaki, ZXMOTO and QJMotor.</description>
+      <category>Top 10s</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/590105_27ym_honda_cbr600rr.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/features/honda-cbr500r-four-versus-rivals-kawasaki-zxmoto-and-qjmotor</guid>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Next-generation Honda CBR1000RR-R Fireblade spotted testing</title>
+      <link>https://www.visordown.com/news/next-generation-honda-cbr1000rr-r-fireblade-spotted-testing</link>
+      <description>Honda has debuted a new WorldSBK-spec CBR1000RR-R Fireblade at Jerez, which gains new winglets that look very familiar.</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-23t132034.193.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/news/next-generation-honda-cbr1000rr-r-fireblade-spotted-testing</guid>
+      <pubDate>Fri, 23 Oct 2026 12:22:07 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Benda Rover 500 is reportedly real, and the name is pure British comedy</title>
+      <link>https://www.visordown.com/news/benda-rover-500-reportedly-real-and-name-pure-british-comedy</link>
+      <description>Benda&#x27;s reported new Rover 500 cruiser has a V-twin engine, belt drive and a name that is straight from the script of a Carry On film.</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/bd500-02.jpeg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/benda-rover-500-reportedly-real-and-name-pure-british-comedy</guid>
+      <pubDate>Fri, 23 Oct 2026 10:05:59 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Aprilia RS 660 Phillip Island Tribute celebrates “unbreakable bond” as MotoGP leaves circuit</title>
+      <link>https://www.visordown.com/news/aprilia-rs-660-phillip-island-tribute-celebrates-unbreakable-bond-motogp-leaves-circuit</link>
+      <description>Aprilia&#x27;s limited-edition RS 660 celebrates its “unbreakable bond” with Phillip Island, just as MotoGP prepares to swap the iconic circuit for Adelaide in 2027.</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/07-aprilia-rs660-phillip-island-tribute.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/aprilia-rs-660-phillip-island-tribute-celebrates-unbreakable-bond-motogp-leaves-circuit</guid>
+      <pubDate>Fri, 23 Oct 2026 09:24:46 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>LiveWire set to debut arguably its most important bike yet at EICMA 2026</title>
+      <link>https://www.visordown.com/news/livewire-set-debut-arguably-its-most-important-bike-yet-eicma-2026</link>
+      <description>LiveWire will debut the production-intent DUST Hightail at EICMA 2026, as its Dust Moto acquisition opens the door to a growing electric dirt bike market.</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-05/livewire-dust_pulse_masonry8.jpeg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/livewire-set-debut-arguably-its-most-important-bike-yet-eicma-2026</guid>
+      <pubDate>Fri, 23 Oct 2026 14:11:01 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>MotoGP riders could face fines of £12,500 for missing promotional events</title>
+      <link>https://www.visordown.com/news/motogp-riders-could-face-fines-ps12500-missing-promotional-events</link>
+      <description>MotoGP riders could face fines of up to €15,000 (around £12,500) for missing promotional…</description>
       <category>MotoGP</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/gng_1355684_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/motogp-star-loses-control-frightening-100mph-crash-phillip-island</guid>
-      <pubDate>Fri, 23 Oct 2026 08:29:13 +0000</pubDate>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/gng_1355986_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/motogp-riders-could-face-fines-ps12500-missing-promotional-events</guid>
+      <pubDate>Sat, 24 Oct 2026 06:30:00 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Yamaha MT-09 and MT-07 styling filters down to MT-125 for 2027</title>
-      <link>https://www.visordown.com/news/yamaha-mt-09-and-mt-07-styling-filters-down-mt-125-2027</link>
-      <description>Yamaha’s A1-licence MT-125 has gained a series of changes for 2027, including next-gen styling inspired by the MT-09, a redesigned seat, and improved ergonomics.</description>
-      <category>New Bikes</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/2027-yamaha-mt125a-eu-redline_white-static-001-01.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/yamaha-mt-09-and-mt-07-styling-filters-down-mt-125-2027</guid>
-      <pubDate>Thu, 22 Oct 2026 14:55:48 +0000</pubDate>
+      <title>Uncertainty reigns over Qatar MotoGP as talk of rider union intensifies</title>
+      <link>https://www.visordown.com/news/uncertainty-reigns-over-qatar-motogp-talk-rider-union-intensifies</link>
+      <description>One of MotoGP’s best performers of 2026 has opened up about the secret rider…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/gng_1355610_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/uncertainty-reigns-over-qatar-motogp-talk-rider-union-intensifies</guid>
+      <pubDate>Fri, 23 Oct 2026 10:54:02 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Moto Guzzi rider aims to cross 2,779 miles in less than 70 hours</title>
-      <link>https://www.visordown.com/news/moto-guzzi-rider-aims-cross-2779-miles-less-70-hours</link>
-      <description>Ramiro Vergez Kenny is attempting to cover 4,472km (2,779 miles) between Ushuaia and La Quiaca in less than 70 hours.</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/screenshot-2026-10-23-at-09.49.16.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/moto-guzzi-rider-aims-cross-2779-miles-less-70-hours</guid>
-      <pubDate>Fri, 23 Oct 2026 08:46:17 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>BMW Vision CE patents points to production variant</title>
-      <link>https://www.visordown.com/news/bmw-vision-ce-patents-points-production-variant</link>
-      <description>New patents seem to show a production-ready BMW Vision CE, either proving BMW is making a production model or throwing us way off the scent!</description>
-      <category>New Bikes</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/bmw-vision-ce-012.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/bmw-vision-ce-patents-points-production-variant</guid>
-      <pubDate>Fri, 23 Oct 2026 08:17:26 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Ducati Desmo450 takes Italian pair to new endurance world record</title>
-      <link>https://www.visordown.com/news/ducati-desmo450-takes-italian-pair-new-endurance-world-record</link>
-      <description>The Ducati Desmo450 EDS has broken a Guinness World Record for the first time, after Italian riders Silvio Sabba and Valerio Boni completed 900 miles in just 24 hours.</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-22t135519.339.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/ducati-desmo450-takes-italian-pair-new-endurance-world-record</guid>
-      <pubDate>Thu, 22 Oct 2026 12:55:28 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Biker discovers motorcycle missing after Leeds drug dealer posts videos online</title>
-      <link>https://www.visordown.com/news/biker-discovers-motorcycle-missing-after-leeds-drug-dealer-posts-videos-online</link>
-      <description>Leeds drug dealer Christian Hargreaves has been jailed for a series of crimes including…</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/stoic-ginger-portrait-in-puffer-jacket.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/biker-discovers-motorcycle-missing-after-leeds-drug-dealer-posts-videos-online</guid>
-      <pubDate>Thu, 22 Oct 2026 15:01:18 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>PRIME motorcycle safety markings arrive in England as Derbyshire installs new system</title>
-      <link>https://www.visordown.com/news/prime-motorcycle-safety-markings-arrive-england-derbyshire-installs-new-system</link>
-      <description>Derbyshire has become the first English county to introduce PRIME road markings, following promising…</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-08/prime-markings-01.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/prime-motorcycle-safety-markings-arrive-england-derbyshire-installs-new-system</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Honda unveils new CBR500R FOUR with 500cc inline-four engine</title>
-      <link>https://www.visordown.com/news/honda-unveils-new-cbr500r-four-500cc-inline-four-engine</link>
-      <description>Honda has unveiled the CBR500R FOUR, a new 500cc inline-four sports bike with standard…</description>
-      <category>New Bikes</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/590070_27ym_honda_cbr500r_four.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/honda-unveils-new-cbr500r-four-500cc-inline-four-engine</guid>
-      <pubDate>Tue, 20 Oct 2026 09:25:20 +0000</pubDate>
+      <title>MotoGP has another Qatar GP issue on its hands after secret rider vote</title>
+      <link>https://www.visordown.com/news/motogp-has-another-qatar-gp-issue-its-hands-after-secret-rider-vote</link>
+      <description>The majority of the MotoGP grid is said to be against racing in Qatar…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/gng_1340271_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/motogp-has-another-qatar-gp-issue-its-hands-after-secret-rider-vote</guid>
+      <pubDate>Fri, 23 Oct 2026 09:37:22 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
@@ -110,6 +110,26 @@
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
+      <title>MotoGP star loses control in frightening 100mph crash at Phillip Island</title>
+      <link>https://www.visordown.com/news/motogp-star-loses-control-frightening-100mph-crash-phillip-island</link>
+      <description>Jack Miller’s Pramac Yamaha bike was completely wrecked following a bruising 100mph fall at…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/gng_1355684_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/motogp-star-loses-control-frightening-100mph-crash-phillip-island</guid>
+      <pubDate>Fri, 23 Oct 2026 08:29:13 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Yamaha MT-09 and MT-07 styling filters down to MT-125 for 2027</title>
+      <link>https://www.visordown.com/news/yamaha-mt-09-and-mt-07-styling-filters-down-mt-125-2027</link>
+      <description>Yamaha’s A1-licence MT-125 has gained a series of changes for 2027, including next-gen styling…</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/2027-yamaha-mt125a-eu-redline_white-static-001-01.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/yamaha-mt-09-and-mt-07-styling-filters-down-mt-125-2027</guid>
+      <pubDate>Thu, 22 Oct 2026 14:55:48 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
       <title>New Honda Motra patents reveal petrol and battery-powered variants</title>
       <link>https://www.visordown.com/news/new-honda-motra-patents-reveal-petrol-and-battery-powered-variants</link>
       <description>Honda patents reveal a new Motra-style motorcycle with a petrol engine or electric drive…</description>
@@ -130,26 +150,6 @@
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Honda announces full rider line-up for start of 850cc MotoGP era</title>
-      <link>https://www.visordown.com/news/honda-announces-full-rider-line-start-850cc-motogp-era</link>
-      <description>Honda has revealed its full line-up for the 2027 MotoGP Championship, with Diogo Moreira…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/gng_1354513_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/honda-announces-full-rider-line-start-850cc-motogp-era</guid>
-      <pubDate>Tue, 20 Oct 2026 10:13:15 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Born Slippy: White Motorcycle Concepts creates Mono RR, a 450cc supercharged streamliner</title>
-      <link>https://www.visordown.com/news/born-slippy-white-motorcycle-concepts-creates-wmc-mono-rr-450cc-supercharged-streamliner</link>
-      <description>The WMC Mono RR combines aerodynamic efficiency with a supercharged 449cc Yamaha single, with…</description>
-      <category>New Bikes</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/55599223470_e1f8c45a68_b.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/born-slippy-white-motorcycle-concepts-creates-wmc-mono-rr-450cc-supercharged-streamliner</guid>
-      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
       <title>Dainese Smart GO motorcycle airbag vest launched</title>
       <link>https://www.visordown.com/news/dainese-smart-go-motorcycle-airbag-vest-launched</link>
       <description>The Dainese Smart GO motorcycle airbag vest weighs 780g and offers Level 2 chest…</description>
@@ -157,6 +157,36 @@
       <enclosure url="https://www.visordown.com/sites/default/files/2026-10/smartgo-33.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.visordown.com/news/dainese-smart-go-motorcycle-airbag-vest-launched</guid>
       <pubDate>Wed, 21 Oct 2026 10:33:47 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Moto Guzzi rider aims to cross 2,779 miles in less than 70 hours</title>
+      <link>https://www.visordown.com/news/moto-guzzi-rider-aims-cross-2779-miles-less-70-hours</link>
+      <description>Ramiro Vergez Kenny is attempting to cover 4,472km (2,779 miles) between Ushuaia and La…</description>
+      <category>General</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/screenshot-2026-10-23-at-09.49.16.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/news/moto-guzzi-rider-aims-cross-2779-miles-less-70-hours</guid>
+      <pubDate>Fri, 23 Oct 2026 08:46:17 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>BMW Vision CE patents points to production variant</title>
+      <link>https://www.visordown.com/news/bmw-vision-ce-patents-points-production-variant</link>
+      <description>New patents seem to show a production-ready BMW Vision CE, either proving BMW is…</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/bmw-vision-ce-012.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/news/bmw-vision-ce-patents-points-production-variant</guid>
+      <pubDate>Fri, 23 Oct 2026 08:17:26 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Ducati Desmo450 takes Italian pair to new endurance world record</title>
+      <link>https://www.visordown.com/news/ducati-desmo450-takes-italian-pair-new-endurance-world-record</link>
+      <description>The Ducati Desmo450 EDS has broken a Guinness World Record for the first time…</description>
+      <category>General</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-22t135519.339.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/news/ducati-desmo450-takes-italian-pair-new-endurance-world-record</guid>
+      <pubDate>Thu, 22 Oct 2026 12:55:28 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
@@ -170,43 +200,13 @@
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Ducati to enter Arenacross British Championship in 2027</title>
-      <link>https://www.visordown.com/news/ducati-enter-arenacross-british-championship-2027</link>
-      <description>Ducati will make its Arenacross British Championship debut in 2027 with a UK-backed team…</description>
+      <title>Biker discovers motorcycle missing after Leeds drug dealer posts videos online</title>
+      <link>https://www.visordown.com/news/biker-discovers-motorcycle-missing-after-leeds-drug-dealer-posts-videos-online</link>
+      <description>Leeds drug dealer Christian Hargreaves has been jailed for a series of crimes including…</description>
       <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/screenshot-2026-10-21-at-09.41.11.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/ducati-enter-arenacross-british-championship-2027</guid>
-      <pubDate>Wed, 21 Oct 2026 08:41:29 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Suzuki GSX-8R proves its worth as the best sportbike in the UK</title>
-      <link>https://www.visordown.com/news/suzuki-gsx-8r-proves-its-worth-best-sportbike-uk</link>
-      <description>The Suzuki GSX-8R, first introduced in 2024, has just become a two-time championship-winning machine…</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/bsb_rd11_brandshatch_sunday_jamiemorris_r3jm7412.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/suzuki-gsx-8r-proves-its-worth-best-sportbike-uk</guid>
-      <pubDate>Wed, 21 Oct 2026 07:05:56 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>2027 Honda CBR600RR gets new brakes, revised styling and updated electronics</title>
-      <link>https://www.visordown.com/news/seo-2027-honda-cbr600rr-gets-new-brakes-revised-styling-and-updated-electronics</link>
-      <description>Honda&#x27;s 2027 CBR600RR gains Fireblade-derived front brakes, revised aerodynamics and a larger TFT display…</description>
-      <category>New Bikes</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/590118_27ym_honda_cbr600rr.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/seo-2027-honda-cbr600rr-gets-new-brakes-revised-styling-and-updated-electronics</guid>
-      <pubDate>Tue, 20 Oct 2026 09:39:00 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Thief jailed after pleading guilty to nine counts of motorcycle theft</title>
-      <link>https://www.visordown.com/news/thief-jailed-after-pleading-guilty-nine-counts-motorcycle-theft</link>
-      <description>A thief has pleaded guilty to nine counts of motorcycle theft and was sentenced…</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/mugshot-portrait-against-grey-green-backdrop.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/thief-jailed-after-pleading-guilty-nine-counts-motorcycle-theft</guid>
-      <pubDate>Thu, 22 Oct 2026 08:17:33 +0000</pubDate>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-10/stoic-ginger-portrait-in-puffer-jacket.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/news/biker-discovers-motorcycle-missing-after-leeds-drug-dealer-posts-videos-online</guid>
+      <pubDate>Thu, 22 Oct 2026 15:01:18 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
   </channel>

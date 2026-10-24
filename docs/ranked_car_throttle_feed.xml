@@ -7,7 +7,7 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_car_throttle_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Fri, 23 Oct 2026 09:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:51:39 +0000</lastBuildDate>
     <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
     <item>
       <title>McLaren is flogging five iconic F1 cars with an eye watering price tag</title>
@@ -40,29 +40,9 @@
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
-      <title>Brighten Your Workshop Days with the Clarke MFL800R Multi Function Work Light</title>
-      <link>https://www.carthrottle.com/news/brighten-your-workshop-days-clarke-mfl800r-multi-function-work-light</link>
-      <description>Shedding some light on those tricky-to-reach corners of your car has never been easier</description>
-      <category>Workshop, Sponsored</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-work-light-2.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/brighten-your-workshop-days-clarke-mfl800r-multi-function-work-light</guid>
-      <pubDate>Sat, 17 Oct 2026 08:01:38 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>Look After Your Bike and Yourself with the Clarke CML3 Motorcycle Lift</title>
-      <link>https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</link>
-      <description>Designed to make working on your motorbike safer and easier, a good bike lift like this is a must for keen motorbike mechanics</description>
-      <category>Workshop, Sponsored</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</guid>
-      <pubDate>Sat, 17 Oct 2026 07:58:57 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
       <title>We built an app for car-meet culture because group chats weren&#x27;t cutting it</title>
       <link>https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</link>
-      <description>Hey everyone — we&#x27;re CRUNITE, and we built an app for car-meet culture because…</description>
+      <description>Hey everyone — we&#x27;re CRUNITE, and we built an app for car-meet culture because group chats weren&#x27;t cutting it. If you&#x27;ve ever tried to organise a cruise in a 200-person group chat…</description>
       <guid isPermaLink="true">https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</guid>
       <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
@@ -70,7 +50,7 @@
     <item>
       <title>Tesla unveils new Roadster hypercar and Elon Musk just made it fly</title>
       <link>https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</link>
-      <description>Elon Musk finally unveiled the Roadster, complete with rocket thrusters, a 0-60mph time of…</description>
+      <description>Elon Musk finally unveiled the Roadster, complete with rocket thrusters, a 0-60mph time of under a second and a car park kickflip.</description>
       <category>News</category>
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-15.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</guid>
@@ -95,6 +75,26 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-12.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/citroens-2cv-back-its-electric-and-itll-cost-less-ps13k</guid>
       <pubDate>Wed, 14 Oct 2026 11:39:20 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>Brighten Your Workshop Days with the Clarke MFL800R Multi Function Work Light</title>
+      <link>https://www.carthrottle.com/news/brighten-your-workshop-days-clarke-mfl800r-multi-function-work-light</link>
+      <description>Shedding some light on those tricky-to-reach corners of your car has never been easier</description>
+      <category>Workshop, Sponsored</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-work-light-2.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/brighten-your-workshop-days-clarke-mfl800r-multi-function-work-light</guid>
+      <pubDate>Sat, 17 Oct 2026 08:01:38 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>Look After Your Bike and Yourself with the Clarke CML3 Motorcycle Lift</title>
+      <link>https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</link>
+      <description>Designed to make working on your motorbike safer and easier, a good bike lift…</description>
+      <category>Workshop, Sponsored</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</guid>
+      <pubDate>Sat, 17 Oct 2026 07:58:57 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>

@@ -7,16 +7,16 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_car_throttle_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 27 Oct 2026 09:47:40 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 15:41:36 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:33:30 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 16:35:42 +0000</pubDate>
     <item>
-      <title>McLaren is flogging five iconic F1 cars with an eye watering price tag</title>
-      <link>https://www.carthrottle.com/news/mclaren-flogging-five-iconic-f1-cars-eye-watering-price-tag</link>
-      <description>McLaren are selling five iconic cars driven by the likes of Senna, Lewis Hamilton and Lando Norris</description>
+      <title>Richard Hammond offers kind words to the new Grand Tour presenters</title>
+      <link>https://www.carthrottle.com/news/richard-hammond-offers-kind-words-new-grand-tour-presenters</link>
+      <description>Richard Hammond reckons the original Top Gear formula might not find an audience in 2026, and he has kind words for The Grand Tour’s new blood.</description>
       <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/xpb_1034748_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/mclaren-flogging-five-iconic-f1-cars-eye-watering-price-tag</guid>
-      <pubDate>Tue, 20 Oct 2026 14:30:09 +0000</pubDate>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2024-07/Jeremy_Clarkson_Richard_Hammond_and_James_May_cycle_to_start_their_journey_3.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/richard-hammond-offers-kind-words-new-grand-tour-presenters</guid>
+      <pubDate>Tue, 27 Oct 2026 16:35:42 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -45,6 +45,16 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-15.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/tesla-unveils-new-roadster-hypercar-and-elon-musk-just-made-it-fly</guid>
       <pubDate>Fri, 16 Oct 2026 08:42:58 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>McLaren is flogging five iconic F1 cars with an eye watering price tag</title>
+      <link>https://www.carthrottle.com/news/mclaren-flogging-five-iconic-f1-cars-eye-watering-price-tag</link>
+      <description>McLaren are selling five iconic cars driven by the likes of Senna, Lewis Hamilton and Lando Norris</description>
+      <category>News</category>
+      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/xpb_1034748_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.carthrottle.com/news/mclaren-flogging-five-iconic-f1-cars-eye-watering-price-tag</guid>
+      <pubDate>Tue, 20 Oct 2026 14:30:09 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -105,16 +115,6 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</guid>
       <pubDate>Sat, 17 Oct 2026 07:58:57 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>F1 set to return to Africa for first time in 33 years as Rwanda Grand Prix confirmed</title>
-      <link>https://www.carthrottle.com/news/f1-set-return-africa-first-time-33-years-rwanda-grand-prix-confirmed</link>
-      <description>F1 is going to be racing in Africa once again with a Grand Prix…</description>
-      <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/africa.jpeg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/f1-set-return-africa-first-time-33-years-rwanda-grand-prix-confirmed</guid>
-      <pubDate>Tue, 13 Oct 2026 09:48:19 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
   </channel>

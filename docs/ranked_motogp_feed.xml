@@ -7,16 +7,66 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 27 Oct 2026 09:47:41 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 09:17:00 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:33:31 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 09:54:29 +0000</pubDate>
     <item>
-      <title>Pedro Acosta makes surprise Ducati claim ahead of 2027 MotoGP switch</title>
-      <link>https://www.crash.net/motogp/news/1108541/1/pedro-acosta-makes-surprise-ducati-claim-ahead-2027-motogp-switch</link>
-      <description>Pedro Acosta says he wasn’t ready to ride a Ducati in 2026 when the option was there</description>
+      <title>Joan Mir manager fumes over reporting of illness as he makes MotoGP return</title>
+      <link>https://www.crash.net/motogp/news/1108561/1/joan-mir-manager-fumes-over-reporting-illness-he-makes-motogp-return</link>
+      <description>Honda’s Mir has been out since the end of the San Marino Grand Prix with illness</description>
       <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1355994_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108541/1/pedro-acosta-makes-surprise-ducati-claim-ahead-2027-motogp-switch</guid>
-      <pubDate>Mon, 26 Oct 2026 16:05:59 +0000</pubDate>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1341608_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108561/1/joan-mir-manager-fumes-over-reporting-illness-he-makes-motogp-return</guid>
+      <pubDate>Wed, 28 Oct 2026 09:54:29 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Marc Marquez outlines Sepang MotoGP “goal” after title fight blown open</title>
+      <link>https://www.crash.net/motogp/news/1108560/1/marc-marquez-outlines-sepang-motogp-goal-after-title-fight-blown-open</link>
+      <description>Marc Marquez is not getting ahead of himself ahead of the Malaysian Grand Prix</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1357172_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108560/1/marc-marquez-outlines-sepang-motogp-goal-after-title-fight-blown-open</guid>
+      <pubDate>Wed, 28 Oct 2026 09:25:45 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Marc Marquez reveals &#x27;power&#x27; he would “never use” against his rivals</title>
+      <link>https://www.crash.net/motogp/news/1108559/1/marc-marquez-reveals-power-he-would-never-use-against-his-rivals</link>
+      <description>Marc Marquez says he will “never use” the media “against somebody”, although he admits to using it for his own benefit.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1350076_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108559/1/marc-marquez-reveals-power-he-would-never-use-against-his-rivals</guid>
+      <pubDate>Tue, 27 Oct 2026 16:50:08 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Honda confirms Joan Mir MotoGP return for Malaysia</title>
+      <link>https://www.crash.net/motogp/news/1108550/1/honda-confirms-joan-mir-motogp-return-malaysia</link>
+      <description>Joan Mir is set to return to MotoGP in Malaysia after missing several races through illness.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-08/joan-mir-2026-british-motogp-09028.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108550/1/honda-confirms-joan-mir-motogp-return-malaysia</guid>
+      <pubDate>Tue, 27 Oct 2026 11:58:08 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Toprak Razgatlioglu issues first update after season-ending MotoGP crash</title>
+      <link>https://www.crash.net/motogp/news/1108551/1/toprak-razgatlioglu-issues-first-update-after-season-ending-motogp-crash</link>
+      <description>Toprak Razgatlioglu has issued a first update after his season-ending crash at the Indonesian MotoGP.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-10/untitled-design-21.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108551/1/toprak-razgatlioglu-issues-first-update-after-season-ending-motogp-crash</guid>
+      <pubDate>Tue, 27 Oct 2026 12:08:03 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Mick Doohan points out MotoGP’s key selling point for controversial Adelaide race</title>
+      <link>https://www.crash.net/motogp/news/1108545/1/mick-doohan-points-out-motogps-key-selling-point-controversial-adelaide-race</link>
+      <description>Mick Doohan has talked up the potential for making MotoGP “more accessible” at the…</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1146078_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108545/1/mick-doohan-points-out-motogps-key-selling-point-controversial-adelaide-race</guid>
+      <pubDate>Tue, 27 Oct 2026 09:59:37 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
     <item>
@@ -27,116 +77,6 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1357396_hires_1600x900.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1108532/1/official-jorge-martin-try-and-race-malaysia-motogp</guid>
       <pubDate>Tue, 27 Oct 2026 09:17:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Podcast: Can Marc Marquez be stopped now in MotoGP title battle?</title>
-      <link>https://www.crash.net/motogp/news/1108543/1/podcast-can-marc-marquez-be-stopped-now-motogp-title-battle</link>
-      <description>The team discuss the Australian Grand Prix on the latest Crash MotoGP Podcast</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/screenshot-2026-10-26-at-16.49.58.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108543/1/podcast-can-marc-marquez-be-stopped-now-motogp-title-battle</guid>
-      <pubDate>Mon, 26 Oct 2026 16:48:20 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Yamaha&#x27;s 2027 850cc MotoGP bike is “like swapping brands”</title>
-      <link>https://www.crash.net/motogp/news/1108529/1/yamahas-2027-850cc-motogp-bike-swapping-brand</link>
-      <description>Augusto Fernandez says Yamaha&#x27;s new 850cc MotoGP prototype is dramatically different from the current V4.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1356276_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108529/1/yamahas-2027-850cc-motogp-bike-swapping-brand</guid>
-      <pubDate>Mon, 26 Oct 2026 11:00:49 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Jack Miller sends emotional ‘broken heart’ Australia MotoGP farewell message</title>
-      <link>https://www.crash.net/motogp/news/1108528/1/jack-miller-sends-emotional-broken-heart-australia-motogp-farewell-message</link>
-      <description>Jack Miller has competed in his last MotoGP Australian Grand Prix</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1357475_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108528/1/jack-miller-sends-emotional-broken-heart-australia-motogp-farewell-message</guid>
-      <pubDate>Mon, 26 Oct 2026 10:47:22 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>MotoGP star thinks rain was “sign” Phillip Island “is crying for us not to leave”</title>
-      <link>https://www.crash.net/motogp/news/1108538/1/motogp-star-thinks-rain-was-sign-phillip-island-crying-us-not-leave</link>
-      <description>Raul Fernandez believes the heavy rain at Phillip Island held a deeper meaning last…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1356589_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108538/1/motogp-star-thinks-rain-was-sign-phillip-island-crying-us-not-leave</guid>
-      <pubDate>Mon, 26 Oct 2026 14:50:21 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>2026 Malaysian MotoGP at Sepang: Start times and how to watch</title>
-      <link>https://www.crash.net/motogp/news/1108536/1/2026-malaysian-motogp-sepang-start-times-and-how-watch</link>
-      <description>Information below on how to watch this weekend’s 2026 Malaysiam MotoGP round at the…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1289406_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108536/1/2026-malaysian-motogp-sepang-start-times-and-how-watch</guid>
-      <pubDate>Mon, 26 Oct 2026 13:45:49 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>MotoGP chief to travel to Qatar this week as crunch decision on race looms</title>
-      <link>https://www.crash.net/motogp/news/1108534/1/motogp-chief-travel-qatar-week-crunch-decision-race-looms</link>
-      <description>Carlos Ezpeleta will travel to Qatar this week as uncertainty over the race remains</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1220581_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108534/1/motogp-chief-travel-qatar-week-crunch-decision-race-looms</guid>
-      <pubDate>Mon, 26 Oct 2026 12:06:04 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Why Johann Zarco thinks Honda made the right MotoGP choice between Moreira and Alonso</title>
-      <link>https://www.crash.net/motogp/news/1108524/1/why-johann-zarco-thinks-honda-made-right-motogp-choice-between-moreira-and</link>
-      <description>Johann Zarco explains why Diogo Moreira deserves a factory Honda MotoGP seat alongside Fabio…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1346501_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108524/1/why-johann-zarco-thinks-honda-made-right-motogp-choice-between-moreira-and</guid>
-      <pubDate>Mon, 26 Oct 2026 08:30:49 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Why Jorge Martin’s injury is the least of his worries in Marc Marquez title battle</title>
-      <link>https://www.crash.net/motogp/feature/1108525/1/why-jorge-martins-injury-least-his-worries-marc-marquez-title-battle</link>
-      <description>Marc Marquez emerges from a bittersweet Australian Grand Prix with his biggest championship lead…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1355542_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/feature/1108525/1/why-jorge-martins-injury-least-his-worries-marc-marquez-title-battle</guid>
-      <pubDate>Mon, 26 Oct 2026 08:59:42 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Ducati: Marc Marquez will “attack”, Martin “a hero” but Bezzecchi “can win every MotoGP race”</title>
-      <link>https://www.crash.net/motogp/news/1108521/1/ducati-marc-marquez-will-attack-jorge-martin-hero-and-marco-bezzecchi-can-win</link>
-      <description>Davide Tardozzi expects new MotoGP title leader Marc Marquez to go on the attack…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1357196_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108521/1/ducati-marc-marquez-will-attack-jorge-martin-hero-and-marco-bezzecchi-can-win</guid>
-      <pubDate>Mon, 26 Oct 2026 04:30:46 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Aprilia&#x27;s “happy, sorry” emotions at Phillip Island MotoGP cancellation</title>
-      <link>https://www.crash.net/motogp/news/1108522/1/aprilia-happy-sorry-phillip-island-motogp-cancellation</link>
-      <description>Massimo Rivola reveals Aprilia&#x27;s conflicting emotions as Marco Bezzecchi misses an opportunity, but injured…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1357187_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108522/1/aprilia-happy-sorry-phillip-island-motogp-cancellation</guid>
-      <pubDate>Mon, 26 Oct 2026 06:50:49 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Minimum MotoGP testing plea amid ‘experts will be rookies’ warning</title>
-      <link>https://www.crash.net/motogp/news/1108523/1/minimum-mileage-plea-amid-experts-will-be-rookies-2027-motogp-warning</link>
-      <description>Fabio di Giannantonio wants MotoGP to ensure a minimum amount of 850/Pirelli mileage ahead…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1288275_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1108523/1/minimum-mileage-plea-amid-experts-will-be-rookies-2027-motogp-warning</guid>
-      <pubDate>Mon, 26 Oct 2026 07:44:49 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

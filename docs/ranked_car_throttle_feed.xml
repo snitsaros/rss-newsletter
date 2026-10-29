@@ -7,7 +7,7 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_car_throttle_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Wed, 28 Oct 2026 10:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:52:47 +0000</lastBuildDate>
     <pubDate>Tue, 27 Oct 2026 16:35:42 +0000</pubDate>
     <item>
       <title>Richard Hammond offers kind words to the new Grand Tour presenters</title>
@@ -27,14 +27,6 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-tool-set.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/clarke-pro396-222-piece-tool-set-ultimate-workshop-shortcut</guid>
       <pubDate>Sun, 25 Oct 2026 15:41:36 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>We built an app for car-meet culture because group chats weren&#x27;t cutting it</title>
-      <link>https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</link>
-      <description>Hey everyone — we&#x27;re CRUNITE, and we built an app for car-meet culture because group chats weren&#x27;t cutting it. If you&#x27;ve ever tried to organise a cruise in a 200-person group chat…</description>
-      <guid isPermaLink="true">https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</guid>
-      <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -65,16 +57,6 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-06/volkswagen_golf_gti.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/volkswagen-about-axe-75-models-and-its-boss-says-it-was-always-going-happen</guid>
       <pubDate>Thu, 15 Oct 2026 14:47:34 +0000</pubDate>
-      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
-    </item>
-    <item>
-      <title>Citroën’s 2CV is back - it’s electric, and it’ll cost less than £13k</title>
-      <link>https://www.carthrottle.com/news/citroens-2cv-back-its-electric-and-itll-cost-less-ps13k</link>
-      <description>Citroën has revealed a tiny, cheap reboot of its most famous car at the…</description>
-      <category>News</category>
-      <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/untitled-design-12.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.carthrottle.com/news/citroens-2cv-back-its-electric-and-itll-cost-less-ps13k</guid>
-      <pubDate>Wed, 14 Oct 2026 11:39:20 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
     <item>
@@ -115,6 +97,14 @@
       <enclosure url="https://www.carthrottle.com/sites/default/files/uploads/2026-10/clarke-bike-lift.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.carthrottle.com/news/look-after-your-bike-and-yourself-clarke-cml3-motorcycle-lift</guid>
       <pubDate>Sat, 17 Oct 2026 07:58:57 +0000</pubDate>
+      <source url="https://www.carthrottle.com/rss">Car Throttle</source>
+    </item>
+    <item>
+      <title>We built an app for car-meet culture because group chats weren&#x27;t cutting it</title>
+      <link>https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</link>
+      <description>Hey everyone — we&#x27;re CRUNITE, and we built an app for car-meet culture because…</description>
+      <guid isPermaLink="true">https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it</guid>
+      <pubDate>Thu, 22 Oct 2026 01:42:30 +0000</pubDate>
       <source url="https://www.carthrottle.com/rss">Car Throttle</source>
     </item>
   </channel>

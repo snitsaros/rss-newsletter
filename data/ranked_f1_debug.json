@@ -1,14 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Who’s replacing Max Verstappen, George Russell and Lando Norris in F1 Mexico GP practice?",
-    "link": "https://www.crash.net/f1/feature/1108606/1/whos-replacing-max-verstappen-george-russell-and-lando-norris-f1-mexico-gp",
-    "pub_date": "2026-10-29T23:29:32+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1408659_hires.jpg?width=1200",
-    "score": 66,
+    "title": "Charles Leclerc tops Mexico FP2 as Lewis Hamilton breaks down and Max Verstappen and Liam Lawson collide",
+    "link": "https://www.crash.net/f1/news/1108824/1/charles-leclerc-tops-mexico-fp2-lewis-hamilton-breaks-down-and-max-verstappen-and",
+    "pub_date": "2026-10-30T23:03:41+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448780_hires.jpg?width=1200",
+    "score": 64,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x4 (+48)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -16,10 +15,10 @@
   },
   {
     "position": 2,
-    "title": "George Russell defiant as F1 title defeat nears: “It’s not going to break me”",
-    "link": "https://www.crash.net/f1/news/1108611/1/george-russell-defiant-f1-title-defeat-nears-its-not-going-break-me",
-    "pub_date": "2026-10-29T21:30:47+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448219_hires.jpg?width=1200",
+    "title": "Lewis Hamilton offers encouraging words to George Russell after 'challenging' season",
+    "link": "https://www.crash.net/f1/news/1108736/1/lewis-hamilton-offers-encouraging-words-george-russell-after-challenging-season",
+    "pub_date": "2026-10-30T17:05:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1401780_hires.jpg?width=1200",
     "score": 52,
     "score_reasons": [
       "top-tier keywords x3 (+36)",
@@ -30,10 +29,26 @@
   },
   {
     "position": 3,
-    "title": "George Russell claims Ferrari has a major advantage at Mexico GP",
-    "link": "https://www.crash.net/f1/news/1108613/1/george-russell-claims-ferrari-has-major-advantage-mexico-gp",
-    "pub_date": "2026-10-30T09:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1447510_hires.jpg?width=1200",
+    "title": "Max Verstappen and Liam Lawson get F1 grid penalties for 'unacceptable' Mexico GP practice clash",
+    "link": "https://www.crash.net/f1/news/1108913/1/max-verstappen-and-liam-lawson-get-f1-grid-penalties-unacceptable-mexico-gp",
+    "pub_date": "2026-10-31T08:25:43+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448903_hires.jpg?width=1200",
+    "score": 47,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Lewis Hamilton ‘praying everything’s ok’ with Ferrari after suffering Mexico GP blow",
+    "link": "https://www.crash.net/f1/news/1108831/1/lewis-hamilton-praying-everythings-ok-ferrari-after-suffering-mexico-gp-blow",
+    "pub_date": "2026-10-31T10:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448302_hires.jpg?width=1200",
     "score": 45,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -44,28 +59,15 @@
     ]
   },
   {
-    "position": 4,
-    "title": "Lewis Hamilton “built differently” and states F1 has ‘never had anyone like me’",
-    "link": "https://www.crash.net/f1/news/1108615/1/lewis-hamilton-built-differently-and-states-f1-has-never-had-anyone-me",
-    "pub_date": "2026-10-29T23:27:28+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448301_hires.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 5,
-    "title": "Max Verstappen answers Daniel Ricciardo’s Le Mans 24 Hours dream team wish",
-    "link": "https://www.crash.net/f1/news/1108614/1/max-verstappen-answers-daniel-ricciardos-le-mans-24-hours-dream-team-wish",
-    "pub_date": "2026-10-29T23:01:44+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/si202409220139.jpg?width=1200",
-    "score": 28,
+    "title": "Lewis Hamilton Ferrari experiments for Mexico GP FP1 revealed after ‘test races’ remark",
+    "link": "https://www.crash.net/f1/news/1108752/1/lewis-hamilton-ferrari-experiments-mexico-gp-fp1-revealed-after-test-races-remark",
+    "pub_date": "2026-10-30T18:43:15+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1446736_hires.jpg?width=1200",
+    "score": 43,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x2 (+24)",
+      "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -73,13 +75,14 @@
   },
   {
     "position": 6,
-    "title": "Fernando Alonso doubles down on F1 driver criticism as Alex Albon reacts",
-    "link": "https://www.crash.net/f1/news/1108609/1/fernando-alonso-doubles-down-f1-driver-criticism-alex-albon-reacts",
-    "pub_date": "2026-10-29T20:35:35+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448198_hires.jpg?width=1200",
-    "score": 28,
+    "title": "Max Verstappen calls out Liam Lawson for “not very smart behaviour” after Mexico GP practice tangle",
+    "link": "https://www.crash.net/f1/news/1108827/1/max-verstappen-calls-out-liam-lawson-not-very-smart-behaviour-after-tangle",
+    "pub_date": "2026-10-30T23:35:01+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448891_hires.jpg?width=1200",
+    "score": 42,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -87,13 +90,13 @@
   },
   {
     "position": 7,
-    "title": "Daniel Ricciardo teases Max Verstappen reunion at Le Mans: “Give the people what they want”",
-    "link": "https://www.crash.net/f1/news/1108608/1/daniel-ricciardo-teases-max-verstappen-reunion-le-mans-give-people-what-they-want",
-    "pub_date": "2026-10-29T18:18:13+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_945331_hires.jpg?width=1200",
-    "score": 28,
+    "title": "Charles Leclerc fastest in Mexico GP FP1 dominated by 10 F1 rookies",
+    "link": "https://www.crash.net/f1/news/1108775/1/charles-leclerc-fastest-mexico-gp-fp1-dominated-10-f1-rookies",
+    "pub_date": "2026-10-30T19:38:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448601_hires.jpg?width=1200",
+    "score": 40,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)"
@@ -101,10 +104,98 @@
   },
   {
     "position": 8,
-    "title": "Kimi Antonelli and Valtteri Bottas skip Mexico GP F1 media duties with illness",
-    "link": "https://www.crash.net/f1/news/1108604/1/kimi-antonelli-and-valtteri-bottas-skip-mexico-gp-f1-media-duties-illness",
-    "pub_date": "2026-10-29T16:52:45+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1447915_hires.jpg?width=1200",
+    "title": "What Red Bull has changed with its latest F1 upgrade at Mexico GP",
+    "link": "https://www.crash.net/f1/news/1108740/1/what-red-bull-has-changed-its-latest-f1-upgrade-mexico-gp",
+    "pub_date": "2026-10-30T17:40:49+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/si202610290476.jpg?width=1200",
+    "score": 38,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "Isack Hadjar shoves fan in Mexico Grand Prix F1 paddock altercation",
+    "link": "https://www.crash.net/f1/news/1108809/1/isack-hadjar-shoves-fan-mexico-grand-prix-f1-paddock-altercation",
+    "pub_date": "2026-10-30T22:24:16+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448861_hires.jpg?width=1200",
+    "score": 35,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "F1 Mexico Grand Prix: Full Friday practice results",
+    "link": "https://www.crash.net/f1/results/1108776/1/f1-mexico-grand-prix-full-friday-practice-results",
+    "pub_date": "2026-10-30T23:10:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1449002_hires.jpg?width=1200",
+    "score": 30,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "F1 Mexico Grand Prix Friday Practice as it happened",
+    "link": "https://www.crash.net/f1/live/1044269/f1-mexico-grand-prix-live-updates-friday-practice",
+    "pub_date": "2026-10-30T21:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448576_hires.jpg?width=1200",
+    "score": 30,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Sergio Perez pulls out of fan event after becoming third F1 driver to fall ill at Mexico GP",
+    "link": "https://www.crash.net/f1/news/1108735/1/sergio-perez-pulls-out-fan-event-after-becoming-third-f1-driver-fall-ill-mexico",
+    "pub_date": "2026-10-30T16:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448248_hires.jpg?width=1200",
+    "score": 30,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 13,
+    "title": "Colton Herta’s F1 bid takes dramatic twist after bizarre IndyCar error",
+    "link": "https://www.crash.net/f1/news/1108830/1/colton-hertas-f1-bid-takes-dramatic-twist-after-bizarre-indycar-error",
+    "pub_date": "2026-10-31T09:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448159_hires.jpg?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 14,
+    "title": "Laurent Mekies claps back at Christian Horner’s Red Bull “lost its mojo” claim",
+    "link": "https://www.crash.net/f1/news/1108791/1/laurent-mekies-claps-back-christian-horners-red-bull-lost-its-mojo-claim",
+    "pub_date": "2026-10-30T21:57:18+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1445145_hires.jpg?width=1200",
     "score": 28,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -114,11 +205,11 @@
     ]
   },
   {
-    "position": 9,
-    "title": "How to watch Mexico GP live today: Free stream details and start time",
-    "link": "https://www.crash.net/f1/news/1108596/1/how-watch-mexico-gp-live-today-free-stream-details-and-start-time",
-    "pub_date": "2026-10-30T00:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1383038_hires.jpg?width=1200",
+    "position": 15,
+    "title": "Haas boss on Ollie Bearman wage demand stories: “I don’t know who smoked up €6m”",
+    "link": "https://www.crash.net/f1/news/1108784/1/haas-boss-ollie-bearman-salary-demand-stories-i-dont-know-who-smoked-eu6m",
+    "pub_date": "2026-10-30T21:34:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448479_hires.jpg?width=1200",
     "score": 16,
     "score_reasons": [
       "has image (+4)",
@@ -127,50 +218,11 @@
     ]
   },
   {
-    "position": 10,
-    "title": "Why hasn’t Ollie Bearman been confirmed at Haas for F1 2027? ‘Not in my hands’",
-    "link": "https://www.crash.net/f1/news/1108612/1/why-hasnt-ollie-bearman-been-confirmed-haas-f1-2027-not-my-hands",
-    "pub_date": "2026-10-29T22:13:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1443599_hires.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Are F1 drivers happy to race in Middle East? “We are not the ones taking the decisions”",
-    "link": "https://www.crash.net/f1/news/1108610/1/are-f1-drivers-happy-race-middle-east-we-are-not-ones-taking-decisions",
-    "pub_date": "2026-10-29T21:03:18+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1389413_hires.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Isack Hadjar slated by ex-F1 driver for US GP radio outburst",
-    "link": "https://www.crash.net/f1/news/1108607/1/isack-hadjar-slated-ex-f1-driver-us-gp-radio-outburst",
-    "pub_date": "2026-10-29T17:57:43+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/si202610220541.jpg?width=1200",
-    "score": 16,
-    "score_reasons": [
-      "has image (+4)",
-      "within 18h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 13,
-    "title": "Christian Horner slammed as “tasteless” over Helmut Marko comments",
-    "link": "https://www.crash.net/f1/news/1108598/1/christian-horner-slammed-tasteless-over-helmut-marko-comments",
-    "pub_date": "2026-10-29T12:58:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1324670_hires.jpg?width=1200",
+    "position": 16,
+    "title": "George Russell reveals biggest two factors behind his F1 2026 slump",
+    "link": "https://www.crash.net/f1/news/1108619/1/george-russell-reveals-biggest-two-factors-behind-his-f1-2026-slump",
+    "pub_date": "2026-10-30T15:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1446685_hires_0.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -180,29 +232,43 @@
     ]
   },
   {
-    "position": 14,
-    "title": "Racing Bulls announcement increases spotlight on looming F1 driver decision",
-    "link": "https://www.crash.net/f1/news/1108597/1/racing-bulls-announcement-increases-spotlight-looming-f1-driver-decision",
-    "pub_date": "2026-10-29T11:54:21+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1446746_hires.jpg?width=1200",
-    "score": -7,
+    "position": 17,
+    "title": "Esteban Ocon lifts lid on private Lewis Hamilton chat after Haas F1 axe",
+    "link": "https://www.crash.net/f1/news/1108617/1/esteban-ocon-lifts-lid-private-lewis-hamilton-chat-after-haas-f1-axe",
+    "pub_date": "2026-10-30T13:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1426806_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 15,
-    "title": "How Kimi Antonelli can become F1 world champion at the Mexico GP",
-    "link": "https://www.crash.net/f1/news/1107507/1/how-Kimi-Antonelli-can-become-F1-world-champon-at-Mexico-City-Grand-Prix",
-    "pub_date": "2026-10-29T23:28:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1447686_hires.jpg?width=1200",
-    "score": -65,
+    "position": 18,
+    "title": "Max Verstappen blames F1 calendar demand after two drivers fall ill",
+    "link": "https://www.crash.net/f1/news/1108616/1/max-verstappen-blames-f1-calendar-demand-after-two-drivers-fall-ill",
+    "pub_date": "2026-10-30T11:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1448310_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 19,
+    "title": "Who’s replacing Max Verstappen, George Russell and Lando Norris in F1 Mexico GP practice?",
+    "link": "https://www.crash.net/f1/feature/1108606/1/whos-replacing-max-verstappen-george-russell-and-lando-norris-f1-mexico-gp",
+    "pub_date": "2026-10-30T17:30:52+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1408659_hires.jpg?width=1200",
+    "score": -34,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 18h (+10)",
       "good title length (+2)",
@@ -210,13 +276,14 @@
     ]
   },
   {
-    "position": 16,
-    "title": "What time is the next F1 race? Mexico GP dates and full schedule",
-    "link": "https://www.crash.net/f1/news/1108527/1/when-next-f1-race-mexico-gp-dates-and-schedule",
-    "pub_date": "2026-10-30T00:08:28+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1382579_hires.jpg?width=1200",
-    "score": -77,
+    "position": 20,
+    "title": "How Kimi Antonelli can become F1 world champion at the Mexico GP",
+    "link": "https://www.crash.net/f1/news/1107507/1/how-Kimi-Antonelli-can-become-F1-world-champon-at-Mexico-City-Grand-Prix",
+    "pub_date": "2026-10-30T17:11:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1447686_hires.jpg?width=1200",
+    "score": -65,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 18h (+10)",

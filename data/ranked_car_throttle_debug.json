@@ -26,18 +26,5 @@
       "good title length (+2)",
       "previously used URL (-20)"
     ]
-  },
-  {
-    "position": 3,
-    "title": "We built an app for car-meet culture because group chats weren't cutting it",
-    "link": "https://www.carthrottle.com/posts/we-built-app-car-meet-culture-because-group-chats-werent-cutting-it",
-    "pub_date": "2026-10-22T01:42:30+00:00",
-    "image_url": null,
-    "score": -38,
-    "score_reasons": [
-      "between 168-336h (-20)",
-      "good title length (+2)",
-      "previously used URL (-20)"
-    ]
   }
 ]

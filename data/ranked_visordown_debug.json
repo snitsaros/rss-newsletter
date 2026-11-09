@@ -1,14 +1,14 @@
 [
   {
     "position": 1,
-    "title": "Benda launches all-new Roadster range with neo-retro Vinster 700 and Vinster X 700",
-    "link": "https://www.visordown.com/news/benda-launches-all-new-roadster-range-neo-retro-vinster-700-and-vinster-x-700",
-    "pub_date": "2026-11-08T07:30:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/2027_bnd_vinster700_eu_mc_det-8760.jpg?width=1200",
-    "score": 57,
+    "title": "Top ten motorbikes from EICMA 2026 that we can't wait to ride",
+    "link": "https://www.visordown.com/features/top-ten-motorbikes-eicma-2026-we-cant-wait-ride",
+    "pub_date": "2026-11-09T12:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-10/cfmoto-v4sr-rr-showbike-2.jpg?width=1200",
+    "score": 62,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x3 (+21)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
       "low-tier keywords x1 (+3)",
       "has image (+4)",
       "within 72h (+10)",
@@ -18,13 +18,14 @@
   },
   {
     "position": 2,
-    "title": "Honda Fireblade V4: Boss refuses to rule out future engine change",
-    "link": "https://www.visordown.com/features/honda-fireblade-v4-boss-refuses-rule-out-future-engine-change",
-    "pub_date": "2026-11-08T10:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/593935_27ym_honda_cbr1000rr-r_fireblade.jpg?width=1200",
-    "score": 33,
+    "title": "Batman's Honda 750-powered Batpod heads to auction",
+    "link": "https://www.visordown.com/news/batmans-honda-750-powered-batpod-heads-auction",
+    "pub_date": "2026-11-09T09:29:05+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/screenshot-2026-11-09-at-09.23.14.png?width=1200",
+    "score": 40,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 72h (+10)",
       "within 6h (+5)",
@@ -33,6 +34,83 @@
   },
   {
     "position": 3,
+    "title": "BMW backs Venna electric motorcycles as it eyes a move into the growing off-road e-bike market",
+    "link": "https://www.visordown.com/news/bmw-backs-venna-electric-motorcycles-it-eyes-move-growing-road-e-bike-market",
+    "pub_date": "2026-11-09T08:17:22+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/bmw-x-venna.png?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Phelon & Moore expands adventure range with new 449cc Capetown models",
+    "link": "https://www.visordown.com/news/phelon-moore-expands-adventure-range-new-449cc-capetown-models",
+    "pub_date": "2026-11-09T11:05:09+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/ct-5rally_mountain-2.png?width=1200",
+    "score": 35,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Clarke PRO360 19 Piece ½in Drive Ratchet & Socket Set review",
+    "link": "https://www.visordown.com/features/clarke-pro360-19-piece-12in-drive-ratchet-socket-set-review",
+    "pub_date": "2026-11-08T16:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-06t153345.152.png?width=1200",
+    "score": 30,
+    "score_reasons": [
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Ten motorcycles worth £40,000 stolen in four-minute raid on Welsh bike business",
+    "link": "https://www.visordown.com/news/ten-motorcycles-worth-ps40000-stolen-four-minute-raid-welsh-bike-business",
+    "pub_date": "2026-11-09T08:57:36+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/screenshot-2026-11-09-at-09.02.57.png?width=1200",
+    "score": 28,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 7,
+    "title": "Benda launches all-new Roadster range with neo-retro Vinster 700 and Vinster X 700",
+    "link": "https://www.visordown.com/news/benda-launches-all-new-roadster-range-neo-retro-vinster-700-and-vinster-x-700",
+    "pub_date": "2026-11-08T07:30:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/2027_bnd_vinster700_eu_mc_det-8760.jpg?width=1200",
+    "score": -48,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x3 (+21)",
+      "low-tier keywords x1 (+3)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 8,
     "title": "Honda makes electric mountain bike debut with all-new RN0",
     "link": "https://www.visordown.com/news/honda-makes-electric-mountain-bike-debut-all-new-rn0",
     "pub_date": "2026-11-07T09:30:00+00:00",
@@ -48,7 +126,22 @@
     ]
   },
   {
-    "position": 4,
+    "position": 9,
+    "title": "Honda Fireblade V4: Boss refuses to rule out future engine change",
+    "link": "https://www.visordown.com/features/honda-fireblade-v4-boss-refuses-rule-out-future-engine-change",
+    "pub_date": "2026-11-08T10:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/593935_27ym_honda_cbr1000rr-r_fireblade.jpg?width=1200",
+    "score": -72,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 10,
     "title": "Honda Fireblade engineer explains decision to ditch the winglets on all but top spec variant",
     "link": "https://www.visordown.com/features/honda-fireblade-engineer-explains-decision-ditch-winglets-all-top-spec-variant",
     "pub_date": "2026-11-07T10:00:00+00:00",
@@ -63,7 +156,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 11,
     "title": "Wayne Rainey surprised by Harley-Davidson’s Bagger World Cup decision",
     "link": "https://www.visordown.com/news/wayne-rainey-surprised-harley-davidsons-bagger-world-cup-decision",
     "pub_date": "2026-11-07T07:00:00+00:00",
@@ -78,22 +171,7 @@
     ]
   },
   {
-    "position": 6,
-    "title": "Honda admits previous CBR1000RR-R Fireblade needed better cornering performance as 2027 model gets race-focused overhaul",
-    "link": "https://www.visordown.com/features/honda-admits-previous-cbr1000rr-r-fireblade-needed-better-cornering-performance-2027-model",
-    "pub_date": "2026-11-06T08:55:11+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/594093_27ym_honda_cbr1000rr-r_fireblade_hrc_works_edition.jpg?width=1200",
-    "score": -76,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "awkward title length (-2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 7,
+    "position": 12,
     "title": "Clarke PRO97 5-Piece Professional Pliers Set review",
     "link": "https://www.visordown.com/features/clarke-pro97-5-piece-professional-pliers-set-review",
     "pub_date": "2026-11-06T16:00:00+00:00",
@@ -104,107 +182,6 @@
       "has image (+4)",
       "within 72h (+10)",
       "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 8,
-    "title": "Former Olympian turned drug lord’s $40m motorcycle collection to go up for sale",
-    "link": "https://www.visordown.com/news/former-olympian-turned-drug-lords-40m-motorcycle-collection-go-sale",
-    "pub_date": "2026-11-06T11:15:31+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2025-12/fbi-siezed-motorcycles-01.jpg?width=1200",
-    "score": -77,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "Motorcycle parking rules could include Lime Bikes under new Government plans",
-    "link": "https://www.visordown.com/news/motorcycle-parking-rules-could-include-lime-bikes-under-new-government-plans",
-    "pub_date": "2026-11-06T09:50:35+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-08/motorcycle-parking-in-london-1600px.jpeg?width=1200",
-    "score": -77,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 10,
-    "title": "BSA Bantam gets pair of Bobber and Scrambler 350 models",
-    "link": "https://www.visordown.com/news/bsa-bantam-gets-pair-bobber-and-scrambler-350-models",
-    "pub_date": "2026-11-05T12:10:16+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/bsa-bobber-red-grey.jpg?width=1200",
-    "score": -77,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 11,
-    "title": "Marc Marquez vows to leave Qatar MotoGP at earliest opportunity after late arrival",
-    "link": "https://www.visordown.com/news/marc-marquez-vows-leave-qatar-motogp-earliest-opportunity-after-late-arrival",
-    "pub_date": "2026-11-06T10:15:54+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/gng_1360049_hires.jpg?width=1200",
-    "score": -84,
-    "score_reasons": [
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Why are UK fuel prices still so high when oil prices are falling?",
-    "link": "https://www.visordown.com/news/why-are-uk-fuel-prices-still-so-high-when-oil-prices-are-falling",
-    "pub_date": "2026-11-06T07:53:52+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-07/petrol-refill.jpeg?width=1200",
-    "score": -84,
-    "score_reasons": [
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 13,
-    "title": "North West 200 confirms Storm Stacey’s return in 2027",
-    "link": "https://www.visordown.com/news/north-west-200-confirms-storm-staceys-return-2027",
-    "pub_date": "2026-11-05T16:36:46+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-05t164017.782.png?width=1200",
-    "score": -84,
-    "score_reasons": [
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 14,
-    "title": "Don’t miss a minute of MCL26",
-    "link": "https://www.visordown.com/features/dont-miss-minute-mcl26",
-    "pub_date": "2026-11-05T14:34:29+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-05t144929.783.png?width=1200",
-    "score": -88,
-    "score_reasons": [
-      "has image (+4)",
-      "within 72h (+10)",
-      "awkward title length (-2)",
       "previously used URL (-100)"
     ]
   }

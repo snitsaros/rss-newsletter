@@ -1,14 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Mercedes to investigate ‘very strange’ car behaviour after Brazil GP",
-    "link": "https://www.crash.net/f1/news/1110055/1/mercedes-investigate-very-strange-car-behaviour-after-brazil-gp",
-    "pub_date": "2026-11-10T10:40:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453954_hires.jpg?width=1200",
-    "score": 64,
+    "title": "Lewis Hamilton shock F1 move predicted if he’s “fed up” with Ferrari",
+    "link": "https://www.crash.net/f1/news/1110075/1/lewis-hamilton-shock-f1-move-predicted-if-hes-fed-ferrari",
+    "pub_date": "2026-11-11T11:02:46+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1451198_hires.jpg?width=1200",
+    "score": 45,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -17,26 +16,10 @@
   },
   {
     "position": 2,
-    "title": "Red Bull boss admits Max Verstappen is ‘beating the sim’ after Brazil GP comeback",
-    "link": "https://www.crash.net/f1/news/1110053/1/red-bull-boss-admits-max-verstappen-beating-sim-after-brazil-gp-comeback",
-    "pub_date": "2026-11-10T09:50:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453684_hires.jpg?width=1200",
-    "score": 52,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Lewis Hamilton travels to Egypt to visit Gaza humanitarian aid facilities",
-    "link": "https://www.crash.net/f1/news/1110057/1/lewis-hamilton-travels-egypt-visit-gaza-humanitarian-aid-facilities",
-    "pub_date": "2026-11-10T11:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/899649286_2004587993549823_8002966996364036083_n-1.jpg?width=1200",
+    "title": "Lewis Hamilton has “rebuilt himself” after Abu Dhabi 2021 controversy, says Damon Hill",
+    "link": "https://www.crash.net/f1/news/1110070/1/lewis-hamilton-has-rebuilt-himself-after-abu-dhabi-2021-controversy-says-damon",
+    "pub_date": "2026-11-11T09:32:07+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1451203_hires.jpg?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -47,14 +30,28 @@
     ]
   },
   {
-    "position": 4,
-    "title": "FIA announces results of final 2026 F1 ADUO engine review",
-    "link": "https://www.crash.net/f1/news/1110058/1/fia-announces-results-final-2026-f1-aduo-engine-review",
-    "pub_date": "2026-11-10T12:10:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453939_hires.jpg?width=1200",
-    "score": 28,
+    "position": 3,
+    "title": "David Coulthard’s urgent plea to Lando Norris after taking firework to the face on Brazil GP podium",
+    "link": "https://www.crash.net/f1/news/1110068/1/david-coulthards-urgent-plea-lando-norris-after-taking-firework-face-brazil-gp",
+    "pub_date": "2026-11-10T17:00:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453648_hires.jpg?width=1200",
+    "score": 24,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Lightning strikes twice for F1 driver as unseen Brazil GP retirement explained",
+    "link": "https://www.crash.net/f1/news/1110076/1/lightning-strikes-twice-f1-driver-unseen-brazil-gp-retirement-explained",
+    "pub_date": "2026-11-11T11:36:24+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1454037_hires.jpg?width=1200",
+    "score": 21,
+    "score_reasons": [
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -63,24 +60,24 @@
   },
   {
     "position": 5,
-    "title": "Mercedes considers plan to help George Russell beat Max Verstappen in F1 runner-up battle",
-    "link": "https://www.crash.net/f1/news/1110051/1/mercedes-considers-plan-help-george-russell-beat-max-verstappen-f1-runner-battle",
-    "pub_date": "2026-11-09T16:47:55+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453966_hires.jpg?width=1200",
-    "score": 22,
+    "title": "Martin Brundle reveals F1 team boss “at wit’s end” over reliability issues",
+    "link": "https://www.crash.net/f1/news/1110073/1/martin-brundle-reveals-f1-team-boss-wits-end-over-reliability-issues",
+    "pub_date": "2026-11-11T10:12:07+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1450976_hires.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
     "position": 6,
-    "title": "“Devastated” Lewis Hamilton seeks Ferrari answers after Brazil GP unravels",
-    "link": "https://www.crash.net/f1/news/1110043/1/devastated-lewis-hamilton-seeks-ferrari-answers-after-brazil-gp-unravels",
-    "pub_date": "2026-11-09T13:50:47+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/261108_r20_brazil_ac_cat3846.JPG?width=1200",
+    "title": "Daniel Ricciardo hails Max Verstappen as ‘one of the best ever’",
+    "link": "https://www.crash.net/f1/news/1110066/1/daniel-ricciardo-hails-max-verstappen-one-best-ever",
+    "pub_date": "2026-11-10T15:31:24+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1184479_hires.jpg?width=1200",
     "score": 10,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -91,10 +88,10 @@
   },
   {
     "position": 7,
-    "title": "New Christian Horner details emerge from Red Bull F1 sacking",
-    "link": "https://www.crash.net/f1/news/1110048/1/new-christian-horner-details-emerge-red-bull-f1-sacking",
-    "pub_date": "2026-11-09T15:22:19+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/si202507060281.jpg?width=1200",
+    "title": "Red Bull boss praises Liam Lawson but refuses to weigh in on 2027 decision",
+    "link": "https://www.crash.net/f1/news/1110063/1/red-bull-boss-praises-liam-lawson-refuses-weigh-2027-decision",
+    "pub_date": "2026-11-10T15:30:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1441323_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -105,28 +102,68 @@
   },
   {
     "position": 8,
-    "title": "Ferrari reveals reason for Lewis Hamilton Brazil GP struggles after stunning start",
-    "link": "https://www.crash.net/f1/news/1110039/1/ferrari-reveals-reason-lewis-hamilton-struggles-after-stunning-start",
-    "pub_date": "2026-11-09T11:57:53+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/261108_r20_brazil_dp_av1_2670.jpg?width=1200",
-    "score": -170,
+    "title": "Max Verstappen makes bold ‘I’d quit’ claim over F1's best driver debate",
+    "link": "https://www.crash.net/f1/news/1110060/1/max-verstappen-makes-bold-id-quit-claim-over-f1s-best-driver-debate",
+    "pub_date": "2026-11-10T12:55:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453962_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "older than 24h (-100)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 9,
+    "title": "F1 delivers update on Qatar and Abu Dhabi GPs as Imola ruled out",
+    "link": "https://www.crash.net/f1/news/1110062/1/f1-delivers-update-qatar-and-abu-dhabi-gps-imola-ruled-out",
+    "pub_date": "2026-11-10T14:55:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1391921_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "Esteban Ocon releases fresh statement amid uncertainty over F1 future",
+    "link": "https://www.crash.net/f1/news/1110061/1/esteban-ocon-releases-fresh-statement-amid-uncertainty-over-f1-future",
+    "pub_date": "2026-11-10T13:45:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1442557_hires.jpg?width=1200",
+    "score": -14,
+    "score_reasons": [
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 11,
+    "title": "FIA announces results of final 2026 F1 ADUO engine review",
+    "link": "https://www.crash.net/f1/news/1110058/1/fia-announces-results-final-2026-f1-aduo-engine-review",
+    "pub_date": "2026-11-10T12:10:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453939_hires.jpg?width=1200",
+    "score": -107,
+    "score_reasons": [
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "between 18-24h (-20)",
       "good title length (+2)",
       "previously used URL (-100)"
     ]
   },
   {
-    "position": 9,
-    "title": "Max Verstappen owns up to rare unseen error at Brazil GP",
-    "link": "https://www.crash.net/f1/news/1110035/1/max-verstappen-owns-rare-unseen-error-brazil-gp",
-    "pub_date": "2026-11-09T10:19:04+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453348_hires.jpg?width=1200",
-    "score": -175,
+    "position": 12,
+    "title": "Mercedes to investigate ‘very strange’ car behaviour after Brazil GP",
+    "link": "https://www.crash.net/f1/news/1110055/1/mercedes-investigate-very-strange-car-behaviour-after-brazil-gp",
+    "pub_date": "2026-11-10T10:40:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453954_hires.jpg?width=1200",
+    "score": -151,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x3 (+36)",
       "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
@@ -135,14 +172,15 @@
     ]
   },
   {
-    "position": 10,
-    "title": "Oscar Piastri confirms split with F1 career manager Mark Webber",
-    "link": "https://www.crash.net/f1/news/1110032/1/oscar-piastri-confirms-split-f1-career-manager-mark-webber",
-    "pub_date": "2026-11-09T08:35:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1263240_hires.jpg?width=1200",
-    "score": -182,
+    "position": 13,
+    "title": "Red Bull boss admits Max Verstappen is ‘beating the sim’ after Brazil GP comeback",
+    "link": "https://www.crash.net/f1/news/1110053/1/red-bull-boss-admits-max-verstappen-beating-sim-after-brazil-gp-comeback",
+    "pub_date": "2026-11-10T09:50:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453684_hires.jpg?width=1200",
+    "score": -163,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",
@@ -150,13 +188,14 @@
     ]
   },
   {
-    "position": 11,
-    "title": "Racing Bulls closing on F1 2027 driver decision after Liam Lawson statement",
-    "link": "https://www.crash.net/f1/news/1110034/1/racing-bulls-closing-f1-2027-driver-decision-after-liam-lawson-statement",
-    "pub_date": "2026-11-09T09:34:59+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/xpb_1453341_hires_0.jpg?width=1200",
-    "score": -194,
+    "position": 14,
+    "title": "Lewis Hamilton travels to Egypt to visit Gaza humanitarian aid facilities",
+    "link": "https://www.crash.net/f1/news/1110057/1/lewis-hamilton-travels-egypt-visit-gaza-humanitarian-aid-facilities",
+    "pub_date": "2026-11-10T11:35:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/899649286_2004587993549823_8002966996364036083_n-1.jpg?width=1200",
+    "score": -182,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "older than 24h (-100)",
       "good title length (+2)",

@@ -7,8 +7,18 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Sat, 14 Nov 2026 11:26:50 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 10:25:43 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:56:02 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
+    <item>
+      <title>Chico Lorenzo explains his theory behind Marc Marquez&#x27;s MotoGP “greatness”</title>
+      <link>https://www.crash.net/motogp/news/1110118/1/chico-lorenzo-explains-his-theory-behind-marc-marquezs-motogp-greatness</link>
+      <description>Chico Lorenzo explains why Marc Marquez&#x27;s early grand prix struggles and the quality of his MotoGP rivals are key elements of his career.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_570234_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110118/1/chico-lorenzo-explains-his-theory-behind-marc-marquezs-motogp-greatness</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
     <item>
       <title>Yamaha won’t face sporting penalty for missing Qatar MotoGP, FIM president states</title>
       <link>https://www.crash.net/motogp/news/1110121/1/yamaha-wont-face-sporting-penalty-missing-qatar-motogp-fim-president-states</link>
@@ -47,46 +57,6 @@
       <enclosure url="https://www.crash.net/sites/default/files/2026-09/trees.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1110113/1/lungs-city-campaign-launched-adelaide-motogp-tree-felling-begins</guid>
       <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>2026 Portimao MotoGP: Start times and how to watch</title>
-      <link>https://www.crash.net/motogp/news/1110109/1/2026-portimao-motogp-start-times-and-how-watch</link>
-      <description>Information below on how to watch next weekend’s 2026 Portimao MotoGP round, including timings and schedule.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_1362718_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110109/1/2026-portimao-motogp-start-times-and-how-watch</guid>
-      <pubDate>Fri, 13 Nov 2026 11:45:44 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Nicolo Bulega tops Jerez 850cc MotoGP test for Ducati</title>
-      <link>https://www.crash.net/motogp/news/1110104/1/nicolo-bulega-tops-jerez-850cc-motogp-test-ducati</link>
-      <description>Nicolo Bulega set the fastest lap at Jerez as Ducati, Aprilia and KTM continued…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_1354871_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110104/1/nicolo-bulega-tops-jerez-850cc-motogp-test-ducati</guid>
-      <pubDate>Fri, 13 Nov 2026 09:39:44 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice</title>
-      <link>https://www.crash.net/motogp/news/1110106/1/watch-dani-pedrosa-race-ktm-motogp-bike-against-red-bull-f1-car-ice</link>
-      <description>Dani Pedrosa takes his KTM MotoGP bike onto ice to challenge an F1 car…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-11/2026-11-13-10_03_37-f1-vs-motogp-vs-rally-vs-truck-vs-snowmobile-ultimate-winter-race-youtube_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110106/1/watch-dani-pedrosa-race-ktm-motogp-bike-against-red-bull-f1-car-ice</guid>
-      <pubDate>Fri, 13 Nov 2026 10:15:44 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Buenos Aires MotoGP circuit transformation gathers pace, F1 “dream”</title>
-      <link>https://www.crash.net/motogp/news/1110108/1/buenos-aires-motogp-circuit-transformation-gathers-pace-f1-dream</link>
-      <description>Buenos Aires circuit renovations continue with new asphalt laid ahead of its 2027 MotoGP…</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-11/buenos-aires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110108/1/buenos-aires-motogp-circuit-transformation-gathers-pace-f1-dream</guid>
-      <pubDate>Fri, 13 Nov 2026 11:07:44 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

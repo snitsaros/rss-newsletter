@@ -7,56 +7,66 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_motogp_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Sun, 15 Nov 2026 11:56:02 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:43:00 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 11:51:15 +0000</pubDate>
     <item>
-      <title>Chico Lorenzo explains his theory behind Marc Marquez&#x27;s MotoGP “greatness”</title>
+      <title>Pecco Bagnaia to miss Portuguese MotoGP as Ducati announces replacement</title>
+      <link>https://www.crash.net/motogp/news/1110128/1/pecco-bagnaia-miss-portuguese-motogp-ducati-announces-replacement</link>
+      <description>Ducati has confirmed that Francesco Bagnaia will miss the Portuguese MotoGP and has announced his replacement.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1354416_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110128/1/pecco-bagnaia-miss-portuguese-motogp-ducati-announces-replacement</guid>
+      <pubDate>Mon, 16 Nov 2026 11:15:01 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Pedro Acosta “one of the luckiest guys” to be among Marc Marquez’s last MotoGP team-mates</title>
+      <link>https://www.crash.net/motogp/news/1110126/1/pedro-acosta-one-luckiest-guys-be-among-marc-marquezs-last-motogp-team-mates</link>
+      <description>Pedro Acosta says he’s “one of the luckiest guys” in MotoGP’s “new generation” to be one of Marc Marquez’s final MotoGP team-mates.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_1340868_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110126/1/pedro-acosta-one-luckiest-guys-be-among-marc-marquezs-last-motogp-team-mates</guid>
+      <pubDate>Mon, 16 Nov 2026 10:28:25 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Dovizioso: Aprilia “stronger, faster” but “threw away” MotoGP title advantage</title>
+      <link>https://www.crash.net/motogp/news/1110127/1/dovizioso-aprilia-stronger-faster-threw-away-motogp-title-advantage</link>
+      <description>Andrea Dovizioso believes Aprilia had the faster MotoGP bike but squandered its 100-point advantage over Marc Marquez in the championship fight.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_1350836_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110127/1/dovizioso-aprilia-stronger-faster-threw-away-motogp-title-advantage</guid>
+      <pubDate>Mon, 16 Nov 2026 10:55:28 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Nicolo Bulega MotoGP success “can be good” for WorldSBK, says Ducati rider</title>
+      <link>https://www.crash.net/motogp/news/1110129/1/nicolo-bulega-motogp-success-can-be-good-worldsbk-says-ducati-rider</link>
+      <description>Yari Montella believes a strong Nicolo Bulega in MotoGP can lead to increased respect for the level of WorldSBK.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_1302248_hires.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110129/1/nicolo-bulega-motogp-success-can-be-good-worldsbk-says-ducati-rider</guid>
+      <pubDate>Mon, 16 Nov 2026 11:51:15 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Aprilia reveals glimpse of radical 2027 MotoGP aerodynamic solution</title>
+      <link>https://www.crash.net/motogp/news/1110124/1/aprilia-reveals-glimpse-radical-2027-aerodynamic-solution</link>
+      <description>Aprilia&#x27;s latest 850cc MotoGP machine features a distinctive front wing as Lorenzo Savadori shares pictures ahead of December&#x27;s Valencia test.</description>
+      <category>MotoGP</category>
+      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_1307286_hires_1600x900.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110124/1/aprilia-reveals-glimpse-radical-2027-aerodynamic-solution</guid>
+      <pubDate>Mon, 16 Nov 2026 09:49:28 +0000</pubDate>
+      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
+    </item>
+    <item>
+      <title>Chicho Lorenzo explains his theory behind Marc Marquez&#x27;s MotoGP “greatness”</title>
       <link>https://www.crash.net/motogp/news/1110118/1/chico-lorenzo-explains-his-theory-behind-marc-marquezs-motogp-greatness</link>
-      <description>Chico Lorenzo explains why Marc Marquez&#x27;s early grand prix struggles and the quality of his MotoGP rivals are key elements of his career.</description>
+      <description>Chicho Lorenzo explains why Marc Marquez&#x27;s early grand prix struggles and the quality of…</description>
       <category>MotoGP</category>
       <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_570234_hires_1600x900.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.crash.net/motogp/news/1110118/1/chico-lorenzo-explains-his-theory-behind-marc-marquezs-motogp-greatness</guid>
       <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Yamaha won’t face sporting penalty for missing Qatar MotoGP, FIM president states</title>
-      <link>https://www.crash.net/motogp/news/1110121/1/yamaha-wont-face-sporting-penalty-missing-qatar-motogp-fim-president-states</link>
-      <description>Yamaha will not be given any sporting penalties for missing the Qatar Grand Prix</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-10/gng_1351538_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110121/1/yamaha-wont-face-sporting-penalty-missing-qatar-motogp-fim-president-states</guid>
-      <pubDate>Sat, 14 Nov 2026 10:25:43 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Valentino Rossi maintains Sepang MotoGP kick “never existed” in new autobiography</title>
-      <link>https://www.crash.net/motogp/news/1110119/1/valentino-rossi-maintains-sepang-motogp-kick-never-existed-new-autobiography</link>
-      <description>Valentino Rossi again insists that the alleged Sepang MotoGP kick against Marc Marquez “never existed”.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_589064_hires_1600x900.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110119/1/valentino-rossi-maintains-sepang-motogp-kick-never-existed-new-autobiography</guid>
-      <pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>Casey Stoner leads tributes after MotoGP world champion mechanic dies</title>
-      <link>https://www.crash.net/motogp/news/1110120/1/casey-stoner-leads-tributes-after-motogp-world-champion-mechanic-dies</link>
-      <description>Veteran MotoGP mechanic Piero Gagni has died at the age of 75</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-11/gng_427300_hires.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110120/1/casey-stoner-leads-tributes-after-motogp-world-champion-mechanic-dies</guid>
-      <pubDate>Sat, 14 Nov 2026 09:56:26 +0000</pubDate>
-      <source url="https://www.crash.net/rss/motogp">Crash.net</source>
-    </item>
-    <item>
-      <title>‘Lungs of the City’ campaign launched as Adelaide MotoGP tree felling begins</title>
-      <link>https://www.crash.net/motogp/news/1110113/1/lungs-city-campaign-launched-adelaide-motogp-tree-felling-begins</link>
-      <description>Adelaide MotoGP circuit faces fresh opposition as tree removal begins and ‘Lungs of the City’ campaign launches.</description>
-      <category>MotoGP</category>
-      <enclosure url="https://www.crash.net/sites/default/files/2026-09/trees.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.crash.net/motogp/news/1110113/1/lungs-city-campaign-launched-adelaide-motogp-tree-felling-begins</guid>
-      <pubDate>Sat, 14 Nov 2026 09:00:00 +0000</pubDate>
       <source url="https://www.crash.net/rss/motogp">Crash.net</source>
     </item>
   </channel>

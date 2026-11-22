@@ -1,14 +1,13 @@
 [
   {
     "position": 1,
-    "title": "Triumph’s Black Friday bike deals",
-    "link": "https://www.visordown.com/features/triumphs-black-friday-bike-deals",
-    "pub_date": "2026-11-21T08:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-20t142922.790.png?width=1200",
-    "score": 47,
+    "title": "Triumph strengthens off-road racing plans with new eight-rider line-up",
+    "link": "https://www.visordown.com/news/triumph-strengthens-road-racing-plans-new-eight-rider-line",
+    "pub_date": "2026-11-22T07:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/89e18fc1-291c-4ab0-a2d2-a19dbd4b8cd8.png?width=1200",
+    "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "within 72h (+10)",
       "within 6h (+5)",
@@ -17,25 +16,10 @@
   },
   {
     "position": 2,
-    "title": "Richard Hammond teaches daughter to ride a motorcycle using a Royal Enfield HNTR 350",
-    "link": "https://www.visordown.com/news/richard-hammond-teaches-daughter-ride-motorcycle-using-royal-enfield-hntr-350",
-    "pub_date": "2026-11-20T13:39:44+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-20t133905.877.png?width=1200",
-    "score": 47,
-    "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 3,
-    "title": "Heading to MCL26? Why not pop to the NMM to see ‘Copperknob’ too?",
-    "link": "https://www.visordown.com/news/heading-mcl26-why-not-pop-nmm-see-copperknob-too",
-    "pub_date": "2026-11-21T12:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/nmm-bike-of-the-month-1929-chater-lea-copperknob.jpg?width=1200",
+    "title": "Dainese launch Smart Go in the UK",
+    "link": "https://www.visordown.com/features/dainese-launch-smart-go-uk",
+    "pub_date": "2026-11-22T09:30:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/dainese-london-smart-go-global-preview-bradray-event-138.jpg?width=1200",
     "score": 28,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -46,20 +30,53 @@
     ]
   },
   {
-    "position": 4,
-    "title": "National Highways ends speed camera contract after wrongful speeding fines",
-    "link": "https://www.visordown.com/news/uk-speed-cameras-lose-approval-2650-motorists-wrongly-charged",
-    "pub_date": "2026-11-20T13:45:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/Speed camera.jpg?width=1200",
-    "score": 16,
+    "position": 3,
+    "title": "Ultraviolette X-47 Venom gets £7,690 UK price ahead of 2027 launch",
+    "link": "https://www.visordown.com/news/ultraviolette-x-47-venom-gets-ps7690-uk-price-ahead-2027-launch",
+    "pub_date": "2026-11-21T13:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/1-1.jpg?width=1200",
+    "score": 23,
     "score_reasons": [
+      "mid-tier keywords x1 (+7)",
       "has image (+4)",
       "within 72h (+10)",
       "good title length (+2)"
     ]
   },
   {
+    "position": 4,
+    "title": "Richard Hammond teaches daughter to ride a motorcycle using a Royal Enfield HNTR 350",
+    "link": "https://www.visordown.com/news/richard-hammond-teaches-daughter-ride-motorcycle-using-royal-enfield-hntr-350",
+    "pub_date": "2026-11-20T13:39:44+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-20t133905.877.png?width=1200",
+    "score": -53,
+    "score_reasons": [
+      "top-tier keywords x2 (+24)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
     "position": 5,
+    "title": "Triumph’s Black Friday bike deals",
+    "link": "https://www.visordown.com/features/triumphs-black-friday-bike-deals",
+    "pub_date": "2026-11-21T08:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-20t142922.790.png?width=1200",
+    "score": -58,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 6,
     "title": "Ex-Joey Dunlop TT-winning Honda SP-1 gets £94,400 price tag",
     "link": "https://www.visordown.com/news/ex-joey-dunlop-tt-winning-honda-sp-1-gets-ps94400-price-tag",
     "pub_date": "2026-11-20T11:43:46+00:00",
@@ -75,7 +92,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 7,
     "title": "Dubai Police add world’s first patrol superbike to luxury fleet",
     "link": "https://www.visordown.com/news/dubai-police-add-worlds-first-patrol-superbike-luxury-fleet",
     "pub_date": "2026-11-19T14:54:25+00:00",
@@ -91,7 +108,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 8,
     "title": "Dani Pedrosa races KTM MotoGP bike on ice against Red Bull F1 car",
     "link": "https://www.visordown.com/news/dani-pedrosa-races-ktm-motogp-bike-ice-against-red-bull-f1-car",
     "pub_date": "2026-11-19T14:11:51+00:00",
@@ -107,27 +124,11 @@
     ]
   },
   {
-    "position": 8,
+    "position": 9,
     "title": "New Triumph Bonneville T40 and T40 Black prices revealed, both start at under £6,000",
     "link": "https://www.visordown.com/news/new-triumph-bonneville-t40-and-t40-black-prices-revealed-both-start-under-ps6000",
     "pub_date": "2026-11-19T12:45:00+00:00",
     "image_url": "https://www.visordown.com/sites/default/files/2026-10/triumph_t40_family_hero.jpg?width=1200",
-    "score": -65,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 9,
-    "title": "CFMOTO 675NK GP brings Aspar Moto2 styling to the road with £5,399 price tag",
-    "link": "https://www.visordown.com/news/cfmoto-675nk-gp-brings-aspar-moto2-styling-road-ps5399-price-tag",
-    "pub_date": "2026-11-19T09:12:26+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/675nk_champion-blue_26.jpg?width=1200",
     "score": -65,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -186,36 +187,6 @@
   },
   {
     "position": 13,
-    "title": "Electric Fireblade could make Le Mans history with two-wheel drive entry",
-    "link": "https://www.visordown.com/news/electric-fireblade-aiming-2029-le-mans-entry",
-    "pub_date": "2026-11-19T10:00:00+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/screenshot-2026-11-19-at-09.56.50_0.png?width=1200",
-    "score": -70,
-    "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 14,
-    "title": "Maeving announces next phase of global expansion with first southern hemisphere launch",
-    "link": "https://www.visordown.com/news/maeving-announces-next-phase-global-expansion-first-southern-hemisphere-launch",
-    "pub_date": "2026-11-18T16:14:39+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/maeving-factory-2024_6.jpg?width=1200",
-    "score": -70,
-    "score_reasons": [
-      "mid-tier keywords x2 (+14)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 15,
     "title": "Royal Enfield rolls out 10-year warranty",
     "link": "https://www.visordown.com/news/royal-enfield-rolls-out-10-year-warranty",
     "pub_date": "2026-11-20T11:00:00+00:00",
@@ -230,7 +201,7 @@
     ]
   },
   {
-    "position": 16,
+    "position": 14,
     "title": "Suzuki Burgman Street 125 gets biggest makeover in years",
     "link": "https://www.visordown.com/news/suzuki-burgman-street-125-gets-biggest-makeover-years",
     "pub_date": "2026-11-20T09:39:06+00:00",
@@ -245,7 +216,7 @@
     ]
   },
   {
-    "position": 17,
+    "position": 15,
     "title": "Ducati star's MotoGP moment overshadowed by $600m sponsor fraud allegations",
     "link": "https://www.visordown.com/news/ducati-stars-motogp-moment-overshadowed-600m-sponsor-fraud-allegations",
     "pub_date": "2026-11-20T08:32:18+00:00",
@@ -260,26 +231,11 @@
     ]
   },
   {
-    "position": 18,
-    "title": "Triumph expands warranty programme with riders offered six years of factory-backed protection",
-    "link": "https://www.visordown.com/news/triumph-expands-warranty-programme-riders-offered-six-years-factory-backed-protection",
-    "pub_date": "2026-11-19T09:34:41+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/street_triple_798_rs_my27_20777_jp.jpg?width=1200",
-    "score": -72,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "has image (+4)",
-      "within 72h (+10)",
-      "good title length (+2)",
-      "previously used URL (-100)"
-    ]
-  },
-  {
-    "position": 19,
-    "title": "Leeds dad launches ‘Teddy Ruskin’ teddy bear motorcycle relay in support of people with autism",
-    "link": "https://www.visordown.com/news/leeds-dad-launches-teddy-ruskin-teddy-bear-motorcycle-relay-support-people-autism",
-    "pub_date": "2026-11-19T11:41:25+00:00",
-    "image_url": "https://www.visordown.com/sites/default/files/2026-11/06a88bb6-7e9f-4b04-b236-fe46e6ffdf34-1.jpeg?width=1200",
+    "position": 16,
+    "title": "Heading to MCL26? Why not pop to the NMM to see ‘Copperknob’ too?",
+    "link": "https://www.visordown.com/news/heading-mcl26-why-not-pop-nmm-see-copperknob-too",
+    "pub_date": "2026-11-21T12:00:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/2026-11/nmm-bike-of-the-month-1929-chater-lea-copperknob.jpg?width=1200",
     "score": -77,
     "score_reasons": [
       "mid-tier keywords x1 (+7)",
@@ -290,7 +246,21 @@
     ]
   },
   {
-    "position": 20,
+    "position": 17,
+    "title": "National Highways ends speed camera contract after wrongful speeding fines",
+    "link": "https://www.visordown.com/news/uk-speed-cameras-lose-approval-2650-motorists-wrongly-charged",
+    "pub_date": "2026-11-20T13:45:00+00:00",
+    "image_url": "https://www.visordown.com/sites/default/files/Speed camera.jpg?width=1200",
+    "score": -84,
+    "score_reasons": [
+      "has image (+4)",
+      "within 72h (+10)",
+      "good title length (+2)",
+      "previously used URL (-100)"
+    ]
+  },
+  {
+    "position": 18,
     "title": "New Maeving RM1S and RM2 get 100-mile range and fast charging",
     "link": "https://www.visordown.com/news/new-maeving-rm1s-and-rm2-get-100-mile-range-and-fast-charging",
     "pub_date": "2026-11-19T15:17:30+00:00",

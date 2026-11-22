@@ -7,16 +7,36 @@
     <language>en-gb</language>
     <atom:link rel="self" href="https://snitsaros.github.io/rss-newsletter/ranked_visordown_feed.xml" />
     <ttl>60</ttl>
-    <lastBuildDate>Sat, 21 Nov 2026 12:36:58 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:33:39 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 09:30:00 +0000</pubDate>
     <item>
-      <title>Triumph’s Black Friday bike deals</title>
-      <link>https://www.visordown.com/features/triumphs-black-friday-bike-deals</link>
-      <description>Triumph has launched a range of Black Friday deals across numerous motorcycles including the Tiger 1200 Desert Edition, Tiger 900 Alpine Edition, Tiger Sport 660 and Tracker 400.</description>
-      <category>Commercial</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-20t142922.790.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/features/triumphs-black-friday-bike-deals</guid>
-      <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
+      <title>Triumph strengthens off-road racing plans with new eight-rider line-up</title>
+      <link>https://www.visordown.com/news/triumph-strengthens-road-racing-plans-new-eight-rider-line</link>
+      <description>Dirt Store Triumph Racing has confirmed an eight-rider line-up that’s set to compete in multiple championships in 2027, including selected international events.</description>
+      <category>Off Road</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/89e18fc1-291c-4ab0-a2d2-a19dbd4b8cd8.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/news/triumph-strengthens-road-racing-plans-new-eight-rider-line</guid>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Dainese launch Smart Go in the UK</title>
+      <link>https://www.visordown.com/features/dainese-launch-smart-go-uk</link>
+      <description>Dainese has launched its new Smart Go airbag system in the UK aimed at everyday bikers.</description>
+      <category>Product News</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/dainese-london-smart-go-global-preview-bradray-event-138.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/features/dainese-launch-smart-go-uk</guid>
+      <pubDate>Sun, 22 Nov 2026 09:30:00 +0000</pubDate>
+      <source url="https://www.visordown.com/rss">Visordown</source>
+    </item>
+    <item>
+      <title>Ultraviolette X-47 Venom gets £7,690 UK price ahead of 2027 launch</title>
+      <link>https://www.visordown.com/news/ultraviolette-x-47-venom-gets-ps7690-uk-price-ahead-2027-launch</link>
+      <description>The 40bhp Ultraviolette X-47 Venom gets a €8,450 European price, with UK distribution confirmed through MotoMondo ahead of its planned 2027 arrival.</description>
+      <category>New Bikes</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/1-1.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/ultraviolette-x-47-venom-gets-ps7690-uk-price-ahead-2027-launch</guid>
+      <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
@@ -30,29 +50,19 @@
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Heading to MCL26? Why not pop to the NMM to see ‘Copperknob’ too?</title>
-      <link>https://www.visordown.com/news/heading-mcl26-why-not-pop-nmm-see-copperknob-too</link>
-      <description>A trip to MCL26 could be the perfect opportunity to also visit the National Motorcycle Museum, where a remarkable Brooklands racing machine is currently taking centre stage.</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/nmm-bike-of-the-month-1929-chater-lea-copperknob.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/heading-mcl26-why-not-pop-nmm-see-copperknob-too</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>National Highways ends speed camera contract after wrongful speeding fines</title>
-      <link>https://www.visordown.com/news/uk-speed-cameras-lose-approval-2650-motorists-wrongly-charged</link>
-      <description>National Highways is ending its contract with a speed camera supplier after further testing uncovered another potential technical issue, following 2,650 incorrect speeding detections.</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/Speed camera.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/uk-speed-cameras-lose-approval-2650-motorists-wrongly-charged</guid>
-      <pubDate>Fri, 20 Nov 2026 13:45:00 +0000</pubDate>
+      <title>Triumph’s Black Friday bike deals</title>
+      <link>https://www.visordown.com/features/triumphs-black-friday-bike-deals</link>
+      <description>Triumph has launched a range of Black Friday deals across numerous motorcycles including the Tiger 1200 Desert Edition, Tiger 900 Alpine Edition, Tiger Sport 660 and Tracker 400.</description>
+      <category>Commercial</category>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/site-image-resize-2026-11-20t142922.790.png?width=1200" type="image/png" />
+      <guid isPermaLink="true">https://www.visordown.com/features/triumphs-black-friday-bike-deals</guid>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
       <title>Ex-Joey Dunlop TT-winning Honda SP-1 gets £94,400 price tag</title>
       <link>https://www.visordown.com/news/ex-joey-dunlop-tt-winning-honda-sp-1-gets-ps94400-price-tag</link>
-      <description>The Demon Vimto Honda that Joey Dunlop won the 2000 Formula One TT on is being offered for sale publicly for the first time.</description>
+      <description>The Demon Vimto Honda that Joey Dunlop won the 2000 Formula One TT on…</description>
       <category>Road Racing</category>
       <enclosure url="https://www.visordown.com/sites/default/files/2026-11/rec17440-6_6.jpg?width=1200" type="image/jpeg" />
       <guid isPermaLink="true">https://www.visordown.com/news/ex-joey-dunlop-tt-winning-honda-sp-1-gets-ps94400-price-tag</guid>
@@ -90,16 +100,6 @@
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>CFMOTO 675NK GP brings Aspar Moto2 styling to the road with £5,399 price tag</title>
-      <link>https://www.visordown.com/news/cfmoto-675nk-gp-brings-aspar-moto2-styling-road-ps5399-price-tag</link>
-      <description>CFMOTO announces the limited-edition 675NK GP for the UK, with Aspar Racing colours, 89hp…</description>
-      <category>New Bikes</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/675nk_champion-blue_26.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/cfmoto-675nk-gp-brings-aspar-moto2-styling-road-ps5399-price-tag</guid>
-      <pubDate>Thu, 19 Nov 2026 09:12:26 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
       <title>Haxch Moto unveils endurance-inspired Suzuki GSX-8TT for MCL26</title>
       <link>https://www.visordown.com/news/haxch-moto-unveils-endurance-inspired-suzuki-gsx-8tt-mcl26</link>
       <description>Haxch Moto has teamed up with Suzuki to build a custom GSX-8TT featuring carbon…</description>
@@ -127,26 +127,6 @@
       <enclosure url="https://www.visordown.com/sites/default/files/2026-11/screenshot-2026-11-20-at-11.14.21.png?width=1200" type="image/png" />
       <guid isPermaLink="true">https://www.visordown.com/features/clarke-cht383-19-piece-cobalt-steel-drill-bit-set-review</guid>
       <pubDate>Fri, 20 Nov 2026 11:09:31 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Electric Fireblade could make Le Mans history with two-wheel drive entry</title>
-      <link>https://www.visordown.com/news/electric-fireblade-aiming-2029-le-mans-entry</link>
-      <description>The SIGMA Regen Superbike project has revealed its LMT02 prototype, featuring a front-wheel energy…</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/screenshot-2026-11-19-at-09.56.50_0.png?width=1200" type="image/png" />
-      <guid isPermaLink="true">https://www.visordown.com/news/electric-fireblade-aiming-2029-le-mans-entry</guid>
-      <pubDate>Thu, 19 Nov 2026 10:00:00 +0000</pubDate>
-      <source url="https://www.visordown.com/rss">Visordown</source>
-    </item>
-    <item>
-      <title>Maeving announces next phase of global expansion with first southern hemisphere launch</title>
-      <link>https://www.visordown.com/news/maeving-announces-next-phase-global-expansion-first-southern-hemisphere-launch</link>
-      <description>British electric motorcycle maker Maeving has officially landed in Australia, with Spain and Italy…</description>
-      <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/maeving-factory-2024_6.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/maeving-announces-next-phase-global-expansion-first-southern-hemisphere-launch</guid>
-      <pubDate>Wed, 18 Nov 2026 16:14:39 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
@@ -180,23 +160,23 @@
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Triumph expands warranty programme with riders offered six years of factory-backed protection</title>
-      <link>https://www.visordown.com/news/triumph-expands-warranty-programme-riders-offered-six-years-factory-backed-protection</link>
-      <description>Triumph has expanded its standard manufacturer’s warranty programme from two years to three, as…</description>
+      <title>Heading to MCL26? Why not pop to the NMM to see ‘Copperknob’ too?</title>
+      <link>https://www.visordown.com/news/heading-mcl26-why-not-pop-nmm-see-copperknob-too</link>
+      <description>A trip to MCL26 could be the perfect opportunity to also visit the National…</description>
       <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/street_triple_798_rs_my27_20777_jp.jpg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/triumph-expands-warranty-programme-riders-offered-six-years-factory-backed-protection</guid>
-      <pubDate>Thu, 19 Nov 2026 09:34:41 +0000</pubDate>
+      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/nmm-bike-of-the-month-1929-chater-lea-copperknob.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/heading-mcl26-why-not-pop-nmm-see-copperknob-too</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>
-      <title>Leeds dad launches ‘Teddy Ruskin’ teddy bear motorcycle relay in support of people with autism</title>
-      <link>https://www.visordown.com/news/leeds-dad-launches-teddy-ruskin-teddy-bear-motorcycle-relay-support-people-autism</link>
-      <description>A father from Leeds has organised a nationwide teddy bear motorcycle relay in support…</description>
+      <title>National Highways ends speed camera contract after wrongful speeding fines</title>
+      <link>https://www.visordown.com/news/uk-speed-cameras-lose-approval-2650-motorists-wrongly-charged</link>
+      <description>National Highways is ending its contract with a speed camera supplier after further testing…</description>
       <category>General</category>
-      <enclosure url="https://www.visordown.com/sites/default/files/2026-11/06a88bb6-7e9f-4b04-b236-fe46e6ffdf34-1.jpeg?width=1200" type="image/jpeg" />
-      <guid isPermaLink="true">https://www.visordown.com/news/leeds-dad-launches-teddy-ruskin-teddy-bear-motorcycle-relay-support-people-autism</guid>
-      <pubDate>Thu, 19 Nov 2026 11:41:25 +0000</pubDate>
+      <enclosure url="https://www.visordown.com/sites/default/files/Speed camera.jpg?width=1200" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.visordown.com/news/uk-speed-cameras-lose-approval-2650-motorists-wrongly-charged</guid>
+      <pubDate>Fri, 20 Nov 2026 13:45:00 +0000</pubDate>
       <source url="https://www.visordown.com/rss">Visordown</source>
     </item>
     <item>

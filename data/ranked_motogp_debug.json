@@ -1,10 +1,41 @@
 [
   {
     "position": 1,
-    "title": "Marc Marquez sets out “priority” for Portimao MotoGP title chance, Aprilia “won’t play”",
-    "link": "https://www.crash.net/motogp/news/1110753/1/marc-marquez-sets-out-priority-portimao-motogp-title-chance-aprilia-wont-play",
-    "pub_date": "2026-11-22T10:25:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364816_hires_1600x900.jpg?width=1200",
+    "title": "Pedro Acosta plays down Marc Marquez MotoGP rivalry: “One MotoGP win”",
+    "link": "https://www.crash.net/motogp/news/1110844/1/pedro-acosta-plays-down-marc-marquez-motogp-rivalry-one-motogp-win",
+    "pub_date": "2026-11-23T13:35:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1325466_hires_1600x900.jpg?width=1200",
+    "score": 69,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 2,
+    "title": "Ducati confirms factory, satellite machines for 850cc MotoGP era",
+    "link": "https://www.crash.net/motogp/news/1110838/1/ducati-confirms-factory-satellite-machines-850cc-motogp-era",
+    "pub_date": "2026-11-23T12:27:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-09/gng_1347311_hires_1600x900.jpg?width=1200",
+    "score": 47,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x2 (+14)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 3,
+    "title": "Pecco Bagnaia sends emotional Ducati message as “last week” with team starts",
+    "link": "https://www.crash.net/motogp/news/1110839/1/pecco-bagnaia-sends-emotional-ducati-message-last-week-team-starts",
+    "pub_date": "2026-11-23T12:31:56+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1111436_hires.jpg?width=1200",
     "score": 45,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -15,11 +46,41 @@
     ]
   },
   {
-    "position": 2,
-    "title": "Portugal MotoGP LIVE: Updates from the race as Marc Marquez gets third shot at title",
-    "link": "https://www.crash.net/motogp/live/1044237/portugal-motogp-live-updates-race-marc-marquez-gets-third-shot-title",
-    "pub_date": "2026-11-22T11:00:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364783_hires.jpg?width=1200",
+    "position": 4,
+    "title": "Diogo Moreira recalls Marc Marquez in “very bad situation” after 2020 MotoGP injuries",
+    "link": "https://www.crash.net/motogp/news/1110835/1/diogo-moreira-recalls-marc-marquez-very-bad-situation-after-2020-motogp",
+    "pub_date": "2026-11-23T11:41:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365573_hires_1600x900.jpg?width=1200",
+    "score": 40,
+    "score_reasons": [
+      "top-tier keywords x1 (+12)",
+      "mid-tier keywords x1 (+7)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 5,
+    "title": "Pedro Acosta: Marc Marquez “deserved” MotoGP title after “Aprilia made a mess”",
+    "link": "https://www.crash.net/motogp/news/1110828/1/pedro-acosta-marc-marquez-deserved-motogp-title-after-aprilia-made-mess",
+    "pub_date": "2026-11-22T17:04:10+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365258_hires.jpg?width=1200",
+    "score": 34,
+    "score_reasons": [
+      "top-tier keywords x4 (+48)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 6,
+    "title": "Ex-MotoGP, World Superbike rider makes shock racing return in BSB with Ducati",
+    "link": "https://www.crash.net/bsb/news/1110842/1/ex-motogp-world-superbike-rider-makes-shock-racing-return-bsb-ducati",
+    "pub_date": "2026-11-23T12:47:41+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/screenshot-2026-11-23-at-12.48.37.png?width=1200",
     "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -30,29 +91,14 @@
     ]
   },
   {
-    "position": 3,
-    "title": "Jorge Martin: MotoGP title ‘still in Marc Marquez’s hands’ despite sprint shock",
-    "link": "https://www.crash.net/motogp/news/1110621/1/jorge-martin-motogp-title-still-marc-marquezs-hands-despite-sprint-shock",
-    "pub_date": "2026-11-21T17:41:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1363254_hires.jpg?width=1200",
-    "score": 29,
+    "position": 7,
+    "title": "Jack Miller calls Marc Marquez “an absolute freak” after MotoGP title win",
+    "link": "https://www.crash.net/motogp/news/1110834/1/jack-miller-calls-marc-marquez-absolute-freak-after-motogp-title-win",
+    "pub_date": "2026-11-23T11:05:36+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-10/gng_1271179_hires.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
-      "top-tier keywords x3 (+36)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 4,
-    "title": "Starting grid for Sunday's 2026 Portugal MotoGP race",
-    "link": "https://www.crash.net/motogp/news/1110571/1/starting-grid-2026-portugal-motogp-race",
-    "pub_date": "2026-11-22T09:00:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364081_hires_1600x900.jpg?width=1200",
-    "score": 28,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
       "within 6h (+5)",
@@ -60,40 +106,69 @@
     ]
   },
   {
-    "position": 5,
-    "title": "Aprilia MotoGP boss claims brand approaches races “with not much strategy”",
-    "link": "https://www.crash.net/motogp/news/1110628/1/aprilia-motogp-boss-claims-brand-approaches-races-not-much-strategy",
-    "pub_date": "2026-11-21T18:48:05+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364130_hires.jpg?width=1200",
-    "score": 28,
+    "position": 8,
+    "title": "Gigi Dall’Igna on winning MotoGP title with Marc Marquez: “Not stealing anything”",
+    "link": "https://www.crash.net/motogp/news/1110833/1/gigi-dalligna-winning-motogp-title-marc-marquez-not-stealing-anything",
+    "pub_date": "2026-11-23T10:47:11+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365242_hires_1600x900.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
       "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 6,
-    "title": "Marc Marquez Portuguese MotoGP Sprint crash left brother “checking the TV” mid-race",
-    "link": "https://www.crash.net/motogp/news/1110617/1/marc-marquez-portuguese-motogp-sprint-crash-left-brother-checking-tv-mid-race",
-    "pub_date": "2026-11-21T17:02:31+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364172_hires.jpg?width=1200",
-    "score": 24,
+    "position": 9,
+    "title": "Marc Marquez’s cheeky dig at Valentino Rossi after ‘title that won’t change my future’",
+    "link": "https://www.crash.net/motogp/news/1110831/1/marc-marquezs-cheeky-dig-valentino-rossi-after-title-wont-change-my-future",
+    "pub_date": "2026-11-23T10:20:57+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365587_hires.jpg?width=1200",
+    "score": 33,
     "score_reasons": [
-      "top-tier keywords x2 (+24)",
-      "mid-tier keywords x2 (+14)",
+      "top-tier keywords x1 (+12)",
+      "has image (+4)",
+      "within 18h (+10)",
+      "within 6h (+5)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 10,
+    "title": "Jorge Martin “proud” of MotoGP title fight with Marc Marquez, vows to “put my name on that trophy” again",
+    "link": "https://www.crash.net/motogp/news/1110827/1/jorge-martin-proud-motogp-title-fight-marc-marquez-vows-put-my-name-trophy",
+    "pub_date": "2026-11-22T17:03:42+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365349_hires_1600x900.jpg?width=1200",
+    "score": 22,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 7,
-    "title": "2026 MotoGP Portugal - Warm-up Results",
-    "link": "https://www.crash.net/motogp/results/1110627/1/2026-motogp-portugal-warm-results",
-    "pub_date": "2026-11-22T09:10:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1363991_hires_1600x900.jpg?width=1200",
+    "position": 11,
+    "title": "Fabio Quartararo brands Marc Marquez “smartest” MotoGP world champion",
+    "link": "https://www.crash.net/motogp/news/1110825/1/fabio-quartararo-brands-marc-marquez-smartest-motogp-world-champion",
+    "pub_date": "2026-11-22T16:34:55+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364014_hires.jpg?width=1200",
+    "score": 22,
+    "score_reasons": [
+      "top-tier keywords x3 (+36)",
+      "has image (+4)",
+      "between 18-24h (-20)",
+      "good title length (+2)"
+    ]
+  },
+  {
+    "position": 12,
+    "title": "Isle of Man TT stalwart announces retirement",
+    "link": "https://www.crash.net/rr/news/1110845/1/isle-man-tt-stalwart-announces-retirement",
+    "pub_date": "2026-11-23T14:25:04+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-06/fbtw-opt1-jpg.png?width=1200",
     "score": 21,
     "score_reasons": [
       "has image (+4)",
@@ -103,26 +178,25 @@
     ]
   },
   {
-    "position": 8,
-    "title": "Marc Marquez’s first words after losing MotoGP title shot in Portugal sprint crash",
-    "link": "https://www.crash.net/motogp/news/1110610/1/marc-marquezs-first-words-after-losing-motogp-title-shot-portugal-sprint",
-    "pub_date": "2026-11-21T15:41:50+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364189_hires.jpg?width=1200",
-    "score": 12,
+    "position": 13,
+    "title": "Marco Bezzecchi’s “painful” confession about MotoGP championship battle",
+    "link": "https://www.crash.net/motogp/news/1110837/1/marco-bezzecchis-painful-confession-about-motogp-championship-battle",
+    "pub_date": "2026-11-23T11:45:35+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364541_hires.jpg?width=1200",
+    "score": 21,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x2 (+14)",
       "has image (+4)",
-      "between 18-24h (-20)",
+      "within 18h (+10)",
+      "within 6h (+5)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 9,
-    "title": "Aprilia celebrates first MotoGP teams' title, the “F1 equivalent”",
-    "link": "https://www.crash.net/motogp/news/1110613/1/aprilia-celebrates-first-motogp-teams-title-f1-equivalent",
-    "pub_date": "2026-11-21T16:40:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364207_hires_1600x900.jpg?width=1200",
+    "position": 14,
+    "title": "102-point deficit gave Marc Marquez, Ducati “the power” for historic MotoGP comeback",
+    "link": "https://www.crash.net/motogp/news/1110821/1/102-point-deficit-gave-marc-marquez-ducati-power-historic-motogp-comeback",
+    "pub_date": "2026-11-22T15:58:40+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365324_hires.jpg?width=1200",
     "score": 10,
     "score_reasons": [
       "top-tier keywords x2 (+24)",
@@ -132,40 +206,25 @@
     ]
   },
   {
-    "position": 10,
-    "title": "Diogo Moreira on ‘biggest of the year’ MotoGP highside: \"I wasn't thinking about the kerb\"",
-    "link": "https://www.crash.net/motogp/news/1110624/1/diogo-moreira-biggest-year-motogp-highside-i-wasnt-thinking-about-kerb",
-    "pub_date": "2026-11-21T18:31:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364008_hires_1600x900.jpg?width=1200",
-    "score": 7,
+    "position": 15,
+    "title": "MotoGP stewards deliver Johann Zarco verdict after Portuguese GP collision",
+    "link": "https://www.crash.net/motogp/news/1110818/1/motogp-stewards-deliver-johann-zarco-verdict-after-portuguese-gp-collision",
+    "pub_date": "2026-11-22T15:12:33+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364767_hires.jpg?width=1200",
+    "score": 0,
     "score_reasons": [
-      "mid-tier keywords x3 (+21)",
+      "mid-tier keywords x2 (+14)",
       "has image (+4)",
       "between 18-24h (-20)",
       "good title length (+2)"
     ]
   },
   {
-    "position": 11,
-    "title": "Marc Marquez crashes out of certain MotoGP title win in Portugal sprint",
-    "link": "https://www.crash.net/motogp/news/1110607/1/marc-marquez-crashes-out-certain-motogp-title-win-portugal-sprint",
-    "pub_date": "2026-11-21T15:00:29+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364158_hires.jpg?width=1200",
-    "score": 5,
-    "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 12,
-    "title": "Yamaha calls for MotoGP talks to put “unusual” Qatar fallout behind it",
-    "link": "https://www.crash.net/motogp/news/1110615/1/yamaha-calls-motogp-talks-put-unusual-qatar-fallout-behind-it",
-    "pub_date": "2026-11-21T16:49:16+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1363987_hires.jpg?width=1200",
+    "position": 16,
+    "title": "Marc Marquez: “New mentality” replaced instinct for record-equalling eighth MotoGP title",
+    "link": "https://www.crash.net/motogp/news/1110823/1/marc-marquez-new-mentality-replaced-instinct-record-equalling-eighth-motogp",
+    "pub_date": "2026-11-22T16:35:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365195_hires.jpg?width=1200",
     "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
@@ -175,121 +234,59 @@
     ]
   },
   {
-    "position": 13,
-    "title": "Why Marco Bezzecchi was “a bit scared” as he closed in on first 2026 MotoGP Sprint win",
-    "link": "https://www.crash.net/motogp/news/1110619/1/why-marco-bezzecchi-was-bit-scared-he-closed-first-2026-motogp-sprint-win",
-    "pub_date": "2026-11-21T17:31:54+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364209_hires.jpg?width=1200",
-    "score": -7,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 14,
-    "title": "Portugal Sprint Race: New 2026 MotoGP World Championship standings",
-    "link": "https://www.crash.net/motogp/results/1110328/1/portugal-sprint-race-new-2026-motogp-world-championship-standings",
-    "pub_date": "2026-11-21T15:10:42+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364195_hires_1600x900.jpg?width=1200",
-    "score": -7,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 15,
-    "title": "2026 MotoGP Portugal - Sprint Race Results",
-    "link": "https://www.crash.net/motogp/results/1110327/1/2026-motogp-portugal-sprint-race-results",
-    "pub_date": "2026-11-21T14:55:42+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364157_hires_1600x900.jpg?width=1200",
-    "score": -7,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
-    "position": 16,
-    "title": "Diogo Moreira escapes spectacular MotoGP qualifying highside after “small mistake”",
-    "link": "https://www.crash.net/motogp/news/1110574/1/diogo-moreira-escapes-spectacular-motogp-qualifying-highside-after-small",
-    "pub_date": "2026-11-21T12:42:07+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364033_hires_1600x900.jpg?width=1200",
-    "score": -7,
-    "score_reasons": [
-      "mid-tier keywords x1 (+7)",
-      "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)"
-    ]
-  },
-  {
     "position": 17,
-    "title": "How Marc Marquez can win the 2026 MotoGP title today in Portugal",
-    "link": "https://www.crash.net/motogp/news/1109117/1/how-marc-marquez-can-win-2026-motogp-title-qatar-grand-prix",
-    "pub_date": "2026-11-22T08:51:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1358884_hires.jpg?width=1200",
-    "score": -67,
+    "title": "Marc Marquez: Ranking all eight of his MotoGP world titles",
+    "link": "https://www.crash.net/motogp/feature/1110572/1/marc-marquez-ranking-all-eight-his-motogp-world-titles",
+    "pub_date": "2026-11-22T15:58:00+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365235_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
       "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "between 18-24h (-20)",
+      "good title length (+2)"
     ]
   },
   {
     "position": 18,
-    "title": "2026 Portimao MotoGP race today: Start times and how to watch",
-    "link": "https://www.crash.net/motogp/news/1110109/1/2026-portimao-motogp-start-times-and-how-watch",
-    "pub_date": "2026-11-22T08:50:44+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1363306_hires_1600x900.jpg?width=1200",
-    "score": -79,
+    "title": "MotoGP debuts new ‘live radio’ in Marc Marquez title celebration",
+    "link": "https://www.crash.net/motogp/news/1110816/1/motogp-debuts-new-live-radio-marc-marquez-title-celebration",
+    "pub_date": "2026-11-22T14:51:17+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365062_hires.jpg?width=1200",
+    "score": -2,
     "score_reasons": [
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "within 18h (+10)",
-      "within 6h (+5)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "between 18-24h (-20)",
+      "good title length (+2)"
     ]
   },
   {
     "position": 19,
-    "title": "MotoGP Portugal sprint as it happened",
-    "link": "https://www.crash.net/motogp/live/1044237/motogp-portugal-live-updates-qualifying-portimao",
-    "pub_date": "2026-11-21T13:35:00+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1363106_hires.jpg?width=1200",
-    "score": -95,
+    "title": "Ducati chief praises “incredible” Marc Marquez after historic eighth MotoGP title",
+    "link": "https://www.crash.net/motogp/news/1110812/1/ducati-chief-praises-incredible-marc-marquez-after-historic-eighth-motogp",
+    "pub_date": "2026-11-22T14:27:31+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365055_hires.jpg?width=1200",
+    "score": -70,
     "score_reasons": [
-      "top-tier keywords x1 (+12)",
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x2 (+24)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "older than 24h (-100)",
+      "good title length (+2)"
     ]
   },
   {
     "position": 20,
-    "title": "The all-time MotoGP Sprint winners' list after Portimao",
-    "link": "https://www.crash.net/motogp/news/1092378/1/all-time-motogp-sprint-race-winners-list",
-    "pub_date": "2026-11-21T14:43:09+00:00",
-    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1364216_hires_1600x900.jpg?width=1200",
-    "score": -107,
+    "title": "Marc Marquez seals his MotoGP GOAT status with title he should never have won",
+    "link": "https://www.crash.net/motogp/feature/1110813/1/marc-marquez-seals-his-motogp-goat-status-title-he-should-never-have-won",
+    "pub_date": "2026-11-22T14:27:09+00:00",
+    "image_url": "https://www.crash.net/sites/default/files/2026-11/gng_1365056_hires_1600x900.jpg?width=1200",
+    "score": -82,
     "score_reasons": [
-      "mid-tier keywords x1 (+7)",
+      "top-tier keywords x1 (+12)",
       "has image (+4)",
-      "between 18-24h (-20)",
-      "good title length (+2)",
-      "previously used URL (-100)"
+      "older than 24h (-100)",
+      "good title length (+2)"
     ]
   }
 ]
